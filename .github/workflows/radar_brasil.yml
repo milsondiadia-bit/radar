@@ -29,7 +29,7 @@ jobs:
       - name: Rodar o radar e enviar ao Telegram
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TELEGRAM_CHAT_ID: ${{ secrets.CHAT_ID_BRASIL }}
         run: python telegram_radar.py brasil --uma-vez --horas 12
 
       - name: Guardar o historico para o proximo ciclo
