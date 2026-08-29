@@ -22,8 +22,8 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime, timedelta, timezone
-from concurrent.futures import ThreadPoolExecutor
 from html import unescape
 from urllib.parse import unquote
 from urllib.request import Request, urlopen
@@ -61,11 +61,34 @@ PADROES = [
 TITULO = re.compile(r"<title[^>]*>(.*?)</title>", re.S | re.I)
 
 
-def baixar(url, timeout=25):
-    req = Request(url, headers={"User-Agent": UA,
-                                "Accept-Language": "pt-BR,pt;q=0.9"})
-    with urlopen(req, timeout=timeout) as r:
-        return r.read()
+CABECALHOS = {
+    "User-Agent": UA,
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "pt-BR,pt;q=0.9,en;q=0.8",
+    "Cache-Control": "no-cache",
+    "Referer": SITE + "/",
+    "Upgrade-Insecure-Requests": "1",
+}
+
+
+def baixar(url, timeout=25, tentativas=3):
+    ultimo = None
+    for n in range(tentativas):
+        try:
+            req = Request(url, headers=CABECALHOS)
+            with urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except Exception as e:
+            ultimo = e
+            codigo = getattr(e, "code", None)
+            if codigo in (403, 429, 503) and n < tentativas - 1:
+                time.sleep(5 * (n + 1))     # o site esta barrando: espera e tenta de novo
+                continue
+            if n < tentativas - 1:
+                time.sleep(2)
+                continue
+            break
+    raise ultimo
 
 
 def limpar(txt):
@@ -196,8 +219,13 @@ def main():
         return
 
     urls = [u for u, _ in materias][: args.max_materias]
-    with ThreadPoolExecutor(max_workers=6) as ex:
-        paginas = [p for p in ex.map(processar, urls) if p]
+    paginas = []
+    for n, u in enumerate(urls):
+        p = processar(u)
+        if p:
+            paginas.append(p)
+        if n < len(urls) - 1:
+            time.sleep(1.5)          # devagar, para o site nao barrar
     print(f"Materias lidas: {len(paginas)}")
 
     historico = carregar()
