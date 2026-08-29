@@ -1,0 +1,32 @@
+name: Editorial Videos
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+
+jobs:
+  rodar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Rodar
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.CHAT_ID_EDITORIAL }}
+        run: python editorial.py --horas 24
+      - name: Salvar historico
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "bot@radar"
+          git add editorial_vistos.json || true
+          git diff --staged --quiet || git commit -m "historico editorial"
+          git pull --rebase || true
+          git push || true
