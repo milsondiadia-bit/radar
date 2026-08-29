@@ -1,7 +1,6 @@
 name: Radar Brasil
 
 on:
-  schedule:
   workflow_dispatch:
 
 permissions:
