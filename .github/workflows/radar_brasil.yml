@@ -2,7 +2,6 @@ name: Radar Brasil
 
 on:
   schedule:
-    - cron: "15,45 * * * *"
   workflow_dispatch:
 
 permissions:
