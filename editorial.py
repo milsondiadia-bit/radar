@@ -40,8 +40,8 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 radar"
 PADROES = [
     # (nome da rede, regex, molde do link limpo)
     ("Instagram", re.compile(
-        r"instagram\.com/(?:reel|reels|p|tv)/([A-Za-z0-9_-]{5,})", re.I),
-        "https://www.instagram.com/reel/{0}/"),
+        r"instagram\.com/(reel|reels|p|tv)/([A-Za-z0-9_-]{5,})", re.I),
+        None),   # tratado a parte: precisa preservar o tipo (/p/ nao e /reel/)
     ("YouTube", re.compile(
         r"(?:youtube\.com/(?:embed|shorts|watch\?v=)/?|youtu\.be/)([A-Za-z0-9_-]{11})", re.I),
         "https://www.youtube.com/watch?v={0}"),
@@ -115,11 +115,18 @@ def extrair_videos(html):
     achados, vistos = [], set()
     for rede, rx, molde in PADROES:
         for m in rx.finditer(html):
-            link = molde.format(*m.groups())
+            if molde is None:               # Instagram: preserva /p/ vs /reel/
+                tipo, ident = m.group(1).lower(), m.group(2)
+                tipo = "reel" if tipo in ("reel", "reels") else tipo
+                link = f"https://www.instagram.com/{tipo}/{ident}/"
+                rotulo = {"p": "Instagram post", "tv": "Instagram video"}.get(tipo, "Instagram reel")
+            else:
+                link = molde.format(*m.groups())
+                rotulo = rede
             if link in vistos:
                 continue
             vistos.add(link)
-            achados.append((rede, link))
+            achados.append((rotulo, link))
     return achados
 
 
