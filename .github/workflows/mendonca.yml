@@ -1,0 +1,32 @@
+name: Mendonca
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+
+jobs:
+  rodar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Rodar
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.CHAT_ID_MENDONCA }}
+        run: python alvo.py mendonca
+      - name: Salvar historico
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "bot@radar"
+          git add alvo_enviados_mendonca.json || true
+          git diff --staged --quiet || git commit -m "historico mendonca"
+          git pull --rebase || true
+          git push || true
