@@ -1,7 +1,6 @@
 name: Radar
 
 on:
-  schedule:
   workflow_dispatch:
 
 permissions:
