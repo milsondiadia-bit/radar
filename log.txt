@@ -119,3 +119,239 @@ veic  manch   min  grande  assunto
        . [Conjur] Livro em homenagem a Teodoro Silva Santos será lançado em 15/9, no STJ
        . [Gazeta do Povo Rep] Renan Santos protocola pedido de impeachment contra Moraes e Toffoli
 
+==============================================================================
+RODADA 03/09 18:24 UTC  |  janela 90 min  |  87 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+   6      6    65  sim     Vorcaro
+       veiculos: Carta Capital, Folha Poder, G1 Politica, GNews STF, GNews governo, Poder360
+       . [GNews STF] Vorcaro disse ao STF que tinha “relação cordial” com Andrei Rodrigues
+       . [GNews governo] Vorcaro cita integrantes do governo Lula ao falar sobre possível delação
+       . [G1 Politica] Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+
+   5     10    80  nao     Lula
+       veiculos: Carta Capital, GNews eleicoes, GNews governo, GNews politica, Metropoles
+       . [GNews politica] Marinho rebate Lula sobre fim da 6x1: "Ladrão da esperança"
+       . [GNews politica] No RIO, onde perdeu por mais de 12% em 2022, Lula empata com Flávio Bolsonaro no 2ºturno
+       . [GNews eleicoes] Lula e coordenador da campanha de Flávio trocam acusações sobre fim da escala 6x1
+
+   5      9    85  sim     STF
+       veiculos: Carta Capital, Congresso em Foco, GNews STF, GNews politica, Poder360
+       . [GNews politica] Análise: Ministros deixam crise no STF em modo de espera
+       . [GNews STF] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+       . [GNews STF] Entidades acionam STF para fiscalizar cumprimento de cotas para candidaturas negras
+
+   4      7    50  sim     Flávio Bolsonaro
+       veiculos: Carta Capital, GNews politica, Metropoles, Poder360
+       . [GNews politica] No RIO, onde perdeu por mais de 12% em 2022, Lula empata com Flávio Bolsonaro no 2ºturno
+       . [Poder360] PT aciona Conselho de Ética do Senado contra Flávio Bolsonaro
+       . [Carta Capital] AtlasIntel: Flávio Bolsonaro lidera a eleição presidencial em Goiás
+
+   4      7    26  sim     governo
+       veiculos: Carta Capital, GNews governo, Metropoles, Poder360
+       . [GNews governo] Vorcaro cita integrantes do governo Lula ao falar sobre possível delação
+       . [Poder360] Ao STF, Vorcaro disse que delação envolvia pessoas do “atual governo”
+       . [Carta Capital] AtlasIntel: Zucco lidera a disputa pelo governo do Rio Grande do Sul, com Juliana Brizola em 2º
+
+   4      4    81  sim     Pesquisa
+       veiculos: GNews eleicoes, GNews governo, Metropoles, Poder360
+       . [GNews eleicoes] Pesquisa governador PE: veja números do último levantamento
+       . [GNews governo] Pesquisa aponta 64% de desaprovação a Lula em Mato Grosso
+       . [Poder360] Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+
+   4      4    44  sim     Daniel
+       veiculos: Carta Capital, Folha Poder, G1 Politica, Metropoles
+       . [G1 Politica] Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+       . [Carta Capital] AtlasIntel: Daniel Vilela lidera em Goiás, 23 pontos à frente de candidato do PL
+       . [Folha Poder] Veja quem chamou Daniel Vorcaro de 'irmão' e quem foi chamado da mesma forma pelo ex-banqueiro
+
+   3     11    84  sim     lidera
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+       . [Carta Capital] AtlasIntel: Flávio Bolsonaro lidera a eleição presidencial em Goiás
+       . [Carta Capital] AtlasIntel: Marcelo Castro lidera a disputa pelo Senado no Piauí
+
+   3      6    53  sim     Moraes
+       veiculos: Congresso em Foco, GNews STF, Gazeta do Povo Rep
+       . [GNews STF] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+       . [GNews STF] Augusto Cury cobra apuração sobre Moraes e propõe novos critérios para escolher ministros do STF
+       . [Congresso em Foco] Damares obtém 41 assinaturas em pedido de impeachment contra Moraes
+
+   3      4    41  nao     turno
+       veiculos: Carta Capital, GNews politica, Metropoles
+       . [GNews politica] No RIO, onde perdeu por mais de 12% em 2022, Lula empata com Flávio Bolsonaro no 2ºturno
+       . [Carta Capital] AtlasIntel mostra empate no 1º turno entre Lula e Flávio Bolsonaro no Rio Grande do Sul
+       . [Carta Capital] AtlasIntel: Rafael Fonteles lidera com folga e venceria no 1º turno no Piauí
+
+   3      4    69  sim     Senado
+       veiculos: Carta Capital, GNews eleicoes, Poder360
+       . [GNews eleicoes] Ex-governador Ronaldo Lessa renuncia à 2ª suplência na chapa da esposa de JHC ao Senado em Alagoas; entenda
+       . [Poder360] PT aciona Conselho de Ética do Senado contra Flávio Bolsonaro
+       . [Poder360] Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+
+   3      3    27  sim     Fachin
+       veiculos: Carta Capital, GNews politica, Gazeta do Povo Rep
+       . [GNews politica] Fachin cita diálogo e tolerância para fortalecer democracia nas eleições
+       . [Carta Capital] Gilmar Mendes pede a Fachin que proíba delegados da PF de atuarem nos gabinetes de ministros do STF
+       . [Gazeta do Povo Rep] OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
+
+   3      3    76  nao     Caiado
+       veiculos: GNews STF, GNews eleicoes, Metropoles
+       . [GNews STF] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato
+       . [Metropoles] AtlasIntel: Daniel Vilela, vice de Caiado, lidera corrida ao governo de GO
+
+   3      3    73  sim     Santos
+       veiculos: Conjur, Gazeta do Povo Rep, Metropoles
+       . [Conjur] Livro em homenagem a Teodoro Silva Santos será lançado em 15/9, no STJ
+       . [Gazeta do Povo Rep] Renan Santos protocola pedido de impeachment contra Moraes e Toffoli
+       . [Metropoles] Grupo João Santos tenta reaver R$ 2,2 bilhões que estão com o Master
+
+   2      4    47  sim     Tarcísio
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Tarcísio diz que casos de corrupção na Fazenda são “isolados”
+       . [Poder360] Tarcísio diz que resposta a Haddad “vai vir nas urnas”
+       . [Poder360] Tarifa da Sabesp está 15% menor depois da privatização, diz Tarcísio
+
+   2      3    53  nao     candidato
+       veiculos: Carta Capital, GNews eleicoes
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato
+       . [GNews eleicoes] Candidato a deputado, neto de Vovô Anésio é acusado de criar vídeo do idoso com IA para impulsionar campanha; 
+       . [Carta Capital] AtlasIntel: Daniel Vilela lidera em Goiás, 23 pontos à frente de candidato do PL
+
+   2      3     1  nao     empatam
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] AtlasIntel: Celina Leão e Leandro Grass empatam na disputa pelo governo do DF
+       . [Carta Capital] AtlasIntel: Flávio Bolsonaro e Lula empatam entre eleitores do DF
+       . [Metropoles] Celina e Grass empatam tecnicamente no 1° e 2° turnos, aponta AtlasIntel
+
+   2      2    16  nao     eleições
+       veiculos: GNews eleicoes, GNews politica
+       . [GNews politica] Fachin cita diálogo e tolerância para fortalecer democracia nas eleições
+       . [GNews eleicoes] Eleições 2026: Quando uma prática vira crime eleitoral?
+
+   2      2    48  nao     política
+       veiculos: GNews eleicoes, GNews politica
+       . [GNews politica] Sampi Campinas: Representação política precisa recuperar seus vínculos
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato
+
+   2      2     4  nao     renúncia
+       veiculos: GNews STF, GNews eleicoes
+       . [GNews STF] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+       . [GNews eleicoes] Ex-governador Ronaldo Lessa renuncia à 2ª suplência na chapa da esposa de JHC ao Senado em Alagoas; entenda
+
+   2      2    85  nao     risco
+       veiculos: GNews STF, Metropoles
+       . [GNews STF] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+       . [Metropoles] Risco de incêndio e falha no cinto: Jeep e Ram fazem recall de 7 mil carros
+
+   2      2    45  nao     cotas
+       veiculos: Conjur, GNews STF
+       . [GNews STF] Entidades acionam STF para fiscalizar cumprimento de cotas para candidaturas negras
+       . [Conjur] IR incide na venda de cotas entre fundos de investimento imobiliário, afirma STJ
+
+   2      2    14  nao     escolher
+       veiculos: Folha Poder, GNews STF
+       . [GNews STF] Augusto Cury cobra apuração sobre Moraes e propõe novos critérios para escolher ministros do STF
+       . [Folha Poder] Supremo vai escolher entre expor ou esconder suas mazelas
+
+   2      2    11  sim     Rodrigues
+       veiculos: GNews STF, Gazeta do Povo Rep
+       . [GNews STF] Vorcaro disse ao STF que tinha “relação cordial” com Andrei Rodrigues
+       . [Gazeta do Povo Rep] Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
+
+   2      2    46  nao     questiona
+       veiculos: GNews eleicoes, Metropoles
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato
+       . [Metropoles] TCDF questiona Economia sobre falta de nomeações na carreira de PPGG
+
+--- MANCHETES DA JANELA (cruas) ---
+15:23 | Carta Capital                | AtlasIntel: Flávio Bolsonaro lidera a eleição presidencial em Goiás
+18:20 | Poder360                     | Número de idosos supera o de crianças no mundo
+18:20 | Metropoles                   | Pesquisa Atlas: Flávio e Lula estão tecnicamente empatados no RS
+18:19 | Metropoles                   | Risco de incêndio e falha no cinto: Jeep e Ram fazem recall de 7 mil carros
+18:19 | Poder360                     | Ao STF, Vorcaro disse que delação envolvia pessoas do “atual governo”
+18:18 | Metropoles                   | Marcos Mion reage após ser citado por vilã em Quem Ama Cuida: "Chocante"
+18:18 | GNews governo                | Vorcaro cita integrantes do governo Lula ao falar sobre possível delação
+18:15 | Metropoles                   | Se Eu Fosse Você 2: saiba quando estreia a continuação do filme brasileiro
+18:15 | Metropoles                   | Grupo João Santos tenta reaver R$ 2,2 bilhões que estão com o Master
+18:15 | Gazeta do Povo Rep           | Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
+18:14 | Metropoles                   | Atlas: Flávio Bolsonaro lidera intenções de voto no 1º e 2º turnos no DF
+18:14 | Metropoles                   | AtlasIntel: Zucco lidera cenários de 1º e 2º turno no RS
+18:12 | Metropoles                   | Fórmula 1: FIA declara alerta de calor extremo para o GP da Itália
+15:12 | Carta Capital                | Gilmar Mendes pede a Fachin que proíba delegados da PF de atuarem nos gabinetes de ministros do STF
+18:10 | Metropoles                   | AtlasIntel: Daniel Vilela, vice de Caiado, lidera corrida ao governo de GO
+15:10 | Folha Poder                  | Mercadante sai em defesa de diretor-geral da PF e diz que questionamentos são inaceitáveis
+18:09 | Metropoles                   | Juliette revela prazer em comer talco. Entenda se comportamento é saudável
+18:08 | Metropoles                   | Atlas/MeioNorte: Rafael Fonteles lidera pela reeleição do Piauí com 62,4%
+18:07 | Poder360                     | PT aciona Conselho de Ética do Senado contra Flávio Bolsonaro
+18:07 | GNews eleicoes               | Lula e coordenador da campanha de Flávio trocam acusações sobre fim da escala 6x1
+15:06 | Carta Capital                | AtlasIntel: Marcelo Castro lidera a disputa pelo Senado no Piauí
+18:05 | Metropoles                   | Guardar maquiagem no banheiro pode estragar produtos antes da validade
+18:04 | GNews STF                    | Vorcaro disse ao STF que tinha “relação cordial” com Andrei Rodrigues
+18:02 | Metropoles                   | Pelo menos 37 jovens morrem na Nigéria durante furto de petróleo
+15:02 | Folha Poder                  | Supremo vai escolher entre expor ou esconder suas mazelas
+15:02 | Folha Poder                  | Veja quem chamou Daniel Vorcaro de 'irmão' e quem foi chamado da mesma forma pelo ex-banqueiro
+18:01 | GNews politica               | Análise: Ministros deixam crise no STF em modo de espera
+18:01 | Conjur                       | Instituto fundado por Mendonça formou quase 4 mil alunos em dois anos
+18:00 | Metropoles                   | Eduardo Riedel lidera disputa pelo governo de MS, diz AtlasIntel
+15:00 | Carta Capital                | AtlasIntel: Zucco lidera a disputa pelo governo do Rio Grande do Sul, com Juliana Brizola em 2º
+18:00 | Metropoles                   | Celina e Grass empatam tecnicamente no 1° e 2° turnos, aponta AtlasIntel
+15:00 | Carta Capital                | AtlasIntel: Celina Leão e Leandro Grass empatam na disputa pelo governo do DF
+15:00 | Carta Capital                | AtlasIntel mostra empate no 1º turno entre Lula e Flávio Bolsonaro no Rio Grande do Sul
+15:00 | Carta Capital                | AtlasIntel: Lula ‘goleia’ Flávio Bolsonaro no 1º e no 2º turnos no Piauí
+15:00 | Carta Capital                | AtlasIntel: Daniel Vilela lidera em Goiás, 23 pontos à frente de candidato do PL
+15:00 | Carta Capital                | AtlasIntel: Flávio Bolsonaro e Lula empatam entre eleitores do DF
+15:00 | Carta Capital                | AtlasIntel: Rafael Fonteles lidera com folga e venceria no 1º turno no Piauí
+11:00 | Google Trends BR             | copenhagen fc
+17:59 | Metropoles                   | Vanity Fair demite jornalista por comportamento “inadequado” em julgamento
+17:58 | GNews STF                    | Entidades acionam STF para fiscalizar cumprimento de cotas para candidaturas negras
+17:55 | GNews politica               | Sampi Campinas: Representação política precisa recuperar seus vínculos
+17:54 | Metropoles                   | BH abre novo centro veterinário gratuito com UTI e cirurgias; veja detalhes
+17:53 | Metropoles                   | TCDF questiona Economia sobre falta de nomeações na carreira de PPGG
+17:53 | Metropoles                   | Governo notifica 115 empresas por irregularidades em vale-alimentação
+17:53 | Metropoles                   | Lito Sousa deixa hospital e inicia cuidados paliativos em casa
+10:50 | Google Trends BR             | toulouse x losc
+10:50 | Google Trends BR             | apagão
+10:50 | Google Trends BR             | apple iphone 18 pro max
+10:50 | Google Trends BR             | ricardo couto
+14:48 | Carta Capital                | Tarcísio exonera Da Cunha da função de delegado da Polícia Civil
+17:48 | GNews STF                    | Augusto Cury cobra apuração sobre Moraes e propõe novos critérios para escolher ministros do STF
+17:48 | Gazeta do Povo Rep           | OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
+14:47 | Congresso em Foco            | Oposição propõe indicação ao STF por lista de autoridades jurídicas
+17:45 | GNews politica               | Fachin cita diálogo e tolerância para fortalecer democracia nas eleições
+17:45 | GNews governo                | Brasil se destaca na diplomacia global com Lula
+17:42 | GNews eleicoes               | Cury se reúne com líderes da Assembleia de Deus e diz estar próximo do eleitor conservador ‘há décadas’
+17:42 | Conjur                       | Cade vai investigar se aplicativo de entrega barra concorrente indevidamente
+17:41 | Poder360                     | ChatGPT, Gemini, Claude e Grok registram falhas globais
+17:39 | Poder360                     | Tarcísio diz que casos de corrupção na Fazenda são “isolados”
+14:34 | Congresso em Foco            | Liberação de porte de arma para oficiais de justiça avança na Câmara
+17:34 | Gazeta do Povo Rep           | Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+17:34 | GNews politica               | No RIO, onde perdeu por mais de 12% em 2022, Lula empata com Flávio Bolsonaro no 2ºturno
+17:30 | BBC Brasil                   | Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
+10:30 | Google Trends BR             | novo mitsubishi pajero 2027
+17:29 | GNews eleicoes               | Eleições 2026: Quando uma prática vira crime eleitoral?
+17:27 | Gazeta do Povo Rep           | Renan Santos protocola pedido de impeachment contra Moraes e Toffoli
+17:27 | G1 Politica                  | Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+17:22 | GNews eleicoes               | Candidato a deputado, neto de Vovô Anésio é acusado de criar vídeo do idoso com IA para impulsionar campanha; assista
+14:20 | Congresso em Foco            | Damares obtém 41 assinaturas em pedido de impeachment contra Moraes
+17:18 | Poder360                     | Tarcísio diz que resposta a Haddad “vai vir nas urnas”
+17:15 | Poder360                     | Novo pede prisão preventiva de diretor da Polícia Federal
+14:14 | Carta Capital                | Deputados do PT vão à PGR contra Nikolas após revelação de conversa com Vorcaro
+17:13 | Conjur                       | IR incide na venda de cotas entre fundos de investimento imobiliário, afirma STJ
+10:10 | Google Trends BR             | neom sc
+17:07 | GNews eleicoes               | Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato
+17:05 | GNews STF                    | Gilmar defende saída de delegados da PF que atuam em gabinetes do STF
+17:03 | GNews eleicoes               | Pesquisa governador PE: veja números do último levantamento
+17:03 | GNews STF                    | Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo
+17:02 | GNews politica               | Marinho rebate Lula sobre fim da 6x1: "Ladrão da esperança"
+17:02 | Conjur                       | Livro em homenagem a Teodoro Silva Santos será lançado em 15/9, no STJ
+17:01 | Poder360                     | Tarifa da Sabesp está 15% menor depois da privatização, diz Tarcísio
+17:00 | GNews governo                | Pesquisa aponta 64% de desaprovação a Lula em Mato Grosso
+10:00 | Google Trends BR             | capítulo de quem ama cuida de hoje ao vivo
+16:59 | Poder360                     | Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+16:58 | GNews eleicoes               | Ex-governador Ronaldo Lessa renuncia à 2ª suplência na chapa da esposa de JHC ao Senado em Alagoas; entenda
+16:58 | GNews eleicoes               | TRE-MG oferece atendimento virtual sobre prestação de contas - Tribunal Regional Eleitoral de Minas Gerais
+16:54 | GNews STF                    | Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta ordem democrática'
