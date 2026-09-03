@@ -37,7 +37,7 @@ import os
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 
-from radar import FONTES, le_feed, normaliza, termos_do_titulo
+from radar import FONTES, normaliza
 
 from concurrent.futures import ThreadPoolExecutor
 
@@ -72,8 +72,54 @@ GRANDES = {
 
 
 import re
+from xml.etree import ElementTree as ET
+
+from radar import baixa, limpa_html, parse_data, _tag
 
 _RE_VEICULO_GNEWS = re.compile(r"\s+-\s+([^-]{2,40})\s*$")
+
+
+def le_feed_com_fonte(nome, url, timeout=15):
+    """
+    Igual ao le_feed() do radar.py, mas tambem captura a tag <source>.
+
+    E ai que o Google News guarda o nome do veiculo que realmente
+    publicou. O radar.py ignora essa tag, e por isso a mesma materia da
+    CNN aparecendo em tres buscas diferentes do GNews era contada como
+    tres veiculos distintos - inflando justamente o numero que vai
+    decidir se algo "explodiu".
+
+    O sufixo no titulo (" - cnnbrasil.com.br") tambem vale, mas nem todo
+    item traz: nesta medicao, uns tinham e outros nao. A tag e o
+    caminho confiavel; o sufixo fica de reserva.
+    """
+    itens = []
+    try:
+        raiz = ET.fromstring(baixa(url, timeout))
+    except Exception as e:
+        return itens, f"{nome}: {type(e).__name__}"
+
+    for el in raiz.iter():
+        if _tag(el) not in ("item", "entry"):
+            continue
+        titulo = link = data = origem = None
+        for f in el:
+            t = _tag(f)
+            if t == "title" and titulo is None:
+                titulo = limpa_html("".join(f.itertext()))
+            elif t == "link":
+                if f.get("href"):
+                    link = link or f.get("href")
+                elif (f.text or "").strip():
+                    link = link or f.text.strip()
+            elif t in ("pubDate", "published", "updated", "date") and data is None:
+                data = parse_data("".join(f.itertext()))
+            elif t == "source" and origem is None:
+                origem = ("".join(f.itertext()) or "").strip() or None
+        if titulo:
+            itens.append({"titulo": titulo, "link": link or "",
+                          "data": data, "fonte": nome, "origem": origem})
+    return itens, None
 
 
 def fonte_real(it):
@@ -92,6 +138,8 @@ def fonte_real(it):
     """
     if not it["fonte"].startswith("GNews"):
         return it["fonte"]
+    if it.get("origem"):
+        return it["origem"]
     m = _RE_VEICULO_GNEWS.search(it["titulo"])
     if m:
         return m.group(1).strip()
@@ -127,7 +175,7 @@ ACRESCENTAR = [
     ("CNN Brasil Politica", "https://www.cnnbrasil.com.br/politica/feed/"),
     ("Folha Poder", "https://feeds.folha.uol.com.br/poder/rss091.xml"),
     ("UOL Noticias", "https://rss.uol.com.br/feed/noticias.xml"),
-    ("Metropoles", "https://www.metropoles.com/feed"),
+    ("Metropoles Politica", "https://www.metropoles.com/coluna-do-noblat/feed"),
 ]
 
 
@@ -145,7 +193,7 @@ def coleta_minutos(minutos, workers=12):
     feeds = fontes_brasil()
     itens, erros = [], []
     with ThreadPoolExecutor(max_workers=workers) as ex:
-        for got, err in ex.map(lambda f: le_feed(*f), feeds):
+        for got, err in ex.map(lambda f: le_feed_com_fonte(*f), feeds):
             itens.extend(got)
             if err:
                 erros.append(err)
@@ -171,51 +219,89 @@ def coleta_minutos(minutos, workers=12):
     return recentes, erros, sem_data
 
 
+PALAVRAS_VAZIAS = set("""
+a o as os um uma uns umas de do da dos das em no na nos nas por pelo pela
+para com que se e ao aos sobre entre apos sem sob ate mais menos ja nao
+seu sua seus suas ele ela eles elas isso este esta esse essa foi ser tem
+ter diz dizem vai vao sao era eram como quando onde qual quais veja saiba
+entenda apos contra depois antes ainda tambem
+""".split())
+
+# Duas manchetes falam da mesma historia quando repetem esta fatia das
+# palavras que importam.
+#
+# MEDIDO nas 87 manchetes reais da rodada de 03/09 18:24 UTC:
+#
+#   corte   grupos   com 2+ veiculos   o que acontece
+#   0.20      49          13           junta coisa diferente (o centro
+#                                      veterinario de BH entrou junto)
+#   0.30      64           8           grupos coerentes
+#   0.40      69           5           comeca a partir historia em duas
+#
+# Em 0.30 os grupos ficaram limpos e ainda assim juntaram o que era
+# para juntar (as 4 manchetes do impeachment de Moraes ficaram numa so).
+SEMELHANCA_HISTORIA = 0.30
+
+
+def _palavras(titulo):
+    return {w for w in re.findall(r"[a-z0-9]{4,}", normaliza(titulo))
+            if w not in PALAVRAS_VAZIAS}
+
+
 def agrupa(itens):
-    """Junta as manchetes que falam do mesmo assunto. Mesma regra do radar.py."""
-    ocorrencias = defaultdict(list)
-    rotulos = defaultdict(lambda: defaultdict(int))
+    """
+    Junta as manchetes que contam a MESMA HISTORIA.
 
-    for it in itens:
-        for original, chave in termos_do_titulo(it["titulo"]).items():
-            if len(chave) < 3:
-                continue
-            ocorrencias[chave].append(it)
-            rotulos[chave][original] += 1
+    O radar.py agrupava por termo repetido, e para ranking de assunto
+    isso servia. Para breaking, nao: na medicao das 18:22 o rotulo "STF"
+    juntou 9 manchetes de 5 veiculos que nao tinham nada em comum -
+    cotas para candidaturas negras, delegados da PF, crise interna do
+    tribunal. Cinco veiculos falando de coisas diferentes nao e uma
+    noticia explodindo; e a palavra "STF" sendo comum no Brasil.
 
+    Aqui duas manchetes so caem no mesmo grupo se as PROPRIAS PALAVRAS
+    delas se repetirem.
+    """
     grupos = []
-    for chave, lista in ocorrencias.items():
-        fontes = {i["fonte"] for i in lista}
-        if len(lista) < MIN_MANCHETES_LOG or len(fontes) < MIN_FONTES_LOG:
+    for it in itens:
+        minhas = _palavras(it["titulo"])
+        if not minhas:
             continue
-        melhor = max(rotulos[chave].items(), key=lambda x: x[1])[0]
-        grupos.append({
-            "chave": chave,
-            "rotulo": melhor,
-            "manchetes": len(lista),
-            "fontes": fontes,
-            "itens": lista,
-        })
+        destino = None
+        for g in grupos:
+            for outro in g["itens"]:
+                dele = _palavras(outro["titulo"])
+                if not dele:
+                    continue
+                comuns = len(minhas & dele)
+                if comuns / max(1, min(len(minhas), len(dele))) >= SEMELHANCA_HISTORIA:
+                    destino = g
+                    break
+            if destino:
+                break
+        if destino is None:
+            grupos.append({"itens": [it]})
+        else:
+            destino["itens"].append(it)
 
-    # Mais veiculos distintos primeiro; empate desempata por volume.
-    grupos.sort(key=lambda g: (-len(g["fontes"]), -g["manchetes"]))
-
-    # Funde assuntos que sao o mesmo (as manchetes se repetem muito).
     final = []
     for g in grupos:
-        ids_g = {id(i) for i in g["itens"]}
-        absorvido = False
-        for j in final:
-            ids_j = {id(i) for i in j["itens"]}
-            sobrep = len(ids_g & ids_j) / max(1, min(len(ids_g), len(ids_j)))
-            if sobrep >= 0.6:
-                absorvido = True
-                break
-        if not absorvido:
-            final.append(g)
-        if len(final) >= QUANTOS_ANOTAR:
-            break
-    return final
+        fontes = {i["fonte"] for i in g["itens"]}
+        if len(g["itens"]) < MIN_MANCHETES_LOG or len(fontes) < MIN_FONTES_LOG:
+            continue
+        # o rotulo e a manchete mais antiga: foi quem deu primeiro
+        com_data = [i for i in g["itens"] if i["data"]]
+        primeira = min(com_data, key=lambda i: i["data"])["titulo"] \
+            if com_data else g["itens"][0]["titulo"]
+        final.append({
+            "rotulo": primeira,
+            "manchetes": len(g["itens"]),
+            "fontes": fontes,
+            "itens": g["itens"],
+        })
+
+    final.sort(key=lambda g: (-len(g["fontes"]), -g["manchetes"]))
+    return final[:QUANTOS_ANOTAR]
 
 
 def minutos_de_espalhamento(grupo):
