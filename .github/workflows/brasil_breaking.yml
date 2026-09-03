@@ -1,0 +1,41 @@
+name: Brasil Breaking (medicao)
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  medir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Baixar os arquivos do repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar o Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Medir (sem enviar nada ao Telegram)
+        run: python brasil_breaking.py --minutos 90
+
+      - name: Guardar o log da medicao
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add log.txt 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "Nada novo no log."
+          else
+            git commit -m "medicao brasil $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git pull --rebase --autostash origin ${{ github.ref_name }} || true
+            git push
+          fi
