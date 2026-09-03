@@ -68,6 +68,7 @@ GRANDES = {
     "Poder360",
     "BBC Brasil",
     "Gazeta do Povo Rep",
+    "Veja",
 }
 
 
@@ -175,8 +176,43 @@ ACRESCENTAR = [
     ("CNN Brasil Politica", "https://www.cnnbrasil.com.br/politica/feed/"),
     ("Folha Poder", "https://feeds.folha.uol.com.br/poder/rss091.xml"),
     ("UOL Noticias", "https://rss.uol.com.br/feed/noticias.xml"),
-    ("Metropoles Politica", "https://www.metropoles.com/coluna-do-noblat/feed"),
+    ("Metropoles", "https://www.metropoles.com/feed"),
+    # Veiculos de linha conservadora, pedidos em 03/09. Entram porque
+    # cobrem pauta que os grandes as vezes deixam passar - e e ai que
+    # da para chegar antes.
+    ("Revista Oeste", "https://revistaoeste.com/feed/"),
+    ("O Antagonista", "https://oantagonista.com.br/feed/"),
+    ("Claudio Dantas", "https://claudiodantas.com.br/feed/"),
+    ("Veja", "https://veja.abril.com.br/feed/"),
 ]
+
+# Os veiculos alinhados ao canal.
+#
+# Esta lista NAO decide se algo explodiu - ela so MARCA. A diferenca
+# importa: o sinal de "explodiu" e quantos veiculos DIFERENTES
+# publicaram a mesma coisa, e ele so vale porque veiculos de linhas
+# opostas publicando junto e prova de que aconteceu algo grande. Se o
+# criterio passasse a contar so um lado, cinco veiculos deixaria de
+# significar explosao e passaria a significar afinidade editorial -
+# que e outra coisa, e acontece toda hora.
+#
+# Entao o alerta carrega duas informacoes separadas:
+#   1) quantos veiculos no total  -> isso explodiu mesmo?
+#   2) quantos do campo do canal  -> ja tem material da minha linha?
+#
+# E ha um terceiro caso, que e o mais valioso: assunto que juntou
+# varios veiculos DESTE campo e nenhum dos grandes. Isso costuma ser
+# pauta que a imprensa tradicional esta deixando passar - exatamente
+# onde da para chegar primeiro.
+CAMPO_DO_CANAL = {
+    "Gazeta do Povo Rep",
+    "Veja",
+    "Revista Oeste",
+    "O Antagonista",
+    "Claudio Dantas",
+    "Diário do Poder",
+    "Jornal Opção",
+}
 
 
 def fontes_brasil():
@@ -333,15 +369,16 @@ def escreve_log(grupos, total, erros, sem_data, minutos):
     if not grupos:
         linhas.append("(nenhum assunto com 2+ manchetes de 2+ veiculos)")
     else:
-        linhas.append(f"{'veic':>4} {'manch':>6} {'min':>5}  {'grande':<7} "
-                      f"assunto")
+        linhas.append(f"{'veic':>4} {'campo':>6} {'manch':>6} {'min':>5}  "
+                      f"{'grande':<7} assunto")
         linhas.append("-" * 78)
 
     for g in grupos:
         espalho = minutos_de_espalhamento(g)
         grandes = g["fontes"] & GRANDES
+        campo = g["fontes"] & CAMPO_DO_CANAL
         linhas.append(
-            f"{len(g['fontes']):>4} {g['manchetes']:>6} "
+            f"{len(g['fontes']):>4} {len(campo):>6} {g['manchetes']:>6} "
             f"{'?' if espalho is None else espalho:>5}  "
             f"{('sim' if grandes else 'nao'):<7} {g['rotulo'][:45]}"
         )
