@@ -1604,3 +1604,101 @@ veic  manch   min  grande  assunto
        . [Carta Capital] José Guimarães: O Brasil precisa virar a página do atraso
        . [Google Trends BR] gabriela guimarães
 
+==============================================================================
+RODADA 03/09 22:01 UTC  |  janela 90 min  |  140 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  manch   min  grande  assunto
+------------------------------------------------------------------------------
+  10      2     17    84  sim     Câmara aprova MP que acaba com a Taxa das Blu
+       veiculos: Carta Capital, Congresso em Foco, Exame, G1, G1 Politica, Metropoles, O Antagonista, Poder360, UOL Economia, Veja
+       . [Poder360] Em vitória para Lula, Câmara aprova fim da taxa das blusinhas
+       . [G1] Senado aprova fim da 'taxa das blusinhas'; texto segue para sanção presidencial
+       . [Exame] Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+
+   6      0      9    50  sim     Ministério Público e Justiça Eleitoral firmam
+       veiculos: Folha de S.Paulo, G1, G1 Politica, Metropoles, Valor Econômico, mpf.mp.br
+       . [mpf.mp.br] Ministério Público e Justiça Eleitoral firmam acordo com lideranças religiosas por paz e tolerância nas Eleiçõ
+       . [Folha de S.Paulo] Justiça eleitoral barra candidatura de Arruda ao Governo do DF
+       . [Valor Econômico] Candidatos a deputado distrital no DF: veja a lista das eleições 2026
+
+   3      1      4    81  sim     Tarcísio exonera delegado da Cunha da Polícia
+       veiculos: CNN Brasil, Carta Capital, Veja
+       . [CNN Brasil] Tarcísio exonera delegado da Cunha da Polícia Civil por abuso de autoridade
+       . [Carta Capital] Justiça de São Paulo suspende a demissão de delegado Da Cunha
+       . [Veja] Justiça Eleitoral nega registro de candidatura de Eduardo Cunha
+
+   3      1      3    34  sim     OAB vai se reunir com Fachin em meio à crise 
+       veiculos: Gazeta do Povo Rep, Jurinews, Valor Econômico
+       . [Valor Econômico] Fachin tem em mãos três soluções para crise entre Alexandre de Moraes e André Mendonça
+       . [Jurinews] OAB vai se reunir com Fachin em meio à crise no STF
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   3      0      3    64  sim     Governo critica início do veto à venda de car
+       veiculos: Estadão, G1 Politica, Metropoles
+       . [Estadão] Governo Lula diz que poderá recorrer a medidas de reciprocidade contra UE por barrar carnes
+       . [G1 Politica] Governo critica início do veto à venda de carne brasileira para União Europeia e cita possibilidade de 'medida
+       . [Metropoles] Governo critica veto da UE à carne e cita medidas de reciprocidade
+
+   3      2      3    28  sim     Nikolas rebate acusações envolvendo Vorcaro: 
+       veiculos: Congresso em Foco, O Antagonista, Veja
+       . [Congresso em Foco] Nikolas rebate acusações envolvendo Vorcaro: "nunca chamei de lindão"
+       . [O Antagonista] PSOL pede cassação de Nikolas após mensagens para Vorcaro
+       . [Veja] A mobilização nacional da OAB para cobrar investigação sobre mensagens de Vorcaro e Moraes
+
+   2      0      3    86  sim     Lula diz que não vai aceitar jogar a responsa
+       veiculos: Poder360, Valor Econômico
+       . [Valor Econômico] Lula diz que não vai aceitar jogar a responsabilidade do déficit fiscal na Previdência
+       . [Poder360] Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+       . [Poder360] “Eu tenho uma sina com a Previdência Social”, diz Lula
+
+   2      0      2     1  nao     Alcolumbre acusa colegas de usarem ofensas a 
+       veiculos: Congresso em Foco, O GLOBO
+       . [O GLOBO] Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Bra
+       . [Congresso em Foco] Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral
+
+   2      1      2    44  nao     Análise: Contra-ataque está em curso para fre
+       veiculos: CNN Brasil, Claudio Dantas
+       . [CNN Brasil] Análise: Contra-ataque está em curso para frear Mendonça
+       . [Claudio Dantas] Análise: De diretor da PF a alvo da PF
+
+   2      1      2    38  sim     Trump propõe criação de 'Rouanet' americana, 
+       veiculos: Terra, Veja
+       . [Terra] Trump propõe criação de 'Rouanet' americana, entenda
+       . [Veja] Donald Trump apoia a criação de uma ‘Lei Rouanet’ americana
+
+   2      0      2    44  nao     STF mantém poder do MP para requisitar períci
+       veiculos: Consultor Jurídico, stf noticias
+       . [stf noticias] Ministério Público pode requisitar apoio de servidores e meios materiais de órgãos públicos, decide STF
+       . [Consultor Jurídico] STF mantém poder do MP para requisitar perícias e servidores de órgãos públicos
+
+   2      0      2    57  nao     Governo Lula diz que ‘zerou’ fila do INSS, ma
+       veiculos: Estadão, cbn.globo.com
+       . [Estadão] Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+       . [cbn.globo.com] Governo Lula diz que fila do INSS está zerada; 224 mil pedidos ainda esperam resposta
+
+   2      0      2    45  sim     Operador de Vorcaro que fez repasses ao 'Dark
+       veiculos: Folha Poder, G1 Politica
+       . [G1 Politica] Operador de Vorcaro que fez repasses ao 'Dark Horse' será ouvido pelo gabinete de Mendonça na próxima terça
+       . [Folha Poder] Empresário que fez repasses a 'Dark Horse' diz que movimentava malas de dinheiro a mando de Vorcaro
+
+   2      1      2    19  sim     Cury convoca apoiadores para caminhada do 7 d
+       veiculos: Poder360, Veja
+       . [Poder360] Cury convoca apoiadores para caminhada do 7 de Setembro em Copacabana
+       . [Veja] Augusto Cury planeja ato de 7 de Setembro em reduto bolsonarista
+
+   2      1      2    72  sim     Viana pede afastamento de Alcolumbre por não 
+       veiculos: Congresso em Foco, Gazeta do Povo Rep
+       . [Congresso em Foco] Carlos Viana representa contra Alcolumbre no Conselho de Ética
+       . [Gazeta do Povo Rep] Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
+
+   2      0      2    12  nao     José Guimarães: O Brasil precisa virar a pági
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] José Guimarães: O Brasil precisa virar a página do atraso
+       . [Google Trends BR] gabriela guimarães
+
+   2      2      2     4  sim     A reação de delegados da PF à proposta de Gil
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+       . [Veja] A reação de delegados da PF à proposta de Gilmar de tirá-los do STF
+
