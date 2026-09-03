@@ -608,3 +608,167 @@ veic  manch   min  grande  assunto
 10:10 | Google Trends BR             | neom sc
 17:07 | Valor Econômico              | Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato
 17:05 | cnnbrasil.com.br             | Gilmar defende saída de delegados da PF que atuam em gabinetes do STF
+==============================================================================
+RODADA 03/09 19:05 UTC  |  janela 90 min  |  87 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: URLError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+   5     10    52  sim     AtlasIntel: Riedel tem 49% das intenções de v
+       veiculos: Blog do BG, Estadão, Gazeta do Povo, Metrópoles, Poder360
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governo no Rio Grande do Sul
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governador do Distrito Federal
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governador do Mato Grosso do Sul
+
+   5      5    55  nao     Supremo vai escolher entre expor ou esconder 
+       veiculos: Carta Capital, CartaCapital, Estadão, Folha Poder, SBT News
+       . [CartaCapital] Gilmar Mendes pede a Fachin que proíba delegados da PF de atuarem nos gabinetes de ministros do STF
+       . [Estadão] Gilmar Mendes sugere a Fachin que vete delegados da PF em gabinetes do STF
+       . [SBT News] Gilmar pede saída de delegados da PF de gabinetes do Supremo
+
+   4      4    68  sim     Augusto Cury cobra apuração sobre Moraes e pr
+       veiculos: Carta Capital, Estadão, Folha Poder, Gazeta do Povo Rep
+       . [Estadão] Augusto Cury cobra apuração sobre Moraes e propõe novos critérios para escolher ministros do STF
+       . [Carta Capital] Augusto Cury e os órfãos
+       . [Gazeta do Povo Rep] Augusto Cury tem menos dinheiro e tempo de TV; veja a divisão entre os candidatos
+
+   2      4    46  sim     Lula e coordenador da campanha de Flávio troc
+       veiculos: O GLOBO, Poder360
+       . [O GLOBO] Lula e coordenador da campanha de Flávio trocam acusações sobre fim da escala 6x1
+       . [Poder360] Flávio tem 50,4% contra 42% de Lula no 2º turno no RS, diz pesquisa
+       . [Poder360] Vilela vence em todos os cenários de 2º turno em GO, diz pesquisa
+
+   2      3    41  sim     Vorcaro cita integrantes do governo Lula ao f
+       veiculos: Jornal Correio Centro Oeste Arcos, Poder360
+       . [Poder360] Ao STF, Vorcaro disse que delação envolvia pessoas do “atual governo”
+       . [Jornal Correio Centro Oeste Arcos] Vorcaro cita integrantes do governo Lula ao falar sobre possível delação
+       . [Poder360] Fui deixado em caixote por 6 horas, disse Vorcaro em depoimento
+
+   2      2    20  nao     Jandira Feghali: ‘É preciso pressão política 
+       veiculos: Brasil de Fato, Carta Capital
+       . [Brasil de Fato] Jandira Feghali: ‘É preciso pressão política para que votação do fim da escala 6×1 aconteça entre turnos’
+       . [Carta Capital] O fim da escala 6×1 fica mais perto
+
+   2      2    34  nao     Instituto fundado por Mendonça formou quase 4
+       veiculos: Conjur, pleno.news
+       . [pleno.news] André Mendonça diz que deixará sociedade no Instituto Iter
+       . [Conjur] Instituto fundado por Mendonça formou quase 4 mil alunos em dois anos
+
+   2      2     5  nao     ESTADÃO ENTREVISTA | Caiado defende que STF q
+       veiculos: CBN, instagram.com
+       . [instagram.com] ESTADÃO ENTREVISTA | Caiado defende que STF quebre sigilo de todas as investigações sobre Banco Master, INSS e
+       . [CBN] STF inicia sessão sem mencionar crise do Banco Master pelo segundo dia
+
+   2      2    30  nao     Sem citar Moraes, Mendonça diz que Judiciário
+       veiculos: Carta Capital, platobr.com.br
+       . [platobr.com.br] Sem citar Moraes, Mendonça diz que Judiciário tem que honrar a confiança do povo
+       . [Carta Capital] O povo na Casa
+
+   2      2     3  nao     Eleições 2026: consulte o Guia de Candidatos 
+       veiculos: Gazeta do Povo, Valor Econômico
+       . [Valor Econômico] Candidatos a senador pelo Paraná (PR): veja a lista das eleições 2026
+       . [Gazeta do Povo] Eleições 2026: consulte o Guia de Candidatos da Gazeta do Povo
+
+   2      2     1  nao     Paulo Nogueira Batista Jr.: Lula é questão de
+       veiculos: Carta Capital, CartaCapital
+       . [CartaCapital] Paulo Nogueira Batista Jr.: Lula é questão de salvação nacional
+       . [Carta Capital] Lula é questão de salvação nacional
+
+   2      2    35  nao     TRE-SP determina que imagem de Bolsonaro não 
+       veiculos: Carta Capital, Folha Poder
+       . [Carta Capital] O reduto eleitoral como território
+       . [Folha Poder] TRE-SP determina que imagem de Bolsonaro não pode ser usada em propaganda eleitoral
+
+   2      2     5  sim     Mercadante sai em defesa de diretor-geral da 
+       veiculos: Folha Poder, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
+       . [Folha Poder] Mercadante sai em defesa de diretor-geral da PF e diz que questionamentos são inaceitáveis
+
+--- MANCHETES DA JANELA (cruas) ---
+19:02 | Poder360                     | Ao vivo: Lula anuncia redução da fila do INSS
+18:59 | Poder360                     | Vorcaro diz que mãe recebeu ameaças de morte após sua prisão
+15:59 | Carta Capital                | O fim da escala 6×1 fica mais perto
+15:58 | Carta Capital                | Lula é questão de salvação nacional
+15:58 | Carta Capital                | O reduto eleitoral como território
+15:58 | Carta Capital                | Pacha Mama
+18:58 | Poder360                     | Fui deixado em caixote por 6 horas, disse Vorcaro em depoimento
+15:58 | Carta Capital                | Sem ponto final
+15:58 | Carta Capital                | Saqueadores e fantoches
+15:58 | Carta Capital                | Radicalidade contra os radicais
+18:58 | CartaCapital                 | Paulo Nogueira Batista Jr.: Lula é questão de salvação nacional
+15:56 | Carta Capital                | Vício em juros
+15:56 | Carta Capital                | O povo na Casa
+15:56 | Carta Capital                | Tentação na palma da mão
+15:56 | Carta Capital                | Copom e cupom
+15:56 | Carta Capital                | Ô troço agarrado
+15:56 | Carta Capital                | Voo cego
+15:56 | Carta Capital                | O Supremo vandalizado
+15:56 | Carta Capital                | O STF em ruínas
+15:56 | Carta Capital                | Augusto Cury e os órfãos
+15:56 | Carta Capital                | Repressão S.A.
+15:56 | Carta Capital                | CARTUM: 1429
+15:56 | Carta Capital                | O “amor” tem preço
+15:56 | Carta Capital                | 5×2, um sopro de vida
+18:53 | Poder360                     | Flávio tem 50,4% contra 42% de Lula no 2º turno no RS, diz pesquisa
+18:53 | Poder360                     | Zucco lidera corrida pelo governo do RS com 44,3%, diz pesquisa
+18:52 | Poder360                     | Vilela vence em todos os cenários de 2º turno em GO, diz pesquisa
+18:51 | Poder360                     | “Não recebi um tostão de Vorcaro e nem o encontrei”, diz Nikolas
+18:50 | CNN Brasil                   | STF reconduz Zanin para segundo biênio como ministro substituto no TSE
+18:50 | G1 Politica                  | Impugnações de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa validade das mudanças
+18:48 | Poder360                     | Ao vivo: STF julga concessão de gratuidade na Justiça trabalhista
+18:46 | Blog do BG                   | PESQUISA BG/PERFIL – APROVAÇÃO DO GOVERNO LULA: 61,18% dos potiguares aprovam e 29,63% desaprovam a gestão do presidente
+18:45 | Valor Econômico              | Candidatos a senador pelo Paraná (PR): veja a lista das eleições 2026
+18:44 | Gazeta do Povo Rep           | Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+18:43 | Gazeta do Povo               | Eleições 2026: consulte o Guia de Candidatos da Gazeta do Povo
+18:42 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governador do Mato Grosso do Sul
+18:40 | Poder360                     | BTG lidera ranking de projeções fiscais do governo central
+18:40 | Gazeta do Povo Rep           | Nikolas Ferreira descarta intimidade com empresário acusado de fraude
+11:40 | Google Trends BR             | imposto territorial rural
+11:40 | Google Trends BR             | anderlecht
+18:39 | Brasil de Fato               | Jandira Feghali: ‘É preciso pressão política para que votação do fim da escala 6×1 aconteça entre turnos’
+18:38 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governo e Senado em Goiás
+18:36 | pleno.news                   | André Mendonça diz que deixará sociedade no Instituto Iter
+18:35 | Metrópoles                   | AtlasIntel: em Goiás, Flávio Bolsonaro lidera intenções de voto no 2º turno
+18:33 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governo e Senado no Piauí
+18:31 | SBT News                     | Gilmar pede saída de delegados da PF de gabinetes do Supremo
+18:31 | CBN                          | STF inicia sessão sem mencionar crise do Banco Master pelo segundo dia
+11:30 | Google Trends BR             | cagliari x verona
+11:30 | Google Trends BR             | morango
+11:30 | Google Trends BR             | aviação civil
+11:30 | Google Trends BR             | caminhão de lixo
+11:30 | Google Trends BR             | coca-cola
+18:29 | Poder360                     | Flávio tem 57,1% ante 36,1% de Lula no 2º turno em MS, diz AtlasIntel
+18:29 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governo no Rio Grande do Sul
+18:27 | platobr.com.br               | Sem citar Moraes, Mendonça diz que Judiciário tem que honrar a confiança do povo
+18:26 | instagram.com                | ESTADÃO ENTREVISTA | Caiado defende que STF quebre sigilo de todas as investigações sobre Banco Master, INSS e Dark Horse: 'O que dá em Chico, dá em Francisco'.⁣ ⁣ Candidato do PSD é o segundo entrevistado da série com presidenciáveis. Assis
+18:26 | Gazeta do Povo Rep           | Augusto Cury tem menos dinheiro e tempo de TV; veja a divisão entre os candidatos
+15:25 | Folha Poder                  | Em evento na Assembleia de Deus, Cury nega ter pedido votos e diz já ser próximo de evangélicos
+15:24 | Folha Poder                  | TRE-SP determina que imagem de Bolsonaro não pode ser usada em propaganda eleitoral
+18:23 | Gazeta do Povo Rep           | Marinho rebate Lula sobre oposição ao fim da 6×1: “Burro ou mal-intencionado”
+18:23 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governador do Distrito Federal
+18:21 | Conjur                       | Dabus na Índia: a IA pode ser original, mas não pode ser autora
+18:20 | Poder360                     | Ao STF, Vorcaro disse que delação envolvia pessoas do “atual governo”
+18:19 | Estadão                      | Gilmar Mendes sugere a Fachin que vete delegados da PF em gabinetes do STF
+18:18 | Jornal Correio Centro Oeste  | Vorcaro cita integrantes do governo Lula ao falar sobre possível delação
+18:15 | O GLOBO                      | Especialistas veem atuação de Mendonça como regular em caso Moraes, mas apontam 'zona cinzenta' em relação a papel de juiz
+18:15 | Gazeta do Povo Rep           | Andrei Rodrigues: conheça o diretor-geral da PF alvo de suspeitas no caso Master
+18:12 | CartaCapital                 | Gilmar Mendes pede a Fachin que proíba delegados da PF de atuarem nos gabinetes de ministros do STF
+11:10 | Google Trends BR             | real sociedad x celta de vigo
+11:10 | Google Trends BR             | flávia alessandra
+11:10 | Google Trends BR             | instabilidade chatgpt
+15:10 | Folha Poder                  | Mercadante sai em defesa de diretor-geral da PF e diz que questionamentos são inaceitáveis
+18:08 | O Liberal                    | Senado aprova política para minerais críticos com até R$ 7 bilhões em investimentos | Política | O Liberal
+18:07 | O GLOBO                      | Lula e coordenador da campanha de Flávio trocam acusações sobre fim da escala 6x1
+18:04 | Poder360                     | Vorcaro disse ao STF que tinha “relação cordial” com Andrei Rodrigues
+15:02 | Folha Poder                  | Supremo vai escolher entre expor ou esconder suas mazelas
+15:02 | Folha Poder                  | Veja quem chamou Daniel Vorcaro de 'irmão' e quem foi chamado da mesma forma pelo ex-banqueiro
+18:01 | Conjur                       | Instituto fundado por Mendonça formou quase 4 mil alunos em dois anos
+18:00 | Estadão                      | AtlasIntel: Riedel tem 49% das intenções de voto para o governo de MS; Fábio Trad tem 26%
+17:58 | Alma Preta Jornalismo        | Entidades acionam STF para fiscalizar cumprimento de cotas para candidaturas negras
+17:55 | sampi.net.br                 | Sampi Campinas: Representação política precisa recuperar seus vínculos
+17:48 | Estadão                      | Augusto Cury cobra apuração sobre Moraes e propõe novos critérios para escolher ministros do STF
+17:48 | Gazeta do Povo Rep           | OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
+14:47 | Congresso em Foco            | Oposição propõe indicação ao STF por lista de autoridades jurídicas
+17:45 | pleno.news                   | Fachin cita diálogo e tolerância para fortalecer democracia nas eleições
+17:42 | O GLOBO                      | Cury se reúne com líderes da Assembleia de Deus e diz estar próximo do eleitor conservador ‘há décadas’
+17:42 | Conjur                       | Cade vai investigar se aplicativo de entrega barra concorrente indevidamente
