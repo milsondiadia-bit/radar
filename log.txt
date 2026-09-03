@@ -959,3 +959,165 @@ veic  manch   min  grande  assunto
 15:08 | Congresso em Foco            | Governo regulamenta retomada de R$ 1 bilhão ligado a bets ilegais
 18:08 | iG Último Segundo            | Alexandre de Moraes deve assumir presidência do STF em 2027
 18:07 | O GLOBO                      | Lula e coordenador da campanha de Flávio trocam acusações sobre fim da escala 6x1
+==============================================================================
+RODADA 03/09 20:05 UTC  |  janela 90 min  |  100 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+   9     13    77  sim     AtlasIntel divulga pesquisa para governo e Se
+       veiculos: Blog do BG, CTB - Central dos Trabalhadores e Trabalhadoras do Brasil, Carta Capital, G1 Politica, GZH, Gazeta do Povo, Poder360, Revista Oeste, Rádio
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governo e Senado em Goiás
+       . [Gazeta do Povo] Futura Inteligência divulga pesquisa para presidente; veja os números
+       . [Gazeta do Povo] Senado adia PEC 6x1 e governo Lula perde trunfo para o 1º turno das eleições
+
+   5      6    59  sim     Câmara aprova fim da taxa das blusinhas; MP s
+       veiculos: CBN, Congresso em Foco, G1, Gazeta do Povo Rep, Poder360
+       . [G1] Câmara aprova fim da taxa das blusinhas; MP segue para o Senado
+       . [CBN] Câmara dos Deputados aprova fim da 'taxa das blusinhas'; texto vai ao plenário do Senado
+       . [Poder360] Varejo vai à Justiça contra fim da taxa das blusinhas
+
+   4      5    23  sim     O fim da escala 6×1 fica mais perto
+       veiculos: Carta Capital, Gazeta do Povo Rep, O GLOBO, Poder360
+       . [O GLOBO] Vorcaro diz em depoimento ao STF que fica ‘desconfortável’ em firmar delação com a PF: ‘Tinha relação com dire
+       . [Poder360] Vorcaro diz que serviço a ex-diretor do BC na Disney foi “agrado”
+       . [Carta Capital] O fim da escala 6×1 fica mais perto
+
+   4      4    70  nao     André Mendonça diz que deixará sociedade no I
+       veiculos: CNN Brasil, Carta Capital, GZH, pleno.news
+       . [CNN Brasil] Mendonça anuncia saída de instituto privado
+       . [pleno.news] André Mendonça diz que deixará sociedade no Instituto Iter
+       . [GZH] Por que um ministro do Supremo Tribunal Federal precisa ter um instituto privado?
+
+   3     11    77  nao     AtlasIntel divulga pesquisa para governador d
+       veiculos: Carta Capital, Gazeta do Povo, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a senador por Santa Catarina (SC): veja lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual em São Paulo (SP): veja lista de 2026
+
+   2      2    49  nao     Sem ponto final
+       veiculos: Carta Capital, Observatório da Imprensa
+       . [Observatório da Imprensa] A imprensa será surpreendida na reta final das eleições presidenciais de 2026?
+       . [Carta Capital] Sem ponto final
+
+   2      2    13  nao     Futura/Apex: No 1º turno, Lula tem 38,7%, Flá
+       veiculos: UOL Notícias, vermelho.org.br
+       . [UOL Notícias] Futura/Apex: No 1º turno, Lula tem 38,7%, Flávio, 33,6% e Cury, 9,9%
+       . [vermelho.org.br] Lula critica coordenador de Flávio Bolsonaro por travar avanço do fim da 6x1
+
+   2      2    51  nao     O reduto eleitoral como território
+       veiculos: Carta Capital, ICL Notícias
+       . [ICL Notícias] Ofensiva de Vorcaro contra governo Lula é vista como vingança e manipulação eleitoral
+       . [Carta Capital] O reduto eleitoral como território
+
+   2      2     1  nao     Paulo Nogueira Batista Jr.: Lula é questão de
+       veiculos: Carta Capital, CartaCapital
+       . [CartaCapital] Paulo Nogueira Batista Jr.: Lula é questão de salvação nacional
+       . [Carta Capital] Lula é questão de salvação nacional
+
+   2      2     8  sim     Nikolas Ferreira admite ter pedido ajuda a Vo
+       veiculos: BBC Brasil, G1 Politica
+       . [G1 Politica] 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
+       . [BBC Brasil] Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+
+--- MANCHETES DA JANELA (cruas) ---
+19:59 | Poder360                     | Varejo vai à Justiça contra fim da taxa das blusinhas
+19:58 | Valor Econômico              | Candidatos a deputado estadual no Mato Grosso (MT): veja a lista das eleições 2026
+19:55 | CTB - Central dos Trabalhado | Lula anuncia redução da fila do INSS e avanço na garantia de direitos dos trabalhadores - CTB - Central dos Trabalhadores e Trabalhadoras do Brasil
+19:54 | Revista Oeste                | Governo Lula trava devolução de canhão ao Paraguai
+19:53 | Poder360                     | Lula tem 68,3% ante 24,4% de Flávio no 2º turno no PI, diz pesquisa
+19:53 | Valor Econômico              | Candidatos a deputado estadual no Mato Grosso do Sul (MS): veja a lista das eleições de 2026
+19:51 | Conjur                       | TSE rejeita lista tríplice para o TRE-MS com apenas uma mulher
+19:50 | ICL Notícias                 | Ofensiva de Vorcaro contra governo Lula é vista como vingança e manipulação eleitoral
+19:49 | Valor Econômico              | Candidatos a deputado estadual em Minas Gerais (MG): veja lista das eleições 2026
+19:47 | Observatório da Imprensa     | A imprensa será surpreendida na reta final das eleições presidenciais de 2026?
+19:47 | CNN Brasil                   | Governo teme "avalanche" de notícias negativas envolvendo Caso Master
+19:47 | Poder360                     | Riedel tem 57,4% contra 30,7% de Trad no 2º turno ao governo de MS
+19:45 | Valor Econômico              | Candidatos a deputado estadual no Paraná (PR): veja a lista das eleições 2026
+19:45 | GZH                          | Por que um ministro do Supremo Tribunal Federal precisa ter um instituto privado?
+19:44 | CNN Brasil                   | OAB nacional pede reunião com Fachin para tratar de crise na corte
+16:42 | Congresso em Foco            | Câmara aprova MP do fim da taxa das blusinhas; texto vai ao Senado
+19:41 | GZH                          | Governo Lula anuncia que fila do INSS está zerada
+19:40 | Gazeta do Povo Rep           | Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+19:40 | CNN Brasil                   | Vorcaro disse à PF que Galípolo incentivou fusão Master-BRB
+19:40 | Terra                        | Salário mínimo não será reajustado para R$ 2,2 mil em setembro; vídeo de Lula foi feito com IA
+12:40 | Google Trends BR             | previsão do tempo porto alegre
+12:40 | Google Trends BR             | verona fc
+19:38 | Gazeta do Povo Rep           | Câmara aprova MP do fim da taxa das blusinhas
+19:38 | G1                           | Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
+19:36 | Gazeta do Povo Rep           | Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+19:35 | Valor Econômico              | Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
+19:33 | Rádio Itatiaia               | Desaprovação de Lula cresce e ultrapassa 50%, aponta pesquisa Futura
+19:33 | Poder360                     | Equipe de Lula usa pesquisas para modular discurso em caso Vorcaro-Moraes
+16:33 | Carta Capital                | Flávio Bolsonaro lidera com folga entre os eleitores do MS, diz pesquisa
+19:32 | Valor Econômico              | Candidatos a deputado estadual em São Paulo (SP): veja lista de 2026
+12:30 | Google Trends BR             | luiz fernando moraes dos santos
+19:28 | Terra                        | 'Discordar não é sinônimo de odiar', prega Fachin sobre eleições em meio a crise no STF
+16:26 | Folha Poder                  | André do Prado ironiza senadores de SP e diz que estão distantes da população; veja vídeo
+19:24 | G1 Politica                  | 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
+19:22 | BBC Brasil                   | Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
+19:22 | Poder360                     | Vorcaro diz que serviço a ex-diretor do BC na Disney foi “agrado”
+12:20 | Google Trends BR             | alan lescano
+12:20 | Google Trends BR             | lugano fc
+12:20 | Google Trends BR             | al qadsiah
+19:19 | CNN Brasil                   | Tarcísio prepara discurso mais ameno para ato de 7 de Setembro
+19:19 | Conjur                       | Qual a responsabilização pública no inadimplemento de prestador
+19:19 | Poder360                     | Em vitória de Lula, Câmara aprova fim da taxa das blusinhas
+19:18 | Poder360                     | PT pede investigação de Nikolas e Vorcaro por possíveis crimes de corrupção
+19:18 | G1 Politica                  | Governo anuncia que INSS passou a analisar mais pedidos de benefícios por mês do que número de novos requerimentos
+19:18 | brasildefato.com.br          | Kilumbu: a luta dos povos de terreiro no Sul Fluminense para transformar dados em dignidade, resistência e política pública
+19:17 | Poder360                     | Flávio tem 47,4% contra 42,5% de Lula no 2º turno no DF, diz pesquisa
+19:16 | BBC Brasil                   | Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+19:15 | CBN                          | Câmara dos Deputados aprova fim da 'taxa das blusinhas'; texto vai ao plenário do Senado
+19:14 | CNN Brasil                   | Em crise, BRB avalia parceria privada para frear gastos em áreas turísticas
+16:13 | Carta Capital                | AtlasIntel: Riedel é o favorito no Mato Grosso do Sul, com 49%; Trad tem 26%
+19:13 | vermelho.org.br              | Lula critica coordenador de Flávio Bolsonaro por travar avanço do fim da 6x1
+19:12 | Poder360                     | À PF, Vorcaro negou que funcionário do BC tenha atuado em seu favor
+19:11 | CNN Brasil                   | Mendonça anuncia saída de instituto privado
+12:10 | Google Trends BR             | uss abraham lincoln (cvn-72)
+12:10 | Google Trends BR             | toulouse fc
+19:08 | Gazeta do Povo Rep           | Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
+19:08 | Poder360                     | Vorcaro diz ter feito repasse a projeto social de ex-chefe do BC
+16:07 | Folha Poder                  | Mensagens com Vorcaro mostram que Alexandre não é mais Xandão; veja vídeo
+19:05 | O GLOBO                      | Vorcaro diz em depoimento ao STF que fica ‘desconfortável’ em firmar delação com a PF: ‘Tinha relação com diretor-geral’
+19:05 | Gazeta do Povo Rep           | Governo Lula sofre revés e votação da escala 6×1 fica fora da pauta no Senado
+19:05 | Gazeta do Povo               | Senado adia PEC 6x1 e governo Lula perde trunfo para o 1º turno das eleições
+19:04 | CNN Brasil                   | Futura: 59,4% desaprovam Congresso, enquanto 52,7% reprovam STF
+16:03 | Carta Capital                | Memória livre
+16:03 | Carta Capital                | Seu filho sabe nomear o que sente? Veja 6 formas de ensinar sobre emoções
+16:02 | Carta Capital                | TDAH em adultos vai além da falta de foco: conheça sinais que caracterizam o transtorno
+19:01 | Gazeta do Povo               | Futura Inteligência divulga pesquisa para presidente; veja os números
+19:00 | UOL Notícias                 | Futura/Apex: No 1º turno, Lula tem 38,7%, Flávio, 33,6% e Cury, 9,9%
+18:59 | G1                           | Câmara aprova fim da taxa das blusinhas; MP segue para o Senado
+15:59 | Carta Capital                | O fim da escala 6×1 fica mais perto
+15:58 | Carta Capital                | Lula é questão de salvação nacional
+15:58 | Carta Capital                | O reduto eleitoral como território
+15:58 | Carta Capital                | Pacha Mama
+15:58 | Carta Capital                | Sem ponto final
+15:58 | Carta Capital                | Saqueadores e fantoches
+15:58 | Carta Capital                | Radicalidade contra os radicais
+18:58 | CartaCapital                 | Paulo Nogueira Batista Jr.: Lula é questão de salvação nacional
+15:56 | Carta Capital                | Vício em juros
+15:56 | Carta Capital                | O povo na Casa
+18:56 | InfoMoney                    | Em meio à crise do caso Master, Gilmar defende retirada de delegados da PF do STF
+15:56 | Carta Capital                | Tentação na palma da mão
+15:56 | Carta Capital                | Copom e cupom
+15:56 | Carta Capital                | Ô troço agarrado
+15:56 | Carta Capital                | Voo cego
+15:56 | Carta Capital                | O Supremo vandalizado
+15:56 | Carta Capital                | O STF em ruínas
+18:56 | CNN Brasil                   | Planalto vê crise do STF prejudicar votação da 6x1 no Senado
+18:51 | Valor Econômico              | Candidatos a senador por Santa Catarina (SC): veja lista das eleições 2026
+18:50 | CNN Brasil                   | STF reconduz Zanin para segundo biênio como ministro substituto no TSE
+18:50 | G1                           | Impugnações de Arruda, Cunha e Garotinho testam novas regras da Ficha Limpa enquanto STF analisa validade das mudanças
+18:50 | Conjur                       | Intoxicação alimentar leva à condenação de resort all inclusive
+11:50 | Google Trends BR             | fábio faria
+11:50 | Google Trends BR             | frio
+18:49 | CNN Brasil                   | Notícias Ao Vivo do Brasil e do Mundo
+18:47 | novidades mt                 | Plenário aprova mudanças na estrutura da Ordem dos Advogados do Brasil
+18:46 | Blog do BG                   | PESQUISA BG/PERFIL – APROVAÇÃO DO GOVERNO LULA: 61,18% dos potiguares aprovam e 29,63% desaprovam a gestão do presidente
+18:43 | Gazeta do Povo               | Guia de Candidatos 2026 na Gazeta do Povo: consulte nomes, partidos e número de urna
+18:42 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governador do Mato Grosso do Sul
+18:40 | Gazeta do Povo Rep           | Nikolas Ferreira descarta intimidade com empresário acusado de fraude
+18:38 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governo e Senado em Goiás
+18:36 | pleno.news                   | André Mendonça diz que deixará sociedade no Instituto Iter
