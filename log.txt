@@ -1121,3 +1121,144 @@ veic  manch   min  grande  assunto
 18:40 | Gazeta do Povo Rep           | Nikolas Ferreira descarta intimidade com empresário acusado de fraude
 18:38 | Gazeta do Povo               | AtlasIntel divulga pesquisa para governo e Senado em Goiás
 18:36 | pleno.news                   | André Mendonça diz que deixará sociedade no Instituto Iter
+==============================================================================
+RODADA 03/09 20:35 UTC  |  janela 90 min  |  78 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+   7      8    69  sim     Câmara dos Deputados aprova fim da 'taxa das 
+       veiculos: Agencia Brasil Pol, CBN, Carta Capital, Congresso em Foco, Gazeta do Povo Rep, Jornal Opção, Poder360
+       . [CBN] Câmara dos Deputados aprova fim da 'taxa das blusinhas'; texto vai ao plenário do Senado
+       . [Jornal Opção] Câmara aprova fim da alíquota mínima da “taxa das blusinhas”; entenda o que muda e quais são os próximos passo
+       . [Agencia Brasil Pol] MP da "taxa das blusinhas" é aprovada na Câmara e vai ao Senado
+
+   3      3    36  sim     Gilmar propõe a Fachin proibir delegados da P
+       veiculos: G1, Google Trends BR, Poder360
+       . [G1] Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
+       . [Poder360] Gilmar defende retirada de delegados da PF dos gabinetes do STF
+       . [Google Trends BR] gilmar mendes
+
+   3      3    67  sim     Vorcaro diz em depoimento ao STF que fica ‘de
+       veiculos: Gazeta do Povo Rep, O GLOBO, Poder360
+       . [O GLOBO] Vorcaro diz em depoimento ao STF que fica ‘desconfortável’ em firmar delação com a PF: ‘Tinha relação com dire
+       . [Poder360] Vorcaro diz que serviço a ex-diretor do BC na Disney foi “agrado”
+       . [Gazeta do Povo Rep] Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+
+   3      3    45  sim     Lula culpa Flávio Bolsonaro por atraso na vot
+       veiculos: Carta Capital, Gazeta do Povo Rep, Poder360
+       . [Poder360] Lula tem 68,3% ante 24,4% de Flávio no 2º turno no PI, diz pesquisa
+       . [Carta Capital] Flávio Bolsonaro lidera com folga entre os eleitores do MS, diz pesquisa
+       . [Gazeta do Povo Rep] Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
+
+   2     10    57  nao     AtlasIntel: Riedel é o favorito no Mato Gross
+       veiculos: Carta Capital, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual em Santa Catarina (SC): veja lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual no Rio de Janeiro (RJ): veja a lista das eleições 2026
+
+   2      3    68  sim     Nikolas Ferreira admite ter pedido ajuda a Vo
+       veiculos: BBC Brasil, G1 Politica
+       . [G1 Politica] O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+       . [G1 Politica] 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
+       . [BBC Brasil] Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+
+   2      2    75  sim     Mendonça anuncia saída de instituto privado
+       veiculos: BBC Brasil, CNN Brasil
+       . [CNN Brasil] Mendonça anuncia saída de instituto privado
+       . [BBC Brasil] Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
+
+   2      2    43  sim     Vorcaro disse à PF que Galípolo incentivou fu
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Vorcaro disse à PF que Galípolo incentivou fusão Master-BRB
+       . [Poder360] Vorcaro diz que Galípolo incentivou fusão do Master com o BRB
+
+   2      2    37  sim     luiz fernando moraes dos santos
+       veiculos: Google Trends BR, Poder360
+       . [Poder360] “Decisões de Moraes não devem ser reconhecidas”, diz Renan Santos
+       . [Google Trends BR] luiz fernando moraes dos santos
+
+   2      2    37  sim     Osmar Terra denuncia lobby da maconha e cobra
+       veiculos: Carta Capital, Gazeta do Povo Rep
+       . [Carta Capital] Terra arrasada
+       . [Gazeta do Povo Rep] Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+
+--- MANCHETES DA JANELA (cruas) ---
+20:30 | instagram.com                | O candidato do Avante à presidência da República, Augusto Cury, esteve nesta quinta-feira (3) na sede da igreja Assembleia de Deus, no Belém, em São Paulo. Ele afirmou já ser próximo dos evangélicos há décadas e disse que foi convidado para visita. 📲L
+20:26 | BBC Brasil                   | Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
+20:26 | sintrajufe.org.br            | Fenajufe solicita ao STF que recursos da GAACTA sejam destinados à reestruturação da carreira
+20:24 | G1 Politica                  | O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+17:24 | Agencia Brasil Pol           | MP da "taxa das blusinhas" é aprovada na Câmara e vai ao Senado
+20:23 | Poder360                     | Vorcaro diz que Galípolo incentivou fusão do Master com o BRB
+20:22 | Poder360                     | Conselho amplia controle do governo sobre minerais críticos
+17:19 | Carta Capital                | O elétrico de Gotham
+17:19 | Carta Capital                | Câmara aprova fim da ‘taxa das blusinhas’; texto vai ao Senado
+17:17 | Carta Capital                | Terra arrasada
+20:17 | Folha de S.Paulo             | Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
+20:16 | CNN Brasil                   | Lula mede impacto de crise no STF e avalia fala
+20:15 | A10+                         | Governo sanciona lei que torna Tourette deficiência e estabelece política nacional de proteção
+20:14 | Poder360                     | Gilmar defende retirada de delegados da PF dos gabinetes do STF
+20:12 | Gazeta do Povo Rep           | Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+17:12 | Congresso em Foco            | Fim da taxa das blusinhas protege a renda familiar, diz Hugo Motta
+20:11 | Poder360                     | Maior preocupação de instituições financeiras é fiscal e inadimplência
+20:10 | Valor Econômico              | Candidatos a deputado estadual em Goiás (GO): veja a lista das eleições 2026
+20:10 | CartaCapital                 | Zanin é eleito para segundo mandato como ministro substituto do TSE
+20:10 | Jornal Opção                 | Câmara aprova fim da alíquota mínima da “taxa das blusinhas”; entenda o que muda e quais são os próximos passos
+20:06 | Poder360                     | “Decisões de Moraes não devem ser reconhecidas”, diz Renan Santos
+20:05 | G1 Politica                  | Cury defende fim de mandato vitalício no STF, com trocas a cada 8 anos
+20:05 | Canal Rural                  | Transparência do STF é essencial no caso Banco Master, afirma especialista
+20:05 | Valor Econômico              | Candidatos a deputado estadual no Maranhão (MA): veja a lista das eleições 2026
+20:03 | Gazeta do Povo               | Lula vai a Curitiba para ato de campanha durante ofensiva eleitoral no Sul
+20:00 | pleno.news                   | Fachin sobre eleições: “Discordar não é sinônimo de odiar”
+20:00 | Folha de S.Paulo             | Ministério Público tenta barrar 974 candidatos pelo país, e mudança na ficha limpa amplia incerteza
+13:00 | Google Trends BR             | assaí
+19:59 | Poder360                     | Varejo vai à Justiça contra fim da taxa das blusinhas
+19:58 | Valor Econômico              | Candidatos a deputado estadual no Mato Grosso (MT): veja a lista das eleições 2026
+19:56 | Gazeta do Povo Rep           | Câmara aprova MP do fim da taxa das blusinhas
+19:53 | Poder360                     | Lula tem 68,3% ante 24,4% de Flávio no 2º turno no PI, diz pesquisa
+19:51 | Conjur                       | TSE rejeita lista tríplice para o TRE-MS com apenas uma mulher
+12:50 | Google Trends BR             | gilmar mendes
+19:49 | Valor Econômico              | Candidatos a deputado estadual em Minas Gerais (MG): veja lista das eleições 2026
+19:47 | Observatório da Imprensa     | A imprensa será surpreendida na reta final das eleições presidenciais de 2026?
+19:47 | CNN Brasil                   | Governo teme "avalanche" de notícias negativas envolvendo Caso Master
+19:47 | Poder360                     | Riedel tem 57,4% contra 30,7% de Trad no 2º turno ao governo de MS
+19:45 | Valor Econômico              | Candidatos a deputado estadual no Paraná (PR): veja a lista das eleições 2026
+19:44 | CNN Brasil                   | OAB nacional pede reunião com Fachin para tratar de crise na corte
+16:42 | Congresso em Foco            | Câmara aprova MP do fim da taxa das blusinhas; texto vai ao Senado
+19:40 | Gazeta do Povo Rep           | Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+19:40 | CNN Brasil                   | Vorcaro disse à PF que Galípolo incentivou fusão Master-BRB
+12:40 | Google Trends BR             | previsão do tempo porto alegre
+12:40 | Google Trends BR             | verona fc
+19:38 | O GLOBO                      | Vorcaro diz que bancou 'todos os voos' de Nikolas, mostra áudio obtido pela PF
+19:38 | Valor Econômico              | Candidatos a deputado estadual no Rio de Janeiro (RJ): veja a lista das eleições 2026
+19:38 | G1                           | Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
+19:36 | Gazeta do Povo Rep           | Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+19:35 | Valor Econômico              | Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
+19:33 | Poder360                     | Equipe de Lula usa pesquisas para modular discurso em caso Vorcaro-Moraes
+16:33 | Carta Capital                | Flávio Bolsonaro lidera com folga entre os eleitores do MS, diz pesquisa
+19:32 | Valor Econômico              | Candidatos a deputado estadual em São Paulo (SP): veja lista de 2026
+19:30 | Valor Econômico              | Candidatos a deputado estadual em Santa Catarina (SC): veja lista das eleições 2026
+12:30 | Google Trends BR             | luiz fernando moraes dos santos
+16:26 | Folha Poder                  | André do Prado ironiza senadores de SP e diz que estão distantes da população; veja vídeo
+19:24 | G1 Politica                  | 'Conversas irrelevantes', diz Nikolas Ferreira sobre áudios com Daniel Vorcaro
+19:24 | Extra online                 | Motorista de app e mais dois são presos por ligação com contravenção após passageira pedir socorro a namorado delegado
+19:22 | BBC Brasil                   | Gloria Steinem, um ícone do feminismo americano que se infiltrou na Playboy para denunciar as condições de trabalho das mulheres
+19:22 | Poder360                     | Vorcaro diz que serviço a ex-diretor do BC na Disney foi “agrado”
+12:20 | Google Trends BR             | alan lescano
+12:20 | Google Trends BR             | lugano fc
+12:20 | Google Trends BR             | al qadsiah
+19:19 | CNN Brasil                   | Tarcísio prepara discurso mais ameno para ato de 7 de Setembro
+19:19 | Conjur                       | Qual a responsabilização pública no inadimplemento de prestador
+19:18 | G1 Politica                  | Governo anuncia que INSS passou a analisar mais pedidos de benefícios por mês do que número de novos requerimentos
+19:18 | Brasil de Fato               | Kilumbu: a luta dos povos de terreiro no Sul Fluminense para transformar dados em dignidade, resistência e política pública
+19:18 | BRASIL NOTÍCIA               | Pivetta admite atraso no CAR e desconhece problemas apontados
+19:16 | BBC Brasil                   | Nikolas Ferreira admite ter pedido ajuda a Vorcaro mas diz que não recebeu 'nenhum tostão' do banqueiro
+19:15 | CBN                          | Câmara dos Deputados aprova fim da 'taxa das blusinhas'; texto vai ao plenário do Senado
+19:14 | CNN Brasil                   | Em crise, BRB avalia parceria privada para frear gastos em áreas turísticas
+16:13 | Carta Capital                | AtlasIntel: Riedel é o favorito no Mato Grosso do Sul, com 49%; Trad tem 26%
+19:11 | CNN Brasil                   | Mendonça anuncia saída de instituto privado
+12:10 | Google Trends BR             | toulouse fc
+12:10 | Google Trends BR             | uss abraham lincoln (cvn-72)
+19:08 | Gazeta do Povo Rep           | Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
+16:07 | Folha Poder                  | Mensagens com Vorcaro mostram que Alexandre não é mais Xandão; veja vídeo
+19:05 | O GLOBO                      | Vorcaro diz em depoimento ao STF que fica ‘desconfortável’ em firmar delação com a PF: ‘Tinha relação com diretor-geral’
