@@ -2996,3 +2996,96 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Em meio à tensão com a Rússia, Alemanha testa míssil balístico israelense
        . [Veja] Vídeo: Alemanha testa míssil balístico israelense em meio a tensão com a Rússia
 
+==============================================================================
+RODADA 03/09 23:42 UTC  |  janela 90 min  |  143 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      3      74      1  AtlasIntel mostra ‘goleada’ de Lula sobre 
+       ineditas: isencao
+       veiculos: Agência Brasil, BBC Brasil, Brasil 247, Carta Capital, G1 Politica, Gazeta do Povo Rep, Jornal de Brasília, Metropoles, O Antagonista, Poder360, UOL E
+       . [Agência Brasil] Senado aprova MP da "taxa das blusinhas" e isenção se torna definitiva
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [Vero Notícias] Datafolha: desaprovação ao governo Lula sobe a 51%
+
+  12      4      26     17  Moraes acusa Mendonça de parcialidade e co
+       ineditas: abuso, acusa, andre, autoridade, crimes, encaminha, fachin, fake, fortes, indicios, inquerito, investigacao, mendonca, n
+       veiculos: CNN Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Folha Poder, Gazeta do Povo Rep, JOTA Info, Metropoles, O Antagonista, Poder360, Veja, g
+       . [g1.globo.com] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+       . [CNN Brasil] Moraes usa inquérito das fake news para acusar Mendonça de crimes
+       . [JOTA Info] Moraes pede providências a Fachin contra Mendonça por abuso de autoridade e favorecer grupo político
+
+  10      0      58      2  Lula anuncia que governo zerou fila do INS
+       ineditas: apesar, zerou
+       veiculos: CNN Brasil, GZH, O GLOBO, Poder360, Terra, Valor Econômico, Vero Notícias, band.com.br, g1.globo.com, noticias.uol.com.br
+       . [Valor Econômico] Datafolha: Flávio tem rejeição de 47% e Lula, de 45%
+       . [O GLOBO] Datafolha: governo Lula tem desaprovação de 51%; 45% aprovam
+       . [O GLOBO] Avaliação do governo Lula está abaixo do patamar dos anteriores
+
+   5      2      68      0  TRE-DF barra candidatura de Arruda por una
+       veiculos: Carta Capital, Claudio Dantas, Google Trends BR, O Antagonista, Valor Econômico
+       . [Valor Econômico] Justiça Eleitoral barra candidatura de Eduardo Cunha a deputado federal
+       . [Carta Capital] Justiça Eleitoral de Minas Gerais rejeita registro de candidatura de Eduardo Cunha
+       . [Google Trends BR] eduardo cunha
+
+   4      1      45      4  Os números da nova pesquisa Datafolha para
+       ineditas: feira, nesta, paulo, quaest
+       veiculos: G1 Politica, Gazeta do Povo, Valor Econômico, Veja
+       . [Gazeta do Povo] Os números da nova pesquisa Datafolha para presidente
+       . [Valor Econômico] A nova pesquisa Quaest para Minas Gerais após a chegada de Aécio Neves
+       . [Valor Econômico] Nova pesquisa Quaest para São Paulo será divulgada nesta terça-feira
+
+   4      0      21      4  STF fixa teto de R$ 5 mil de renda para ac
+       ineditas: acesso, gratuidade, gratuita, trabalho
+       veiculos: Agência Brasil, CartaCapital, InfoMoney, Poder360
+       . [Agência Brasil] STF decide limitar gratuidade em ações na Justiça do Trabalho
+       . [CartaCapital] STF contraria TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5 mil
+       . [InfoMoney] STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista
+
+   3      1      66      0  Delegados da PF rebatem proposta de Gilmar
+       veiculos: CNN Brasil, O Antagonista, O GLOBO
+       . [CNN Brasil] Delegados da PF rebatem proposta de Gilmar: “Tira foco de escândalo"
+       . [O GLOBO] Associação de delegados critica Gilmar e diz que PF não é responsável por problemas do STF
+       . [O Antagonista] Delegados da PF reagem a proposta de Gilmar para gabinetes do STF
+
+   3      0      48      0  Governo Lula anuncia fila zerada do INSS e
+       veiculos: Lula | Site oficial, Poder360, vermelho.org.br
+       . [Poder360] Governo Lula anuncia queda, mas não zera a fila do INSS
+       . [Lula | Site oficial] Governo Lula anuncia resultados que humanizam a fila do INSS - Lula | Site oficial
+       . [vermelho.org.br] Governo Lula anuncia fila zerada do INSS e queda do tempo de espera
+
+   2      0      53      4  Lula quebra silêncio e grava vídeo sobre c
+       ineditas: crise, grava, silencio, video
+       veiculos: CNN Brasil, Metropoles
+       . [CNN Brasil] Lula quebra silêncio e grava vídeo sobre crise no STF, mas sem citar Moraes
+       . [Metropoles] Sem mencionar Moraes, Lula rompe silêncio e grava vídeo sobre crise no STF
+
+   2      1      39      4  Esquema ligado à Refit custeou mansão na S
+       ineditas: cobertura, custeou, esquema, mansao
+       veiculos: CNN Brasil, Claudio Dantas
+       . [CNN Brasil] Esquema da Refit custeou caviar, mansão e cobertura a Castro, diz PF
+       . [Claudio Dantas] Esquema ligado à Refit custeou mansão na Serra e cobertura para Cláudio Castro, diz PF
+
+   2      0      21      3  STF institui teto de R$ 5 mil para concess
+       ineditas: concessao, gratuita, teto
+       veiculos: Consultor Jurídico, JOTA Info
+       . [JOTA Info] STF institui teto de R$ 5 mil para concessão do benefício da Justiça gratuita
+       . [Consultor Jurídico] STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+
+   2      0      14      0  Lucas Ribeiro lidera disputa pelo governo 
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] AtlasIntel divulga números da disputa para governador da Paraíba
+       . [Carta Capital] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa AtlasIntel
+
+   2      0      10      0  Datafolha: Ciro Gomes lidera no Ceará, mas
+       veiculos: Carta Capital, Valor Econômico
+       . [Valor Econômico] Datafolha: Ciro Gomes lidera com 46% contra 37% de Elmano Freitas no CE, mas vantagem diminui
+       . [Carta Capital] Datafolha: Ciro Gomes lidera no Ceará, mas vantagem para Elmano cai 10 pontos
+
+   2      0       1      1  grenal ao vivo
+       ineditas: vivo
+       veiculos: G1 Politica, Google Trends BR
+       . [G1 Politica] Empresário que fez repasses para Dark Horse disse em delação que 'gerava' dinheiro vivo para Vorcaro e entrega
+       . [Google Trends BR] grenal ao vivo
+
