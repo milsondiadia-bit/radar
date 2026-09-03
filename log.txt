@@ -1807,3 +1807,112 @@ veic  campo  manch   min  grande  assunto
        . [Gazeta do Povo Rep] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
        . [Veja] A reação de delegados da PF à proposta de Gilmar de tirá-los do STF
 
+==============================================================================
+RODADA 03/09 22:08 UTC  |  janela 90 min  |  144 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  idade  novo?      assunto
+------------------------------------------------------------------------------
+  10      2      70      0  NOVO       Congresso aprova medida para reduzir fila do 
+       veiculos: CartaCapital, Congresso em Foco, G1, G1 Politica, Metropoles, O Antagonista, Poder360, Transmissão Política, UOL Economia, Veja
+       . [Poder360] Em vitória de Lula, Congresso aprova fim da taxa das blusinhas
+       . [G1] Senado aprova fim da 'taxa das blusinhas'; texto segue para sanção presidencial
+       . [Transmissão Política] Câmara e Senado aprovam fim da ‘taxa das blusinhas’ para compras de até US$ 50
+
+   5      1      65      0  NOVO       TRE nega registro da candidatura de Arruda ao
+       veiculos: Correio Braziliense, Folha de S.Paulo, G1 Politica, Metropoles, Veja
+       . [Correio Braziliense] Arruda tem candidatura barrada em julgamento no TRE-DF e vai recorrer
+       . [Folha de S.Paulo] Justiça eleitoral barra candidatura de Arruda ao Governo do DF
+       . [G1 Politica] Arruda diz que vai recorrer ao TSE para manter candidatura ao governo do DF; TRE negou registro por unanimidad
+
+   5      3      87      0  NOVO       Alcolumbre acusa colegas de usarem ofensas a 
+       veiculos: Claudio Dantas, Congresso em Foco, Gazeta do Povo Rep, O Antagonista, O GLOBO
+       . [O GLOBO] Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Bra
+       . [Congresso em Foco] Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral
+       . [Gazeta do Povo Rep] Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+
+   3      0       5      0  NOVO       Datafolha, 2º turno: Lula, 46%; Flávio Bolson
+       veiculos: Folha Poder, G1 Politica, Metropoles
+       . [G1 Politica] Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
+       . [G1 Politica] Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%
+       . [Folha Poder] Datafolha: Lula tem 38% e Flávio Bolsonaro, 33% no 1º turno; Cury vai a 8%
+
+   3      2      28      0  NOVO       Nikolas rebate acusações envolvendo Vorcaro: 
+       veiculos: Congresso em Foco, O Antagonista, Veja
+       . [Congresso em Foco] Nikolas rebate acusações envolvendo Vorcaro: "nunca chamei de lindão"
+       . [O Antagonista] PSOL pede cassação de Nikolas após mensagens para Vorcaro
+       . [Veja] A mobilização nacional da OAB para cobrar investigação sobre mensagens de Vorcaro e Moraes
+
+   2      0      46      0  NOVO       Ministério Público e Justiça Eleitoral firmam
+       veiculos: Valor Econômico, mpf.mp.br
+       . [mpf.mp.br] Ministério Público e Justiça Eleitoral firmam acordo com lideranças religiosas por paz e tolerância nas Eleiçõ
+       . [Valor Econômico] Candidatos a deputado distrital no DF: veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual em Alagoas (AL): veja a lista das eleições 2026
+
+   2      0      63      0  NOVO       Lula minimiza despesas da Previdência e culpa
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Lula defende despesa com previdência e diz que acabou com fraude no INSS
+       . [Poder360] "Eu tenho uma sina com a Previdência Social", diz Lula
+       . [Poder360] Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+
+   2      0      30      0  NOVO       Fim da 6x1: Alcolumbre indica que proposta qu
+       veiculos: CNN Brasil, G1
+       . [G1] Fim da 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
+       . [CNN Brasil] Alcolumbre afirma que votação da PEC 6x1 ficará para depois das eleições
+       . [G1] Eleições 2026: veja como consultar local de votação pelo site do TSE e aplicativo e-Título
+
+   2      1      44      0  NOVO       Análise: Contra-ataque está em curso para fre
+       veiculos: CNN Brasil, Claudio Dantas
+       . [CNN Brasil] Análise: Contra-ataque está em curso para frear Mendonça
+       . [Claudio Dantas] Análise: De diretor da PF a alvo da PF
+
+   2      1      38      0  NOVO       Trump propõe criação de 'Rouanet' americana, 
+       veiculos: Terra, Veja
+       . [Terra] Trump propõe criação de 'Rouanet' americana, entenda
+       . [Veja] Donald Trump apoia a criação de uma ‘Lei Rouanet’ americana
+
+   2      0      44      0  NOVO       STF mantém poder do MP para requisitar períci
+       veiculos: Consultor Jurídico, stf noticias
+       . [stf noticias] Ministério Público pode requisitar apoio de servidores e meios materiais de órgãos públicos, decide STF
+       . [Consultor Jurídico] STF mantém poder do MP para requisitar perícias e servidores de órgãos públicos
+
+   2      1      27      0  NOVO       Fachin tem em mãos três soluções para crise e
+       veiculos: Gazeta do Povo Rep, Valor Econômico
+       . [Valor Econômico] Fachin tem em mãos três soluções para crise entre Alexandre de Moraes e André Mendonça
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   2      1       4      0  NOVO       A reação de delegados da PF à proposta de Gil
+       veiculos: Gazeta do Povo, Veja
+       . [Gazeta do Povo] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+       . [Veja] A reação de delegados da PF à proposta de Gilmar de tirá-los do STF
+
+   2      0      57      0  NOVO       Governo Lula diz que ‘zerou’ fila do INSS, ma
+       veiculos: Estadão, cbn.globo.com
+       . [Estadão] Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+       . [cbn.globo.com] Governo Lula diz que fila do INSS está zerada; 224 mil pedidos ainda esperam resposta
+
+   2      0       4      0  NOVO       Governo Lula diz que poderá recorrer a medida
+       veiculos: Estadão, Metropoles
+       . [Estadão] Governo Lula diz que poderá recorrer a medidas de reciprocidade contra UE por barrar carnes
+       . [Metropoles] Governo critica veto da UE à carne e cita medidas de reciprocidade
+
+   2      0      45      0  NOVO       Operador de Vorcaro que fez repasses ao 'Dark
+       veiculos: Folha Poder, G1 Politica
+       . [G1 Politica] Operador de Vorcaro que fez repasses ao 'Dark Horse' será ouvido pelo gabinete de Mendonça na próxima terça
+       . [Folha Poder] Empresário que fez repasses a 'Dark Horse' diz que movimentava malas de dinheiro a mando de Vorcaro
+
+   2      1      19      0  NOVO       Cury convoca apoiadores para caminhada do 7 d
+       veiculos: Poder360, Veja
+       . [Poder360] Cury convoca apoiadores para caminhada do 7 de Setembro em Copacabana
+       . [Veja] Augusto Cury planeja ato de 7 de Setembro em reduto bolsonarista
+
+   2      1      61      0  NOVO       Tarcísio demite, mas Justiça reintegra delega
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Justiça de São Paulo suspende a demissão de delegado Da Cunha
+       . [Veja] Tarcísio demite, mas Justiça reintegra delegado deputado que fazia live com ações policiais
+
+   2      0      12      0  NOVO       José Guimarães: O Brasil precisa virar a pági
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] José Guimarães: O Brasil precisa virar a página do atraso
+       . [Google Trends BR] gabriela guimarães
+
