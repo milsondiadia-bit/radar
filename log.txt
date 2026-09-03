@@ -2835,3 +2835,83 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Em meio à tensão com a Rússia, Alemanha testa míssil balístico israelense
        . [Veja] Vídeo: Alemanha testa míssil balístico israelense em meio a tensão com a Rússia
 
+==============================================================================
+RODADA 03/09 23:22 UTC  |  janela 90 min  |  154 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  24      3      85      9  Datafolha: Ciro Gomes lidera com 46% no Ce
+       ineditas: ante, apesar, aponta, aprovacao, jeito, nenhum, nova, positiva, zerou
+       veiculos: BBC Brasil, Bahia Notícias, Brasil 247, CNN Brasil, Carta Capital, CartaCapital, Folha Poder, G1, G1 Politica, GZH, Gazeta do Povo Rep, Metropoles, O 
+       . [G1] Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%
+       . [Valor Econômico] Datafolha: Flávio tem rejeição de 47% e Lula, de 45%
+       . [Valor Econômico] Datafolha: Lula tem 38% e Flávio, 33% no primeiro turno; Cury vai a 8%
+
+   8      3      14     12  Moraes acusa Mendonça de parcialidade e co
+       ineditas: acusa, crimes, encaminha, fachin, fake, indicios, inquerito, investigacao, mendonca, news, pede, pedido
+       veiculos: Carta Capital, Claudio Dantas, Folha Poder, G1 Politica, Gazeta do Povo Rep, Metropoles, Poder360, Veja
+       . [G1 Politica] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+       . [Poder360] Moraes pede para investigar Mendonça em inquérito das fake news
+       . [Carta Capital] Moraes cita ‘fortes indícios’ de crimes e encaminha a Fachin pedido de investigação contra Mendonça
+
+   4      1      57      0  Candidatura de Eduardo Cunha é indeferida 
+       veiculos: Claudio Dantas, Google Trends BR, Rádio Itatiaia, Valor Econômico
+       . [Rádio Itatiaia] Candidatura de Eduardo Cunha é indeferida por unanimidade no TRE-MG
+       . [Valor Econômico] Justiça Eleitoral barra candidatura de Eduardo Cunha a deputado federal
+       . [Google Trends BR] eduardo cunha
+
+   4      0      21      4  STF fixa teto de R$ 5 mil de renda para ac
+       ineditas: acesso, gratuidade, gratuita, trabalho
+       veiculos: Agência Brasil, CartaCapital, InfoMoney, Poder360
+       . [Agência Brasil] STF decide limitar gratuidade em ações na Justiça do Trabalho
+       . [CartaCapital] STF contraria TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5 mil
+       . [InfoMoney] STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista
+
+   3      0      51      2  A nova pesquisa Quaest para Pernambuco apó
+       ineditas: nova, quaest
+       veiculos: G1 Politica, Gazeta do Povo, Valor Econômico
+       . [Gazeta do Povo] Os números da nova pesquisa Datafolha para presidente
+       . [Valor Econômico] A nova pesquisa Quaest para Pernambuco após aparição de cartazes apócrifos
+       . [Valor Econômico] A nova pesquisa Quaest para Minas Gerais após a chegada de Aécio Neves
+
+   3      0      35      0  Gilmar Mendes sugere a Fachin vetar delega
+       veiculos: CNN Brasil, Gazeta do Povo, O GLOBO
+       . [CNN Brasil] Delegados da PF rebatem proposta de Gilmar: “Tira foco de escândalo"
+       . [O GLOBO] Associação de delegados critica Gilmar e diz que PF não é responsável por problemas do STF
+       . [Gazeta do Povo] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+
+   3      0      56      4  Empresário que fez repasses a 'Dark Horse'
+       ineditas: dinheiro, empresario, malas, vivo
+       veiculos: Folha Poder, G1 Politica, Google Trends BR
+       . [G1 Politica] Empresário que fez repasses para Dark Horse disse em delação que 'gerava' dinheiro vivo para Vorcaro e entrega
+       . [Google Trends BR] grenal ao vivo
+       . [Folha Poder] Empresário que fez repasses a 'Dark Horse' diz que movimentava malas de dinheiro a mando de Vorcaro
+
+   2      0      39      0  csa x nacional
+       veiculos: Congresso em Foco, Google Trends BR
+       . [Congresso em Foco] OAB adere ao Pacto Nacional pela Paz e Tolerância nas Eleições
+       . [Google Trends BR] csa x nacional
+
+   2      0      14      0  Lucas Ribeiro lidera disputa pelo governo 
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] AtlasIntel divulga números da disputa para governador da Paraíba
+       . [Carta Capital] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa AtlasIntel
+
+   2      0      40      1  kisy nascimento
+       ineditas: nascimento
+       veiculos: Google Trends BR, Poder360
+       . [Poder360] Juíza bloqueia tentativa de Trump de negar cidadania por nascimento
+       . [Google Trends BR] kisy nascimento
+
+   2      2       4      0  Sob pressão por Moraes, Alcolumbre reclama
+       veiculos: Claudio Dantas, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+       . [Claudio Dantas] Alcolumbre reage a ataques e acusa colegas de buscar votos
+
+   2      1      35      8  Vídeo: Alemanha testa míssil balístico isr
+       ineditas: alemanha, balistico, israelense, meio, missil, russia, tensao, testa
+       veiculos: Metropoles, Veja
+       . [Metropoles] Em meio à tensão com a Rússia, Alemanha testa míssil balístico israelense
+       . [Veja] Vídeo: Alemanha testa míssil balístico israelense em meio a tensão com a Rússia
+
