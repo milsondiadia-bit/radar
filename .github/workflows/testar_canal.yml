@@ -1,0 +1,27 @@
+name: Testar canal Brasil Breaking
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mandar mensagem de teste e anotar o resultado
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        run: |
+          for ID in "-1004425312509" "-4425312509"; do
+            echo "== tentando $ID =="
+            RESP=$(curl -s -X POST \
+              "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+              -d "chat_id=$ID" \
+              -d "text=Teste do canal Brasil Breaking. Se voce esta lendo isto, o ID certo e $ID")
+            echo "$RESP" | head -c 400
+            echo
+            echo "$RESP" | grep -q '"ok":true' && echo "FUNCIONOU COM: $ID" && break
+          done
