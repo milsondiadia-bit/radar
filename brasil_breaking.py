@@ -387,28 +387,51 @@ def salva_memoria(memoria):
         print(f"  nao consegui gravar a memoria: {e}")
 
 
-def chave_do_assunto(grupo):
+def palavras_do_grupo(grupo, minimo=2):
     """
-    Identidade do assunto entre uma rodada e outra.
+    As palavras que aparecem em pelo menos 2 manchetes do grupo.
 
-    Nao da para usar o rotulo: ele muda de rodada para rodada, porque e
-    a manchete mais antiga e manchetes novas vao entrando. Uso as
-    palavras que mais se repetem dentro do grupo - essas sao o assunto.
+    Exigir repeticao tira o ruido: nome de reporter, cidade citada de
+    passagem, palavra que so um veiculo usou. O que sobra e do que o
+    grupo esta falando de fato.
     """
     conta = defaultdict(int)
     for it in grupo["itens"]:
         for p in _palavras(it["titulo"]):
             conta[p] += 1
-    fortes = sorted(conta.items(), key=lambda x: (-x[1], x[0]))[:4]
-    return "|".join(sorted(p for p, _ in fortes))
+    fortes = {p for p, n in conta.items() if n >= minimo}
+    return fortes or {p for p, _ in
+                      sorted(conta.items(), key=lambda x: -x[1])[:4]}
 
 
-def idade_do_assunto(grupo, memoria, agora):
-    """Ha quantos minutos este assunto apareceu pela primeira vez."""
-    marca = memoria.get(chave_do_assunto(grupo))
-    if marca is None:
-        return 0
-    return int((agora - marca) / 60)
+def novidades(grupo, memoria, agora):
+    """
+    Quais palavras deste grupo o bot nunca tinha visto.
+
+    Aqui esta a resposta para o caso mais dificil: FATO NOVO DENTRO DE
+    ASSUNTO VELHO.
+    
+    O escandalo Vorcaro/Moraes domina o noticiario o dia inteiro. Se a
+    memoria guardasse o assunto, ele entraria de manha e, a noite,
+    "pedido de prisao do diretor-geral da PF" - que e a coisa mais forte
+    do dia - sairia marcado como coisa velha, e o alerta morreria no
+    melhor momento.
+    
+    Guardando PALAVRAS, nao: "vorcaro" e "prisao" ja sao conhecidas, mas
+    "diretor" e "rodrigues" nunca apareceram. Duas palavras ineditas
+    dentro de um assunto conhecido = aconteceu alguma coisa nova.
+    """
+    novas = set()
+    for p in palavras_do_grupo(grupo):
+        marca = memoria.get(p)
+        if marca is None or (agora - marca) / 60 <= MINUTOS_PARA_SER_NOVO:
+            novas.add(p)
+    return novas
+
+
+def registra(grupo, memoria, agora):
+    for p in palavras_do_grupo(grupo):
+        memoria.setdefault(p, agora)
 
 
 def minutos_de_espalhamento(grupo):
@@ -440,21 +463,22 @@ def escreve_log(grupos, total, erros, sem_data, minutos):
     if not grupos:
         linhas.append("(nenhum assunto com 2+ manchetes de 2+ veiculos)")
     else:
-        linhas.append(f"{'veic':>4} {'campo':>6} {'espalh':>7} {'idade':>6}  "
-                      f"{'novo?':<10} assunto")
+        linhas.append(f"{'veic':>4} {'campo':>6} {'espalh':>7} {'novas':>6}  "
+                      f"assunto  /  palavras ineditas")
         linhas.append("-" * 78)
 
     for g in grupos:
         espalho = minutos_de_espalhamento(g)
         grandes = g["fontes"] & GRANDES
         campo = g["fontes"] & CAMPO_DO_CANAL
-        idade = g.get("idade", 0)
-        marca = "NOVO" if idade <= MINUTOS_PARA_SER_NOVO else "ja vinha"
+        novas = g.get("novas", set())
         linhas.append(
             f"{len(g['fontes']):>4} {len(campo):>6} "
-            f"{'?' if espalho is None else espalho:>7} {idade:>6}  "
-            f"{marca:<10} {g['rotulo'][:45]}"
+            f"{'?' if espalho is None else espalho:>7} {len(novas):>6}  "
+            f"{g['rotulo'][:42]}"
         )
+        if novas:
+            linhas.append(f"       ineditas: {', '.join(sorted(novas))[:120]}")
         linhas.append(f"       veiculos: {', '.join(sorted(g['fontes']))[:150]}")
         for it in g["itens"][:3]:
             linhas.append(f"       . [{it['fonte']}] {it['titulo'][:110]}")
@@ -488,11 +512,13 @@ def main():
     memoria = carrega_memoria()
     agora = datetime.now(timezone.utc).timestamp()
     for g in grupos:
-        g["idade"] = idade_do_assunto(g, memoria, agora)
-        memoria.setdefault(chave_do_assunto(g), agora)
+        g["novas"] = novidades(g, memoria, agora)
+    for g in grupos:
+        registra(g, memoria, agora)
     salva_memoria(memoria)
-    novos = sum(1 for g in grupos if g["idade"] <= MINUTOS_PARA_SER_NOVO)
-    print(f"  {novos} assuntos novos, {len(grupos) - novos} ja vinham")
+    com_fato = sum(1 for g in grupos if len(g["novas"]) >= 2)
+    print(f"  {com_fato} grupos trazem fato novo, "
+          f"{len(grupos) - com_fato} sao repeteco")
     escreve_log(grupos, len(itens), erros, sem_data, args.minutos)
 
     print(f"\nMODO MEDICAO: nada foi enviado ao Telegram.")
