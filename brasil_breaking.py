@@ -33,6 +33,7 @@ Uso:
 """
 
 import argparse
+import json
 import os
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
@@ -340,6 +341,76 @@ def agrupa(itens):
     return final[:QUANTOS_ANOTAR]
 
 
+ARQUIVO_MEMORIA = "brasil_vistos.json"
+
+# Quanto tempo um assunto continua sendo considerado "conhecido".
+#
+# Esta e a peca que separa NOTICIA ESTOURANDO de PAUTA AGENDADA - e sem
+# ela o bot erra feio. Na medicao de 03/09 o topo do dia foi a "taxa das
+# blusinhas", com 10 veiculos publicando junto. Parecia explosao. Nao
+# era: a votacao estava marcada, todo mundo sabia, e o assunto ficou 3
+# HORAS no ar, aparecendo em 6 rodadas seguidas. Cobertura sincronizada
+# de coisa esperada nao e breaking news.
+#
+# Ja "Mendonça fala em honrar a confiança do povo", no meio da crise com
+# Moraes, juntou 6 veiculos e apareceu em UMA rodada so. Apareceu do
+# nada. Esse e o formato do que interessa.
+#
+# Entao o bot passa a guardar quando viu cada assunto pela primeira vez.
+# Se ele ja rondava o noticiario ha horas, nao alerta - por mais
+# veiculos que junte depois.
+HORAS_DE_MEMORIA = 12
+
+# Um assunto so conta como novo se a primeira vez que foi visto tiver
+# sido ha menos que isto. Acima disso, ja estava no radar.
+MINUTOS_PARA_SER_NOVO = 45
+
+
+def carrega_memoria():
+    """O que o bot ja tinha visto, e desde quando."""
+    try:
+        with open(ARQUIVO_MEMORIA, encoding="utf-8") as f:
+            bruto = json.load(f)
+    except Exception:
+        return {}
+
+    agora = datetime.now(timezone.utc).timestamp()
+    limite = agora - HORAS_DE_MEMORIA * 3600
+    return {k: v for k, v in bruto.items() if v >= limite}
+
+
+def salva_memoria(memoria):
+    try:
+        with open(ARQUIVO_MEMORIA, "w", encoding="utf-8") as f:
+            json.dump(memoria, f)
+    except Exception as e:
+        print(f"  nao consegui gravar a memoria: {e}")
+
+
+def chave_do_assunto(grupo):
+    """
+    Identidade do assunto entre uma rodada e outra.
+
+    Nao da para usar o rotulo: ele muda de rodada para rodada, porque e
+    a manchete mais antiga e manchetes novas vao entrando. Uso as
+    palavras que mais se repetem dentro do grupo - essas sao o assunto.
+    """
+    conta = defaultdict(int)
+    for it in grupo["itens"]:
+        for p in _palavras(it["titulo"]):
+            conta[p] += 1
+    fortes = sorted(conta.items(), key=lambda x: (-x[1], x[0]))[:4]
+    return "|".join(sorted(p for p, _ in fortes))
+
+
+def idade_do_assunto(grupo, memoria, agora):
+    """Ha quantos minutos este assunto apareceu pela primeira vez."""
+    marca = memoria.get(chave_do_assunto(grupo))
+    if marca is None:
+        return 0
+    return int((agora - marca) / 60)
+
+
 def minutos_de_espalhamento(grupo):
     """
     Em quantos minutos o assunto se espalhou.
@@ -369,18 +440,20 @@ def escreve_log(grupos, total, erros, sem_data, minutos):
     if not grupos:
         linhas.append("(nenhum assunto com 2+ manchetes de 2+ veiculos)")
     else:
-        linhas.append(f"{'veic':>4} {'campo':>6} {'manch':>6} {'min':>5}  "
-                      f"{'grande':<7} assunto")
+        linhas.append(f"{'veic':>4} {'campo':>6} {'espalh':>7} {'idade':>6}  "
+                      f"{'novo?':<10} assunto")
         linhas.append("-" * 78)
 
     for g in grupos:
         espalho = minutos_de_espalhamento(g)
         grandes = g["fontes"] & GRANDES
         campo = g["fontes"] & CAMPO_DO_CANAL
+        idade = g.get("idade", 0)
+        marca = "NOVO" if idade <= MINUTOS_PARA_SER_NOVO else "ja vinha"
         linhas.append(
-            f"{len(g['fontes']):>4} {len(campo):>6} {g['manchetes']:>6} "
-            f"{'?' if espalho is None else espalho:>5}  "
-            f"{('sim' if grandes else 'nao'):<7} {g['rotulo'][:45]}"
+            f"{len(g['fontes']):>4} {len(campo):>6} "
+            f"{'?' if espalho is None else espalho:>7} {idade:>6}  "
+            f"{marca:<10} {g['rotulo'][:45]}"
         )
         linhas.append(f"       veiculos: {', '.join(sorted(g['fontes']))[:150]}")
         for it in g["itens"][:3]:
@@ -410,6 +483,16 @@ def main():
 
     itens, erros, sem_data = coleta_minutos(args.minutos)
     grupos = agrupa(itens)
+
+    # marca a idade de cada assunto e guarda os que ainda nao conhecia
+    memoria = carrega_memoria()
+    agora = datetime.now(timezone.utc).timestamp()
+    for g in grupos:
+        g["idade"] = idade_do_assunto(g, memoria, agora)
+        memoria.setdefault(chave_do_assunto(g), agora)
+    salva_memoria(memoria)
+    novos = sum(1 for g in grupos if g["idade"] <= MINUTOS_PARA_SER_NOVO)
+    print(f"  {novos} assuntos novos, {len(grupos) - novos} ja vinham")
     escreve_log(grupos, len(itens), erros, sem_data, args.minutos)
 
     print(f"\nMODO MEDICAO: nada foi enviado ao Telegram.")
