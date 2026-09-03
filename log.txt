@@ -1,0 +1,121 @@
+==============================================================================
+RODADA 03/09 18:22 UTC  |  janela 90 min  |  61 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Migalhas: HTTPError; Agencia Camara: ParseError; Agencia Senado: URLError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+   5      9    85  sim     STF
+       veiculos: Carta Capital, G1 Politica, GNews STF, GNews politica, Poder360
+       . [GNews politica] Análise: Ministros deixam crise no STF em modo de espera - cnnbrasil.com.br
+       . [GNews STF] Entidades acionam STF para fiscalizar cumprimento de cotas para candidaturas negras - Alma Preta Jornalismo
+       . [GNews STF] Gilmar defende saída de delegados da PF que atuam em gabinetes do STF - cnnbrasil.com.br
+
+   4      8    67  nao     Lula
+       veiculos: Carta Capital, GNews eleicoes, GNews governo, GNews politica
+       . [GNews politica] Marinho rebate Lula sobre fim da 6x1: "Ladrão da esperança" - cnnbrasil.com.br
+       . [GNews politica] No RIO, onde perdeu por mais de 12% em 2022, Lula empata com Flávio Bolsonaro no 2ºturno - SRzd
+       . [GNews eleicoes] Lula e coordenador da campanha de Flávio trocam acusações sobre fim da escala 6x1 - O GLOBO
+
+   4      6    53  sim     Moraes
+       veiculos: Congresso em Foco, G1 Politica, GNews STF, Gazeta do Povo Rep
+       . [GNews STF] Augusto Cury cobra apuração sobre Moraes e propõe novos critérios para escolher ministros do STF - estadao.com
+       . [G1 Politica] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+       . [Congresso em Foco] Damares obtém 41 assinaturas em pedido de impeachment contra Moraes
+
+   3      4    69  sim     Senado
+       veiculos: Carta Capital, GNews eleicoes, Poder360
+       . [GNews eleicoes] Ex-governador Ronaldo Lessa renuncia à 2ª suplência na chapa da esposa de JHC ao Senado em Alagoas; entenda - 
+       . [Poder360] PT aciona Conselho de Ética do Senado contra Flávio Bolsonaro
+       . [Poder360] Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+
+   3      3    27  sim     Fachin
+       veiculos: Carta Capital, GNews politica, Gazeta do Povo Rep
+       . [GNews politica] Fachin cita diálogo e tolerância para fortalecer democracia nas eleições - pleno.news
+       . [Carta Capital] Gilmar Mendes pede a Fachin que proíba delegados da PF de atuarem nos gabinetes de ministros do STF
+       . [Gazeta do Povo Rep] OAB-PR defende afastamento de Moraes e suspeição de Gonet; nota será enviada a Fachin
+
+   3      3     3  sim     Pesquisa
+       veiculos: GNews eleicoes, GNews governo, Poder360
+       . [GNews eleicoes] Pesquisa governador PE: veja números do último levantamento - UOL Notícias
+       . [GNews governo] Pesquisa aponta 64% de desaprovação a Lula em Mato Grosso - MidiaNews
+       . [Poder360] Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+
+   2      5    67  sim     lidera
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Marília Arraes lidera disputa pelo Senado em PE, diz pesquisa
+       . [Carta Capital] AtlasIntel: Marcelo Castro lidera a disputa pelo Senado no Piauí
+       . [Carta Capital] AtlasIntel: Zucco lidera a disputa pelo governo do Rio Grande do Sul, com Juliana Brizola em 2º
+
+   2      4    47  sim     Tarcísio
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Tarcísio diz que casos de corrupção na Fazenda são “isolados”
+       . [Poder360] Tarcísio diz que resposta a Haddad “vai vir nas urnas”
+       . [Poder360] Tarifa da Sabesp está 15% menor depois da privatização, diz Tarcísio
+
+   2      3    53  nao     candidato
+       veiculos: Carta Capital, GNews eleicoes
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato - Valor E
+       . [GNews eleicoes] Candidato a deputado, neto de Vovô Anésio é acusado de criar vídeo do idoso com IA para impulsionar campanha; 
+       . [Carta Capital] AtlasIntel: Daniel Vilela lidera em Goiás, 23 pontos à frente de candidato do PL
+
+   2      3    19  sim     governo
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Ao STF, Vorcaro disse que delação envolvia pessoas do “atual governo”
+       . [Carta Capital] AtlasIntel: Zucco lidera a disputa pelo governo do Rio Grande do Sul, com Juliana Brizola em 2º
+       . [Carta Capital] AtlasIntel: Celina Leão e Leandro Grass empatam na disputa pelo governo do DF
+
+   2      2    16  nao     eleições
+       veiculos: GNews eleicoes, GNews politica
+       . [GNews politica] Fachin cita diálogo e tolerância para fortalecer democracia nas eleições - pleno.news
+       . [GNews eleicoes] Eleições 2026: Quando uma prática vira crime eleitoral? - Portal da Câmara Municipal de São Paulo
+
+   2      2    48  nao     política
+       veiculos: GNews eleicoes, GNews politica
+       . [GNews politica] Sampi Campinas: Representação política precisa recuperar seus vínculos - sampi.net.br
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato - Valor E
+
+   2      2     4  sim     Cortes
+       veiculos: BBC Brasil, GNews STF
+       . [GNews STF] Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo - BBC
+       . [BBC Brasil] Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo
+
+   2      2    45  nao     cotas
+       veiculos: Conjur, GNews STF
+       . [GNews STF] Entidades acionam STF para fiscalizar cumprimento de cotas para candidaturas negras - Alma Preta Jornalismo
+       . [Conjur] IR incide na venda de cotas entre fundos de investimento imobiliário, afirma STJ
+
+   2      2     6  nao     Câmara
+       veiculos: Congresso em Foco, GNews eleicoes
+       . [GNews eleicoes] Eleições 2026: Quando uma prática vira crime eleitoral? - Portal da Câmara Municipal de São Paulo
+       . [Congresso em Foco] Liberação de porte de arma para oficiais de justiça avança na Câmara
+
+   2      2    12  sim     Caiado
+       veiculos: G1 Politica, GNews eleicoes
+       . [GNews eleicoes] Ultrapassado por Cury nas pesquisas, Caiado muda o tom e questiona experiência política do candidato - Valor E
+       . [G1 Politica] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+
+   2      2     4  sim     renuncia
+       veiculos: G1 Politica, GNews eleicoes
+       . [GNews eleicoes] Ex-governador Ronaldo Lessa renuncia à 2ª suplência na chapa da esposa de JHC ao Senado em Alagoas; entenda - 
+       . [G1 Politica] Caiado defende renúncia de Alexandre de Moraes para evitar insurgências contra o STF: 'Coloca em risco esta or
+
+   2      2    33  sim     Daniel
+       veiculos: Carta Capital, G1 Politica
+       . [G1 Politica] Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+       . [Carta Capital] AtlasIntel: Daniel Vilela lidera em Goiás, 23 pontos à frente de candidato do PL
+
+   2      2    13  sim     Nikolas
+       veiculos: Carta Capital, G1 Politica
+       . [G1 Politica] Em áudios, Nikolas Ferreira pede que Daniel Vorcaro ajude em negócios de ex-assessor
+       . [Carta Capital] Deputados do PT vão à PGR contra Nikolas após revelação de conversa com Vorcaro
+
+   2      2    34  sim     Polícia
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Novo pede prisão preventiva de diretor da Polícia Federal
+       . [Carta Capital] Tarcísio exonera Da Cunha da função de delegado da Polícia Civil
+
+   2      2    24  sim     Santos
+       veiculos: Conjur, Gazeta do Povo Rep
+       . [Conjur] Livro em homenagem a Teodoro Silva Santos será lançado em 15/9, no STJ
+       . [Gazeta do Povo Rep] Renan Santos protocola pedido de impeachment contra Moraes e Toffoli
+
