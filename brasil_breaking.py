@@ -318,7 +318,7 @@ def minutos_de_espalhamento(grupo):
     return round((max(datas) - min(datas)).total_seconds() / 60)
 
 
-def escreve_log(grupos, total, erros, sem_data, minutos, TODAS):
+def escreve_log(grupos, total, erros, sem_data, minutos):
     agora = datetime.now(timezone.utc).strftime("%d/%m %H:%M UTC")
     linhas = []
     linhas.append("=" * 78)
@@ -350,20 +350,12 @@ def escreve_log(grupos, total, erros, sem_data, minutos, TODAS):
             linhas.append(f"       . [{it['fonte']}] {it['titulo'][:110]}")
         linhas.append("")
 
-    # Lista crua de tudo que entrou na janela.
+    # A lista crua de manchetes saiu daqui.
     #
-    # Existe porque o agrupamento ainda esta em teste: a primeira
-    # medicao juntou 9 manchetes sob o rotulo "STF" que nao tinham nada
-    # a ver umas com as outras (cotas eleitorais, delegados da PF, crise
-    # interna). Agrupar por termo repetido nao e agrupar por HISTORIA.
-    # Com a lista crua da para testar regras de agrupamento fora do ar,
-    # sobre manchetes reais, sem ficar chutando no escuro.
-    linhas.append("--- MANCHETES DA JANELA (cruas) ---")
-    for it in sorted(TODAS, key=lambda x: (x["data"] or datetime.min.replace(
-            tzinfo=timezone.utc)), reverse=True):
-        quando = it["data"].strftime("%H:%M") if it["data"] else "--:--"
-        linhas.append(f"{quando} | {it['fonte'][:28]:<28} | {it['titulo']}")
-
+    # Ela existia para eu calibrar o agrupamento fora do ar, e ja
+    # cumpriu isso: foi com ela que o corte de 0.30 foi medido. Rodando
+    # de 10 em 10 minutos, ela sozinha faria o log passar de 1 MB por
+    # dia e atrapalhar a leitura do que interessa.
     linhas.append("")
     texto = "\n".join(linhas)
 
@@ -381,7 +373,7 @@ def main():
 
     itens, erros, sem_data = coleta_minutos(args.minutos)
     grupos = agrupa(itens)
-    escreve_log(grupos, len(itens), erros, sem_data, args.minutos, itens)
+    escreve_log(grupos, len(itens), erros, sem_data, args.minutos)
 
     print(f"\nMODO MEDICAO: nada foi enviado ao Telegram.")
     print(f"log.txt agora tem "
