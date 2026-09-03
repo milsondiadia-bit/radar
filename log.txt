@@ -2521,3 +2521,108 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] náutico x botafogo sp
        . [Veja] Caio Martins: estádio que foi segunda casa do Botafogo vai virar parque e reservatório
 
+==============================================================================
+RODADA 03/09 22:52 UTC  |  janela 90 min  |  157 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  21      3      86     44  Augusto Cury planeja ato de 7 de Setembro 
+       ineditas: ante, anuncia, aponta, aprova, aprovacao, aprovam, augusto, avaliacao, blusinhas, bolsonaro, ceara, ciro, cury, datafolh
+       veiculos: BBC Brasil, Bahia Notícias, Brasil 247, CBN, CNN Brasil, Carta Capital, CartaCapital, Estadão, Folha Poder, G1, G1 Politica, Gazeta do Povo Rep, Jorna
+       . [G1] Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%
+       . [G1] Datafolha: 51% desaprovam governo Lula e 45% aprovam
+       . [Valor Econômico] Datafolha: Lula tem 38% e Flávio, 33% no primeiro turno; Cury vai a 8%
+
+  10      3      78     11  Arruda tem candidatura barrada em julgamen
+       ineditas: arruda, barra, candidatura, cunha, eduardo, eleitoral, governo, justica, recorrer, registro, unanimidade
+       veiculos: Carta Capital, Claudio Dantas, Congresso em Foco, Correio Braziliense, Folha de S.Paulo, G1 Politica, Google Trends BR, O Antagonista, Valor Econômico
+       . [Correio Braziliense] Arruda tem candidatura barrada em julgamento no TRE-DF e vai recorrer
+       . [Folha de S.Paulo] Justiça eleitoral barra candidatura de Arruda ao Governo do DF
+       . [Valor Econômico] Justiça Eleitoral barra candidatura de Eduardo Cunha a deputado federal
+
+   4      1      39      4  A reação de delegados da PF à proposta de 
+       ineditas: delegados, gilmar, proposta, tira
+       veiculos: CNN Brasil, Gazeta do Povo, O GLOBO, Veja
+       . [CNN Brasil] Delegados da PF rebatem proposta de Gilmar: “Tira foco de escândalo"
+       . [O GLOBO] Associação de delegados critica Gilmar e diz que PF não é responsável por problemas do STF
+       . [Gazeta do Povo] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+
+   4      1      28      3  A mobilização nacional da OAB para cobrar 
+       ineditas: camara, nacional, senado
+       veiculos: Google Trends BR, Terra, Transmissão Política, Veja
+       . [Terra] Como funciona o Congresso Nacional: entenda a divisão entre Câmara e Senado
+       . [Transmissão Política] Câmara e Senado aprovam fim da ‘taxa das blusinhas’ para compras de até US$ 50
+       . [Google Trends BR] csa x nacional
+
+   3      0      22      5  A nova pesquisa Quaest para Pernambuco apó
+       ineditas: datafolha, nova, numeros, pesquisa, presidente
+       veiculos: G1 Politica, Gazeta do Povo, Valor Econômico
+       . [Gazeta do Povo] Os números da nova pesquisa Datafolha para presidente
+       . [Valor Econômico] A nova pesquisa Quaest para Pernambuco após aparição de cartazes apócrifos
+       . [G1 Politica] Datafolha: 71% estão decididos sobre voto para presidente e 28% ainda podem mudar; veja números por candidato
+
+   3      3       8      5  Pressão por Moraes leva Alcolumbre a desab
+       ineditas: alcolumbre, ataques, colegas, moraes, pressao
+       veiculos: Claudio Dantas, Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo Rep] Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+       . [O Antagonista] Pressão por Moraes leva Alcolumbre a desabafar no plenário
+       . [Claudio Dantas] Alcolumbre reage a ataques e acusa colegas de buscar votos
+
+   3      2      63      1  Caio Martins: estádio que foi segunda casa
+       ineditas: casa
+       veiculos: Google Trends BR, O Antagonista, Veja
+       . [Google Trends BR] casa
+       . [O Antagonista] Enquanto Barack Obama chorou, Michelle teve reação diferente à saída das filhas de casa
+       . [Veja] Caio Martins: estádio que foi segunda casa do Botafogo vai virar parque e reservatório
+
+   3      2      42      4  De cobertura a caviar: as vantagens que Ca
+       ineditas: castro, caviar, claudio, refit
+       veiculos: Metropoles, O Antagonista, Veja
+       . [Metropoles] PF diz que aliado pagou R$ 10,5 mil por caviar comprado por Cláudio Castro
+       . [O Antagonista] Mensagens mostram Cláudio Castro chamando dono da Refit de “amigo”
+       . [Veja] De cobertura a caviar: as vantagens que Castro recebeu da Refit, segundo PF
+
+   2      0      20      6  Candidatos a deputado estadual no Ceará (C
+       ineditas: 2026, candidatos, deputado, eleicoes, estadual, lista
+       veiculos: G1, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado estadual na Bahia (BA): veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado distrital no DF: veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual em Alagoas (AL): veja a lista das eleições 2026
+
+   2      0       3      2  Alcolumbre afirma que votação da PEC 6x1 f
+       ineditas: eleicoes, votacao
+       veiculos: CNN Brasil, G1
+       . [CNN Brasil] Alcolumbre afirma que votação da PEC 6x1 ficará para depois das eleições
+       . [G1] Eleições 2026: saiba como acessar zona e local de votação no Amapá
+
+   2      0      14      3  Lucas Ribeiro lidera disputa pelo governo 
+       ineditas: atlasintel, disputa, paraiba
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] AtlasIntel divulga números da disputa para governador da Paraíba
+       . [Carta Capital] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa AtlasIntel
+
+   2      0      40      1  kisy nascimento
+       ineditas: nascimento
+       veiculos: Google Trends BR, Poder360
+       . [Poder360] Juíza bloqueia tentativa de Trump de negar cidadania por nascimento
+       . [Google Trends BR] kisy nascimento
+
+   2      0      27      2  Carlos Viana representa contra Alcolumbre 
+       ineditas: alcolumbre, viana
+       veiculos: Congresso em Foco, Metropoles
+       . [Congresso em Foco] Carlos Viana representa contra Alcolumbre no Conselho de Ética
+       . [Metropoles] Alcolumbre manda indireta a Viana e fala em ataque para “ganhar curtidas”
+
+   2      1      16      2  gustavo mioto
+       ineditas: gustavo, mioto
+       veiculos: Google Trends BR, O Antagonista
+       . [Google Trends BR] gustavo mioto
+       . [O Antagonista] Após estreia como ator, Gustavo Mioto recusa duas séries e revela o que pesou na decisão
+
+   2      1      35      8  Vídeo: Alemanha testa míssil balístico isr
+       ineditas: alemanha, balistico, israelense, meio, missil, russia, tensao, testa
+       veiculos: Metropoles, Veja
+       . [Metropoles] Em meio à tensão com a Rússia, Alemanha testa míssil balístico israelense
+       . [Veja] Vídeo: Alemanha testa míssil balístico israelense em meio a tensão com a Rússia
+
