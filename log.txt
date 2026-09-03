@@ -1702,3 +1702,108 @@ veic  campo  manch   min  grande  assunto
        . [Gazeta do Povo Rep] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
        . [Veja] A reação de delegados da PF à proposta de Gilmar de tirá-los do STF
 
+==============================================================================
+RODADA 03/09 22:05 UTC  |  janela 90 min  |  139 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  manch   min  grande  assunto
+------------------------------------------------------------------------------
+  11      2     17    83  sim     Câmara aprova MP que acaba com a Taxa das Blu
+       veiculos: CartaCapital, Congresso em Foco, Exame, G1, G1 Politica, Metropoles, O Antagonista, Poder360, Transmissão Política, UOL Economia, Veja
+       . [Poder360] Em vitória para Lula, Câmara aprova fim da taxa das blusinhas
+       . [G1] Senado aprova fim da 'taxa das blusinhas'; texto segue para sanção presidencial
+       . [Exame] Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+
+   5      1      7    50  sim     TRE nega registro da candidatura de Arruda ao
+       veiculos: Correio Braziliense, Folha de S.Paulo, G1 Politica, Metropoles, Veja
+       . [Correio Braziliense] Arruda tem candidatura barrada em julgamento no TRE-DF e vai recorrer
+       . [Folha de S.Paulo] Justiça eleitoral barra candidatura de Arruda ao Governo do DF
+       . [G1 Politica] Arruda diz que vai recorrer ao TSE para manter candidatura ao governo do DF; TRE negou registro por unanimidad
+
+   3      0      4    46  nao     Ministério Público e Justiça Eleitoral firmam
+       veiculos: G1, Valor Econômico, mpf.mp.br
+       . [mpf.mp.br] Ministério Público e Justiça Eleitoral firmam acordo com lideranças religiosas por paz e tolerância nas Eleiçõ
+       . [Valor Econômico] Candidatos a deputado distrital no DF: veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual no Ceará (CE): veja a lista das eleições 2026
+
+   3      1      3    79  nao     Alcolumbre acusa colegas de usarem ofensas a 
+       veiculos: Congresso em Foco, O Antagonista, O GLOBO
+       . [O GLOBO] Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Bra
+       . [Congresso em Foco] Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral
+       . [O Antagonista] Pressão por Moraes leva Alcolumbre a desabafar no plenário
+
+   3      1      3    34  sim     OAB vai se reunir com Fachin em meio à crise 
+       veiculos: Gazeta do Povo Rep, Jurinews, Valor Econômico
+       . [Valor Econômico] Fachin tem em mãos três soluções para crise entre Alexandre de Moraes e André Mendonça
+       . [Jurinews] OAB vai se reunir com Fachin em meio à crise no STF
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   3      0      3    64  sim     Governo critica início do veto à venda de car
+       veiculos: Estadão, G1 Politica, Metropoles
+       . [Estadão] Governo Lula diz que poderá recorrer a medidas de reciprocidade contra UE por barrar carnes
+       . [G1 Politica] Governo critica início do veto à venda de carne brasileira para União Europeia e cita possibilidade de 'medida
+       . [Metropoles] Governo critica veto da UE à carne e cita medidas de reciprocidade
+
+   3      2      3    28  sim     Nikolas rebate acusações envolvendo Vorcaro: 
+       veiculos: Congresso em Foco, O Antagonista, Veja
+       . [Congresso em Foco] Nikolas rebate acusações envolvendo Vorcaro: "nunca chamei de lindão"
+       . [O Antagonista] PSOL pede cassação de Nikolas após mensagens para Vorcaro
+       . [Veja] A mobilização nacional da OAB para cobrar investigação sobre mensagens de Vorcaro e Moraes
+
+   2      0      4    63  sim     Lula minimiza despesas da Previdência e culpa
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Lula defende despesa com previdência e diz que acabou com fraude no INSS
+       . [Poder360] "Eu tenho uma sina com a Previdência Social", diz Lula
+       . [Poder360] Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+
+   2      0      3    78  sim     Lula tem 38,7% das intenções de voto contra 3
+       veiculos: G1 Politica, Poder360
+       . [G1 Politica] Datafolha, 1º turno: Lula, 38%; Flávio Bolsonaro, 33%; Cury, 8%; Caiado, 4%; Renan, 3%; Zema, 2%
+       . [G1 Politica] Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%
+       . [Poder360] Lula tem 38,7% das intenções de voto contra 33,6% de Flávio
+
+   2      1      2    44  nao     Análise: Contra-ataque está em curso para fre
+       veiculos: CNN Brasil, Claudio Dantas
+       . [CNN Brasil] Análise: Contra-ataque está em curso para frear Mendonça
+       . [Claudio Dantas] Análise: De diretor da PF a alvo da PF
+
+   2      1      2    38  sim     Trump propõe criação de 'Rouanet' americana, 
+       veiculos: Terra, Veja
+       . [Terra] Trump propõe criação de 'Rouanet' americana, entenda
+       . [Veja] Donald Trump apoia a criação de uma ‘Lei Rouanet’ americana
+
+   2      0      2    44  nao     STF mantém poder do MP para requisitar períci
+       veiculos: Consultor Jurídico, stf noticias
+       . [stf noticias] Ministério Público pode requisitar apoio de servidores e meios materiais de órgãos públicos, decide STF
+       . [Consultor Jurídico] STF mantém poder do MP para requisitar perícias e servidores de órgãos públicos
+
+   2      0      2    57  nao     Governo Lula diz que ‘zerou’ fila do INSS, ma
+       veiculos: Estadão, cbn.globo.com
+       . [Estadão] Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+       . [cbn.globo.com] Governo Lula diz que fila do INSS está zerada; 224 mil pedidos ainda esperam resposta
+
+   2      0      2    45  sim     Operador de Vorcaro que fez repasses ao 'Dark
+       veiculos: Folha Poder, G1 Politica
+       . [G1 Politica] Operador de Vorcaro que fez repasses ao 'Dark Horse' será ouvido pelo gabinete de Mendonça na próxima terça
+       . [Folha Poder] Empresário que fez repasses a 'Dark Horse' diz que movimentava malas de dinheiro a mando de Vorcaro
+
+   2      1      2    19  sim     Cury convoca apoiadores para caminhada do 7 d
+       veiculos: Poder360, Veja
+       . [Poder360] Cury convoca apoiadores para caminhada do 7 de Setembro em Copacabana
+       . [Veja] Augusto Cury planeja ato de 7 de Setembro em reduto bolsonarista
+
+   2      1      2    61  sim     Tarcísio demite, mas Justiça reintegra delega
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Justiça de São Paulo suspende a demissão de delegado Da Cunha
+       . [Veja] Tarcísio demite, mas Justiça reintegra delegado deputado que fazia live com ações policiais
+
+   2      0      2    12  nao     José Guimarães: O Brasil precisa virar a pági
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] José Guimarães: O Brasil precisa virar a página do atraso
+       . [Google Trends BR] gabriela guimarães
+
+   2      2      2     4  sim     A reação de delegados da PF à proposta de Gil
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+       . [Veja] A reação de delegados da PF à proposta de Gilmar de tirá-los do STF
+
