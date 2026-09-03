@@ -2733,3 +2733,105 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Em meio à tensão com a Rússia, Alemanha testa míssil balístico israelense
        . [Veja] Vídeo: Alemanha testa míssil balístico israelense em meio a tensão com a Rússia
 
+==============================================================================
+RODADA 03/09 23:12 UTC  |  janela 90 min  |  155 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  22      3      83     19  Governo Lula diz que fila do INSS está zer
+       ineditas: ante, anuncia, apesar, aponta, aprovacao, avaliacao, desaprovacao, jeito, negativa, nenhum, nova, pontos, positiva, prim
+       veiculos: BBC Brasil, CBN, CNN Brasil, Carta Capital, CartaCapital, Folha Poder, G1, G1 Politica, Gazeta do Povo Rep, Jornal de Brasília, Metropoles, O Antagoni
+       . [G1] Datafolha, 2º turno: Lula, 46%; Flávio Bolsonaro, 44%
+       . [Valor Econômico] Datafolha: Flávio tem rejeição de 47% e Lula, de 45%
+       . [Valor Econômico] Datafolha: Lula tem 38% e Flávio, 33% no primeiro turno; Cury vai a 8%
+
+   9      3      66      1  Justiça de São Paulo suspende a demissão d
+       ineditas: unanimidade
+       veiculos: Carta Capital, Claudio Dantas, Congresso em Foco, G1 Politica, Google Trends BR, O Antagonista, Rádio Itatiaia, Valor Econômico, Veja
+       . [Rádio Itatiaia] Candidatura de Eduardo Cunha é indeferida por unanimidade no TRE-MG
+       . [Valor Econômico] Justiça Eleitoral barra candidatura de Eduardo Cunha a deputado federal
+       . [G1 Politica] Arruda diz que vai recorrer ao TSE para manter candidatura ao governo do DF; TRE negou registro por unanimidad
+
+   4      1      39      2  A reação de delegados da PF à proposta de 
+       ineditas: proposta, tira
+       veiculos: CNN Brasil, Gazeta do Povo, O GLOBO, Veja
+       . [CNN Brasil] Delegados da PF rebatem proposta de Gilmar: “Tira foco de escândalo"
+       . [O GLOBO] Associação de delegados critica Gilmar e diz que PF não é responsável por problemas do STF
+       . [Gazeta do Povo] Gilmar Mendes sugere a Fachin vetar delegados da PF em gabinetes do STF
+
+   4      0      21      4  STF fixa teto de R$ 5 mil de renda para ac
+       ineditas: acesso, gratuidade, gratuita, trabalho
+       veiculos: Agência Brasil, CartaCapital, InfoMoney, Poder360
+       . [Agência Brasil] STF decide limitar gratuidade em ações na Justiça do Trabalho
+       . [CartaCapital] STF contraria TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5 mil
+       . [InfoMoney] STF fixa teto de R$ 5 mil de renda para acesso à Justiça gratuita trabalhista
+
+   3      0      27      1  Como funciona o Congresso Nacional: entend
+       ineditas: nacional
+       veiculos: Google Trends BR, Terra, Transmissão Política
+       . [Terra] Como funciona o Congresso Nacional: entenda a divisão entre Câmara e Senado
+       . [Transmissão Política] Câmara e Senado aprovam fim da ‘taxa das blusinhas’ para compras de até US$ 50
+       . [Google Trends BR] csa x nacional
+
+   3      0      22      3  A nova pesquisa Quaest para Pernambuco apó
+       ineditas: nova, numeros, presidente
+       veiculos: G1 Politica, Gazeta do Povo, Valor Econômico
+       . [Valor Econômico] A nova pesquisa Quaest para Pernambuco após aparição de cartazes apócrifos
+       . [Gazeta do Povo] Os números da nova pesquisa Datafolha para presidente
+       . [G1 Politica] Datafolha: 71% estão decididos sobre voto para presidente e 28% ainda podem mudar; veja números por candidato
+
+   3      0      56      4  Empresário que fez repasses a 'Dark Horse'
+       ineditas: dinheiro, empresario, malas, vivo
+       veiculos: Folha Poder, G1 Politica, Google Trends BR
+       . [G1 Politica] Empresário que fez repasses para Dark Horse disse em delação que 'gerava' dinheiro vivo para Vorcaro e entrega
+       . [Google Trends BR] grenal ao vivo
+       . [Folha Poder] Empresário que fez repasses a 'Dark Horse' diz que movimentava malas de dinheiro a mando de Vorcaro
+
+   3      2       5      2  Moraes acusa Mendonça de parcialidade e co
+       ineditas: fachin, mendonca
+       veiculos: Gazeta do Povo Rep, Metropoles, Veja
+       . [Gazeta do Povo Rep] Moraes enquadra Mendonça no inquérito das fake news
+       . [Metropoles] Moraes acusa Mendonça de parcialidade e cobra medidas de Fachin
+       . [Veja] Moraes encaminha a Fachin relatório que atribui supostos crimes a Mendonça
+
+   3      2      70      5  De cobertura a caviar: as vantagens que Ca
+       ineditas: castro, caviar, claudio, cobertura, refit
+       veiculos: Claudio Dantas, Metropoles, Veja
+       . [Metropoles] PF diz que aliado pagou R$ 10,5 mil por caviar comprado por Cláudio Castro
+       . [Claudio Dantas] Esquema ligado à Refit custeou mansão na Serra e cobertura para Cláudio Castro, diz PF
+       . [Veja] De cobertura a caviar: as vantagens que Castro recebeu da Refit, segundo PF
+
+   2      0      53      0  Candidatos a deputado distrital no DF: vej
+       veiculos: G1, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado distrital no DF: veja a lista das eleições 2026
+       . [G1] Eleições 2026 em SC: Jorginho Mello participa de encontro em clube de tiros em Blumenau
+
+   2      0      46      0  Lucas Ribeiro lidera disputa pelo governo 
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Dr. Daniel lidera disputa pelo governo do Pará com 43,9%, diz Futura
+       . [Carta Capital] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa AtlasIntel
+
+   2      0      40      1  kisy nascimento
+       ineditas: nascimento
+       veiculos: Google Trends BR, Poder360
+       . [Poder360] Juíza bloqueia tentativa de Trump de negar cidadania por nascimento
+       . [Google Trends BR] kisy nascimento
+
+   2      1      38      2  E-commerce chega a 139 milhões de consumid
+       ineditas: brasil, milhoes
+       veiculos: O Antagonista, Poder360
+       . [Poder360] E-commerce chega a 139 milhões de consumidores no Brasil
+       . [O Antagonista] Um peixe blindado de 15 centímetros viveu no Brasil pouco antes da maior extinção em massa conhecida e aparece
+
+   2      2       4      0  Sob pressão por Moraes, Alcolumbre reclama
+       veiculos: Claudio Dantas, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Sob pressão por Moraes, Alcolumbre reclama de ataques de colegas
+       . [Claudio Dantas] Alcolumbre reage a ataques e acusa colegas de buscar votos
+
+   2      1      35      8  Vídeo: Alemanha testa míssil balístico isr
+       ineditas: alemanha, balistico, israelense, meio, missil, russia, tensao, testa
+       veiculos: Metropoles, Veja
+       . [Metropoles] Em meio à tensão com a Rússia, Alemanha testa míssil balístico israelense
+       . [Veja] Vídeo: Alemanha testa míssil balístico israelense em meio a tensão com a Rússia
+
