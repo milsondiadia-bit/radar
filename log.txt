@@ -1262,3 +1262,152 @@ veic  manch   min  grande  assunto
 19:08 | Gazeta do Povo Rep           | Lula culpa Flávio Bolsonaro por atraso na votação do fim da escala 6×1 no Senado
 16:07 | Folha Poder                  | Mensagens com Vorcaro mostram que Alexandre não é mais Xandão; veja vídeo
 19:05 | O GLOBO                      | Vorcaro diz em depoimento ao STF que fica ‘desconfortável’ em firmar delação com a PF: ‘Tinha relação com diretor-geral’
+==============================================================================
+RODADA 03/09 21:05 UTC  |  janela 90 min  |  82 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+  10     13    75  sim     Câmara aprova fim da taxa das blusinhas, em v
+       veiculos: Agencia Brasil Pol, Bem Paraná, Carta Capital, Congresso em Foco, DPL News, Diário do Poder, Exame, Gazeta do Povo Rep, Jornal Opção, Poder360
+       . [DPL News] Senado aprova política de minerais críticos com incentivos milionários
+       . [Congresso em Foco] Câmara aprova MP do fim da taxa das blusinhas; texto vai ao Senado
+       . [Exame] Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+
+   5      5    65  nao     Governo Lula anuncia que fila do INSS está ze
+       veiculos: CTB - Central dos Trabalhadores e Trabalhadoras do Brasil, Folha de S.Paulo, GZH, Revista Oeste, estadao.com.br
+       . [Folha de S.Paulo] Governo Lula muda critério para dizer que zerou fila do INSS mesmo com 235 mil pedidos atrasados
+       . [estadao.com.br] Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+       . [Revista Oeste] Governo Lula trava devolução de canhão ao Paraguai
+
+   3      9    35  nao     Candidatos a deputado estadual no Rio Grande 
+       veiculos: Observatório da Imprensa, Tribunal Superior Eleitoral, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
+       . [Tribunal Superior Eleitoral] TSE firma pacto pela paz e tolerância nas Eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual no Rio de Janeiro (RJ): veja a lista das eleições 2026
+
+   3      3    36  sim     Gilmar propõe a Fachin proibir delegados da P
+       veiculos: G1, Google Trends BR, Poder360
+       . [G1] Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
+       . [Poder360] Gilmar defende retirada de delegados da PF dos gabinetes do STF
+       . [Google Trends BR] gilmar mendes
+
+   3      3    39  nao     Ofensiva de Vorcaro contra governo Lula é vis
+       veiculos: Gazeta do Povo, ICL Notícias, Se Ligue Bahia
+       . [Gazeta do Povo] Lula vai a Curitiba para ato de campanha durante ofensiva eleitoral no Sul
+       . [ICL Notícias] Ofensiva de Vorcaro contra governo Lula é vista como vingança e manipulação eleitoral
+       . [Se Ligue Bahia] Futura: governo Lula é desaprovado por 50,9% dos brasileiros
+
+   2      2    43  sim     Vorcaro disse à PF que Galípolo incentivou fu
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Vorcaro disse à PF que Galípolo incentivou fusão Master-BRB
+       . [Poder360] Vorcaro diz que Galípolo incentivou fusão do Master com o BRB
+
+   2      2     0  nao     OAB nacional pede reunião com Fachin para tra
+       veiculos: CNN Brasil, OAB-MT
+       . [CNN Brasil] OAB nacional pede reunião com Fachin para tratar de crise na corte
+       . [OAB-MT] Gisela Cardoso participará de reunião da OAB com presidente do STF sobre crise na Corte - OAB-MT
+
+   2      2    25  nao     STF mantém poder do MP de requisitar perícias
+       veiculos: CNN Brasil, Consultor Jurídico
+       . [Consultor Jurídico] STF mantém poder do MP para requisições para órgãos públicos
+       . [CNN Brasil] STF mantém poder do MP de requisitar perícias e servidores públicos
+
+   2      2     0  nao     Lula mede impacto de crise no STF e avalia fa
+       veiculos: CNN Brasil, Folha Poder
+       . [CNN Brasil] Lula mede impacto de crise no STF e avalia fala
+       . [Folha Poder] Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
+
+   2      2    37  sim     Osmar Terra denuncia lobby da maconha e cobra
+       veiculos: CartaCapital, Gazeta do Povo Rep
+       . [CartaCapital] Terra arrasada
+       . [Gazeta do Povo Rep] Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+
+   2      2    23  sim     Lula diz que não vai aceitar jogar a responsa
+       veiculos: Poder360, Valor Econômico
+       . [Valor Econômico] Lula diz que não vai aceitar jogar a responsabilidade do déficit fiscal na Previdência
+       . [Poder360] Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+
+--- MANCHETES DA JANELA (cruas) ---
+21:00 | DPL News                     | Senado aprova política de minerais críticos com incentivos milionários
+20:57 | Poder360                     | Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+20:56 | Poder360                     | Site que simula WhatsApp de Vorcaro sai do ar depois de viralizar
+20:56 | Poder360                     | Câmara aprova medida para reduzir fila do INSS
+20:51 | Consultor Jurídico           | STF mantém poder do MP para requisições para órgãos públicos
+20:50 | Poder360                     | Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos
+20:50 | Tribunal Superior Eleitoral  | Manual do Eleitor: Justiça Eleitoral garante atendimento que respeita diversidade de povos e comunidades
+20:49 | Gazeta do Povo Rep           | Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+20:46 | UOL Notícias                 | Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+20:46 | estadao.com.br               | Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+20:43 | Poder360                     | Lula tem 38,7% das intenções de voto contra 33,6% de Flávio
+20:43 | O GLOBO                      | Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Brasil’
+13:40 | Google Trends BR             | ingresse
+13:40 | Google Trends BR             | celta de vigo
+13:40 | Google Trends BR             | xbox game pass
+20:38 | G1 Politica                  | Governo critica início do veto à venda de carne brasileira para União Europeia e cita possibilidade de 'medidas de reciprocidade'
+20:38 | CartaCapital                 | Impasse com PF e Mendonça encurrala Messias e ameaça ‘projeto STF’
+20:37 | Poder360                     | Lula diz que sabatina na Globo “parecia uma inquisição”
+20:37 | Exame                        | Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+20:33 | Valor Econômico              | Lula diz que não vai aceitar jogar a responsabilidade do déficit fiscal na Previdência
+20:33 | Gazeta do Povo Rep           | Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
+20:31 | CNN Brasil                   | Tarcísio exonera delegado da Cunha da Polícia Civil por abuso de autoridade
+20:30 | instagram.com                | O candidato do Avante à presidência da República, Augusto Cury, esteve nesta quinta-feira (3) na sede da igreja Assembleia de Deus, no Belém, em São Paulo. Ele afirmou já ser próximo dos evangélicos há décadas e disse que foi convidado para visita. 📲L
+13:30 | Google Trends BR             | dane sweeny
+13:30 | Google Trends BR             | nina dobrev
+20:28 | Se Ligue Bahia               | Futura: governo Lula é desaprovado por 50,9% dos brasileiros
+20:26 | BBC Brasil                   | Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
+20:26 | sintrajufe.org.br            | Fenajufe solicita ao STF que recursos da GAACTA sejam destinados à reestruturação da carreira
+20:26 | CNN Brasil                   | STF mantém poder do MP de requisitar perícias e servidores públicos
+20:24 | G1                           | O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+17:24 | Agencia Brasil Pol           | MP da "taxa das blusinhas" é aprovada na Câmara e vai ao Senado
+20:23 | Poder360                     | Vorcaro diz que Galípolo incentivou fusão do Master com o BRB
+20:23 | Poder360                     | Conselho amplia controle do governo sobre minerais críticos
+20:22 | Conjur                       | Por que a Lei de Alienação Parental existe?
+13:20 | Google Trends BR             | gpt 6 astra
+13:20 | Google Trends BR             | murilo huff
+13:20 | Google Trends BR             | lateral
+17:19 | Carta Capital                | O elétrico de Gotham
+17:19 | Carta Capital                | Câmara aprova fim da ‘taxa das blusinhas’; texto vai ao Senado
+20:17 | CartaCapital                 | Terra arrasada
+17:17 | Folha Poder                  | Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
+20:16 | CNN Brasil                   | Lula mede impacto de crise no STF e avalia fala
+20:14 | Poder360                     | Gilmar defende retirada de delegados da PF dos gabinetes do STF
+20:12 | Gazeta do Povo Rep           | Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+17:12 | Congresso em Foco            | Fim da taxa das blusinhas protege a renda familiar, diz Hugo Motta
+20:11 | Poder360                     | Maior preocupação de instituições financeiras é fiscal e inadimplência
+20:10 | Valor Econômico              | Candidatos a deputado estadual em Goiás (GO): veja a lista das eleições 2026
+20:10 | CartaCapital                 | Zanin é eleito para segundo mandato como ministro substituto do TSE
+20:10 | Jornal Opção                 | Câmara aprova fim da alíquota mínima da “taxa das blusinhas”; entenda o que muda e quais são os próximos passos
+20:09 | Folha de S.Paulo             | Governo Lula muda critério para dizer que zerou fila do INSS mesmo com 235 mil pedidos atrasados
+20:06 | Diário do Poder              | Governo enfrenta pressão para reverter a “taxa das blusinhas”
+20:05 | G1 Politica                  | Cury defende fim de mandato vitalício no STF, com trocas a cada 8 anos
+20:05 | Canal Rural                  | Transparência do STF é essencial no caso Banco Master, afirma especialista
+20:05 | Valor Econômico              | Candidatos a deputado estadual no Maranhão (MA): veja a lista das eleições 2026
+20:05 | Tribunal Superior Eleitoral  | TSE firma pacto pela paz e tolerância nas Eleições 2026
+20:03 | Gazeta do Povo               | Lula vai a Curitiba para ato de campanha durante ofensiva eleitoral no Sul
+20:00 | pleno.news                   | Fachin sobre eleições: “Discordar não é sinônimo de odiar”
+20:00 | Folha de S.Paulo             | Ministério Público tenta barrar 974 candidatos pelo país, e mudança na ficha limpa amplia incerteza
+13:00 | Google Trends BR             | assaí
+19:58 | Valor Econômico              | Candidatos a deputado estadual no Mato Grosso (MT): veja a lista das eleições 2026
+19:56 | Gazeta do Povo Rep           | Câmara aprova MP do fim da taxa das blusinhas
+19:55 | CTB - Central dos Trabalhado | Lula anuncia redução da fila do INSS e avanço na garantia de direitos dos trabalhadores - CTB - Central dos Trabalhadores e Trabalhadoras do Brasil
+19:54 | Revista Oeste                | Governo Lula trava devolução de canhão ao Paraguai
+19:51 | Conjur                       | TSE rejeita lista tríplice para o TRE-MS com apenas uma mulher
+19:50 | ICL Notícias                 | Ofensiva de Vorcaro contra governo Lula é vista como vingança e manipulação eleitoral
+12:50 | Google Trends BR             | gilmar mendes
+19:49 | Valor Econômico              | Candidatos a deputado estadual em Minas Gerais (MG): veja lista das eleições 2026
+19:47 | Observatório da Imprensa     | A imprensa será surpreendida na reta final das eleições presidenciais de 2026?
+19:47 | CNN Brasil                   | Governo teme "avalanche" de notícias negativas envolvendo Caso Master
+19:45 | Valor Econômico              | Candidatos a deputado estadual no Paraná (PR): veja a lista das eleições 2026
+19:45 | Congresso em Foco            | Câmara aprova MP do fim da taxa das blusinhas; texto vai ao Senado
+19:45 | Bem Paraná                   | Câmara aprova fim da taxa das blusinhas, em vitória para Lula; texto vai ao Senado
+19:44 | CNN Brasil                   | OAB nacional pede reunião com Fachin para tratar de crise na corte
+19:44 | OAB-MT                       | Gisela Cardoso participará de reunião da OAB com presidente do STF sobre crise na Corte - OAB-MT
+19:41 | GZH                          | Governo Lula anuncia que fila do INSS está zerada
+19:40 | Gazeta do Povo Rep           | Osmar Terra denuncia lobby da maconha e cobra apuração sobre Lulinha
+19:40 | CNN Brasil                   | Vorcaro disse à PF que Galípolo incentivou fusão Master-BRB
+19:38 | Valor Econômico              | Candidatos a deputado estadual no Rio de Janeiro (RJ): veja a lista das eleições 2026
+19:38 | G1                           | Gilmar propõe a Fachin proibir delegados da PF como funcionários de gabinetes de ministros do STF
+19:36 | CNN Brasil                   | Flávio resgata pautas de costume ao destacar peso de indicações ao STF
+19:35 | Valor Econômico              | Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
+19:35 | Poder360                     | Equipe de Lula usa pesquisas para modular discurso em caso Vorcaro-Moraes
