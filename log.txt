@@ -1411,3 +1411,132 @@ veic  manch   min  grande  assunto
 19:36 | CNN Brasil                   | Flávio resgata pautas de costume ao destacar peso de indicações ao STF
 19:35 | Valor Econômico              | Candidatos a deputado estadual no Rio Grande do Sul (RS): veja a lista das eleições 2026
 19:35 | Poder360                     | Equipe de Lula usa pesquisas para modular discurso em caso Vorcaro-Moraes
+==============================================================================
+RODADA 03/09 21:35 UTC  |  janela 90 min  |  79 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+  12     16    68  sim     Governo enfrenta pressão para reverter a “tax
+       veiculos: Agencia Brasil Pol, Carta Capital, Congresso em Foco, Diário do Poder, Exame, G1 Politica, Gazeta do Povo Rep, Google Trends BR, Jornal Opção, Poder36
+       . [poder360.com.br] Em vitória de Lula, Congresso aprova fim da taxa das blusinhas
+       . [Exame] Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+       . [Jornal Opção] Câmara aprova fim da alíquota mínima da “taxa das blusinhas”; entenda o que muda e quais são os próximos passo
+
+   6      6    58  sim     Mendonça fala em ‘honrar a confiança’ do povo
+       veiculos: Estadão, Gazeta do Povo Rep, Jurinews, cnnbrasil.com.br, folha.uol.com.br, valor.globo.com
+       . [valor.globo.com] Fachin tem em mãos três soluções para crise entre Alexandre de Moraes e André Mendonça
+       . [folha.uol.com.br] Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
+       . [cnnbrasil.com.br] Lula mede impacto de crise no STF e avalia fala
+
+   3      3    37  nao     Governo Lula muda critério para dizer que zer
+       veiculos: Estadão, Se Ligue Bahia, folha.uol.com.br
+       . [folha.uol.com.br] Governo Lula muda critério para dizer que zerou fila do INSS mesmo com 235 mil pedidos atrasados
+       . [Estadão] Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+       . [Se Ligue Bahia] Futura: governo Lula é desaprovado por 50,9% dos brasileiros
+
+   2      2     1  nao     Alcolumbre acusa colegas de usarem ofensas a 
+       veiculos: Congresso em Foco, oglobo.globo.com
+       . [oglobo.globo.com] Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Bra
+       . [Congresso em Foco] Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral
+
+   2      2    37  nao     Conselho amplia controle do governo sobre min
+       veiculos: DPL News, poder360.com.br
+       . [DPL News] Senado aprova política de minerais críticos com incentivos milionários
+       . [poder360.com.br] Conselho amplia controle do governo sobre minerais críticos
+
+   2      2    25  nao     STF mantém poder do MP de requisitar perícias
+       veiculos: Consultor Jurídico, cnnbrasil.com.br
+       . [Consultor Jurídico] STF mantém poder do MP para requisitar perícias e servidores de órgãos públicos
+       . [cnnbrasil.com.br] STF mantém poder do MP de requisitar perícias e servidores públicos
+
+   2      2    23  nao     Lula diz que não vai aceitar jogar a responsa
+       veiculos: poder360.com.br, valor.globo.com
+       . [valor.globo.com] Lula diz que não vai aceitar jogar a responsabilidade do déficit fiscal na Previdência
+       . [poder360.com.br] Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+
+   2      2    47  sim     Vorcaro diz que Galípolo incentivou fusão do 
+       veiculos: G1 Politica, Poder360
+       . [G1 Politica] Caso Master: operador financeiro de Vorcaro será ouvido por Mendonça na próxima terça-feira
+       . [Poder360] Vorcaro diz que Galípolo incentivou fusão do Master com o BRB
+
+--- MANCHETES DA JANELA (cruas) ---
+18:27 | Carta Capital                | José Guimarães: O Brasil precisa virar a página do atraso
+21:25 | valor.globo.com              | Candidatos a deputado estadual no Ceará (CE): veja a lista das eleições 2026
+21:18 | cnnbrasil.com.br             | Lula defende despesa com previdência e diz que acabou com fraude no INSS
+21:15 | Poder360                     | Ao vivo: PoderDataCast debate relação entre STF, Master e eleições
+21:14 | G1 Politica                  | Candidatos ao Senado em Mato Grosso participam de debate no g1
+21:14 | economia.uol.com.br          | Senado aprova fim definitivo da 'taxa das blusinhas'
+21:14 | Gazeta do Povo               | A hora dos ministros dignos no STF
+21:11 | poder360.com.br              | Em vitória de Lula, Congresso aprova fim da taxa das blusinhas
+21:11 | G1 Politica                  | Taxa das blusinhas: calculadora do g1 mostra quanto você pagaria com ou sem o imposto
+21:10 | G1 Politica                  | Congresso aprova fim da 'taxa das blusinhas': como ficam as compras internacionais de até US$ 50?
+21:10 | G1 Politica                  | Caso Master: operador financeiro de Vorcaro será ouvido por Mendonça na próxima terça-feira
+14:10 | Google Trends BR             | deportivo recoleta x cerro porteño
+14:10 | Google Trends BR             | ouro
+14:10 | Google Trends BR             | rodrygo
+14:10 | Google Trends BR             | taxa das blusinhas
+21:09 | G1 Politica                  | Senado aprova fim da 'taxa das blusinhas'; texto segue para sanção presidencial
+21:08 | valor.globo.com              | Fachin tem em mãos três soluções para crise entre Alexandre de Moraes e André Mendonça
+18:08 | Congresso em Foco            | Senado aprova MP do fim da taxa das blusinhas; texto vai à sanção
+21:08 | BBC Brasil                   | Por que é tão raro o impeachment de juízes das Supremas Cortes no mundo
+21:06 | G1 Politica                  | 6x1: Alcolumbre indica que proposta que reduz jornada de trabalho será votada após as eleições
+21:05 | Poder360                     | Cury convoca apoiadores para caminhada do 7 de Setembro em Copacabana
+21:04 | Poder360                     | Celina e Grass empatam tecnicamente em 2º turno no DF, diz pesquisa
+21:03 | Gazeta do Povo Rep           | Vorcaro relata ter usado “óculos do Maduro” e sido ameaçado de ser jogado de helicóptero da PF
+21:03 | cnnbrasil.com.br             | Análise: Contra-ataque está em curso para frear Mendonça
+21:02 | G1 Politica                  | TRE tem maioria para negar registro da candidatura de José Roberto Arruda ao governo do DF
+21:02 | Jurinews                     | OAB vai se reunir com Fachin em meio à crise no STF
+18:01 | Folha Poder                  | Cury foi conselheiro de Marina Silva quando ela disputou a Presidência pela primeira vez
+21:00 | DPL News                     | Senado aprova política de minerais críticos com incentivos milionários
+21:00 | mpf.mp.br                    | Ministério Público e Justiça Eleitoral firmam acordo com lideranças religiosas por paz e tolerância nas Eleições 2026
+14:00 | Google Trends BR             | horario grenal
+14:00 | Google Trends BR             | kassab
+14:00 | Google Trends BR             | rafael câmara
+20:57 | poder360.com.br              | Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+20:56 | Poder360                     | Site que simula WhatsApp de Vorcaro sai do ar depois de viralizar
+20:56 | Poder360                     | Câmara aprova medida para reduzir fila do INSS
+20:51 | Consultor Jurídico           | STF mantém poder do MP para requisitar perícias e servidores de órgãos públicos
+20:50 | Poder360                     | Dólar cai 0,07% e Ibovespa fica estável aos 185,2 mil pontos
+20:50 | Tribunal Superior Eleitoral  | Manual do Eleitor: Justiça Eleitoral garante atendimento que respeita diversidade de povos e comunidades
+13:50 | Google Trends BR             | america de cali
+13:50 | Google Trends BR             | uberlândia
+13:50 | Google Trends BR             | br-158
+20:49 | Gazeta do Povo Rep           | Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+20:46 | noticias.uol.com.br          | Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+20:46 | Estadão                      | Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+20:44 | InfoMoney                    | ‘Discordar não é sinônimo de odiar’, diz Fachin sobre eleições em meio a crise no STF
+20:43 | Poder360                     | Lula tem 38,7% das intenções de voto contra 33,6% de Flávio
+20:43 | oglobo.globo.com             | Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Brasil’
+17:41 | Congresso em Foco            | Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral
+20:38 | G1 Politica                  | Governo critica início do veto à venda de carne brasileira para União Europeia e cita possibilidade de 'medidas de reciprocidade'
+20:38 | CartaCapital                 | Impasse com PF e Mendonça encurrala Messias e ameaça ‘projeto STF’
+20:37 | Poder360                     | Lula diz que sabatina na “Globo” parecia uma “inquisição”
+20:37 | Exame                        | Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+20:33 | valor.globo.com              | Lula diz que não vai aceitar jogar a responsabilidade do déficit fiscal na Previdência
+20:33 | Gazeta do Povo Rep           | Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
+20:31 | cnnbrasil.com.br             | Tarcísio exonera delegado da Cunha da Polícia Civil por abuso de autoridade
+20:30 | MOMENTO MT                   | Senadores aprovam acordo de cooperação entre Brasil e Camboja
+20:28 | Se Ligue Bahia               | Futura: governo Lula é desaprovado por 50,9% dos brasileiros
+20:26 | Sintrajufe - RS              | Fenajufe solicita ao STF que recursos da GAACTA sejam destinados à reestruturação da carreira - Sintrajufe
+20:26 | cnnbrasil.com.br             | STF mantém poder do MP de requisitar perícias e servidores públicos
+20:25 | BBC                          | Como instituto de André Mendonça conseguiu R$ 10,7 milhões em dois anos com contratos públicos
+20:24 | G1 Politica                  | O que é 'ativo minerário', negócio citado por Nikolas Ferreira a Vorcaro
+17:24 | Agencia Brasil Pol           | MP da "taxa das blusinhas" é aprovada na Câmara e vai ao Senado
+20:23 | Poder360                     | Vorcaro diz que Galípolo incentivou fusão do Master com o BRB
+20:23 | poder360.com.br              | Conselho amplia controle do governo sobre minerais críticos
+20:22 | Conjur                       | Por que a Lei de Alienação Parental existe?
+17:19 | Carta Capital                | Congresso aprova fim da ‘taxa das blusinhas’; texto vai ao Senado
+20:17 | folha.uol.com.br             | Mendonça fala em honrar confiança do povo no Judiciário em meio a crise com Moraes
+20:17 | CartaCapital                 | Terra arrasada
+20:16 | cnnbrasil.com.br             | Lula mede impacto de crise no STF e avalia fala
+20:15 | poder360.com.br              | Gilmar defende retirada de delegados da PF dos gabinetes do STF
+20:12 | Gazeta do Povo Rep           | Vorcaro diz que sofreu pressão para não delatar diretor da PF e membros do governo
+17:12 | Congresso em Foco            | Fim da taxa das blusinhas protege a renda familiar, diz Hugo Motta
+20:11 | Estadão                      | Mendonça fala em ‘honrar a confiança’ do povo em discurso para religiosos sobre eleições
+20:10 | valor.globo.com              | Candidatos a deputado estadual em Goiás (GO): veja a lista das eleições 2026
+20:10 | Jornal Opção                 | Câmara aprova fim da alíquota mínima da “taxa das blusinhas”; entenda o que muda e quais são os próximos passos
+17:10 | Carta Capital                | Zanin é eleito para segundo mandato como ministro substituto do TSE
+20:09 | folha.uol.com.br             | Governo Lula muda critério para dizer que zerou fila do INSS mesmo com 235 mil pedidos atrasados
+20:06 | Diário do Poder              | Governo enfrenta pressão para reverter a “taxa das blusinhas”
+20:05 | G1 Politica                  | Cury defende fim de mandato vitalício no STF, com trocas a cada 8 anos
