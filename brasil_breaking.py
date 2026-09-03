@@ -71,9 +71,78 @@ GRANDES = {
 }
 
 
+import re
+
+_RE_VEICULO_GNEWS = re.compile(r"\s+-\s+([^-]{2,40})\s*$")
+
+
+def fonte_real(it):
+    """
+    Descobre QUEM publicou de verdade.
+
+    O Google News nao e um veiculo: e um agregador. Na primeira medicao
+    o assunto "Pesquisa" apareceu com 3 "veiculos" - GNews eleicoes,
+    GNews governo e Poder360 - mas os dois primeiros eram UOL e
+    MidiaNews. Contando assim, um assunto parece ter o dobro de
+    cobertura que tem, e a diversidade de fontes (que e justamente o
+    sinal de "explodiu") vira numero inflado.
+
+    Nos feeds do Google News o veiculo verdadeiro vem no fim do titulo,
+    depois de um hifen: "Gilmar defende ... - cnnbrasil.com.br".
+    """
+    if not it["fonte"].startswith("GNews"):
+        return it["fonte"]
+    m = _RE_VEICULO_GNEWS.search(it["titulo"])
+    if m:
+        return m.group(1).strip()
+    return it["fonte"]
+
+
+def titulo_limpo(it):
+    """O titulo sem o ' - veiculo' que o Google News gruda no fim."""
+    if it["fonte"].startswith("GNews"):
+        return _RE_VEICULO_GNEWS.sub("", it["titulo"]).strip()
+    return it["titulo"]
+
+
+# Ajustes na lista do radar.py, feitos AQUI e nao la, para nao mexer nos
+# bots que ainda usam aquele arquivo.
+#
+# Tres feeds falharam na medicao de 03/09 18:22 UTC:
+#   Agencia Senado  -> URLError   (o endereco /noticias/feed esta vazio;
+#                                  o certo e /noticias/feed/todasnoticias)
+#   Agencia Camara  -> ParseError (nao devolve XML)
+#   Migalhas        -> HTTPError
+TROCAR = {
+    "https://www12.senado.leg.br/noticias/feed":
+        "https://www12.senado.leg.br/noticias/feed/todasnoticias",
+}
+REMOVER = {"Agencia Camara", "Migalhas"}
+
+# Portais grandes que faltavam na lista e que sao justamente os que
+# marcam "isso e breaking" quando publicam. Se algum destes enderecos
+# estiver errado, ele aparece na linha "feeds que falharam" do log - e
+# ai eu troco. Melhor descobrir medindo do que supondo.
+ACRESCENTAR = [
+    ("CNN Brasil Politica", "https://www.cnnbrasil.com.br/politica/feed/"),
+    ("Folha Poder", "https://feeds.folha.uol.com.br/poder/rss091.xml"),
+    ("UOL Noticias", "https://rss.uol.com.br/feed/noticias.xml"),
+    ("Metropoles", "https://www.metropoles.com/feed"),
+]
+
+
+def fontes_brasil():
+    lista = []
+    for nome, url in FONTES["brasil"]:
+        if nome in REMOVER:
+            continue
+        lista.append((nome, TROCAR.get(url, url)))
+    return lista + ACRESCENTAR
+
+
 def coleta_minutos(minutos, workers=12):
     """Igual ao coleta() do radar.py, mas com a janela em MINUTOS."""
-    feeds = FONTES["brasil"]
+    feeds = fontes_brasil()
     itens, erros = [], []
     with ThreadPoolExecutor(max_workers=workers) as ex:
         for got, err in ex.map(lambda f: le_feed(*f), feeds):
@@ -92,6 +161,8 @@ def coleta_minutos(minutos, workers=12):
             sem_data += 1
         elif it["data"] < corte:
             continue
+        it["titulo"] = titulo_limpo(it)
+        it["fonte"] = fonte_real(it)
         chave = normaliza(it["titulo"])[:90]
         if chave in vistos:
             continue
@@ -161,7 +232,7 @@ def minutos_de_espalhamento(grupo):
     return round((max(datas) - min(datas)).total_seconds() / 60)
 
 
-def escreve_log(grupos, total, erros, sem_data, minutos):
+def escreve_log(grupos, total, erros, sem_data, minutos, TODAS):
     agora = datetime.now(timezone.utc).strftime("%d/%m %H:%M UTC")
     linhas = []
     linhas.append("=" * 78)
@@ -193,6 +264,20 @@ def escreve_log(grupos, total, erros, sem_data, minutos):
             linhas.append(f"       . [{it['fonte']}] {it['titulo'][:110]}")
         linhas.append("")
 
+    # Lista crua de tudo que entrou na janela.
+    #
+    # Existe porque o agrupamento ainda esta em teste: a primeira
+    # medicao juntou 9 manchetes sob o rotulo "STF" que nao tinham nada
+    # a ver umas com as outras (cotas eleitorais, delegados da PF, crise
+    # interna). Agrupar por termo repetido nao e agrupar por HISTORIA.
+    # Com a lista crua da para testar regras de agrupamento fora do ar,
+    # sobre manchetes reais, sem ficar chutando no escuro.
+    linhas.append("--- MANCHETES DA JANELA (cruas) ---")
+    for it in sorted(TODAS, key=lambda x: (x["data"] or datetime.min.replace(
+            tzinfo=timezone.utc)), reverse=True):
+        quando = it["data"].strftime("%H:%M") if it["data"] else "--:--"
+        linhas.append(f"{quando} | {it['fonte'][:28]:<28} | {it['titulo']}")
+
     linhas.append("")
     texto = "\n".join(linhas)
 
@@ -210,7 +295,7 @@ def main():
 
     itens, erros, sem_data = coleta_minutos(args.minutos)
     grupos = agrupa(itens)
-    escreve_log(grupos, len(itens), erros, sem_data, args.minutos)
+    escreve_log(grupos, len(itens), erros, sem_data, args.minutos, itens)
 
     print(f"\nMODO MEDICAO: nada foi enviado ao Telegram.")
     print(f"log.txt agora tem "
