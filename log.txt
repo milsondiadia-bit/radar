@@ -1540,3 +1540,67 @@ veic  manch   min  grande  assunto
 20:09 | folha.uol.com.br             | Governo Lula muda critério para dizer que zerou fila do INSS mesmo com 235 mil pedidos atrasados
 20:06 | Diário do Poder              | Governo enfrenta pressão para reverter a “taxa das blusinhas”
 20:05 | G1 Politica                  | Cury defende fim de mandato vitalício no STF, com trocas a cada 8 anos
+==============================================================================
+RODADA 03/09 21:58 UTC  |  janela 90 min  |  78 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError
+veic  manch   min  grande  assunto
+------------------------------------------------------------------------------
+   6      9    53  sim     Câmara aprova MP que acaba com a Taxa das Blu
+       veiculos: Congresso em Foco, G1 Politica, Poder360, UOL Economia, exame.com, g1.globo.com
+       . [Poder360] Em vitória de Lula, Congresso aprova fim da taxa das blusinhas
+       . [g1.globo.com] Senado aprova fim da 'taxa das blusinhas'; texto segue para sanção presidencial
+       . [exame.com] Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado
+
+   5      7    49  sim     Ministério Público e Justiça Eleitoral firmam
+       veiculos: Folha de S.Paulo, G1 Politica, Valor Econômico, g1.globo.com, mpf.mp.br
+       . [mpf.mp.br] Ministério Público e Justiça Eleitoral firmam acordo com lideranças religiosas por paz e tolerância nas Eleiçõ
+       . [Valor Econômico] Candidatos a deputado distrital no DF: veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado estadual no Ceará (CE): veja a lista das eleições 2026
+
+   3      3    74  nao     Futura: governo Lula é desaprovado por 50,9% 
+       veiculos: CBN, Estadão, Se Ligue Bahia
+       . [Estadão] Governo Lula diz que ‘zerou’ fila do INSS, mas ainda tem 224 mil pedidos com mais de 45 dias
+       . [CBN] Governo Lula diz que fila do INSS está zerada; 224 mil pedidos ainda esperam resposta
+       . [Se Ligue Bahia] Futura: governo Lula é desaprovado por 50,9% dos brasileiros
+
+   2      2     1  nao     Alcolumbre acusa colegas de usarem ofensas a 
+       veiculos: Congresso em Foco, O GLOBO
+       . [O GLOBO] Sob pressão no Senado por Moraes, Alcolumbre acusa colegas de ataques eleitorais: ‘Não têm proposta para o Bra
+       . [Congresso em Foco] Alcolumbre acusa colegas de usarem ofensas a ele como pauta eleitoral
+
+   2      2    73  nao     Tarcísio exonera delegado da Cunha da Polícia
+       veiculos: CNN Brasil, Carta Capital
+       . [CNN Brasil] Tarcísio exonera delegado da Cunha da Polícia Civil por abuso de autoridade
+       . [Carta Capital] Justiça de São Paulo suspende a demissão de delegado Da Cunha
+
+   2      2    44  nao     STF mantém poder do MP para requisitar períci
+       veiculos: Consultor Jurídico, stf noticias
+       . [stf noticias] Ministério Público pode requisitar apoio de servidores e meios materiais de órgãos públicos, decide STF
+       . [Consultor Jurídico] STF mantém poder do MP para requisitar perícias e servidores de órgãos públicos
+
+   2      2    27  sim     Fachin tem em mãos três soluções para crise e
+       veiculos: Gazeta do Povo Rep, Valor Econômico
+       . [Valor Econômico] Fachin tem em mãos três soluções para crise entre Alexandre de Moraes e André Mendonça
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   2      2    60  sim     Governo critica início do veto à venda de car
+       veiculos: Estadão, G1 Politica
+       . [Estadão] Governo Lula diz que poderá recorrer a medidas de reciprocidade contra UE por barrar carnes
+       . [G1 Politica] Governo critica início do veto à venda de carne brasileira para União Europeia e cita possibilidade de 'medida
+
+   2      2    23  sim     Lula diz que não vai aceitar jogar a responsa
+       veiculos: Poder360, Valor Econômico
+       . [Valor Econômico] Lula diz que não vai aceitar jogar a responsabilidade do déficit fiscal na Previdência
+       . [Poder360] Lula minimiza despesas da Previdência e culpa juros por rombo fiscal
+
+   2      2    72  sim     Viana pede afastamento de Alcolumbre por não 
+       veiculos: Congresso em Foco, Gazeta do Povo Rep
+       . [Congresso em Foco] Carlos Viana representa contra Alcolumbre no Conselho de Ética
+       . [Gazeta do Povo Rep] Viana pede afastamento de Alcolumbre por não pautar impeachment de Moraes
+
+   2      2    12  nao     José Guimarães: O Brasil precisa virar a pági
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] José Guimarães: O Brasil precisa virar a página do atraso
+       . [Google Trends BR] gabriela guimarães
+
