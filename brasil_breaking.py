@@ -888,10 +888,6 @@ def checa_ancapsu(mudo=False):
 #
 # Custo: uma chamada por candidato, poucos por rodada, no modelo mais
 # barato. Continua de graca.
-# Medido em 04/09/2026 pelo diagnostico da chave: gemini-2.5-flash e
-# gemini-2.0-flash sairam do ar (404), e o proprio Google aponta o
-# gemini-3.6-flash como substituto. Ele entra primeiro; os demais ficam
-# de reserva.
 # Ordem medida em 04/09/2026, com a chave real:
 #   gemini-flash-latest      respondeu OK
 #   gemini-flash-lite-latest 503 (sobrecarga momentanea)
@@ -962,6 +958,7 @@ def _chama_gemini(prompt, chave, teto_seg=60):
                     # depois, no gemini-flash-latest. Por isso a cascata
                     # continua para o proximo modelo em vez de desistir
                     # - foi o modelo seguinte que salvou o julgamento.
+                    continue
     return None
 
 
