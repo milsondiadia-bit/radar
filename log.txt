@@ -6593,3 +6593,89 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 15:12 UTC  |  janela 90 min  |  140 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  16      3      71     11  Fachin participa de evento com Lula em mei
+       ineditas: atalhos, autoriza, evento, fatos, gonet, gravidade, lado, master, presidente, promete, relatoria
+       veiculos: Agência Brasil, Brasil de Fato, Congresso em Foco, Estadão, Folha Poder, Folha de S.Paulo, G1, G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagoni
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [Brasil de Fato] Fachin assume pedido de Moraes para investigar Mendonça no caso Banco Master
+       . [G1] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   5      0      16     11  Em meio a 'crise Master' no STF, Fachin di
+       ineditas: acima, autoridade, constituicao, estao, fatos, firme, master, nenhuma, resposta, rigorosa, sera
+       veiculos: CNN Brasil, G1, G1 Politica, Valor Econômico, poder360.com.br
+       . [CNN Brasil] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [Valor Econômico] Fachin diz que 'nenhuma autoridade está acima da Constituição' e promete resposta 'firme e rigorosa' para cris
+       . [CNN Brasil] Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa
+
+   4      2      68      0  flávio dino
+       veiculos: Claudio Dantas, Google Trends BR, Veja, poder360.com.br
+       . [poder360.com.br] Dino diz que STF deve enfrentar problemas no “tempo certo”
+       . [Google Trends BR] flávio dino
+       . [Claudio Dantas] Flávio: Moraes, Alcolumbre e Dino articulam ‘ação ilegal contra mim’
+
+   3      0      26      2  OAB assina sistemas de votação que serão u
+       ineditas: serao, votacao
+       veiculos: OAB, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Sistemas das Eleições Gerais de 2026 são assinados digitalmente e lacrados pelo TSE
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+       . [OAB] OAB assina sistemas de votação que serão utilizados nas eleições de 2026
+
+   2      1       8      1  Veja quem participa do ato de 7 de Setembr
+       ineditas: quem
+       veiculos: Agência Brasil, Claudio Dantas
+       . [Agência Brasil] STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      0       0      5  Folha estreia no Substack com newsletter d
+       ineditas: eleicao, estreia, folha, newsletter, substack
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Folha estreia no Substack com newsletter da eleição - 04/09/2026 - Política
+       . [Folha Poder] Folha estreia no Substack com newsletter da eleição
+
+   2      0      29      1  Saiba quais autoridades devem comparecer a
+       ineditas: devem
+       veiculos: G1 Politica, poder360.com.br
+       . [poder360.com.br] Saiba quais autoridades devem comparecer ao 7 de Setembro no DF
+       . [G1 Politica] Crise 'Master no STF': Lula volta a defender reforma do Judiciário e diz que todos devem seguir a lei
+
+   2      1       4      2  Lula: é preciso vencer batalha contra quem
+       ineditas: batalha, vencer
+       veiculos: Folha PE, O Antagonista
+       . [Folha PE] Lula: é preciso vencer batalha contra quem se opõe a mais 1 dia de descanso aos trabalhadores
+       . [O Antagonista] Fim da 6×1 ainda precisa “vencer batalha” no Congresso, diz Lula
+
+   2      0      14      1  Lula x Flávio Bolsonaro: a um mês da eleiç
+       ineditas: turno
+       veiculos: BBC Brasil, Carta Capital
+       . [BBC Brasil] Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+
+   2      0      18      2  duda salabert
+       ineditas: duda, salabert
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Duda Salabert denuncia tentativa de homicídio durante fiscalização em Minas
+       . [Google Trends BR] duda salabert
+
+   2      0      14      1  Francesco Totti, ídolo da Roma, troca o fu
+       ineditas: futebol
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] jogador de futebol
+       . [Metropoles] Francesco Totti, ídolo da Roma, troca o futebol pelo basquete; entenda
+
+   2      0      60      1  série de televisão
+       ineditas: serie
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] série de televisão
+       . [Metropoles] Palpite Criciúma x Cuiabá - Série B - 04/09/26
+
+   2      2       5      0  Nunes Marques: ‘Justiça não possui preferê
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
