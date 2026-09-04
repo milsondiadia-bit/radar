@@ -3467,3 +3467,64 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
        . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
 
+==============================================================================
+RODADA 04/09 00:42 UTC  |  janela 90 min  |  124 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  15      2      77      9  Moraes aponta "fortes indícios" de crimes 
+       ineditas: apuracao, cobra, dias, doer, gonet, informacoes, leia, prestarem, quem
+       veiculos: Agencia Brasil Just, BBC Brasil, Brasil de Fato, CNN Brasil, Carta Capital, Congresso em Foco, Folha Poder, Folha de S.Paulo, Gazeta do Povo Rep, Metr
+       . [CNN Brasil] Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF
+       . [Brasil de Fato] Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin
+       . [Folha de S.Paulo] Fachin manda Mendonça, Moraes, Gonet e chefe da PF prestarem informações sobre diálogos com Vorcaro
+
+  12      0      79      0  Governo Lula anuncia resultados que humani
+       veiculos: Brasil Paralelo, Folha Poder, GZH, Google Trends BR, ICL Notícias, Lula | Site oficial, Metropoles, O GLOBO, Poder360, UOL Economia, UOL Notícias, Ver
+       . [Lula | Site oficial] Governo Lula anuncia resultados que humanizam a fila do INSS - Lula | Site oficial
+       . [O GLOBO] Avaliação do governo Lula está abaixo do patamar dos anteriores
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+
+   7      3      85      4  Moraes pede a Fachin investigação de André
+       ineditas: andrei, esclarecimentos, gonet, urgente
+       veiculos: CNN Brasil, Claudio Dantas, Folha Poder, Google Trends BR, Metropoles, O Antagonista, Veja
+       . [CNN Brasil] Mendonça controla "timing" da guerra eleitoral; veja análise
+       . [Google Trends BR] moraes acusa mendonça
+       . [Folha Poder] Mendonça apresenta notas de R$ 26,4 mil após suspeita de que teve terno bancado por lobista do Master
+
+   5      1      49      1  Master e STF: Lula diz que país não pode '
+       ineditas: blindagem
+       veiculos: G1, SBT News, Tribuna do Sertão, UOL Notícias, Veja
+       . [Tribuna do Sertão] Maior roubo da história do Brasil: Lula defende investigação 'sem blindagem' no caso Master
+       . [SBT News] Lula cobra investigação do Banco Master “sem blindagem”
+       . [G1] Master e STF: Lula diz que país não pode 'ficar refém' de vazamentos seletivos e defende reforma no Judiciário
+
+   4      0      73      0  STF institui teto de R$ 5 mil para concess
+       veiculos: Consultor Jurídico, JOTA Info, Valor Econômico, stf noticias
+       . [stf noticias] STF define critérios para concessão da justiça gratuita em todo o Judiciário
+       . [JOTA Info] STF institui teto de R$ 5 mil para concessão do benefício da Justiça gratuita
+       . [Valor Econômico] STF adota teto de R$ 5 mil para gratuidade na Justiça
+
+   2      0      13      5  lotofacil 3779
+       ineditas: 3779, confira, hoje, lotofacil, resultado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] lotofacil 3779
+       . [Metropoles] Confira o resultado da Lotofácil 3779 sorteada hoje (3/9)
+       . [Metropoles] Mega-Sena 3053 sorteia R$ 41 milhões hoje (3/9). Confira resultado
+
+   2      0      11      0  Moraes pede providências a Fachin contra M
+       veiculos: G1, JOTA Info
+       . [G1] Fachin dá 5 dias para que Mendonça, Moraes, PGR e Polícia Federal prestem informações sobre crise no STF
+       . [JOTA Info] Moraes pede providências a Fachin contra Mendonça por abuso de autoridade e favorecer grupo político
+
+   2      1      31      0  Justiça eleitoral barra candidatura de Arr
+       veiculos: Agência Brasil, O Antagonista
+       . [Agência Brasil] TRE indefere candidatura de José Roberto Arruda ao governo do DF
+       . [O Antagonista] Justiça eleitoral barra candidatura de Arruda no DF
+
+   2      0      35      0  Flávio diz que Kassab é aliado de Lula e n
+       veiculos: Poder360, UOL Notícias
+       . [UOL Notícias] Flávio diz que Kassab é aliado de Lula e nega doação de Vorcaro a Bolsonaro
+       . [Poder360] Vorcaro diz que doações a Tarcísio e Bolsonaro foram propina
+
