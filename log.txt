@@ -5702,3 +5702,65 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Crusoé: Uma reunião de três horas entre Moraes e Alcolumbre
        . [Claudio Dantas] Moraes e Alcolumbre se reuniram por 3 horas antes de ofensiva contra Mendonça
 
+==============================================================================
+RODADA 04/09 13:02 UTC  |  janela 90 min  |  105 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  16      4      86     13  Moraes acusa o espelho
+       ineditas: acusa, acusacoes, andre, fake, inquerito, investigacao, investigar, manda, news, pede, pedido, retira, tira
+       veiculos: BBC Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Estadão, Folha Poder, G1 Politica, Gazeta do Povo Rep, JOTA Info, Metropoles, O Antagoni
+       . [cnnbrasil.com.br] Fachin dá 5 dias para PGR e Mendonça responderem Moraes
+       . [Estadão] Dino diz que STF é ‘maior do que qualquer um que o integra’ em meio à crise entre Moraes e Mendonça
+       . [Estadão] Fachin tira do inquérito das fake news investigação de Mendonça pedida por Moraes
+
+   3      2      60      2  Flávio diz ser alvo de articulação de Mora
+       ineditas: alcolumbre, horas
+       veiculos: Claudio Dantas, O Antagonista, Poder360
+       . [Poder360] Flávio diz ser alvo de articulação de Moraes, Dino e Alcolumbre
+       . [O Antagonista] Crusoé: Uma reunião de três horas entre Moraes e Alcolumbre
+       . [Claudio Dantas] Moraes e Alcolumbre se reuniram por 3 horas antes de ofensiva contra Mendonça
+
+   2      1      59      1  Moraes usa documento da PF apócrifo e sem 
+       ineditas: relatorio
+       veiculos: Folha de S.Paulo, Veja
+       . [Folha de S.Paulo] Moraes usa documento da PF apócrifo e sem valor probatório contra André Mendonça
+       . [Veja] Relatório citado por Moraes contra Mendonça não tem data, assinatura nem ‘valor probatório’
+       . [Veja] Relatório ‘sem valor probatório’ da PF foi solicitado por Moraes após embate com Mendonça
+
+   2      0      16      1  Eleições 2026: veja a agenda dos candidato
+       ineditas: eleicoes
+       veiculos: G1, Tribunal Regional Eleitoral de Minas Gerais
+       . [Tribunal Regional Eleitoral de Minas Gerais] Falta um mês: treine seu voto para as Eleições 2026 - Tribunal Regional Eleitoral de Minas Gerais
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta sexta-feira (4)
+
+   2      0      15      3  Eleições 2026: TSE conclui assinatura digi
+       ineditas: eleicoes, lacra, sistemas
+       veiculos: G1, Metropoles
+       . [G1] Eleições 2026: TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas
+       . [Metropoles] Kassio lacra sistemas das eleições e diz que Justiça não escolhe vencedores
+
+   2      1      49      1  Ministros suspeitam de monitoramento ilega
+       ineditas: ilegal
+       veiculos: Claudio Dantas, Poder360
+       . [Poder360] PF diz que Mendonça sugeriu benefício ilegal a empresário
+       . [Claudio Dantas] Ministros suspeitam de monitoramento ilegal de Mendonça e identificam delegado em relatório de Moraes
+
+   2      1      10      1  payroll
+       ineditas: payroll
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] payroll
+       . [Veja] Payroll: EUA criam 162 mil vagas em agosto e superam expectativas do mercado
+
+   2      0      22      1  grande prêmio de mônaco
+       ineditas: monaco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] grande prêmio de mônaco
+       . [Metropoles] F1: FIA volta atrás e retira pódio de Pierre Gasly no GP de Mônaco
+
+   2      2      41      0  “Cedam as armas à toga”, diz Dino sobre cr
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
+       . [Veja] Dino cobra ‘lealdade institucional’ ao STF em crise sobre mensagens de Moraes e Vorcaro
+
