@@ -7155,3 +7155,98 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
        . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
 
+==============================================================================
+RODADA 04/09 16:12 UTC  |  janela 90 min  |  140 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  11      3      67      3  Fachin diz que não haverá omissão sobre cr
+       ineditas: havera, omissao, urgente
+       veiculos: BBC Brasil, Carta Capital, Claudio Dantas, Estadão, Folha de S.Paulo, G1, Gazeta do Povo Rep, JOTA Info, O Antagonista, Poder360, instagram.com
+       . [Folha de S.Paulo] Fachin defende fim do inquérito das fake news como solução para crise no STF
+       . [G1] Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF
+       . [JOTA Info] Caso Master: 'Gravidade dos fatos não autoriza atalhos', diz Fachin, ao prometer fim do inquérito das fake new
+
+   5      2      73      8  Com STF em crise, Lula diz que ninguém, em
+       ineditas: beneficio, cargo, citar, democracia, ninguem, nome, pessoal, usar
+       veiculos: Claudio Dantas, Folha Poder, O GLOBO, Poder360, Veja
+       . [O GLOBO] Com STF em crise, Lula diz que ninguém, em nome da democracia, 'pode usar o cargo que tem em benefício pessoal
+       . [Poder360] Sem citar Moraes, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+       . [Folha Poder] Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
+
+   4      0      43      0  Fachin diz que 'nenhuma autoridade está ac
+       veiculos: CNN Brasil, InfoMoney, Poder360, Valor Econômico
+       . [CNN Brasil] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [Valor Econômico] Fachin diz que 'nenhuma autoridade está acima da Constituição' e promete resposta 'firme e rigorosa' para cris
+       . [InfoMoney] Fachin diz que “nenhuma autoridade está acima da Constituição” em meio à crise no STF
+
+   4      1      71      2  'Crise Master' no STF: Lula volta a defend
+       ineditas: judiciario, reforma
+       veiculos: G1, Metropoles, O Antagonista, Poder360
+       . [G1] 'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei
+       . [Poder360] Lula diz que, no próximo ano, discutirá reforma no Judiciário
+       . [Metropoles] Em meio à crise no Supremo, Lula defende nova reforma do Poder Judiciário
+
+   3      1      30      8  Ronaldo Caiado participa de sabatina de VE
+       ineditas: augusto, caiado, ceara, cury, quaest, renan, ronaldo, santos
+       veiculos: G1, G1 Politica, Veja
+       . [G1] Quaest no Ceará: Ciro tem 45%; Elmano tem 34%
+       . [G1] Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%; Renan Santos, 2%; Ronaldo Caiado, 1%
+       . [G1 Politica] Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+
+   3      0      72      1  Sistemas das Eleições Gerais de 2026 são a
+       ineditas: usados
+       veiculos: Estadão, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Justiça Eleitoral pelo Brasil: TRE-AL reúne comunidades quilombolas para planejar transporte nas Eleições 2026
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+       . [Tribunal Superior Eleitoral] Sistemas das Eleições Gerais de 2026 são assinados digitalmente e lacrados pelo TSE
+
+   2      0       2      0  Resposta à crise no STF será firme e sem o
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa
+       . [Poder360] Resposta à crise no STF será firme e sem omissão, diz Fachin
+
+   2      1       8      0  Veja quem participa do ato de 7 de Setembr
+       veiculos: Agência Brasil, Claudio Dantas
+       . [Agência Brasil] STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      1      81      0  Fachin assume pedido de Moraes para invest
+       veiculos: Brasil de Fato, O Antagonista
+       . [Brasil de Fato] Fachin assume pedido de Moraes para investigar Mendonça no caso Banco Master
+       . [O Antagonista] PF monitorou André Mendonça diante de crise contra Moraes
+
+   2      0      56      0  Relatório usado por Moraes contra Mendonça
+       veiculos: O GLOBO, Poder360
+       . [O GLOBO] Relatório da PF usado por Moraes aponta que Mendonça disse em reunião analisar possível afastamento de chefe d
+       . [Poder360] Relatório usado por Moraes contra Mendonça não tem valor probatório
+
+   2      0       1      1  Casa Branca lança jogos “retrô” sobre depo
+       ineditas: lanca
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Casa Branca lança jogos “retrô” sobre deportações e muro de Trump
+       . [Carta Capital] Governo Trump lança games para perseguir imigrantes
+
+   2      0      44      0  Em meio à crise no STF, Lula critica uso p
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Em meio à crise no STF, Lula critica uso político de cargos e vazamentos seletivos
+       . [Metropoles] Ministro da Justiça entra na mira do PT em meio à crise no STF
+
+   2      1       7      0  globo filmes
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] globo filmes
+       . [Veja] Nina de Pádua retorna à Globo 21 anos após deixar emissora
+
+   2      1      48      1  prisão perpétua
+       ineditas: perpetua
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] prisão perpétua
+       . [Veja] A brasileira condenada à prisão perpétua na Itália pelo assassinato do marido
+
+   2      1      18      2  Chico Pinheiro atualiza estado de saúde du
+       ineditas: chico, pinheiro
+       veiculos: Metropoles, Veja
+       . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
+       . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
+
