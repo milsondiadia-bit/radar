@@ -6327,3 +6327,76 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 14:42 UTC  |  janela 90 min  |  115 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  11      3      79      2  Fachin tira ofensiva de Moraes contra Mend
+       ineditas: oposicao, presidente
+       veiculos: Agência Brasil, Claudio Dantas, Congresso em Foco, DW.com, Folha Poder, G1, Gazeta do Povo Rep, Metropoles, O Antagonista, O GLOBO, Poder360
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [DW.com] Crise no STF escala com guerra entre Moraes e Mendonça
+       . [G1] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   5      2      59      0  Flávio Bolsonaro diz ser alvo de articulaç
+       veiculos: Carta Capital, Claudio Dantas, Google Trends BR, Poder360, Veja
+       . [Poder360] Flávio Bolsonaro diz ser alvo de articulação de Moraes, Dino e Alcolumbre
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+       . [Google Trends BR] flávio dino
+
+   4      1      50      2  Crise sem precedentes expõe as entranhas d
+       ineditas: supremo, tribunal
+       veiculos: Claudio Dantas, GZH, Google Trends BR, instagram.com
+       . [GZH] Crise sem precedentes expõe as entranhas do Supremo Tribunal Federal
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+       . [Google Trends BR] presidente do supremo tribunal federal do brasil
+
+   3      0      41      0  Leia a íntegra da decisão que tira Mendonç
+       veiculos: CNN Brasil, Metropoles, Poder360
+       . [CNN Brasil] Fim do inquérito das fake news entra na equação para resolver crise no STF
+       . [Poder360] Leia a íntegra da decisão que tira Mendonça do inquérito das fake news
+       . [Metropoles] Moraes x Mendonça: entenda o que é o Inquérito das Fake News
+
+   2      0      14      1  Em delação, operador de Vorcaro diz ter ví
+       ineditas: delacao
+       veiculos: Correio Braziliense, Metropoles
+       . [Correio Braziliense] Com STF na roda, Vorcaro fica sem delação
+       . [Metropoles] Em delação, operador de Vorcaro diz ter vídeos entregando malas de dinheiro
+
+   2      0      23      0  Vale: Governo Lula impediu IPO da VBM, diz
+       veiculos: Brasil 247, EuQueroInvestir
+       . [EuQueroInvestir] Vale: Governo Lula impediu IPO da VBM, diz jornal canadense
+       . [Brasil 247] Lula celebra fim da taxa das blusinhas e avanços da agenda do governo
+
+   2      1       4      2  Lula: é preciso vencer batalha contra quem
+       ineditas: batalha, vencer
+       veiculos: Folha PE, O Antagonista
+       . [Folha PE] Lula: é preciso vencer batalha contra quem se opõe a mais 1 dia de descanso aos trabalhadores
+       . [O Antagonista] Fim da 6×1 ainda precisa “vencer batalha” no Congresso, diz Lula
+
+   2      0      18      2  duda salabert
+       ineditas: duda, salabert
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Duda Salabert denuncia tentativa de homicídio durante fiscalização em Minas
+       . [Google Trends BR] duda salabert
+
+   2      0      25      1  série de televisão
+       ineditas: serie
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] série de televisão
+       . [Metropoles] Goleiro do Nacional-AM perdeu o pai dias antes do acesso à Série C
+
+   2      0      40      1  tv globo
+       ineditas: globo
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] tv globo
+       . [Metropoles] Diretor da TV Globo é demitido por desistir da cobertura exclusiva da Copa
+
+   2      2       5      6  Nunes Marques: ‘Justiça não possui preferê
+       ineditas: candidaturas, justica, marques, nunes, possui, preferencia
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
