@@ -3948,3 +3948,51 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [cnnbrasil.com.br] PF insinua que Mendonça atua para mudar correlação de forças no STF
        . [O Antagonista] Relatório da PF insinua que Mendonça transformou Alcolumbre em alvo estratégico
 
+==============================================================================
+RODADA 04/09 02:32 UTC  |  janela 90 min  |  85 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      3      73      5  Oposição reage a pedido de Moraes para inv
+       ineditas: campanha, messias, ofensiva, usado, usou
+       veiculos: BBC, BBC Brasil, Claudio Dantas, Estadão, Folha Poder, G1 Politica, Gazeta do Povo Rep, Google Trends BR, Metropoles, O Antagonista, Poder360, UOL Not
+       . [cnnbrasil.com.br] Inteligência da PF vê Mendonça ciente de que investigação atingiria Moraes
+       . [BBC] Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da cris
+       . [UOL Notícias] Crise no STF se agrava e Lula pede investigação transparente
+
+   2      1      21      1  PF insinua que Mendonça atua para mudar co
+       ineditas: insinua
+       veiculos: O Antagonista, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF insinua que Mendonça atua para mudar correlação de forças no STF
+       . [O Antagonista] Relatório da PF insinua que Mendonça transformou Alcolumbre em alvo estratégico
+
+   2      0       2      0  PF aponta possível rigor maior de Mendonça
+       veiculos: Metropoles, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF aponta possível rigor maior de Mendonça com Lulinha
+       . [Metropoles] PF cita caso Lulinha e diz que Mendonça agiu conforme “espectro político”
+
+   2      0      68      2  Mendonça citou ‘proximidade’ de Gonet com 
+       ineditas: mendes, proximidade
+       veiculos: Carta Capital, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF diz que Mendonça desconfiava de Gonet por proximidade com Gilmar Mendes
+       . [Carta Capital] Mendonça citou ‘proximidade’ de Gonet com Gilmar Mendes para defender afastamento do PGR, diz PF
+
+   2      1       0      3  Imprensa internacional aponta crise no STF
+       ineditas: envolvendo, imprensa, revelacoes
+       veiculos: Gazeta do Povo, Gazeta do Povo Rep
+       . [Gazeta do Povo] Imprensa internacional aponta crise no STF após revelações envolvendo Moraes e Vorcaro
+       . [Gazeta do Povo Rep] Imprensa internacional vê crise no STF após revelações envolvendo Moraes e Vorcaro
+
+   2      0      23      2  TRE indefere candidatura de José Roberto A
+       ineditas: jose, roberto
+       veiculos: Carta Capital, Valor Econômico
+       . [Valor Econômico] TRE-DF rejeita registro de candidatura de José Roberto Arruda
+       . [Carta Capital] TRE indefere candidatura de José Roberto Arruda ao governo do DF
+
+   2      0      88      3  Fifa acusa Uefa de "campanha difamatória" 
+       ineditas: campanha, fifa, uefa
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Fifa acusa Uefa de tramar ‘campanha de difamação’
+       . [Metropoles] Fifa acusa Uefa de "campanha difamatória" em processo judicial sobre a FFE
+
