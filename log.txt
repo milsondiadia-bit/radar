@@ -9115,3 +9115,96 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Lula lamenta adiamento da votação do fim da 6x1 no Senado: "Uma pena"
        . [O Antagonista] Lula questiona Alcolumbre por adiar votação do fim da escala 6×1
 
+==============================================================================
+RODADA 04/09 20:02 UTC  |  janela 90 min  |  132 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      3      75      0  Como estava a disputa entre Lula e Bolsona
+       veiculos: Brasil de Fato, Claudio Dantas, Folha Poder, Metropoles, O Antagonista, Veja
+       . [Brasil de Fato] No Parcão, extrema direita transforma comício de Flávio Bolsonaro em micareta política
+       . [Folha Poder] Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
+       . [Metropoles] Ex-mulher de Jair e mãe de Flávio Bolsonaro recebe R$ 1 milhão do PL
+
+   5      2      81      0  Quaest: Ciro mantém vantagem sobre Elmano 
+       veiculos: Google Trends BR, Metropoles, O Antagonista, Poder360, Veja
+       . [Poder360] Ciro tem 49% e Elmano, 36%, em 2º turno no CE, diz pesquisa
+       . [Google Trends BR] pesquisa
+       . [Metropoles] Lula diz que Ciro “foi para o outro lado” e só Elmano é seu candidato no CE
+
+   3      2      39      0  Transparência Internacional pede afastamen
+       veiculos: Claudio Dantas, G1 Politica, Gazeta do Povo Rep
+       . [G1 Politica] A senadores, Alcolumbre sinaliza abertura de processo de impeachment cruzado de Moraes e Mendonça
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+       . [Claudio Dantas] Esquerda articula pedido de impeachment contra Mendonça  com base em relatório de Moraes
+
+   3      0      19      4  Estou predestinado a transformar este País
+       ineditas: classe, media, predestinado, transformar
+       veiculos: Estadão, Poder360, Terra
+       . [Terra] Estou predestinado a transformar este País em um país de classe média alta, diz Lula
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Lula diz estar “predestinado” a tornar Brasil classe média alta
+
+   3      1      31      1  Lula diz esperar que PEC do fim da escala 
+       ineditas: ingerencia
+       veiculos: G1, Veja, infomoney.com.br
+       . [G1] Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
+       . [infomoney.com.br] Lula diz ter afirmado a Trump que Brasil não aceitará ingerência nas eleições
+       . [Veja] Lula diz esperar que PEC do fim da escala 6×1 avance após o primeiro turno das eleições
+
+   3      1       9      0  Embate entre Moraes e Mendonça escancara n
+       veiculos: Brasil de Fato, Terra, Veja
+       . [Brasil de Fato] Embate entre Moraes e Mendonça escancara natureza política do STF, avalia cientista político
+       . [Terra] Escândalo do Banco Master reforça desconfiança na política e torna eleição mais instável, diz cientista políti
+       . [Veja] Como a esquerda tem reagido ao cerco contra Moraes no escândalo do Master
+
+   3      0       4      3  Sancionadas leis que criam fundos para a J
+       ineditas: criam, leis, sancionadas
+       veiculos: Agência Brasil, CNN Brasil, Conexão Tocantins
+       . [CNN Brasil] Lula sanciona leis que criam fundos para Justiça
+       . [Agência Brasil] Sancionadas leis que criam fundos para a Justiça
+       . [Conexão Tocantins] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, DPU e MPU
+
+   3      1      44      3  Mulher de Lito Sousa dá detalhes tratament
+       ineditas: anvisa, importacao, medicamento
+       veiculos: Metropoles, Poder360, Veja
+       . [Poder360] Anvisa autoriza importação de medicamento-teste para Lito Sousa
+       . [Metropoles] Mulher de Lito Sousa dá detalhes tratamento liberado pela Anvisa
+       . [Veja] Anvisa autoriza importação e uso de medicamento experimental para Lito Sousa
+
+   2      0      43      3  Candidatos nas Eleições 2026 em São Paulo:
+       ineditas: deputado, lista, paulo
+       veiculos: Gazeta do Povo, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado federal em Alagoas (AL): veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado federal no Amapá (AP): veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado federal em São Paulo (SP): veja lista de 2026
+
+   2      1      64      2  Quaest: para 57%, ausência de candidato em
+       ineditas: ausencia, debates
+       veiculos: G1 Politica, O Antagonista
+       . [G1 Politica] Quaest: para 57%, ausência de candidato em debates não afeta decisão do voto
+       . [O Antagonista] Crusoé: Ausência em debates importa para o eleitor?
+
+   2      1      21      0  Gonet pretende responder “o quanto antes” 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
+       . [O Antagonista] Gonet pretende responder “o quanto antes” sobre mensagens de Vorcaro
+
+   2      1      23      1  O avanço do Brasil para destravar exportaç
+       ineditas: exportacao
+       veiculos: Poder360, Veja
+       . [Poder360] Exportação para China sobe 15% no ano, mas cai 10,9% em agosto
+       . [Veja] O avanço do Brasil para destravar exportação de carne de aves e mel para a União Europeia
+
+   2      0      25      1  TST recoloca em ‘lista suja’ do trabalho e
+       ineditas: esposa
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] TST recoloca em ‘lista suja’ do trabalho escravo nome de esposa de desembargador
+       . [Google Trends BR] a morte da esposa do pastor
+
+   2      1      28      0  Lula questiona Alcolumbre por adiar votaçã
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Lula lamenta adiamento da votação do fim da 6x1 no Senado: "Uma pena"
+       . [O Antagonista] Lula questiona Alcolumbre por adiar votação do fim da escala 6×1
+
