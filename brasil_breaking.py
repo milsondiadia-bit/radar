@@ -720,7 +720,13 @@ ANCAPSU_CANAL = "UCLTWPE7XrHEe8m_xAmNbQ-Q"
 ANCAPSU_FEED = ("https://www.youtube.com/feeds/videos.xml"
                 f"?channel_id={ANCAPSU_CANAL}")
 ARQUIVO_ANCAPSU = "ancapsu_vistos.json"
-ANCAPSU_MINUTOS = 180
+# Janela de 45 min, nao 180. Medido em 04/09/2026: quando o push do
+# ancapsu_vistos.json falha - e falha sempre que alguem commita no
+# mesmo minuto - a memoria se perde e o video volta a parecer novo. Com
+# 180 minutos ele repetia por ate 3 horas; com 45 o estrago para em
+# poucas rodadas, e ainda cobre duas ou tres rodadas perdidas por queda
+# de rede, que era o motivo da janela larga.
+ANCAPSU_MINUTOS = 45
 ANCAPSU_MINUTOS_ESTREIA = 30
 ANCAPSU_LIMITE_MEMORIA = 300
 
