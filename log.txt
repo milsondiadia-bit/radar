@@ -4257,3 +4257,22 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [G1 Politica] Eleições 2026: O que faz um senador?
        . [G1 Politica] VÍDEO: entenda por que um deputado eleito pode 'puxar' outro candidato nas eleições
 
+==============================================================================
+RODADA 04/09 04:12 UTC  |  janela 90 min  |  45 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      1      69      3  Moraes deflagra guerra no STF ao acusar Me
+       ineditas: agir, motivos, politicos
+       veiculos: BBC, BBC Brasil, Gazeta do Povo Rep, Metropoles, Poder360, oglobo.globo.com
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e pede que colega de STF seja investigado
+       . [oglobo.globo.com] Salvem a democracia, não Moraes
+       . [oglobo.globo.com] Relatório da PF usado por Moraes contra Mendonça também mira ministro de Lula
+
+   3      1      70      0  VÍDEO: entenda por que um deputado eleito 
+       veiculos: G1, G1 Politica, O Antagonista
+       . [G1] VÍDEO: entenda por que um deputado eleito pode 'puxar' outro candidato nas eleições
+       . [G1 Politica] Eleições 2026: O que faz um senador?
+       . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
+
