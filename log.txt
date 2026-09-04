@@ -3584,3 +3584,64 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [CNN Brasil] PF aponta interferência de Mendonça e suposto direcionamento de alvos
        . [O GLOBO] Relatório da PF que aponta ‘assimetria política’ de Mendonça e cita ACM Neto, Rueda, Alcolumbre e Lulinha
 
+==============================================================================
+RODADA 04/09 01:02 UTC  |  janela 90 min  |  108 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  19      4      77     12  Leia decisão em que Moraes pede ação de Fa
+       ineditas: alvo, determinou, doer, informacoes, investigados, leia, manda, nota, perseguir, prestarem, quem, revela
+       veiculos: Agência Brasil, BBC Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Folha Poder, G1 Politica, Gazeta do Povo Rep, Google Trends BR, Metropol
+       . [cnnbrasil.com.br] Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF
+       . [Agência Brasil] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+       . [brasildefato.com.br] Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin
+
+   3      1      22      1  Lula cobra investigação do Banco Master “s
+       ineditas: blindagem
+       veiculos: SBT News, Tribuna do Sertão, Veja
+       . [Tribuna do Sertão] Maior roubo da história do Brasil: Lula defende investigação 'sem blindagem' no caso Master
+       . [SBT News] Lula cobra investigação do Banco Master “sem blindagem”
+       . [Veja] ‘Nossa justiça não pode ficar refém de vazamentos seletivos’, diz Lula sobre Master
+
+   3      0      52      0  STF fixa renda de R$ 5 mil como teto para 
+       veiculos: Consultor Jurídico, Valor Econômico, stf noticias
+       . [stf noticias] STF define critérios para concessão da justiça gratuita em todo o Judiciário
+       . [Consultor Jurídico] STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+       . [Valor Econômico] STF adota teto de R$ 5 mil para gratuidade na Justiça
+
+   3      0      43      0  Senado aprova transformação do Cefet-MG em
+       veiculos: Metropoles, Poder360, UOL Economia
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
+       . [Metropoles] Senado aprova transformação do Cefet-MG em universidade federal
+
+   3      0      59      0  Flávio diz que Kassab é aliado de Lula e n
+       veiculos: Brasil Paralelo, Poder360, UOL Notícias
+       . [UOL Notícias] Flávio diz que Kassab é aliado de Lula e nega doação de Vorcaro a Bolsonaro
+       . [Brasil Paralelo] Lula fala sobre mensagens de Vorcaro pela primeira vez
+       . [Poder360] Vorcaro diz que doações a Tarcísio e Bolsonaro foram propina
+
+   2      0      28      3  Mega-Sena 3053 sorteia R$ 41 milhões hoje 
+       ineditas: confira, hoje, resultado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] csa hoje
+       . [Metropoles] Confira o resultado da Lotofácil 3779 sorteada hoje (3/9)
+       . [Metropoles] Mega-Sena 3053 sorteia R$ 41 milhões hoje (3/9). Confira resultado
+
+   2      0      18      0  Relatório da PF que aponta ‘assimetria pol
+       veiculos: cnnbrasil.com.br, oglobo.globo.com
+       . [cnnbrasil.com.br] PF aponta interferência de Mendonça e suposto direcionamento de alvos
+       . [oglobo.globo.com] Relatório da PF que aponta ‘assimetria política’ de Mendonça e cita ACM Neto, Rueda, Alcolumbre e Lulinha
+
+   2      0      29      1  Lula se posiciona sobre crise no STF, defe
+       ineditas: posiciona
+       veiculos: Carta Capital, UOL Notícias
+       . [UOL Notícias] Lula se posiciona sobre crise no STF, defende reforma no Judiciário e apuração
+       . [Carta Capital] Lula se posiciona sobre crise no STF e defende reforma do sistema Judiciário
+
+   2      0       6      0  pesquisa datafolha ceara
+       veiculos: Google Trends BR, g1.globo.com
+       . [g1.globo.com] Datafolha divulga também nova pesquisa com avaliação que os brasileiros fazem do governo Lula
+       . [Google Trends BR] pesquisa datafolha ceara
+
