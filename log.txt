@@ -4108,3 +4108,30 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
        . [Poder360] PF sugere haver “assimetria” em decisões de André Mendonça
 
+==============================================================================
+RODADA 04/09 03:22 UTC  |  janela 90 min  |  60 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      1      70      2  Campanha de Lula busca ponte com Cury e te
+       ineditas: corte, sabe
+       veiculos: BBC, BBC Brasil, Folha Poder, Gazeta do Povo, Gazeta do Povo Rep, Google Trends BR, O GLOBO, Poder360, UOL Notícias
+       . [BBC] Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da cris
+       . [O GLOBO] Salvem a democracia, não Moraes
+       . [UOL Notícias] Crise no STF se agrava e Lula pede investigação transparente
+
+   7      2      71      1  Marina Silva defende que Moraes se afaste 
+       ineditas: desconfiava
+       veiculos: CNN Brasil, Folha Poder, Gazeta do Povo Rep, Metropoles, O Antagonista, PlatôBR, Poder360
+       . [CNN Brasil] PF diz que Mendonça desconfiava de Gonet por proximidade com Gilmar Mendes
+       . [PlatôBR] A reação de delegados da PF ao pedido de Gilmar Mendes contra atuação no STF
+       . [Poder360] PF diz que Mendonça desconfiava de Andrei por proximidade com Lula
+
+   3      1      49      2  PF sugere haver “assimetria” em decisões d
+       ineditas: assimetria, provavel
+       veiculos: G1 Politica, Gazeta do Povo Rep, Poder360
+       . [G1 Politica] Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo e
+       . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
+       . [Poder360] PF sugere haver “assimetria” em decisões de André Mendonça
+
