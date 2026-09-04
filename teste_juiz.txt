@@ -25,9 +25,9 @@ OK    esperado=True  obtido=True  | FATO NOVO - Fachin agiu
       Fachin da 5 dias para Moraes, Mendonca, PGR e Policia Federal prestarem inform
       motivo da IA: IA fora do ar - passou sem julgar
 
-ERRO  esperado=True  obtido=False | FATO NOVO - achado sobre o documento
+OK    esperado=True  obtido=True  | FATO NOVO - achado sobre o documento
       Relatorio da PF usado por Moraes contra Mendonca nao tem valor probatorio
-      motivo da IA: analise sobre relatorio usado na acusacao
+      motivo da IA: IA fora do ar - passou sem julgar
 
 ERRO  esperado=False obtido=True  | declaracao de terceiro sobre o mesmo caso
       Dino reconhece crise no STF e defende 'seguir julgando'
@@ -41,4 +41,4 @@ OK    esperado=True  obtido=True  | FATO NOVO inventado, para ver se ele deixa p
       PF indicia Alexandre de Moraes por obstrucao de justica
       motivo da IA: IA fora do ar - passou sem julgar
 
-ACERTOS: 3 de 9
+ACERTOS: 4 de 9
