@@ -3251,3 +3251,76 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
        . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
 
+==============================================================================
+RODADA 04/09 00:12 UTC  |  janela 90 min  |  130 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  14      4      61     17  Moraes encaminha a Fachin pedido de invest
+       ineditas: andre, andrei, apuracao, caso, cinco, crise, determina, dias, esclarecimentos, federal, fortes, gonet, manifestarem, mas
+       veiculos: CNN Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Folha Poder, G1, G1 Politica, Gazeta do Povo Rep, Metropoles, NSC Total, O Antagonista, 
+       . [CNN Brasil] Moraes usa inquérito das fake news para acusar Mendonça de crimes
+       . [G1] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+       . [CNN Brasil] Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF
+
+  13      2      87      0  Datafolha: Lula é desaprovado por 51%; 45%
+       veiculos: BBC Brasil, CNN Brasil, Gazeta do Povo Rep, ICL Notícias, Metropoles, O Antagonista, Poder360, UOL Economia, UOL Notícias, Valor Econômico, Vero Notíc
+       . [Valor Econômico] Datafolha: Flávio tem rejeição de 47% e Lula, de 45%
+       . [band.com.br] Governo Lula é rejeitado por 51% e aprovado por 45%, diz Datafolha
+       . [CNN Brasil] Datafolha: Lula é desaprovado por 51%; 45% aprovam
+
+   4      2      36      8  Master e STF: Lula diz que país não pode '
+       ineditas: caso, defende, ficar, master, pode, refem, seletivos, vazamentos
+       veiculos: G1, Metropoles, O Antagonista, Veja
+       . [G1] Master e STF: Lula diz que país não pode 'ficar refém' de vazamentos seletivos e defende reforma no Judiciário
+       . [Metropoles] Caso Master: Lula defende investigação de "todo mundo, doa a quem doer"
+       . [O Antagonista] “Maior roubo da história do Brasil”, diz Lula sobre caso Master
+
+   4      0       8      0  Governo Lula não proibiu garis de usarem e
+       veiculos: Lula | Site oficial, O GLOBO, UOL Notícias, gauchazh.clicrbs.com.br
+       . [Lula | Site oficial] Governo Lula anuncia resultados que humanizam a fila do INSS - Lula | Site oficial
+       . [O GLOBO] Avaliação do governo Lula está abaixo do patamar dos anteriores
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+
+   3      0      45      0  STF decide limitar gratuidade em ações na 
+       veiculos: Agência Brasil, CartaCapital, Valor Econômico
+       . [Agência Brasil] STF decide limitar gratuidade em ações na Justiça do Trabalho
+       . [Valor Econômico] STF adota teto de R$ 5 mil para gratuidade na Justiça
+       . [CartaCapital] STF contraria TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5 mil
+
+   3      1      49      0  Justiça Eleitoral barra candidatura de Edu
+       veiculos: Carta Capital, O Antagonista, Valor Econômico
+       . [Valor Econômico] Justiça Eleitoral barra candidatura de Eduardo Cunha a deputado federal
+       . [Carta Capital] Justiça Eleitoral de Minas Gerais rejeita registro de candidatura de Eduardo Cunha
+       . [O Antagonista] Justiça eleitoral barra candidatura de Arruda no DF
+
+   2      1      18      3  Nova pesquisa Quaest para São Paulo será d
+       ineditas: feira, nesta, paulo
+       veiculos: Valor Econômico, Veja
+       . [Valor Econômico] A nova pesquisa Quaest para Minas Gerais após a chegada de Aécio Neves
+       . [Valor Econômico] Nova pesquisa Quaest para São Paulo será divulgada nesta terça-feira
+       . [Veja] Previsão do tempo em São Paulo nesta sexta-feira, 4: chuva volta com avanço de frente fria
+
+   2      0      21      2  STF institui teto de R$ 5 mil para concess
+       ineditas: concessao, teto
+       veiculos: Consultor Jurídico, JOTA Info
+       . [JOTA Info] STF institui teto de R$ 5 mil para concessão do benefício da Justiça gratuita
+       . [Consultor Jurídico] STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+
+   2      0      13      2  Moraes pede providências a Fachin contra M
+       ineditas: abuso, autoridade
+       veiculos: Brasil de Fato, JOTA Info
+       . [JOTA Info] Moraes pede providências a Fachin contra Mendonça por abuso de autoridade e favorecer grupo político
+       . [Brasil de Fato] Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin
+
+   2      1      54      0  Esquema ligado à Refit custeou mansão na S
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Cláudio Castro acompanhava pedidos da Refit e cobrava providências, diz PF
+       . [Claudio Dantas] Esquema ligado à Refit custeou mansão na Serra e cobertura para Cláudio Castro, diz PF
+
+   2      2      54      0  Justiça manda STF analisar pedido para Sen
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
+       . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
+
