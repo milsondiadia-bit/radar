@@ -891,7 +891,7 @@ MODELOS_IA = ["gemini-flash-lite-latest", "gemini-3-flash-preview",
               "gemini-flash-latest"]
 
 
-def _chama_gemini(prompt, chave, teto_seg=25):
+def _chama_gemini(prompt, chave, teto_seg=60):
     """
     Uma pergunta ao Gemini, com cascata de modelos.
 
@@ -920,7 +920,12 @@ def _chama_gemini(prompt, chave, teto_seg=25):
         for versao in ("v1beta", "v1"):
             url = (f"https://generativelanguage.googleapis.com/{versao}"
                    f"/models/{modelo}:generateContent")
-            for espera in (0, 4):
+            # o 429 do Gemini e por minuto e passa sozinho. Medido em
+            # 04/09/2026: com teto de 25s o juiz desistia antes de o
+            # limite liberar e deixava tudo passar sem julgar (3 de 9);
+            # esperando ate 60s ele julga (7 de 9) e ainda cabe folgado
+            # no limite de 10 minutos do workflow.
+            for espera in (0, 6, 15, 25):
                 if time.time() - comeco > teto_seg:
                     return None
                 if espera:
