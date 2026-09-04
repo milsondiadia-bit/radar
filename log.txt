@@ -8328,3 +8328,99 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
        . [Google Trends BR] alexandre pato
 
+==============================================================================
+RODADA 04/09 18:42 UTC  |  janela 90 min  |  125 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      36      4  Conselho do MPF dá prazo para Gonet coment
+       ineditas: abre, conselho, deve, procedimento
+       veiculos: Claudio Dantas, Folha Poder, O Antagonista, O GLOBO, Veja
+       . [O GLOBO] STF deve rechaçar manobra de Moraes no caso Master
+       . [Folha Poder] Conselho do MPF abre procedimento sobre Gonet, que deve negar interferência no caso Master
+       . [O Antagonista] Conselho do MPF abre apuração sobre mensagens de Vorcaro que citam Gonet
+
+   3      1      61      0  Eleições 2026: saiba o conceito de turno e
+       veiculos: Tribunal Regional Eleitoral de Sergipe, UNALE, Veja
+       . [Tribunal Regional Eleitoral de Sergipe] TRE-SE indefere DRAP da Federação PSOL/REDE para as Eleições 2026
+       . [UNALE] Eleições 2026: saiba o conceito de turno eleitoral
+       . [Veja] Lula diz esperar que PEC do fim da escala 6×1 avance após o primeiro turno das eleições
+
+   3      0      48      0  Ao lado de Fachin, Lula critica uso de car
+       veiculos: Congresso em Foco, Poder360, Valor Econômico
+       . [Valor Econômico] Nova pesquisa Meio/Ideia para presidente investiga se crise no STF muda voto em Lula e Flávio
+       . [Poder360] Com STF em crise, Lula sanciona lei ao lado de Fachin e Gonet
+       . [Congresso em Foco] Ao lado de Fachin, Lula critica uso de cargo para benefício pessoal
+
+   3      1      29      3  Balança comercial tem superávit de US$ 7,4
+       ineditas: balanca, comercial, superavit
+       veiculos: G1 Politica, Poder360, Veja
+       . [G1 Politica] Balança comercial tem superávit de US$ 7,4 bilhões em agosto, maior saldo para o mês em 3 anos
+       . [Poder360] Balança comercial registra superavit de US$ 7,4 bi em agosto
+       . [Veja] Balança comercial tem superávit de US$ 7,4 bi em agosto, com alta em exportações e importações
+
+   3      2      37      0  Relatório usado por Moraes contra Mendonça
+       veiculos: Carta Capital, Claudio Dantas, Veja
+       . [Carta Capital] Relatório usado por Moraes contra Mendonça joga Toffoli e Nunes Marques na fogueira
+       . [Claudio Dantas] Nikolas diz que Mendonça “deveria dar voz de prisão” a Moraes
+       . [Veja] Racha entre Moraes e Mendonça coloca o STF diante de um dilema
+
+   2      0      72      1  Quaest divulga pesquisa para governo e Sen
+       ineditas: numeros
+       veiculos: Gazeta do Povo, noticias.uol.com.br
+       . [noticias.uol.com.br] Pesquisa eleitoral para presidência: veja os números dos últimos levantamentos
+       . [Gazeta do Povo] Os números da pesquisa Indexa para governo e Senado no Pará
+       . [Gazeta do Povo] Quaest divulga pesquisa para governo e Senado no Ceará
+
+   2      1      64      1  Crusoé: Brigadeiro indigesto
+       ineditas: crusoe
+       veiculos: O Antagonista, O GLOBO
+       . [O GLOBO] Arruda é barrado pelo TRE-DF, mas pode continuar em campanha; entenda o que acontece agora
+       . [O Antagonista] Crusoé: Censura em campanha
+       . [O Antagonista] Crusoé: Brigadeiro indigesto
+
+   2      1      80      0  Quaest mostra ‘goleada’ de Lula sobre Fláv
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Lula x Flávio Bolsonaro: a nova pesquisa Ideia sobre a disputa pela Presidência
+       . [Carta Capital] Quaest mostra ‘goleada’ de Lula sobre Flávio Bolsonaro no Ceará
+       . [Veja] Como estava a disputa entre Lula e Bolsonaro a um mês da eleição de 2022
+
+   2      1      66      0  Quaest no Ceará: Ciro Gomes venceria Elman
+       veiculos: Carta Capital, O Antagonista
+       . [Carta Capital] Quaest no Ceará: Cid Gomes e Capitão Wagner lideram a disputa pelo Senado
+       . [Carta Capital] Quaest no Ceará: Ciro Gomes venceria Elmano por 13 pontos no 2º turno
+       . [O Antagonista] Quaest: Ciro mantém vantagem sobre Elmano no Ceará
+
+   2      1      22      0  Flávio acusa Alcolumbre de proteger Moraes
+       veiculos: CNN Brasil, Claudio Dantas
+       . [CNN Brasil] Flávio acusa Alcolumbre de proteger Moraes no Senado
+       . [Claudio Dantas] ALive: Moraes rasga leis para tentar se proteger de investigação
+
+   2      0      65      2  Senado aprova política de minerais crítico
+       ineditas: criticos, minerais
+       veiculos: Agência Brasil China, Sistema Província de Comunicação
+       . [Agência Brasil China] Senado aprova política de minerais críticos e abre nova etapa para a cadeia Brasil–China
+       . [Sistema Província de Comunicação] Política de minerais críticos pode repetir erros históricos
+
+   2      0      39      0  Projeto que atualiza regime de custas da J
+       veiculos: Google Trends BR, trf3.jus.br
+       . [trf3.jus.br] Projeto que atualiza regime de custas da Justiça Federal e cria fundo especial é sancionado
+       . [Google Trends BR] caixa econômica federal
+
+   2      0      31      0  Governo pede autorização do TSE para que L
+       veiculos: Estadão, Valor Econômico
+       . [Estadão] União Europeia reage à ameaça do governo Lula e nega discriminar carne do Brasil
+       . [Valor Econômico] Governo pede autorização do TSE para que Lula faça pronunciamento de 7 de Setembro
+
+   2      0      13      2  Gabigol se pronuncia após polêmica envolve
+       ineditas: flamengo, gabigol
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Gabigol se pronuncia após polêmica envolvendo o Flamengo
+       . [Metropoles] Santos divulga pronunciamento Gabigol após falas sobre Cruzeiro e Flamengo
+
+   2      1       9      0  alexandre pato
+       veiculos: Gazeta do Povo Rep, Google Trends BR
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+       . [Google Trends BR] alexandre pato
+
