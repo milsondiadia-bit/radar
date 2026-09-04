@@ -9670,3 +9670,83 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] palmeiras sub 20
        . [Metropoles] Santos confirma lesão de Neymar após jogo contra Palmeiras; leia nota
 
+==============================================================================
+RODADA 04/09 21:22 UTC  |  janela 90 min  |  98 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      57      0  O novo pedido de impeachment contra Alexan
+       veiculos: G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [Gazeta do Povo Rep] Transparência Internacional defende saída de Alexandre de Moraes do cargo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   4      0      36      0  Pesquisa AtlasIntel mostra liderança de Fl
+       veiculos: Carta Capital, Google Trends BR, Metropoles, Poder360
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+       . [Carta Capital] AtlasIntel: Lula lidera com folga no Ceará e abre 26 pontos sobre Flávio Bolsonaro no primeiro turno
+       . [Carta Capital] AtlasIntel: Ciro tem 48% no primeiro turno; Elamano pontua 45%
+
+   3      1      58      1  AtlasIntel indica disputa acirrada ao gove
+       ineditas: divulga
+       veiculos: Carta Capital, Gazeta do Povo, O Antagonista
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governo e Senado no Ceará
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governador no Amazonas
+       . [Carta Capital] AtlasIntel indica disputa acirrada ao governo do Amazonas
+
+   2      0      21      2  real madrid fc
+       ineditas: madrid, real
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] real madrid fc
+       . [Google Trends BR] madrid
+       . [Metropoles] Mbappé perde pênalti e Betis derrota o Real Madrid pelo Campeonato Espanhol
+
+   2      0      17      1  Deputado aciona Supremo para investigar do
+       ineditas: campanha
+       veiculos: Folha Poder, Valor Econômico
+       . [Valor Econômico] Tarcísio diz que suspeita de propina de Vorcaro para sua campanha 2022 é absurda
+       . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
+
+   2      1      29      0  Exportações para os EUA têm queda de 9,7% 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+       . [O Antagonista] Depois de um mês encontrando pegadas enormes junto ao barco todas as manhãs, pescador instala uma câmera no pí
+
+   2      0      59      0  Conselho Superior do MPF quer analisar cit
+       veiculos: Congresso em Foco, Poder360
+       . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
+       . [Congresso em Foco] Conselho do MPF abre procedimento sobre citações a Gonet
+
+   2      1      54      0  Lula afirma ter dito a Trump que Brasil nã
+       veiculos: Gazeta do Povo Rep, Metropoles
+       . [Gazeta do Povo Rep] Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+       . [Metropoles] Governo brasileiro não descarta encontro casual entre Lula e Trump na ONU
+
+   2      0      18      0  mônaco fc
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] mônaco fc
+       . [Metropoles] Monaco, de Filipe Luís, vence o PSG de virada no Parque dos Príncipes
+
+   2      0      14      1  palmeiras sub 20
+       ineditas: palmeiras
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] palmeiras sub 20
+       . [Metropoles] Santos confirma lesão de Neymar após jogo contra Palmeiras; leia nota
+
+   2      1      28      0  Em meio à crise no STF, André Mendonça agr
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Em meio à crise do STF, cúpula da OAB viaja à Suíça
+       . [Claudio Dantas] Em meio à crise no STF, André Mendonça agradece orações: “Que Deus nos abençoe”
+
+   2      1      18      3  Nikolas é atingido por ovo durante ato de 
+       ineditas: campanha, durante, nikolas
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Nikolas é atingido por ovo durante ato de campanha na Grande BH
+       . [O Antagonista] Homem joga ovos em Nikolas durante ato de campanha
+
+   2      2       9      0  Elmano reduz distância para Ciro no Ceará,
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+       . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
+
