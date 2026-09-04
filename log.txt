@@ -3853,3 +3853,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo
        . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
 
+==============================================================================
+RODADA 04/09 02:02 UTC  |  janela 90 min  |  93 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  10      3      78      2  Moraes encaminha a Fachin pedido de invest
+       ineditas: atuacao, ofensiva
+       veiculos: Agência Brasil, BBC, BBC Brasil, Claudio Dantas, G1 Politica, Gazeta do Povo Rep, O Antagonista, Poder360, Valor Econômico, cnnbrasil.com.br
+       . [cnnbrasil.com.br] Inteligência da PF vê Mendonça ciente de que investigação atingiria Moraes
+       . [cnnbrasil.com.br] Análise: O que representam para o STF as denúncias de Moraes a Mendonça?
+       . [Agência Brasil] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+
+   6      3      82      4  Marinho diz que Moraes usa inquérito para 
+       ineditas: afastamento, critica, estrategico, lulinha
+       veiculos: Claudio Dantas, Google Trends BR, Metropoles, O Antagonista, Veja, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF aponta interferência de Mendonça e suposto direcionamento de alvos
+       . [cnnbrasil.com.br] PF aponta possível rigor maior de Mendonça com Lulinha
+       . [Google Trends BR] mendonca
+
+   2      0      46      0  Governo Lula não proibiu garis de usarem e
+       veiculos: CBN Recife, UOL Notícias
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+       . [CBN Recife] Governo Lula tem 51% de desaprovação e 45% de aprovação, diz Datafolha
+
+   2      0      50      0  Senado aprova fim da 'taxa das blusinhas' 
+       veiculos: Poder360, UOL Economia
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [Poder360] Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo
+
