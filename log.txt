@@ -6400,3 +6400,100 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 14:52 UTC  |  janela 90 min  |  126 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  10      2      85      2  “Fachin colocou Moraes no lugar dele”, diz
+       ineditas: gonet, presidente
+       veiculos: Agência Brasil, Claudio Dantas, DW.com, Folha Poder, G1, G1 Politica, Metropoles, O Antagonista, O GLOBO, Poder360
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [DW.com] Crise no STF escala com guerra entre Moraes e Mendonça
+       . [G1] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   4      1      50      2  Crise sem precedentes expõe as entranhas d
+       ineditas: supremo, tribunal
+       veiculos: Claudio Dantas, GZH, Google Trends BR, instagram.com
+       . [GZH] Crise sem precedentes expõe as entranhas do Supremo Tribunal Federal
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+       . [Google Trends BR] presidente do supremo tribunal federal do brasil
+
+   3      1      32      2  Como está a disputa entre Lula e Flávio Bo
+       ineditas: pesquisas, turno
+       veiculos: BBC Brasil, Carta Capital, Veja
+       . [BBC Brasil] Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+       . [Veja] As pesquisas eleitorais e o ‘trade Flávio’
+
+   3      1      59      0  Flávio Bolsonaro diz ser alvo de articulaç
+       veiculos: Claudio Dantas, Google Trends BR, Poder360
+       . [Poder360] Flávio Bolsonaro diz ser alvo de articulação de Moraes, Dino e Alcolumbre
+       . [Google Trends BR] flávio dino
+       . [Claudio Dantas] Flávio: Moraes, Alcolumbre e Dino articulam ‘ação ilegal contra mim’
+
+   2      0      13      1  PF vê inação da AGU e aponta “relação polí
+       ineditas: politica
+       veiculos: CNN Brasil, Congresso em Foco
+       . [CNN Brasil] PF vê inação da AGU e aponta “relação política” de Mendonça e Messias
+       . [Congresso em Foco] Fachin e a política do rule of law
+
+   2      0       9      4  Em meio a 'crise Master' no STF, Fachin di
+       ineditas: acima, autoridade, constituicao, nenhuma
+       veiculos: CNN Brasil, G1 Politica
+       . [CNN Brasil] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [G1 Politica] Em meio a 'crise Master' no STF, Fachin diz que fatos estão sendo apurados e que nenhuma autoridade está acima
+
+   2      1      83      1  Supremo limita acesso gratuita à Justiça d
+       ineditas: quem
+       veiculos: Claudio Dantas, O GLOBO
+       . [O GLOBO] Supremo limita acesso gratuita à Justiça do Trabalho a quem ganha até R$ 5 mil
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      0      38      0  Fim do inquérito das fake news entra na eq
+       veiculos: CNN Brasil, Metropoles
+       . [CNN Brasil] Fim do inquérito das fake news entra na equação para resolver crise no STF
+       . [Metropoles] Moraes x Mendonça: entenda o que é o Inquérito das Fake News
+
+   2      0      14      1  Em delação, operador de Vorcaro diz ter ví
+       ineditas: delacao
+       veiculos: Correio Braziliense, Metropoles
+       . [Correio Braziliense] Com STF na roda, Vorcaro fica sem delação
+       . [Metropoles] Em delação, operador de Vorcaro diz ter vídeos entregando malas de dinheiro
+
+   2      0       0      5  Folha estreia no Substack com newsletter d
+       ineditas: eleicao, estreia, folha, newsletter, substack
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Folha estreia no Substack com newsletter da eleição - 04/09/2026 - Política
+       . [Folha Poder] Folha estreia no Substack com newsletter da eleição
+
+   2      0      67      0  Vale: Governo Lula impediu IPO da VBM, diz
+       veiculos: EuQueroInvestir, Vero Notícias
+       . [Vero Notícias] Durigan não descarta mudanças na Previdência em eventual novo governo Lula
+       . [EuQueroInvestir] Vale: Governo Lula impediu IPO da VBM, diz jornal canadense
+
+   2      1       4      2  Lula: é preciso vencer batalha contra quem
+       ineditas: batalha, vencer
+       veiculos: Folha PE, O Antagonista
+       . [Folha PE] Lula: é preciso vencer batalha contra quem se opõe a mais 1 dia de descanso aos trabalhadores
+       . [O Antagonista] Fim da 6×1 ainda precisa “vencer batalha” no Congresso, diz Lula
+
+   2      0      18      2  duda salabert
+       ineditas: duda, salabert
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Duda Salabert denuncia tentativa de homicídio durante fiscalização em Minas
+       . [Google Trends BR] duda salabert
+
+   2      0      25      1  série de televisão
+       ineditas: serie
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] série de televisão
+       . [Metropoles] Goleiro do Nacional-AM perdeu o pai dias antes do acesso à Série C
+
+   2      2       5      6  Nunes Marques: ‘Justiça não possui preferê
+       ineditas: candidaturas, justica, marques, nunes, possui, preferencia
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
