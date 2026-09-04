@@ -910,7 +910,11 @@ def _chama_gemini(prompt, chave):
         for versao in ("v1beta", "v1"):
             url = (f"https://generativelanguage.googleapis.com/{versao}"
                    f"/models/{modelo}:generateContent")
-            for espera in (0, 10):
+            # o 429 do Gemini passa sozinho depois de alguns segundos.
+            # Medido em 04/09/2026: com apenas duas tentativas o teste
+            # perdeu 1 caso em 9 por limite de taxa, e o alerta passou
+            # sem ser julgado.
+            for espera in (0, 5, 15, 30):
                 if espera:
                     time.sleep(espera)
                 try:
@@ -947,16 +951,25 @@ def traz_fato_novo(titulo, ja_avisados, chave):
         "horas e NAO quer ser avisado de novo do mesmo acontecimento.\n\n"
         f"JA AVISADO:\n{anteriores}\n\n"
         f"MANCHETE NOVA:\n- {titulo}\n\n"
-        "A manchete nova relata um ACONTECIMENTO que nao esta na lista "
-        "acima - alguem fez, decidiu, pediu, prendeu, soltou, afastou, "
-        "revelou algo novo?\n"
-        "Ou ela e apenas repercussao do que ja foi avisado - analise, "
-        "opiniao, reacao de terceiros, contexto, 'entenda o caso', "
-        "declaracao de quem comenta o assunto?\n\n"
-        "Manchete que so troca as palavras para dizer a mesma coisa e "
-        "repercussao.\n\n"
+        "Pergunte-se: QUEM FEZ O QUE de novo?\n\n"
+        "E FATO NOVO quando alguem praticou um ato que ainda nao aparece "
+        "na lista: decidiu, determinou, pediu, abriu, arquivou, prendeu, "
+        "soltou, afastou, indiciou, denunciou, votou, marcou prazo, ou "
+        "quando surgiu uma revelacao concreta sobre o caso.\n\n"
+        "E REPERCUSSAO quando ninguem fez nada novo e a manchete apenas "
+        "comenta o que ja foi avisado:\n"
+        "- analise, opiniao, editorial, 'entenda o caso', 'o que se sabe'\n"
+        "- reacao, declaracao ou avaliacao de quem observa de fora\n"
+        "- 'imprensa internacional repercute', 'analistas apontam', "
+        "'especialistas avaliam', 'crise se agrava', 'sem precedentes'\n"
+        "- detalhamento ou reformulacao do mesmo ato ja avisado\n\n"
+        "ATENCAO: citar os mesmos personagens ou trazer nomes novos NAO "
+        "torna a manchete um fato novo. O que conta e se houve ATO NOVO. "
+        "Uma manchete sobre a repercussao de um fato ja avisado continua "
+        "sendo repercussao, mesmo que mencione pessoas ainda nao citadas.\n\n"
+        "Na duvida entre as duas, responda false.\n\n"
         "Responda APENAS JSON, sem markdown:\n"
-        '{"fato_novo": true, "motivo": "ate 8 palavras"}'
+        '{"fato_novo": true, "motivo": "quem fez o que, ate 8 palavras"}'
     )
 
     txt = _chama_gemini(prompt, chave)
