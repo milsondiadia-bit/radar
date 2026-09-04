@@ -10172,3 +10172,68 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] TSE autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
        . [Metropoles] Nunes Marques autoriza pronunciamento de Lula sobre o 7 de Setembro
 
+==============================================================================
+RODADA 04/09 22:42 UTC  |  janela 90 min  |  110 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      47      3  Sob crise no STF, Mendonça agradece apoio 
+       ineditas: agradece, apoio, moraes
+       veiculos: CNN Brasil, G1 Politica, Metropoles, O Antagonista, Poder360, Veja
+       . [CNN Brasil] Sob crise no STF, Mendonça agradece apoio de fieis de igreja onde é pastor
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Poder360] Entenda a cronologia da crise no STF com embate entre Moraes e Mendonça
+
+   3      1      62      1  ONU aprova uso do mapa-múndi mais fiel ao 
+       ineditas: aprova
+       veiculos: Carta Capital, O Antagonista, Poder360
+       . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
+       . [Carta Capital] ONU aprova uso do mapa-múndi mais fiel ao tamanho dos continentes
+       . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
+
+   2      1      11      0  Homem joga ovos em Nikolas durante ato de 
+       veiculos: O Antagonista, Revista Fórum
+       . [Revista Fórum] Nikolas Ferreira leva ovada durante campanha em Minas Gerais
+       . [O Antagonista] Homem joga ovos em Nikolas durante ato de campanha
+
+   2      0      41      1  Advogados de Vorcaro aproveitam crise para
+       ineditas: vorcaro
+       veiculos: CNN Brasil, Folha Poder
+       . [CNN Brasil] Advogados de Vorcaro aproveitam crise para novas investidas
+       . [Folha Poder] Entenda a escalada da crise no STF, provocada por revelações de elos entre ministros e Vorcaro
+
+   2      0      30      1  carlos sadi
+       ineditas: carlos
+       veiculos: Google Trends BR, Viomundo
+       . [Viomundo] Carlos Fidelis: Democracia sitiada — autoritarismo, crime organizado e a disputa pelo Brasil
+       . [Google Trends BR] carlos sadi
+
+   2      0       0      3  STF filtra "aventuras processuais" em caso
+       ineditas: aventuras, gratuita, processuais
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      1      44      0  Caiado propõe idade mínima de 60 anos para
+       veiculos: G1, Veja
+       . [G1] Caiado propõe idade mínima de 60 anos para ministros do Supremo e quarentena para ex-integrantes da Corte
+       . [Veja] ’Vou indicar quatro mulheres para o Supremo’, diz Caiado
+
+   2      0      16      0  Lula sanciona nova lei de custas da Justiç
+       veiculos: Consultor Jurídico, jornaldebrasilia.com.br
+       . [Consultor Jurídico] Lula sanciona nova lei de custas da Justiça Federal e do STJ
+       . [jornaldebrasilia.com.br] Nova lei atualiza cobrança de custas na Justiça Federal e no STJ
+
+   2      0      19      2  TSE autoriza Lula a fazer pronunciamento s
+       ineditas: lula, pronunciamento
+       veiculos: Metropoles, Poder360
+       . [Poder360] TSE autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+       . [Metropoles] Nunes Marques autoriza pronunciamento de Lula sobre o 7 de Setembro
+
+   2      1      40      2  Deputado do PT aciona MPE contra Nikolas p
+       ineditas: falso, laudo
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
+       . [O Antagonista] Erika Hilton pede prisão de Nikolas por respostar laudo falso da PF
+
