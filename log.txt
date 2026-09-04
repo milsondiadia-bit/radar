@@ -5195,3 +5195,41 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] feriado 7 de setembro
        . [Metropoles] São Paulo suspende rodízio de veículos durante o Feriado da Independência
 
+==============================================================================
+RODADA 04/09 11:02 UTC  |  janela 90 min  |  82 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      3      63      4  Relatório da PF usado por Moraes contra Me
+       ineditas: moraes, probatorio, quis, valor
+       veiculos: Claudio Dantas, Congresso em Foco, Metropoles, O Antagonista, Poder360, Veja
+       . [Poder360] Mendonça quis saber o que tinha sobre Moraes no celular de Vorcaro, diz PF
+       . [Congresso em Foco] Leia a íntegra do relatório da PF usado por Moraes contra Mendonça
+       . [Metropoles] Sem trégua no STF: Moraes cobra apuração contra Mendonça e Fachin age
+
+   3      1      60      3  Rock in Rio 2026: as principais novidades 
+       ineditas: 2026, rock, signos
+       veiculos: Carta Capital, Google Trends BR, Veja
+       . [Carta Capital] Horóscopo semanal: previsões para os signos de 07 a 13 de setembro de 2026
+       . [Carta Capital] Tarot do dia: previsão para os 12 signos em 04/09/2026
+       . [Carta Capital] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
+
+   2      0       7      3  STF é 'maior do que qualquer um que o inte
+       ineditas: dino, integra, qualquer
+       veiculos: CNN Brasil, oglobo.globo.com
+       . [oglobo.globo.com] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais, 
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+
+   2      1      30      1  Saiba o que os candidatos ao Planalto farã
+       ineditas: candidatos
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
+       . [Veja] A crítica avaliação da Globo para Cesar Tralli na sabatina dos candidatos: ‘Muito mal’
+
+   2      0      22      1  feriado 7 de setembro
+       ineditas: feriado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] feriado 7 de setembro
+       . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
+
