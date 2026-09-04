@@ -5652,3 +5652,53 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] grande prêmio de mônaco
        . [Metropoles] F1: FIA volta atrás e retira pódio de Pierre Gasly no GP de Mônaco
 
+==============================================================================
+RODADA 04/09 12:52 UTC  |  janela 90 min  |  97 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  15      4      76     10  Moraes acusa o espelho
+       ineditas: acusacoes, andre, fake, inquerito, investigacao, news, pedido, relatorio, retira, tira
+       veiculos: CNN Brasil, Claudio Dantas, Congresso em Foco, Estadão, Folha Poder, Folha de S.Paulo, G1 Politica, Gazeta do Povo Rep, JOTA Info, Metropoles, O Antag
+       . [CNN Brasil] Fachin dá 5 dias para PGR e Mendonça responderem Moraes
+       . [Folha de S.Paulo] Moraes usa documento da PF apócrifo e sem valor probatório contra André Mendonça
+       . [Estadão] Fachin tira do inquérito das fake news investigação de Mendonça pedida por Moraes
+
+   6      2      54      4  Dino reconhece crise no STF e defende "seg
+       ineditas: defende, julgando, reconhece, seguir
+       veiculos: BBC Brasil, Estadão, Gazeta do Povo, Gazeta do Povo Rep, O Antagonista, Poder360
+       . [Estadão] Dino diz que STF é ‘maior do que qualquer um que o integra’ em meio à crise entre Moraes e Mendonça
+       . [Gazeta do Povo] Dino reconhece crise no STF e defende "seguir julgando"
+       . [Poder360] Flávio diz ser alvo de articulação de Moraes, Dino e Alcolumbre
+
+   2      0      16      1  Eleições 2026: veja a agenda dos candidato
+       ineditas: eleicoes
+       veiculos: G1, Tribunal Regional Eleitoral de Minas Gerais
+       . [Tribunal Regional Eleitoral de Minas Gerais] Falta um mês: treine seu voto para as Eleições 2026 - Tribunal Regional Eleitoral de Minas Gerais
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta sexta-feira (4)
+
+   2      0      15      3  Eleições 2026: TSE conclui assinatura digi
+       ineditas: eleicoes, lacra, sistemas
+       veiculos: G1, Metropoles
+       . [G1] Eleições 2026: TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas
+       . [Metropoles] Kassio lacra sistemas das eleições e diz que Justiça não escolhe vencedores
+
+   2      1      10      1  payroll
+       ineditas: payroll
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] payroll
+       . [Veja] Payroll: EUA criam 162 mil vagas em agosto e superam expectativas do mercado
+
+   2      0      22      1  grande prêmio de mônaco
+       ineditas: monaco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] grande prêmio de mônaco
+       . [Metropoles] F1: FIA volta atrás e retira pódio de Pierre Gasly no GP de Mônaco
+
+   2      2      45      2  Moraes e Alcolumbre se reuniram por 3 hora
+       ineditas: alcolumbre, horas
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] Crusoé: Uma reunião de três horas entre Moraes e Alcolumbre
+       . [Claudio Dantas] Moraes e Alcolumbre se reuniram por 3 horas antes de ofensiva contra Mendonça
+
