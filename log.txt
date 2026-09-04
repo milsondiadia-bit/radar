@@ -7056,3 +7056,102 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
        . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
 
+==============================================================================
+RODADA 04/09 16:02 UTC  |  janela 90 min  |  141 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  12      4      78      4  Fachin promete fim do inquérito das fake n
+       ineditas: anos, havera, omissao, urgente
+       veiculos: BBC Brasil, Carta Capital, Claudio Dantas, Estadão, Folha de S.Paulo, Gazeta do Povo Rep, JOTA Info, O Antagonista, Veja, g1.globo.com, instagram.com,
+       . [Folha de S.Paulo] Fachin defende fim do inquérito das fake news como solução para crise no STF
+       . [g1.globo.com] Fachin promete fim do inquérito das fake news, aberto no STF há 7 anos sob relatoria de Moraes
+       . [instagram.com] FUTURO DO STF | Fachin diz que não haverá omissão sobre crise no STF e defende fim do inquérito das fake news 
+
+   5      0      49      0  'Crise Master' no STF: Fachin diz que fato
+       veiculos: G1 Politica, Poder360, Valor Econômico, cnnbrasil.com.br, g1.globo.com
+       . [cnnbrasil.com.br] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [Valor Econômico] Fachin diz que 'nenhuma autoridade está acima da Constituição' e promete resposta 'firme e rigorosa' para cris
+       . [g1.globo.com] 'Crise Master' no STF: Fachin diz que fatos estão em apuração e que nenhuma autoridade está acima da Constitui
+
+   4      1      48      8  Com STF em crise, Lula diz que ninguém, em
+       ineditas: beneficio, cargo, citar, democracia, ninguem, nome, pessoal, usar
+       veiculos: Folha Poder, O GLOBO, Poder360, Veja
+       . [O GLOBO] Com STF em crise, Lula diz que ninguém, em nome da democracia, 'pode usar o cargo que tem em benefício pessoal
+       . [Poder360] Sem citar Moraes, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+       . [Folha Poder] Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
+
+   4      1      70      2  Saiba quais autoridades devem comparecer a
+       ineditas: judiciario, reforma
+       veiculos: Metropoles, O Antagonista, g1.globo.com, poder360.com.br
+       . [g1.globo.com] 'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei
+       . [poder360.com.br] Saiba quais autoridades devem comparecer ao 7 de Setembro no DF
+       . [Metropoles] Em meio à crise no Supremo, Lula defende nova reforma do Poder Judiciário
+
+   3      0      34      1  OAB assina sistemas de votação que serão u
+       ineditas: eleitoral
+       veiculos: OAB, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Sistemas das Eleições Gerais de 2026 são assinados digitalmente e lacrados pelo TSE
+       . [OAB] OAB assina sistemas de votação que serão utilizados nas eleições de 2026
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+
+   3      1      78      5  Tetris e ‘cobrinha’: Casa Branca lança jog
+       ineditas: branca, imigrantes, jogos, lanca, muro
+       veiculos: Carta Capital, Poder360, Veja
+       . [Poder360] Casa Branca lança jogos “retrô” sobre deportações e muro de Trump
+       . [Carta Capital] Governo Trump lança games para perseguir imigrantes
+       . [Veja] Tetris e ‘cobrinha’: Casa Branca lança jogos com caça a imigrantes, deportação e muro na fronteira
+
+   2      0       2      0  Resposta à crise no STF será firme e sem o
+       veiculos: cnnbrasil.com.br, poder360.com.br
+       . [cnnbrasil.com.br] Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa
+       . [poder360.com.br] Resposta à crise no STF será firme e sem omissão, diz Fachin
+
+   2      1       8      0  Veja quem participa do ato de 7 de Setembr
+       veiculos: Agência Brasil, Claudio Dantas
+       . [Agência Brasil] STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      0      10      0  Fachin assume pedido de Moraes para invest
+       veiculos: Brasil de Fato, Poder360
+       . [Brasil de Fato] Fachin assume pedido de Moraes para investigar Mendonça no caso Banco Master
+       . [Poder360] Relatório usado por Moraes contra Mendonça não tem valor probatório
+
+   2      1      15      0  ‘A gravidade dos fatos não autoriza atalho
+       veiculos: Veja, poder360.com.br
+       . [poder360.com.br] “Gravidade dos fatos não autoriza atalhos”, diz Fachin sobre STF
+       . [Veja] ‘A gravidade dos fatos não autoriza atalhos’, diz Edson Fachin sobre escândalo no STF
+
+   2      0       0      0  Folha estreia no Substack com newsletter d
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Folha estreia no Substack com newsletter da eleição - 04/09/2026 - Política
+       . [Folha Poder] Folha estreia no Substack com newsletter da eleição
+
+   2      1      30      2  Ronaldo Caiado participa de sabatina de VE
+       ineditas: caiado, ronaldo
+       veiculos: G1 Politica, Veja
+       . [G1 Politica] Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+       . [Veja] Ronaldo Caiado participa de sabatina de VEJA nesta sexta-feira
+
+   2      0      44      0  Em meio à crise no STF, Lula critica uso p
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Em meio à crise no STF, Lula critica uso político de cargos e vazamentos seletivos
+       . [Metropoles] Ministro da Justiça entra na mira do PT em meio à crise no STF
+
+   2      2      50      0  Flávio: Moraes, Alcolumbre e Dino articula
+       veiculos: Claudio Dantas, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Flávio Dino prega união e cautela institucional diante de nova crise no STF
+       . [Claudio Dantas] Flávio: Moraes, Alcolumbre e Dino articulam ‘ação ilegal contra mim’
+
+   2      1       7      0  globo filmes
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] globo filmes
+       . [Veja] Nina de Pádua retorna à Globo 21 anos após deixar emissora
+
+   2      1      18      2  Chico Pinheiro atualiza estado de saúde du
+       ineditas: chico, pinheiro
+       veiculos: Metropoles, Veja
+       . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
+       . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
+
