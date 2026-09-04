@@ -6878,3 +6878,89 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
        . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
 
+==============================================================================
+RODADA 04/09 15:42 UTC  |  janela 90 min  |  136 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      1      49      2  Fachin promete fim do inquérito das fake n
+       ineditas: promete, relatoria
+       veiculos: Estadão, Folha Poder, Folha de S.Paulo, G1, G1 Politica, JOTA Info, Metropoles, Veja, poder360.com.br
+       . [Folha de S.Paulo] Fachin defende fim do inquérito das fake news no STF - 04/09/2026 - Política
+       . [JOTA Info] Caso Master: 'Gravidade dos fatos não autoriza atalhos', diz Fachin, ao prometer fim do inquérito das fake new
+       . [G1] Fachin promete fim do inquérito das fake news, sob relatoria de Moraes desde 2019
+
+   7      2      72      1  PGR terá de avaliar se Moraes agiu regular
+       ineditas: tera
+       veiculos: Brasil de Fato, Carta Capital, Claudio Dantas, Folha Poder, Gazeta do Povo Rep, Metropoles, Poder360
+       . [Brasil de Fato] Fachin assume pedido de Moraes para investigar Mendonça no caso Banco Master
+       . [Poder360] Relatório usado por Moraes contra Mendonça não tem valor probatório
+       . [Poder360] PGR terá de avaliar se Moraes agiu regularmente contra Mendonça
+
+   5      3      78      2  Lula é alvo de quatro ações no TSE contra 
+       ineditas: devem, judiciario
+       veiculos: Claudio Dantas, G1, O Antagonista, Veja, poder360.com.br
+       . [G1] 'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei
+       . [poder360.com.br] Saiba quais autoridades devem comparecer ao 7 de Setembro no DF
+       . [O Antagonista] Após seis indicações ao STF, Lula agora quer reformar o Judiciário
+
+   5      0      49      0  'Crise Master' no STF: Fachin diz que fato
+       veiculos: G1, Poder360, Valor Econômico, cnnbrasil.com.br, poder360.com.br
+       . [cnnbrasil.com.br] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [Valor Econômico] Fachin diz que 'nenhuma autoridade está acima da Constituição' e promete resposta 'firme e rigorosa' para cris
+       . [G1] 'Crise Master' no STF: Fachin diz que fatos estão em apuração e que nenhuma autoridade está acima da Constitui
+
+   3      0      34      3  OAB assina sistemas de votação que serão u
+       ineditas: eleitoral, serao, votacao
+       veiculos: OAB, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Sistemas das Eleições Gerais de 2026 são assinados digitalmente e lacrados pelo TSE
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+       . [OAB] OAB assina sistemas de votação que serão utilizados nas eleições de 2026
+
+   3      0      41      8  Com STF em crise, Lula diz que ninguém, em
+       ineditas: beneficio, cargo, citar, democracia, ninguem, nome, pessoal, usar
+       veiculos: Folha Poder, O GLOBO, Poder360
+       . [O GLOBO] Com STF em crise, Lula diz que ninguém, em nome da democracia, 'pode usar o cargo que tem em benefício pessoal
+       . [Poder360] Sem citar Moraes, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+       . [Folha Poder] Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
+
+   3      1      14      0  As pesquisas eleitorais e o ‘trade Flávio’
+       veiculos: BBC Brasil, Carta Capital, Veja
+       . [BBC Brasil] Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+       . [Veja] As pesquisas eleitorais e o ‘trade Flávio’
+
+   2      0       2      3  Resposta à crise no STF será firme e sem o
+       ineditas: firme, resposta, sera
+       veiculos: cnnbrasil.com.br, poder360.com.br
+       . [cnnbrasil.com.br] Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa
+       . [poder360.com.br] Resposta à crise no STF será firme e sem omissão, diz Fachin
+
+   2      1       8      0  Veja quem participa do ato de 7 de Setembr
+       veiculos: Claudio Dantas, agenciabrasil.ebc.com.br
+       . [agenciabrasil.ebc.com.br] STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      0       0      0  Folha estreia no Substack com newsletter d
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Folha estreia no Substack com newsletter da eleição - 04/09/2026 - Política
+       . [Folha Poder] Folha estreia no Substack com newsletter da eleição
+
+   2      1       4      0  Lula: é preciso vencer batalha contra quem
+       veiculos: O Antagonista, folhape.com.br
+       . [folhape.com.br] Lula: é preciso vencer batalha contra quem se opõe a mais 1 dia de descanso aos trabalhadores
+       . [O Antagonista] Fim da 6×1 ainda precisa “vencer batalha” no Congresso, diz Lula
+
+   2      1      13      4  ‘A gravidade dos fatos não autoriza atalho
+       ineditas: atalhos, autoriza, fatos, gravidade
+       veiculos: Poder360, Veja
+       . [Poder360] “Gravidade dos fatos não autoriza atalhos”, diz Fachin sobre STF
+       . [Veja] ‘A gravidade dos fatos não autoriza atalhos’, diz Edson Fachin sobre escândalo no STF
+
+   2      1      18      2  Chico Pinheiro atualiza estado de saúde du
+       ineditas: chico, pinheiro
+       veiculos: Metropoles, Veja
+       . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
+       . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
+
