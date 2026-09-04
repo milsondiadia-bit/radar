@@ -3778,3 +3778,40 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo
        . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
 
+==============================================================================
+RODADA 04/09 01:43 UTC  |  janela 90 min  |  103 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      4      85      5  Moraes determinou à PF envio de relatórios
+       ineditas: alvo, colega, determinou, estrategico, marinho
+       veiculos: Agência Brasil, BBC, BBC Brasil, Carta Capital, Claudio Dantas, G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, Rádio Itatiaia, 
+       . [cnnbrasil.com.br] Moraes fala em “viés político” de Mendonça em condução de investigações
+       . [cnnbrasil.com.br] Análise: O que representam para o STF as denúncias de Moraes a Mendonça?
+       . [Agência Brasil] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+
+   6      2      72      3  Relatório da PF que aponta ‘assimetria pol
+       ineditas: atuacao, cita, lulinha
+       veiculos: Claudio Dantas, Metropoles, O Antagonista, O GLOBO, Poder360, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF aponta interferência de Mendonça e suposto direcionamento de alvos
+       . [O GLOBO] Relatório da PF que aponta ‘assimetria política’ de Mendonça e cita ACM Neto, Rueda, Alcolumbre e Lulinha
+       . [cnnbrasil.com.br] PF aponta possível rigor maior de Mendonça com Lulinha
+
+   5      0      70      0  Em vitória do Governo Lula, fim da taxa da
+       veiculos: CBN Recife, G1, Lula | Site oficial, Poder360, UOL Economia
+       . [Lula | Site oficial] Em vitória do Governo Lula, fim da taxa das blusinhas é aprovado no Congresso - Lula | Site oficial
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [CBN Recife] Governo Lula tem 51% de desaprovação e 45% de aprovação, diz Datafolha
+
+   3      0      18      0  Maior roubo da história do Brasil: Lula de
+       veiculos: Congresso em Foco, PlatôBR, Tribuna do Sertão
+       . [Tribuna do Sertão] Maior roubo da história do Brasil: Lula defende investigação 'sem blindagem' no caso Master
+       . [PlatôBR] Efeito eleitoral do caso Master força Lula a sair da cautela com a ala de Moraes
+       . [Congresso em Foco] Lula cobra apuração "sem blindagem" no caso Master: "doa a quem doer"
+
+   2      0      29      0  Lula se posiciona sobre crise no STF, defe
+       veiculos: CartaCapital, UOL Notícias
+       . [CartaCapital] Lula se posiciona sobre crise no STF e defende reforma do sistema Judiciário
+       . [UOL Notícias] Lula se posiciona sobre crise no STF, defende reforma no Judiciário e apuração
+
