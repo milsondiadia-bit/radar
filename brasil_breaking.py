@@ -514,7 +514,8 @@ def ja_foi_avisado(grupo, enviados, agora):
     """
     minhas = palavras_do_grupo(grupo)
     limite = agora - HORAS_SEM_REPETIR * 3600
-    for antigas, quando in enviados:
+    for item in enviados:
+        antigas, quando = item[0], item[1]
         if quando < limite:
             continue
         comuns = len(minhas & set(antigas))
@@ -826,6 +827,120 @@ def checa_ancapsu(mudo=False):
             print(f"  ANCAPSU avisado: {titulo[:60]}")
 
 
+# =====================================================================
+# O JUIZ - fato novo ou repercussao do mesmo fato?
+# =====================================================================
+#
+# Medido em 04/09/2026, no log de 03/09 18h22 a 04/09 12h52:
+#
+#   fato novo real (11h02, "Mendonca quis saber o que tinha sobre
+#   Moraes no celular de Vorcaro")          -> 4 palavras ineditas
+#   repeteco (10h43, "crise sem precedentes") -> 5 palavras ineditas
+#
+# O repeteco tem MAIS vocabulario novo que o fato novo. Nenhum corte de
+# numero separa os dois: contar palavra mede novidade de palavra, nao
+# novidade de acontecimento. Baixar o corte do ja_foi_avisado tambem
+# nao resolve - o alerta chato deu 0.36 de semelhanca com o anterior, e
+# descer o corte ate ali barraria junto qualquer fato novo dentro da
+# saga Moraes x Mendonca, que e justamente a saga em cobertura.
+#
+# A pergunta "aconteceu algo, ou estao repercutindo o que ja aconteceu?"
+# e de leitura. Entao ela vai para quem le: o Gemini recebe a manchete
+# candidata e as que ja foram avisadas, e responde sim ou nao.
+#
+# Custo: uma chamada por candidato, poucos por rodada, no modelo mais
+# barato. Continua de graca.
+MODELOS_IA = ["gemini-flash-lite-latest", "gemini-3-flash-preview",
+              "gemini-flash-latest"]
+
+
+def _chama_gemini(prompt, chave):
+    """Uma pergunta ao Gemini, com cascata de modelos. Igual ao lula.py."""
+    import time
+    from urllib.request import Request, urlopen
+
+    corpo = json.dumps({
+        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+        "generationConfig": {
+            "temperature": 0.0,
+            "maxOutputTokens": 2000,
+            "responseMimeType": "application/json",
+        },
+    }).encode()
+    cabecalhos = {"Content-Type": "application/json", "x-goog-api-key": chave}
+
+    for modelo in MODELOS_IA:
+        for versao in ("v1beta", "v1"):
+            url = (f"https://generativelanguage.googleapis.com/{versao}"
+                   f"/models/{modelo}:generateContent")
+            for espera in (0, 10):
+                if espera:
+                    time.sleep(espera)
+                try:
+                    req = Request(url, data=corpo, headers=cabecalhos)
+                    with urlopen(req, timeout=60) as r:
+                        dados = json.loads(r.read())
+                    return dados["candidates"][0]["content"]["parts"][0]["text"]
+                except Exception as e:
+                    if any(c in str(e) for c in ("404", "401", "403")):
+                        break
+    return None
+
+
+def traz_fato_novo(titulo, ja_avisados, chave):
+    """
+    Este alerta conta algo que ainda nao foi contado?
+
+    Devolve (sim_ou_nao, motivo). Sem chave, sem historico ou com a IA
+    fora do ar, devolve True: perder um breaking custa mais caro do que
+    receber um alerta repetido, entao a duvida passa.
+    """
+    if not ja_avisados:
+        return True, "primeiro alerta do assunto"
+    if not chave:
+        return True, "sem GEMINI_API_KEY - passou sem julgar"
+
+    anteriores = "\n".join(f"- {t}" for t in ja_avisados if t)
+    if not anteriores.strip():
+        return True, "nao guardei os titulos anteriores"
+
+    prompt = (
+        "Voce cuida de um alerta de ultima hora sobre politica brasileira. "
+        "O dono do canal ja foi avisado das manchetes abaixo nas ultimas "
+        "horas e NAO quer ser avisado de novo do mesmo acontecimento.\n\n"
+        f"JA AVISADO:\n{anteriores}\n\n"
+        f"MANCHETE NOVA:\n- {titulo}\n\n"
+        "A manchete nova relata um ACONTECIMENTO que nao esta na lista "
+        "acima - alguem fez, decidiu, pediu, prendeu, soltou, afastou, "
+        "revelou algo novo?\n"
+        "Ou ela e apenas repercussao do que ja foi avisado - analise, "
+        "opiniao, reacao de terceiros, contexto, 'entenda o caso', "
+        "declaracao de quem comenta o assunto?\n\n"
+        "Manchete que so troca as palavras para dizer a mesma coisa e "
+        "repercussao.\n\n"
+        "Responda APENAS JSON, sem markdown:\n"
+        '{"fato_novo": true, "motivo": "ate 8 palavras"}'
+    )
+
+    txt = _chama_gemini(prompt, chave)
+    if not txt:
+        return True, "IA fora do ar - passou sem julgar"
+
+    txt = re.sub(r"^```(json)?|```$", "", txt.strip(), flags=re.M).strip()
+    try:
+        d = json.loads(txt)
+    except Exception:
+        m = re.search(r"\{.*\}", txt, re.S)
+        if not m:
+            return True, "resposta ilegivel - passou sem julgar"
+        try:
+            d = json.loads(m.group(0))
+        except Exception:
+            return True, "resposta ilegivel - passou sem julgar"
+
+    return bool(d.get("fato_novo", True)), str(d.get("motivo", ""))[:60]
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--minutos", type=int, default=MINUTOS_JANELA)
@@ -851,11 +966,22 @@ def main():
     # --- alertas ---
     try:
         with open(ARQUIVO_ENVIADOS, encoding="utf-8") as f:
-            enviados = [(set(a), q) for a, q in json.load(f)]
+            bruto = json.load(f)
+        # formato antigo: [palavras, quando]. Novo: [palavras, quando,
+        # titulo]. Le os dois para nao perder o historico da rotacao.
+        enviados = []
+        for item in bruto:
+            palavras, quando = item[0], item[1]
+            titulo = item[2] if len(item) > 2 else ""
+            enviados.append((set(palavras), quando, titulo))
     except Exception:
         enviados = []
-    enviados = [(a, q) for a, q in enviados
-                if q >= agora - HORAS_SEM_REPETIR * 3600]
+    enviados = [e for e in enviados
+                if e[1] >= agora - HORAS_SEM_REPETIR * 3600]
+
+    chave_ia = os.environ.get("GEMINI_API_KEY", "").strip()
+    if not chave_ia:
+        print("  sem GEMINI_API_KEY: o juiz de fato novo fica desligado")
 
     mandados = 0
     for g in grupos:
@@ -865,19 +991,34 @@ def main():
             continue
         if ja_foi_avisado(g, enviados, agora):
             continue
+
+        # o titulo que vai no alerta e a manchete mais antiga do grupo
+        com_data = [i for i in g["itens"] if i["data"]]
+        primeiro = (min(com_data, key=lambda i: i["data"]) if com_data
+                    else g["itens"][0])["titulo"]
+
+        anteriores = [e[2] for e in enviados if len(e) > 2 and e[2]]
+        novo, motivo = traz_fato_novo(primeiro, anteriores, chave_ia)
+        if not novo:
+            print(f"  BARRADO pelo juiz ({motivo}): {primeiro[:55]}")
+            continue
+
         texto = monta_alerta(g, minutos_de_espalhamento(g))
         if args.mudo:
-            print("\n--- SAIRIA ESTE ALERTA ---\n" + texto + "\n")
+            print(f"\n--- SAIRIA ESTE ALERTA ({motivo}) ---\n" + texto + "\n")
+            enviados.append((palavras_do_grupo(g), agora, primeiro))
             mandados += 1
         elif envia(texto):
             print(f"  ALERTA enviado: {g['rotulo'][:60]}")
-            enviados.append((palavras_do_grupo(g), agora))
+            enviados.append((palavras_do_grupo(g), agora, primeiro))
             mandados += 1
 
     if not args.mudo:
         try:
             with open(ARQUIVO_ENVIADOS, "w", encoding="utf-8") as f:
-                json.dump([[sorted(a), q] for a, q in enviados], f)
+                json.dump([[sorted(e[0]), e[1],
+                            e[2] if len(e) > 2 else ""] for e in enviados], f,
+                          ensure_ascii=False)
         except Exception as e:
             print(f"  nao gravei os enviados: {e}")
 
