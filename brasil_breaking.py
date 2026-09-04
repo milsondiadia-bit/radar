@@ -528,53 +528,66 @@ def monta_alerta(grupo, espalho):
     """
     O alerta que chega no celular.
 
-    Curto de proposito. A primeira versao trazia tempo de espalhamento,
-    lista de veiculos e as palavras ineditas - informacao demais para
-    quem esta lendo no meio da rua, decidindo em 5 segundos se vale um
-    video. Isso tudo continua no log.txt, para quando eu precisar
-    calibrar.
+    Formato aprovado em 04/09. Sai a lista de veiculos que ficava no
+    rodape - era so nome empilhado, ocupava tres linhas e nao ajudava a
+    decidir nada; quem publicou ja aparece em cada manchete abaixo.
     
-    Aqui fica so: o que aconteceu, o tamanho da coisa, e links para
-    clicar. O nome do veiculo E o link - assim nao ha URL comprida
-    poluindo a tela.
+    Entram os links: o nome do veiculo em cada linha vira clicavel,
+    para abrir a materia direto sem ter que caçar no Google.
     """
     campo = grupo["fontes"] & CAMPO_DO_CANAL
+    novas = grupo.get("novas", set())
 
     com_data = [i for i in grupo["itens"] if i["data"]]
     primeiro = min(com_data, key=lambda i: i["data"]) if com_data \
         else grupo["itens"][0]
 
-    # horario de Brasilia: o servidor do GitHub roda em UTC, e 3 horas
-    # a mais. Sem isto, o alerta das 2h da manha chegaria marcado 05h.
+    # horario de Brasilia: o servidor roda em UTC, 3 horas a mais. Sem
+    # isto o alerta das 2h da manha chegaria marcado 05h.
     agora_br = datetime.now(timezone.utc) - timedelta(hours=3)
-    linhas = ["🔴 <b>BREAKING — BRASIL</b>",
-              f"<i>detectado às {agora_br.strftime('%Hh%M')}</i>", ""]
-    if primeiro["link"]:
-        linhas.append(f'<b><a href="{escapa(primeiro["link"])}">'
-                      f'{escapa(primeiro["titulo"])}</a></b>')
-    else:
-        linhas.append(f"<b>{escapa(primeiro['titulo'])}</b>")
-    linhas.append(f"<i>{escapa(nome_curto(primeiro['fonte']))}</i>")
 
-    resumo = f"{len(grupo['fontes'])} veículos"
+    linhas = [
+        "🔴 <b>BREAKING — BRASIL</b>",
+        f"<i>detectado às {agora_br.strftime('%Hh%M')}</i>",
+        "",
+        f"<b>{escapa(primeiro['titulo'])}</b>",
+        "",
+        f"📊 {len(grupo['fontes'])} veículos"
+        + (f" em {espalho} min" if espalho else ""),
+    ]
     if campo:
-        resumo += f" · {len(campo)} do seu campo"
+        linhas.append(f"✅ {len(campo)} do seu campo")
     elif not (grupo["fontes"] & GRANDES):
-        resumo += " · nenhum portal grande ainda"
-    linhas.append(resumo)
+        linhas.append("⚠️ nenhum portal grande ainda")
+    if novas:
+        # as palavras da memoria sao guardadas sem acento, para
+        # "investigação" e "investigacao" contarem como a mesma coisa.
+        # Aqui elas voltam a forma escrita, pescando nos titulos.
+        bonitas = {}
+        for it in grupo["itens"]:
+            for w in re.findall(r"[^\W\d_]{4,}", it["titulo"], re.UNICODE):
+                bonitas.setdefault(normaliza(w), w.lower())
+        exibir = sorted({bonitas.get(n, n) for n in novas})
+        linhas.append(f"🆕 {escapa(', '.join(exibir)[:150])}")
     linhas.append("")
 
-    # uma manchete por veiculo, com o nome do veiculo virando link.
-    # o item que virou titulo la em cima nao se repete aqui.
-    vistos = {primeiro["fonte"]}
+    # uma manchete por veiculo, com o nome virando link
+    # deduplica pelo nome CURTO: "G1" e "G1 Politica" sao dois feeds,
+    # mas o mesmo jornal - nao faz sentido aparecer duas vezes.
+    vistos = set()
     postos = 0
     for it in grupo["itens"]:
-        if it["fonte"] in vistos or not it["link"]:
+        curto = nome_curto(it["fonte"])
+        if curto in vistos:
             continue
-        vistos.add(it["fonte"])
-        nome = escapa(nome_curto(it["fonte"]))
-        texto = escapa(it["titulo"][:110])
-        linhas.append(f'• <a href="{escapa(it["link"])}">{nome}</a> — {texto}')
+        vistos.add(curto)
+        nome = escapa(curto)
+        texto = escapa(it["titulo"][:120])
+        if it["link"]:
+            linhas.append(f'• <a href="{escapa(it["link"])}">'
+                          f'<b>{nome}</b></a>: {texto}')
+        else:
+            linhas.append(f"• <b>{nome}</b>: {texto}")
         postos += 1
         if postos >= 4:
             break
