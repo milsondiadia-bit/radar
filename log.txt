@@ -5876,3 +5876,45 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
        . [Veja] Dino cobra ‘lealdade institucional’ ao STF em crise sobre mensagens de Moraes e Vorcaro
 
+==============================================================================
+RODADA 04/09 13:32 UTC  |  janela 90 min  |  109 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  16      4      78      2  Fachin dá 5 dias para PGR e Mendonça respo
+       ineditas: investigar, retira
+       veiculos: BBC, BBC Brasil, CNN Brasil, Carta Capital, Claudio Dantas, Estadão, Folha Poder, G1, Gazeta do Povo Rep, JOTA Info, Metropoles, O Antagonista, Poder3
+       . [CNN Brasil] Fachin dá 5 dias para PGR e Mendonça responderem Moraes
+       . [BBC] Moraes x Mendonça: Analistas sobre crise sem precedentes e enraizada no STF
+       . [G1] Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça
+
+   5      1      69      0  Eleições 2026: veja a agenda dos candidato
+       veiculos: Exame, G1, G1 Politica, Tribunal Regional Eleitoral de Minas Gerais, Veja
+       . [Tribunal Regional Eleitoral de Minas Gerais] Falta um mês: treine seu voto para as Eleições 2026 - Tribunal Regional Eleitoral de Minas Gerais
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta sexta-feira (4)
+       . [Exame] Quem são os candidatos nas eleições 2026? EXAME lança plataforma com dados do TSE
+
+   3      2      49      1  Ministros suspeitam de monitoramento ilega
+       ineditas: ilegal
+       veiculos: Claudio Dantas, Poder360, Veja
+       . [Poder360] PF diz que Mendonça sugeriu benefício ilegal a empresário
+       . [Claudio Dantas] Ministros suspeitam de monitoramento ilegal de Mendonça e identificam delegado em relatório de Moraes
+       . [Veja] Relatório citado por Moraes contra Mendonça não tem data, assinatura nem ‘valor probatório’
+
+   2      1       9      0  Crusoé: Uma reunião de três horas entre Mo
+       veiculos: Congresso em Foco, O Antagonista
+       . [Congresso em Foco] Flávio acusa Moraes, Dino e Alcolumbre de articular ação contra ele
+       . [O Antagonista] Crusoé: Uma reunião de três horas entre Moraes e Alcolumbre
+
+   2      1      10      1  payroll
+       ineditas: payroll
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] payroll
+       . [Veja] Payroll: EUA criam 162 mil vagas em agosto e superam expectativas do mercado
+
+   2      2      41      0  “Cedam as armas à toga”, diz Dino sobre cr
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
+       . [Veja] Dino cobra ‘lealdade institucional’ ao STF em crise sobre mensagens de Moraes e Vorcaro
+
