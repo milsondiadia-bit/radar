@@ -6786,3 +6786,95 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 15:32 UTC  |  janela 90 min  |  141 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      2      80      4  Mendonça apresenta notas fiscais de R$ 26,
+       ineditas: promete, relatoria, tenta, tera
+       veiculos: Agência Brasil, Brasil de Fato, Carta Capital, Claudio Dantas, Estadão, Folha Poder, G1, G1 Politica, Gazeta do Povo Rep, JOTA Info, Metropoles, O GLO
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [Brasil de Fato] Fachin assume pedido de Moraes para investigar Mendonça no caso Banco Master
+       . [G1] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   6      1      25      0  Fachin diz que não haverá omissão sobre cr
+       veiculos: Estadão, Folha Poder, Folha de S.Paulo, Metropoles, Poder360, Veja
+       . [Folha de S.Paulo] Fachin defende fim do inquérito das fake news no STF - 04/09/2026 - Política
+       . [Estadão] Fachin diz que não haverá omissão sobre crise no STF e defende fim do inquérito das fake news
+       . [Poder360] Fachin diz que crise no STF torna urgente fim do inquérito das fake news
+
+   5      3      74      2  Como está a disputa entre Lula e Flávio Bo
+       ineditas: devem, judiciario
+       veiculos: Claudio Dantas, G1, O Antagonista, Poder360, Veja
+       . [G1] 'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei
+       . [Poder360] Saiba quais autoridades devem comparecer ao 7 de Setembro no DF
+       . [O Antagonista] Após seis indicações ao STF, Lula agora quer reformar o Judiciário
+
+   4      0      49      4  'Crise Master' no STF: Fachin diz que fato
+       ineditas: acima, autoridade, constituicao, nenhuma
+       veiculos: CNN Brasil, G1, Poder360, Valor Econômico
+       . [CNN Brasil] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [Valor Econômico] Fachin diz que 'nenhuma autoridade está acima da Constituição' e promete resposta 'firme e rigorosa' para cris
+       . [G1] 'Crise Master' no STF: Fachin diz que fatos estão em apuração e que nenhuma autoridade está acima da Constitui
+
+   3      0      34      3  OAB assina sistemas de votação que serão u
+       ineditas: eleitoral, serao, votacao
+       veiculos: OAB, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Sistemas das Eleições Gerais de 2026 são assinados digitalmente e lacrados pelo TSE
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+       . [OAB] OAB assina sistemas de votação que serão utilizados nas eleições de 2026
+
+   3      1      14      2  As pesquisas eleitorais e o ‘trade Flávio’
+       ineditas: pesquisas, turno
+       veiculos: BBC Brasil, Carta Capital, Veja
+       . [BBC Brasil] Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+       . [Veja] As pesquisas eleitorais e o ‘trade Flávio’
+
+   2      0       3      0  Fachin e a política do rule of law
+       veiculos: Brasil de Fato, Congresso em Foco
+       . [Brasil de Fato] Mídia alimenta picuinha política e esquece de cobrar políticas públicas para proteção animal em João Pessoa
+       . [Congresso em Foco] Fachin e a política do rule of law
+
+   2      0       2      3  Resposta à crise no STF será firme e sem o
+       ineditas: firme, resposta, sera
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Fachin diz que resposta à crise do STF será firme, proporcional e rigorosa
+       . [Poder360] Resposta à crise no STF será firme e sem omissão, diz Fachin
+
+   2      1       8      1  Veja quem participa do ato de 7 de Setembr
+       ineditas: quem
+       veiculos: Agência Brasil, Claudio Dantas
+       . [Agência Brasil] STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      0      36      5  Com STF em crise, Lula diz que ninguém, em
+       ineditas: beneficio, cargo, ninguem, pessoal, usar
+       veiculos: O GLOBO, Poder360
+       . [O GLOBO] Com STF em crise, Lula diz que ninguém, em nome da democracia, 'pode usar o cargo que tem em benefício pessoal
+       . [Poder360] Sem citar Moraes, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+
+   2      0       0      5  Folha estreia no Substack com newsletter d
+       ineditas: eleicao, estreia, folha, newsletter, substack
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Folha estreia no Substack com newsletter da eleição - 04/09/2026 - Política
+       . [Folha Poder] Folha estreia no Substack com newsletter da eleição
+
+   2      1       4      0  Lula: é preciso vencer batalha contra quem
+       veiculos: Folha PE, O Antagonista
+       . [Folha PE] Lula: é preciso vencer batalha contra quem se opõe a mais 1 dia de descanso aos trabalhadores
+       . [O Antagonista] Fim da 6×1 ainda precisa “vencer batalha” no Congresso, diz Lula
+
+   2      0      18      0  duda salabert
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Duda Salabert denuncia tentativa de homicídio durante fiscalização em Minas
+       . [Google Trends BR] duda salabert
+
+   2      1      18      2  Chico Pinheiro atualiza estado de saúde du
+       ineditas: chico, pinheiro
+       veiculos: Metropoles, Veja
+       . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
+       . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
+
