@@ -3996,3 +3996,35 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Fifa acusa Uefa de tramar ‘campanha de difamação’
        . [Metropoles] Fifa acusa Uefa de "campanha difamatória" em processo judicial sobre a FFE
 
+==============================================================================
+RODADA 04/09 02:42 UTC  |  janela 90 min  |  79 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  10      3      69      4  PF aponta imputação 'sem lastro' contra Lu
+       ineditas: afastamento, messias, ofensiva, usado
+       veiculos: BBC Brasil, Claudio Dantas, Folha Poder, Gazeta do Povo Rep, Google Trends BR, Metropoles, O Antagonista, Poder360, UOL Notícias, cnnbrasil.com.br
+       . [UOL Notícias] PF aponta imputação 'sem lastro' contra Lulinha em relatório para Mendonça
+       . [cnnbrasil.com.br] PF aponta possível rigor maior de Mendonça com Lulinha
+       . [Poder360] Leia o relatório da PF que Moraes usou para imputar crimes a Mendonça
+
+   7      0      83      1  Inteligência da PF vê Mendonça ciente de q
+       ineditas: campanha
+       veiculos: BBC, Folha Poder, G1 Politica, Gazeta do Povo, Poder360, UOL Notícias, cnnbrasil.com.br
+       . [cnnbrasil.com.br] Inteligência da PF vê Mendonça ciente de que investigação atingiria Moraes
+       . [BBC] Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da cris
+       . [Gazeta do Povo] Moraes deflagra guerra interna no STF contra Mendonça
+
+   2      1      77      1  PF insinua que Mendonça atua para mudar co
+       ineditas: forcas
+       veiculos: Gazeta do Povo Rep, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF insinua que Mendonça atua para mudar correlação de forças no STF
+       . [Gazeta do Povo Rep] PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+
+   2      0      23      2  TRE indefere candidatura de José Roberto A
+       ineditas: jose, roberto
+       veiculos: Carta Capital, Valor Econômico
+       . [Valor Econômico] TRE-DF rejeita registro de candidatura de José Roberto Arruda
+       . [Carta Capital] TRE indefere candidatura de José Roberto Arruda ao governo do DF
+
