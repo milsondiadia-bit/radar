@@ -4501,3 +4501,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
        . [Google Trends BR] ministro andré mendonça
 
+==============================================================================
+RODADA 04/09 06:52 UTC  |  janela 90 min  |  15 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      58      0  ministro andré mendonça
+       veiculos: BBC Brasil, Gazeta do Povo, Gazeta do Povo Rep, Google Trends BR, Metropoles
+       . [Gazeta do Povo] Moraes acusa André Mendonça de abuso de autoridade no STF e pede investigação
+       . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
+       . [Gazeta do Povo Rep] Alexandre de Moraes pede investigação contra André Mendonça no STF
+
