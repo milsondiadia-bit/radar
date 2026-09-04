@@ -7910,3 +7910,82 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Palpite CRB x América-MG - Série B - 04/09/26
        . [Veja] HBO revela novos atores para segunda temporada da série ‘Harry Potter’
 
+==============================================================================
+RODADA 04/09 17:52 UTC  |  janela 90 min  |  117 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      4      62      0  Fachin retira apuração sobre Mendonça de i
+       veiculos: Claudio Dantas, Consultor Jurídico, Gazeta do Povo Rep, O Antagonista, Veja
+       . [Consultor Jurídico] Fachin retira apuração sobre Mendonça de inquérito relatado por Alexandre
+       . [Gazeta do Povo Rep] Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
+       . [Gazeta do Povo Rep] Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
+
+   4      1      72      0  A aposta do PT na neutralidade ‘pró-Lula’ 
+       veiculos: Carta Capital, Folha Poder, Poder360, Veja
+       . [Poder360] Lula espera ofensiva contra Flávio nos 10 dias finais da campanha
+       . [Carta Capital] Lula x Flávio Bolsonaro: a nova pesquisa Ideia sobre a disputa pela Presidência
+       . [Carta Capital] Quaest mostra ‘goleada’ de Lula sobre Flávio Bolsonaro no Ceará
+
+   4      1      53      1  Aliado de Moraes, Davi Alcolumbre tenta se
+       ineditas: proteger
+       veiculos: CNN Brasil, Metropoles, O GLOBO, Veja
+       . [CNN Brasil] Flávio acusa Alcolumbre de proteger Moraes no Senado
+       . [O GLOBO] Aliado de Moraes, Davi Alcolumbre tenta se distanciar de Flávio Bolsonaro em meio à crise no STF
+       . [Metropoles] "Está muito interessado em proteger Moraes", diz Flávio sobre Alcolumbre
+
+   4      1      47      0  TSE conclui assinatura e lacração dos sist
+       veiculos: O Antagonista, Tribunal Regional Eleitoral de Sergipe, UNALE, senado.leg.br
+       . [senado.leg.br] TSE conclui assinatura e lacração dos sistemas das eleições de 2026
+       . [Tribunal Regional Eleitoral de Sergipe] TRE-SE indefere DRAP da Federação PSOL/REDE para as Eleições 2026
+       . [UNALE] Eleições 2026: saiba o conceito de turno eleitoral
+
+   3      0      36      3  Quaest: Ciro Gomes lidera corrida para o g
+       ineditas: gomes, pesquisa, senado
+       veiculos: Carta Capital, Metropoles, gazetadopovo.com.br
+       . [gazetadopovo.com.br] Os números da pesquisa Indexa para governo e Senado no Pará
+       . [gazetadopovo.com.br] Quaest divulga pesquisa para governo e Senado no Ceará
+       . [Carta Capital] Quaest no Ceará: Cid Gomes e Capitão Wagner lideram a disputa pelo Senado
+
+   3      0      43      0  Não posso parar de ser presidente porque s
+       veiculos: Metropoles, O GLOBO, Poder360
+       . [O GLOBO] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [Poder360] Não posso parar de ser presidente porque sou candidato, diz Lula
+       . [Metropoles] Crise no STF: OAB-MG cobrará de Fachin investigação “rigorosa”
+
+   2      1      39      2  ALive: Fachin ignora ‘Zorra Total’ que é o
+       ineditas: alive, julga
+       veiculos: BBC Brasil, Claudio Dantas
+       . [BBC Brasil] 'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão
+       . [Claudio Dantas] ALive: Moraes é vítima, acusa, julga e agora também espiona
+       . [Claudio Dantas] ALive: Fachin ignora ‘Zorra Total’ que é o Supremo
+
+   2      1      34      0  Transparência Internacional pede afastamen
+       veiculos: Gazeta do Povo Rep, pleno.news
+       . [pleno.news] OAB-PR pede afastamento de Moraes e suspeição de Gonet
+       . [Gazeta do Povo Rep] Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+
+   2      0      28      1  Sancionadas leis que criam fundos para ape
+       ineditas: fundos
+       veiculos: Correio dos Municípios, stf noticias
+       . [stf noticias] Fachin destaca fortalecimento da Justiça com criação de fundos para Justiça Federal e STJ
+       . [Correio dos Municípios] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, Defensoria Pública da União e 
+
+   2      0       0      4  Opinião - Frederico Vasconcelos: Distorçõe
+       ineditas: acumuladas, desgastaram, distorcoes, imagem
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Opinião - Frederico Vasconcelos: Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+       . [Folha Poder] Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+
+   2      0      27      0  Cobranças ao governo federal pela ausência
+       veiculos: GZH, Valor Econômico
+       . [Valor Econômico] Governo pede autorização do TSE para que Lula faça pronunciamento de 7 de Setembro
+       . [GZH] Cobranças ao governo federal pela ausência de Lula marcam a abertura oficial da Expointer
+
+   2      1       5      1  Empresários articulam novo manifesto contr
+       ineditas: mensagens
+       veiculos: Carta Capital, Claudio Dantas
+       . [Carta Capital] Conselho Superior do MPF abre procedimento para analisar mensagens de Vorcaro que mencionam Gonet
+       . [Claudio Dantas] Empresários articulam novo manifesto contra STF após mensagens de Vorcaro e Moraes
+
