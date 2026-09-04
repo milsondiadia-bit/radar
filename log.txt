@@ -7554,3 +7554,96 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] chico pinheiro
        . [Metropoles] Chuva alaga acesso ao viaduto Israel Pinheiro e congestiona EPTG
 
+==============================================================================
+RODADA 04/09 17:12 UTC  |  janela 90 min  |  125 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      3      78      0  Inquérito das fake news tem mais de sete a
+       veiculos: BBC Brasil, Claudio Dantas, Congresso em Foco, G1, Gazeta do Povo Rep, O Antagonista, O GLOBO, instagram.com
+       . [G1] Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF
+       . [O GLOBO] Inquérito das fake news, 'resposta rigorosa' e reforma do Judiciário: os recados de Lula e Fachin sobre a cris
+       . [instagram.com] FUTURO DO STF | Fachin diz que não haverá omissão sobre crise no STF e defende fim do inquérito das fake news 
+
+   5      3      53      0  Relatório da PF usado por Moraes aponta qu
+       veiculos: Agência Brasil, Claudio Dantas, O Antagonista, O GLOBO, Veja
+       . [Agência Brasil] STF: PGR e Mendonça têm 5 dias para responderem acusações de Moraes
+       . [O GLOBO] Relatório da PF usado por Moraes aponta que Mendonça disse em reunião analisar possível afastamento de chefe d
+       . [O Antagonista] PF monitorou André Mendonça diante de crise contra Moraes
+
+   4      1      65      0  Supremo Tribunal Federal volta a julgar re
+       veiculos: Claudio Dantas, Metropoles, VEJA, facebook.com
+       . [VEJA] Supremo Tribunal Federal volta a julgar regulação das redes sociais
+       . [facebook.com] Jornal Midiamax. . O ministro Edson Fachin, presidente do STF (Supremo Tribunal Federal), voltou a se manifest
+       . [Metropoles] Crise no STF: OAB-MG cobrará de Fachin investigação “rigorosa”
+
+   3      0      62      1  Eleições 2026: contagem regressiva chega a
+       ineditas: conclui
+       veiculos: Terra, Tribunal Regional Eleitoral do Ceará, senado.leg.br
+       . [Terra] TSE conclui lacração dos sistemas eleitorais que serão usados nas eleições de 2026
+       . [senado.leg.br] TSE conclui assinatura e lacração dos sistemas das eleições de 2026
+       . [Tribunal Regional Eleitoral do Ceará] Eleições 2026: contagem regressiva chega a um mês para o primeiro turno
+
+   3      0      68      0  Presidente Lula sanciona nova lei de custa
+       veiculos: Poder360, Superior Tribunal de Justiça, stf noticias
+       . [stf noticias] Fachin destaca fortalecimento da Justiça com criação de fundos para Justiça Federal e STJ
+       . [Superior Tribunal de Justiça] Presidente Lula sanciona nova lei de custas da Justiça Federal e do STJ
+       . [Poder360] Não posso parar de ser presidente porque sou candidato, diz Lula
+
+   3      2      49      2  Transparência Internacional alerta para ‘c
+       ineditas: internacional, transparencia
+       veiculos: Gazeta do Povo Rep, O Antagonista, VEJA
+       . [VEJA] Transparência Internacional alerta para ‘colapso institucional’ e pede afastamento de Moraes
+       . [Gazeta do Povo Rep] Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+       . [O Antagonista] Crusoé: Transparência Internacional defende afastamento de Moraes
+
+   2      0       5      0  Lula diz que, no próximo ano, discutirá re
+       veiculos: Poder360, Valor Econômico
+       . [Valor Econômico] Caiado chama STF de ‘desordem institucional’ e defende reforma no Judiciário
+       . [Poder360] Lula diz que, no próximo ano, discutirá reforma no Judiciário
+
+   2      0       0      4  Opinião - Frederico Vasconcelos: Distorçõe
+       ineditas: acumuladas, desgastaram, distorcoes, imagem
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Opinião - Frederico Vasconcelos: Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+       . [Folha Poder] Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+
+   2      1      13      0  Flávio acusa Alcolumbre de proteger Moraes
+       veiculos: O Antagonista, O GLOBO
+       . [O GLOBO] Aliado de Moraes, Davi Alcolumbre tenta se distanciar de Flávio Bolsonaro em meio à crise no STF
+       . [O Antagonista] Flávio acusa Alcolumbre de proteger Moraes no Senado
+
+   2      0      52      0  Quaest no Ceará: Lula, 54%; Flávio Bolsona
+       veiculos: G1 Politica, Poder360
+       . [G1 Politica] Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+       . [Poder360] Lula espera ofensiva contra Flávio nos 10 dias finais da campanha
+
+   2      0      80      0  Quaest no Ceará: 49% aprovam e 38% desapro
+       veiculos: G1 Politica, Metropoles
+       . [G1 Politica] Quaest no Ceará: 49% aprovam e 38% desaprovam governo de Elmano de Freitas
+       . [Metropoles] Quaest: Ciro Gomes lidera corrida para o governo do Ceará no 1º e 2º turnos
+
+   2      0      28      2  Grenal da Copa do Brasil quebra recorde de
+       ineditas: copa, recorde
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Transferências pós-Copa movimentam US$ 9,89 bi, recorde na Fifa
+       . [Carta Capital] Grenal da Copa do Brasil quebra recorde de público
+
+   2      0       1      0  Casa Branca lança jogos “retrô” sobre depo
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Casa Branca lança jogos “retrô” sobre deportações e muro de Trump
+       . [Carta Capital] Governo Trump lança games para perseguir imigrantes
+
+   2      1      25      1  A aposta do PT na neutralidade ‘pró-Lula’ 
+       ineditas: neutralidade
+       veiculos: Folha Poder, Veja
+       . [Folha Poder] Lula planeja ato de campanha no Piauí e contraria expectativa de Ciro Nogueira por neutralidade
+       . [Veja] A aposta do PT na neutralidade ‘pró-Lula’ do Centrão no Rio
+
+   2      1      58      1  Primeiro Dark Sky Park da América Latina: 
+       ineditas: america
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Palpite CRB x América-MG - Série B - 04/09/26
+       . [O Antagonista] Primeiro Dark Sky Park da América Latina: a cidade fluminense de 10 mil moradores que guarda o parque mais ant
+
