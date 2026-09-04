@@ -4477,3 +4477,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
        . [Google Trends BR] ministro andré mendonça
 
+==============================================================================
+RODADA 04/09 06:32 UTC  |  janela 90 min  |  17 manchetes  |  0 sem data  |  12 feeds com erro
+==============================================================================
+feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; Agencia Brasil Pol: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      21      0  ministro andré mendonça
+       veiculos: BBC Brasil, Google Trends BR, Metropoles
+       . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
+       . [Google Trends BR] ministro andré mendonça
+       . [Metropoles] Candidato ao GDF, Expedito Mendonça propõe fim do STF em plano de governo
+
