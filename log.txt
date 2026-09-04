@@ -4674,3 +4674,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Veja a agenda dos candidatos ao governo de SP nesta sexta (4/9)
        . [Metropoles] Veja a agenda dos candidatos ao GDF nesta sexta-feira (4/9)
 
+==============================================================================
+RODADA 04/09 08:32 UTC  |  janela 90 min  |  30 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      28      0  Moraes usou relatório da PF sem valor prob
+       veiculos: Claudio Dantas, Poder360, instagram.com
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+       . [Poder360] “Vamos para a rua”, diz fundador da Petz sobre caso Moraes-Vorcaro
+       . [Claudio Dantas] Moraes usou relatório da PF sem valor probatório contra Mendonça
+
