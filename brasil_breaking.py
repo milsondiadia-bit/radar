@@ -267,6 +267,12 @@ para com que se e ao aos sobre entre apos sem sob ate mais menos ja nao
 seu sua seus suas ele ela eles elas isso este esta esse essa foi ser tem
 ter diz dizem vai vao sao era eram como quando onde qual quais veja saiba
 entenda apos contra depois antes ainda tambem
+segunda terca quarta quinta sexta sabado domingo feira hoje ontem amanha
+janeiro fevereiro marco abril maio junho julho agosto setembro outubro
+novembro dezembro manha tarde noite madrugada semana mes ano dia dias
+dizem afirma afirmou disse falou nesta neste nessa nesse pode podem
+sobre ainda apenas assim entao agora nova novo novos novas primeiro
+segundo terceiro ultimo ultima acao acoes caso casos pais brasil
 """.split())
 
 # Duas manchetes falam da mesma historia quando repetem esta fatia das
@@ -309,22 +315,34 @@ def agrupa(itens):
         minhas = _palavras(it["titulo"])
         if not minhas:
             continue
+        # Compara com o NUCLEO do grupo - as palavras que aparecem na
+        # maioria das manchetes dele - e nao com uma manchete qualquer.
+        #
+        # Comparando item a item, os grupos viravam corrente: A parecia
+        # com B, B parecia com C, e C entrava junto sem ter nada a ver
+        # com A. Foi assim que "indicadores da 6a feira", "Planaltina
+        # sem energia" e "bancos fechados sexta" acabaram no mesmo
+        # grupo - so porque todas diziam "sexta-feira".
         destino = None
+        melhor = 0.0
         for g in grupos:
-            for outro in g["itens"]:
-                dele = _palavras(outro["titulo"])
-                if not dele:
-                    continue
-                comuns = len(minhas & dele)
-                if comuns / max(1, min(len(minhas), len(dele))) >= SEMELHANCA_HISTORIA:
-                    destino = g
-                    break
-            if destino:
-                break
+            nucleo = g["nucleo"]
+            comuns = len(minhas & nucleo)
+            sim = comuns / max(1, min(len(minhas), len(nucleo)))
+            if sim >= SEMELHANCA_HISTORIA and sim > melhor:
+                destino, melhor = g, sim
         if destino is None:
-            grupos.append({"itens": [it]})
+            grupos.append({"itens": [it], "nucleo": set(minhas)})
         else:
             destino["itens"].append(it)
+            # o nucleo fica so com o que a maioria repete
+            conta = defaultdict(int)
+            for x in destino["itens"]:
+                for w in _palavras(x["titulo"]):
+                    conta[w] += 1
+            metade = len(destino["itens"]) / 2
+            destino["nucleo"] = {w for w, n in conta.items() if n >= metade} \
+                or set(minhas)
 
     final = []
     for g in grupos:
