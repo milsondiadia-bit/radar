@@ -4718,3 +4718,32 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
        . [Claudio Dantas] Moraes usou relatório da PF sem valor probatório contra Mendonça
 
+==============================================================================
+RODADA 04/09 09:02 UTC  |  janela 90 min  |  53 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      66      0  “Vamos para a rua”, diz fundador da Petz s
+       veiculos: CNN Brasil, Poder360, Veja
+       . [CNN Brasil] Vorcaro sinaliza poupar Moraes em nova delação premiada
+       . [Poder360] “Vamos para a rua”, diz fundador da Petz sobre caso Moraes-Vorcaro
+       . [Veja] Revelações sobre Moraes e Vorcaro colocam STF em encruzilhada inédita
+
+   2      1       1      1  Saiba quais indicadores e balanços saem ne
+       ineditas: resumo
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba quais indicadores e balanços saem nesta 6ª feira
+       . [Veja] Adriana surpreende Dora: confira resumo de Quem Ama Cuida nesta sexta-feira, 04/09
+       . [Veja] Casemiro passa mal: confira resumo de A Nobreza Do Amor nesta sexta-feira, 04/09
+
+   2      1      28      0  Moraes usou relatório da PF sem valor prob
+       veiculos: Claudio Dantas, instagram.com
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+       . [Claudio Dantas] Moraes usou relatório da PF sem valor probatório contra Mendonça
+
+   2      1       1      0  Crise Moraes-Vorcaro só favorece Flávio, d
+       veiculos: Poder360, Veja
+       . [Poder360] Crise Moraes-Vorcaro só favorece Flávio, diz Renato Meirelles
+       . [Veja] A crise avança
+
