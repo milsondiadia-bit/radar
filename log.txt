@@ -9378,3 +9378,78 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
        . [Metropoles] Alencar Santana aciona STF para investigar suposta propina a Tarcísio
 
+==============================================================================
+RODADA 04/09 20:32 UTC  |  janela 90 min  |  130 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      3      60      0  Esquerda articula pedido de impeachment co
+       veiculos: BBC Brasil, Claudio Dantas, Estadão, Gazeta do Povo Rep, Metropoles, Veja
+       . [Estadão] Alexandre de Moraes vandaliza o Supremo
+       . [BBC Brasil] Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   5      2      57      0  Lula se diz convicto de que Elmano pode vi
+       veiculos: Google Trends BR, Metropoles, O Antagonista, Poder360, Veja
+       . [Poder360] Ciro tem 49% e Elmano, 36%, em 2º turno no CE, diz pesquisa
+       . [Google Trends BR] pesquisa
+       . [Metropoles] Lula diz que Ciro “foi para o outro lado” e só Elmano é seu candidato no CE
+
+   3      0      52      1  Estou predestinado a transformar este País
+       ineditas: transformar
+       veiculos: Estadão, Poder360, Terra
+       . [Terra] Estou predestinado a transformar este País em um país de classe média alta, diz Lula
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+
+   3      1      66      2  Lula diz ter afirmado a Trump que Brasil n
+       ineditas: aceita, dito
+       veiculos: G1, Gazeta do Povo Rep, InfoMoney
+       . [G1] Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
+       . [InfoMoney] Lula diz ter afirmado a Trump que Brasil não aceitará ingerência nas eleições
+       . [Gazeta do Povo Rep] Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+
+   3      0       4      1  Governo sanciona leis que criam e reestrut
+       ineditas: sanciona
+       veiculos: Agência Brasil, CNN Brasil, Conexão Tocantins
+       . [CNN Brasil] Lula sanciona leis que criam fundos para Justiça
+       . [Agência Brasil] Governo sanciona leis que criam e reestruturam fundos para a Justiça
+       . [Conexão Tocantins] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, DPU e MPU
+
+   3      0      27      1  AtlasIntel indica disputa acirrada ao gove
+       ineditas: atlasintel
+       veiculos: Carta Capital, Gazeta do Povo, Poder360
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governo e Senado no Ceará
+       . [Poder360] Cid Gomes e Capitão Wagner lideram para o Senado no Ceará, diz Quaest
+       . [Carta Capital] AtlasIntel indica disputa acirrada ao governo do Amazonas
+
+   2      0      43      2  Candidatos nas Eleições 2026 em São Paulo:
+       ineditas: deputado, lista
+       veiculos: Gazeta do Povo, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado federal em Alagoas (AL): veja a lista das eleições 2026
+       . [Valor Econômico] Candidatos a deputado federal em São Paulo (SP): veja lista de 2026
+       . [Valor Econômico] Candidatos a deputado federal no Amapá (AP): veja a lista das eleições 2026
+
+   2      1      39      0  STF deve rechaçar manobra de Moraes no cas
+       veiculos: Gazeta do Povo Rep, O GLOBO
+       . [O GLOBO] STF deve rechaçar manobra de Moraes no caso Master
+       . [Gazeta do Povo Rep] 7 de Setembro: atos da direita ganham força com caso Master e reação de Moraes contra Mendonça
+
+   2      1      21      0  Gonet pretende responder “o quanto antes” 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
+       . [O Antagonista] Gonet pretende responder “o quanto antes” sobre mensagens de Vorcaro
+
+   2      0       7      1  rússia
+       ineditas: russia
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] rússia
+       . [Metropoles] Zelensky propõe cessar-fogo aéreo à Rússia durante negociações com os EUA
+
+   2      0       5      1  Alencar Santana aciona STF para investigar
+       ineditas: aciona
+       veiculos: Folha Poder, Metropoles
+       . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
+       . [Metropoles] Alencar Santana aciona STF para investigar suposta propina a Tarcísio
+
