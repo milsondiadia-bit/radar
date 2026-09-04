@@ -10237,3 +10237,54 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
        . [O Antagonista] Erika Hilton pede prisão de Nikolas por respostar laudo falso da PF
 
+==============================================================================
+RODADA 04/09 22:52 UTC  |  janela 90 min  |  107 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      38      1  Igreja de André Mendonça cita cortes fora 
+       ineditas: moraes
+       veiculos: Folha Poder, Gazeta do Povo Rep, Google Trends BR, O Antagonista, Veja
+       . [Gazeta do Povo Rep] Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
+       . [Gazeta do Povo Rep] Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+       . [Google Trends BR] alexandre de moraes afastamento
+
+   4      0      51      3  Sob crise no STF, Mendonça agradece apoio 
+       ineditas: agradece, apoio, oracoes
+       veiculos: CNN Brasil, G1 Politica, Metropoles, Pleno.News
+       . [CNN Brasil] Sob crise no STF, Mendonça agradece apoio de fieis de igreja onde é pastor
+       . [Pleno.News] André Mendonça agradece mensagens de apoio e orações
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+
+   3      1      62      1  ONU aprova uso do mapa-múndi mais fiel ao 
+       ineditas: aprova
+       veiculos: Carta Capital, O Antagonista, Poder360
+       . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
+       . [Carta Capital] ONU aprova uso do mapa-múndi mais fiel ao tamanho dos continentes
+       . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
+
+   3      0      31      3  TSE autoriza Lula a fazer pronunciamento s
+       ineditas: fazer, lula, pronunciamento
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] TSE autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+       . [Carta Capital] Nunes Marques autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+       . [Metropoles] Nunes Marques autoriza pronunciamento de Lula sobre o 7 de Setembro
+
+   2      0       0      3  STF filtra "aventuras processuais" em caso
+       ineditas: aventuras, gratuita, processuais
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      1      44      0  Caiado propõe idade mínima de 60 anos para
+       veiculos: G1, Veja
+       . [G1] Caiado propõe idade mínima de 60 anos para ministros do Supremo e quarentena para ex-integrantes da Corte
+       . [Veja] ’Vou indicar quatro mulheres para o Supremo’, diz Caiado
+
+   2      1      40      2  Deputado do PT aciona MPE contra Nikolas p
+       ineditas: falso, laudo
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
+       . [O Antagonista] Erika Hilton pede prisão de Nikolas por respostar laudo falso da PF
+
