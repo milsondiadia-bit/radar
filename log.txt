@@ -6251,3 +6251,79 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 14:32 UTC  |  janela 90 min  |  118 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  11      3      81      1  Arapongagem de Moraes
+       ineditas: presidente
+       veiculos: Agência Brasil, BBC Brasil, Claudio Dantas, DW.com, Folha Poder, G1, Gazeta do Povo Rep, Metropoles, O Antagonista, O GLOBO, Poder360
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [DW.com] Crise no STF escala com guerra entre Moraes e Mendonça
+       . [G1] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   4      1      57      0  Flávio Bolsonaro diz ser alvo de articulaç
+       veiculos: Carta Capital, Google Trends BR, Poder360, Veja
+       . [Poder360] Flávio Bolsonaro diz ser alvo de articulação de Moraes, Dino e Alcolumbre
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+       . [Google Trends BR] flávio dino
+
+   2      0      13      1  PF vê inação da AGU e aponta “relação polí
+       ineditas: politica
+       veiculos: CNN Brasil, Congresso em Foco
+       . [CNN Brasil] PF vê inação da AGU e aponta “relação política” de Mendonça e Messias
+       . [Congresso em Foco] Fachin e a política do rule of law
+
+   2      0      31      2  Crise sem precedentes expõe as entranhas d
+       ineditas: supremo, tribunal
+       veiculos: GZH, instagram.com
+       . [GZH] Crise sem precedentes expõe as entranhas do Supremo Tribunal Federal
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+
+   2      0       3      0  Leia a íntegra da decisão que tira Mendonç
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Fim do inquérito das fake news entra na equação para resolver crise no STF
+       . [Poder360] Leia a íntegra da decisão que tira Mendonça do inquérito das fake news
+
+   2      0       3      0  Eleições 2026: saiba como consultar local 
+       veiculos: Exame, G1
+       . [G1] Eleições 2026: saiba como consultar local e seção de votação
+       . [Exame] Quem são os candidatos nas eleições 2026? EXAME lança plataforma com dados do TSE
+
+   2      0      23      0  Vale: Governo Lula impediu IPO da VBM, diz
+       veiculos: Brasil 247, EuQueroInvestir
+       . [EuQueroInvestir] Vale: Governo Lula impediu IPO da VBM, diz jornal canadense
+       . [Brasil 247] Lula celebra fim da taxa das blusinhas e avanços da agenda do governo
+
+   2      0      18      2  duda salabert
+       ineditas: duda, salabert
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Duda Salabert denuncia tentativa de homicídio durante fiscalização em Minas
+       . [Google Trends BR] duda salabert
+
+   2      0      25      1  série de televisão
+       ineditas: serie
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] série de televisão
+       . [Metropoles] Goleiro do Nacional-AM perdeu o pai dias antes do acesso à Série C
+
+   2      0      40      1  tv globo
+       ineditas: globo
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] tv globo
+       . [Metropoles] Diretor da TV Globo é demitido por desistir da cobertura exclusiva da Copa
+
+   2      1      33      3  Anitta alfineta Belo ao vivo e causa saia-
+       ineditas: anitta, casa, estrelas
+       veiculos: Metropoles, Veja
+       . [Metropoles] Vídeo: Anitta expõe participante que falou mal dela no Estrelas da Casa
+       . [Veja] Anitta alfineta Belo ao vivo e causa saia-justa no ‘Estrelas da Casa’
+
+   2      2       5      6  Nunes Marques: ‘Justiça não possui preferê
+       ineditas: candidaturas, justica, marques, nunes, possui, preferencia
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
