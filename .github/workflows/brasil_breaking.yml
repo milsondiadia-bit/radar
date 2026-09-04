@@ -1,4 +1,4 @@
-name: Brasil Breaking (medicao)
+name: Brasil Breaking
 
 on:
   workflow_dispatch:
@@ -24,14 +24,17 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Medir (sem enviar nada ao Telegram)
+      - name: Procurar breaking e avisar no Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID_BREAKING: ${{ secrets.CHAT_ID_BREAKING }}
         run: python brasil_breaking.py --minutos 90
 
       - name: Guardar o log da medicao
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add log.txt brasil_vistos.json 2>/dev/null || true
+          git add log.txt brasil_vistos.json brasil_enviados.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Nada novo no log."
           else
