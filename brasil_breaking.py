@@ -498,14 +498,21 @@ def registra(grupo, memoria, agora):
 #
 # Dao cerca de 27 alertas por dia.
 MINIMO_VEICULOS = 6
-# Medido em 04/09/2026 no log de 03/09 18h22 ate 04/09 12h52:
-# o fato novo do dia ("Mendonca quis saber o que tinha sobre Moraes no
-# celular de Vorcaro", Poder360) apareceu as 11h02 UTC com 6 veiculos
-# e 4 palavras ineditas - reprovado por UMA palavra. Com o corte em 4
-# ele sairia 80 minutos antes. Contando o log inteiro, baixar de 5
-# para 4 libera apenas 2 grupos a mais no dia, os dois sobre esse
-# mesmo caso. Nao gera enxurrada.
-MINIMO_INEDITAS = 4
+# Contar palavra inedita era um substituto pobre de "isso e novidade?".
+# Ele funciona por ondas: a memoria enche e sufoca tudo, expira e libera
+# tudo de uma vez. Foi ele que produziu os dois defeitos do dia
+# 04/09/2026 - o alerta repetido das 10h43 e o silencio de cinco horas
+# na tarde.
+#
+# Medido no log de 60 rodadas desse dia:
+#   6 veiculos + 4 ineditas ->  1 candidato   (o bot ficou mudo)
+#   so 6 veiculos           ->  7 candidatos  (um a cada 8 rodadas)
+#   so 5 veiculos           -> 22 candidatos
+#
+# Quem decide se houve fato novo agora e o juiz, que le a manchete. O
+# corte de veiculos continua: ele mede alcance, nao novidade. Zero aqui
+# desliga a contagem sem tirar a coluna do log, que serve de medida.
+MINIMO_INEDITAS = 0
 
 # Um evento so e avisado UMA vez. Sem isto, "Moraes acusa Mendonca"
 # seria enviado em 5 rodadas seguidas, porque continua batendo o corte
