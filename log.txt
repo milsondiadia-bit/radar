@@ -10056,3 +10056,58 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] AtlasIntel: Ciro tem 48% no primeiro turno; Elmano pontua 45%
        . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
 
+==============================================================================
+RODADA 04/09 22:22 UTC  |  janela 90 min  |  108 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      73      2  Transparência Internacional defende saída 
+       ineditas: agradece, apoio
+       veiculos: Folha Poder, G1 Politica, Gazeta do Povo Rep, Metropoles, Poder360, Veja
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Poder360] Entenda a cronologia da crise no STF com embate entre Moraes e Mendonça
+       . [Gazeta do Povo Rep] Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+
+   2      0      81      0  AtlasIntel: Lula lidera com folga no Ceará
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Ciro tem 50% contra 46,1% de Elmano no 2º turno do CE, diz pesquisa
+       . [Poder360] Lula tem 54,6% ante 30,1% de Flávio no 2º turno no Ceará, diz pesquisa
+       . [Carta Capital] AtlasIntel: Lula lidera com folga no Ceará e abre 26 pontos sobre Flávio Bolsonaro no primeiro turno
+
+   2      0      44      3  Monaco, de Filipe Luís, vence o PSG de vir
+       ineditas: filipe, luis, virada
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] posiciones de psg contra as mónaco
+       . [Metropoles] Web reage à vitória de virada do Monaco contra o PSG: "Isso é Filipe Luís"
+       . [Metropoles] Monaco, de Filipe Luís, vence o PSG de virada no Parque dos Príncipes
+
+   2      1      50      4  Erika Hilton pede prisão de Nikolas por pu
+       ineditas: erika, falso, hilton, laudo
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
+       . [Metropoles] Erika Hilton pede prisão de Nikolas por publicação de laudo falso da PF
+       . [O Antagonista] Erika Hilton pede prisão de Nikolas por respostar laudo falso da PF
+
+   2      0      41      0  Advogados de Vorcaro aproveitam crise para
+       veiculos: CNN Brasil, Folha Poder
+       . [CNN Brasil] Advogados de Vorcaro aproveitam crise para novas investidas
+       . [Folha Poder] Entenda a escalada da crise no STF, provocada por revelações de elos entre ministros e Vorcaro
+
+   2      0      30      1  carlos sadi
+       ineditas: carlos
+       veiculos: Google Trends BR, Viomundo
+       . [Viomundo] Carlos Fidelis: Democracia sitiada — autoritarismo, crime organizado e a disputa pelo Brasil
+       . [Google Trends BR] carlos sadi
+
+   2      0       0      3  STF filtra "aventuras processuais" em caso
+       ineditas: aventuras, gratuita, processuais
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      0      16      0  Lula sanciona nova lei de custas da Justiç
+       veiculos: Consultor Jurídico, Jornal de Brasília
+       . [Consultor Jurídico] Lula sanciona nova lei de custas da Justiça Federal e do STJ
+       . [Jornal de Brasília] Nova lei atualiza cobrança de custas na Justiça Federal e no STJ
+
