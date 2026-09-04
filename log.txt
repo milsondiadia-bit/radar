@@ -3740,3 +3740,41 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
        . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
 
+==============================================================================
+RODADA 04/09 01:32 UTC  |  janela 90 min  |  103 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      4      78      5  Urgente: Fachin dá 5 dias para Moraes, Men
+       ineditas: alvo, determinou, manda, marinho, nota
+       veiculos: Agencia Brasil Just, BBC Brasil, Carta Capital, Claudio Dantas, Folha Poder, G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, Rád
+       . [cnnbrasil.com.br] Moraes fala em “viés político” de Mendonça em condução de investigações
+       . [cnnbrasil.com.br] Moraes diz que Mendonça entregou à PF decisão sem assinatura
+       . [cnnbrasil.com.br] Análise: O que representam para o STF as denúncias de Moraes a Mendonça?
+
+   5      1      35      0  Lula ignora Moraes e grava vídeo para fatu
+       veiculos: Congresso em Foco, Gazeta do Povo Rep, Google Trends BR, PlatôBR, Tribuna do Sertão
+       . [Tribuna do Sertão] Maior roubo da história do Brasil: Lula defende investigação 'sem blindagem' no caso Master
+       . [PlatôBR] Efeito eleitoral do caso Master força Lula a sair da cautela com a ala de Moraes
+       . [Congresso em Foco] Lula cobra apuração "sem blindagem" no caso Master: "doa a quem doer"
+
+   3      1      66      1  Relatório da PF que aponta ‘assimetria pol
+       ineditas: lulinha
+       veiculos: O Antagonista, O GLOBO, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF aponta interferência de Mendonça e suposto direcionamento de alvos
+       . [O GLOBO] Relatório da PF que aponta ‘assimetria política’ de Mendonça e cita ACM Neto, Rueda, Alcolumbre e Lulinha
+       . [cnnbrasil.com.br] PF aponta possível rigor maior de Mendonça com Lulinha
+
+   3      0      54      0  Datafolha divulga também nova pesquisa com
+       veiculos: CBN Recife, G1, UOL Notícias
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+       . [CBN Recife] Governo Lula tem 51% de desaprovação e 45% de aprovação, diz Datafolha
+       . [G1] Datafolha divulga também nova pesquisa com avaliação que os brasileiros fazem do governo Lula
+
+   2      0      61      0  Sem taxa das blusinhas, governo deve perde
+       veiculos: Poder360, UOL Economia
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [Poder360] Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo
+       . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
+
