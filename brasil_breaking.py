@@ -389,7 +389,16 @@ ARQUIVO_MEMORIA = "brasil_vistos.json"
 # hora nao era fato novo: era o assunto da noite anterior renascendo
 # por expiracao da memoria - e chegou 80 minutos depois do fato real.
 # Com 24 horas isso nao acontece.
-HORAS_DE_MEMORIA = 24
+# De volta para 12 horas. Medido em 04/09/2026: com 24 horas, numa saga
+# que ocupa o dia inteiro (crise Moraes x Mendonca) TODA palavra ja
+# estava registrada, e a tarde inteira passou com grupos de 4 e 5
+# veiculos marcando ZERO palavra inedita. O bot emudeceu das 12h02 as
+# 17h sem nenhum defeito aparente.
+#
+# A memoria longa era um filtro grosseiro contra repeticao. Esse
+# trabalho agora e do juiz, que le a manchete e decide se houve fato
+# novo. Com os dois apertados ao mesmo tempo, nada passa.
+HORAS_DE_MEMORIA = 12
 
 # Um assunto so conta como novo se a primeira vez que foi visto tiver
 # sido ha menos que isto. Acima disso, ja estava no radar.
