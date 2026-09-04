@@ -3815,3 +3815,41 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [CartaCapital] Lula se posiciona sobre crise no STF e defende reforma do sistema Judiciário
        . [UOL Notícias] Lula se posiciona sobre crise no STF, defende reforma no Judiciário e apuração
 
+==============================================================================
+RODADA 04/09 01:52 UTC  |  janela 90 min  |  99 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  10      2      77      1  Moraes fala em “viés político” de Mendonça
+       ineditas: colega
+       veiculos: Agência Brasil, BBC, BBC Brasil, CNN Brasil, G1 Politica, Gazeta do Povo Rep, Google Trends BR, O Antagonista, Poder360, Rádio Itatiaia
+       . [CNN Brasil] Moraes fala em “viés político” de Mendonça em condução de investigações
+       . [CNN Brasil] Análise: O que representam para o STF as denúncias de Moraes a Mendonça?
+       . [Agência Brasil] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+
+   8      3      76      5  Relatório da PF que aponta ‘assimetria pol
+       ineditas: atuacao, cita, estrategico, lulinha, marinho
+       veiculos: CNN Brasil, Claudio Dantas, Metropoles, O Antagonista, O GLOBO, Poder360, UOL Notícias, Veja
+       . [UOL Notícias] PF aponta imputação 'sem lastro' contra Lulinha em relatório para Mendonça
+       . [CNN Brasil] PF aponta interferência de Mendonça e suposto direcionamento de alvos
+       . [O GLOBO] Relatório da PF que aponta ‘assimetria política’ de Mendonça e cita ACM Neto, Rueda, Alcolumbre e Lulinha
+
+   3      0      54      0  Datafolha divulga também nova pesquisa com
+       veiculos: CBN Recife, G1, UOL Notícias
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+       . [CBN Recife] Governo Lula tem 51% de desaprovação e 45% de aprovação, diz Datafolha
+       . [G1] Datafolha divulga também nova pesquisa com avaliação que os brasileiros fazem do governo Lula
+
+   2      0      66      0  Sem discurso novo e com avaliação pior, Lu
+       veiculos: Folha Poder, Poder360
+       . [Poder360] Flávio e Lula empatam no 2º turno, diz pesquisa
+       . [Poder360] Com 51% das intenções de voto, Lula ganharia no 1º turno na Paraíba
+       . [Poder360] Ribeiro tem 42,5% contra 30,9% de Efraim no 1º turno na Paraíba
+
+   2      0      61      0  Sem taxa das blusinhas, governo deve perde
+       veiculos: Poder360, UOL Economia
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [Poder360] Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo
+       . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
+
