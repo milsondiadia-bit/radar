@@ -1,11 +1,26 @@
-DIAGNOSTICO DA CHAVE DO GEMINI
 
+============================================================
+CHAVE ATUAL
+============================================================
 chave presente: sim
 tamanho da chave: 53 caracteres
 comeca com: AQ.Ab8...
 
-gemini-flash-lite-latest     falhou: The read operation timed out
+gemini-flash-lite-latest     HTTP 503 | UNAVAILABLE | This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.
 gemini-3-flash-preview       HTTP 429 | RESOURCE_EXHAUSTED | You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https:/
-gemini-flash-latest          HTTP 429 | RESOURCE_EXHAUSTED | You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https:/
+gemini-flash-latest          OK  -> '"'
 gemini-2.5-flash             HTTP 404 | NOT_FOUND | This model models/gemini-2.5-flash is no longer available to new users. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
 gemini-2.0-flash             HTTP 404 | NOT_FOUND | This model models/gemini-2.0-flash is no longer available. Please update your code to use models/gemini-3.6-flash for the latest features and improvements. We recommend you to use the Interactions API.
+
+============================================================
+CHAVE NOVA
+============================================================
+chave presente: sim
+tamanho da chave: 53 caracteres
+comeca com: AQ.Ab8...
+
+gemini-flash-lite-latest     HTTP 401 | UNAUTHENTICATED | Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+gemini-3-flash-preview       HTTP 401 | UNAUTHENTICATED | Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+gemini-flash-latest          HTTP 401 | UNAUTHENTICATED | Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+gemini-2.5-flash             HTTP 401 | UNAUTHENTICATED | Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
+gemini-2.0-flash             HTTP 401 | UNAUTHENTICATED | Request had invalid authentication credentials. Expected OAuth 2 access token, login cookie or other valid authentication credential. See https://developers.google.com/identity/sign-in/web/devconsole-project.
