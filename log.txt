@@ -9813,3 +9813,73 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
        . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
 
+==============================================================================
+RODADA 04/09 21:42 UTC  |  janela 90 min  |  114 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      60      0  O novo pedido de impeachment contra Alexan
+       veiculos: G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [Gazeta do Povo Rep] Transparência Internacional defende saída de Alexandre de Moraes do cargo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   4      1      78      0  Candidata do PL vence todos no 2º turno no
+       veiculos: Carta Capital, O Antagonista, Poder360, mais.opovo.com.br
+       . [mais.opovo.com.br] Lula: Ceará pode dar "a maior lição política" que Brasil já teve
+       . [Poder360] Lula tem 54,6% ante 30,1% de Flávio no 2º turno no Ceará, diz pesquisa
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+
+   3      0      80      1  Deputado aciona Supremo para investigar do
+       ineditas: campanha
+       veiculos: Folha Poder, Metropoles, Valor Econômico
+       . [Valor Econômico] Tarcísio diz que suspeita de propina de Vorcaro para sua campanha 2022 é absurda
+       . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
+       . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
+
+   3      2       9      0  Elmano reduz distância para Ciro no Ceará,
+       veiculos: Carta Capital, O Antagonista, Veja
+       . [Carta Capital] AtlasIntel: Ciro tem 48% no primeiro turno; Elmano pontua 45%
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+       . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
+
+   2      0      21      2  Debate para o Senado em Mato Grosso do Sul
+       ineditas: grosso, mato
+       veiculos: G1 Politica, Metropoles
+       . [G1 Politica] VÍDEOS: o que os candidatos ao Senado de MS disseram no debate do g1
+       . [G1 Politica] Candidatos ao Senado por Mato Grosso do Sul participam de debate no g1; veja íntegra
+       . [G1 Politica] Debate para o Senado em Mato Grosso do Sul; veja como foi
+
+   2      1      68      0  Lula afirma ter dito a Trump que Brasil nã
+       veiculos: Gazeta do Povo Rep, Terra
+       . [Terra] Nas eleições, não fiquem em dúvida, votem em quem representa os interesses de vocês, diz Lula
+       . [Gazeta do Povo Rep] Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+
+   2      1       9      0  Os mistérios, fragilidades e especulações 
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Entenda a cronologia da crise no STF com embate entre Moraes e Mendonça
+       . [Gazeta do Povo Rep] Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+
+   2      1      29      0  Exportações para os EUA têm queda de 9,7% 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+       . [O Antagonista] Depois de um mês encontrando pegadas enormes junto ao barco todas as manhãs, pescador instala uma câmera no pí
+
+   2      0       2      1  julio iglesias
+       ineditas: julio
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] julio iglesias
+       . [Metropoles] TJSP mantém condenação após humorista associar padre Júlio à pedofilia
+
+   2      1      28      0  Em meio à crise no STF, André Mendonça agr
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Em meio à crise do STF, cúpula da OAB viaja à Suíça
+       . [Claudio Dantas] Em meio à crise no STF, André Mendonça agradece orações: “Que Deus nos abençoe”
+
+   2      1      18      3  Nikolas é atingido por ovo durante ato de 
+       ineditas: campanha, durante, nikolas
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Nikolas é atingido por ovo durante ato de campanha na Grande BH
+       . [O Antagonista] Homem joga ovos em Nikolas durante ato de campanha
+
