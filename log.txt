@@ -5539,3 +5539,46 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Moraes usa documento da PF apócrifo e sem valor probatório contra André Mendonça
        . [O Antagonista] “Sem valor probatório”, diz relatório usado por Moraes contra Mendonça
 
+==============================================================================
+RODADA 04/09 12:22 UTC  |  janela 90 min  |  84 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  12      5      85     10  Mendonça quis saber o que tinha sobre Mora
+       ineditas: acusa, alexandre, andre, fake, federal, inquerito, investigacao, news, pede, policia
+       veiculos: BBC Brasil, CNN Brasil, Claudio Dantas, Folha Poder, Gazeta do Povo Rep, Jornal Opção, Metropoles, O Antagonista, O Dia, Poder360, SINDSEP-PE, Veja
+       . [CNN Brasil] Fachin dá 5 dias para PGR e Mendonça responderem Moraes
+       . [SINDSEP-PE] Guerra total no STF: Alexandre de Moraes abre investigação contra André Mendonça no inquérito das fake news - 
+       . [O Dia] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+
+   3      2      48      4  Dino reconhece crise no STF e defende "seg
+       ineditas: defende, julgando, reconhece, seguir
+       veiculos: Gazeta do Povo, Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo] Dino reconhece crise no STF e defende "seguir julgando"
+       . [Gazeta do Povo Rep] Dino reconhece crise no STF e defende “seguir julgando”
+       . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
+
+   2      0      13      2  Começa hoje (31) compilação, assinatura di
+       ineditas: lacracao, sistemas
+       veiculos: Agência Brasil, Tribunal Superior Eleitoral
+       . [Tribunal Superior Eleitoral] Começa hoje (31) compilação, assinatura digital e lacração dos sistemas eleitorais
+       . [Agência Brasil] TSE realiza hoje lacração dos sistemas que serão usados nas eleições
+
+   2      0      70      1  Falta um mês para Eleições 2026: veja como
+       ineditas: eleicoes
+       veiculos: G1, Jornal da Paraíba
+       . [Jornal da Paraíba] Falta um mês para Eleições 2026: veja como pesquisar para escolher melhor os candidatos
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta sexta-feira (4)
+
+   2      0      54      2  Agenda dos candidatos: Lula vai ao Ceará e
+       ineditas: bolsonaro, tarcisio
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Agenda dos candidatos: Lula vai ao Ceará enquanto Flávio Bolsonaro faz comício com Tarcísio em São Carlos
+       . [Metropoles] Vorcaro diz que R$ 5 milhões a Bolsonaro e Tarcísio eram propina
+
+   2      2      53      0  ‘Investigação pressupõe indício de crime’,
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Ministros do STF vão poder rir à vontade
+       . [Veja] ‘Investigação pressupõe indício de crime’, disse Gonet sobre investigar ministros do STF, em abril
+
