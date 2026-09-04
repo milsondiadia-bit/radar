@@ -5233,3 +5233,35 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] feriado 7 de setembro
        . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
 
+==============================================================================
+RODADA 04/09 11:12 UTC  |  janela 90 min  |  65 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Metropoles: URLError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      56      1  O que vai acontecer no STF após pedido de 
+       ineditas: mendonca
+       veiculos: Claudio Dantas, Congresso em Foco, O Antagonista, Veja, odia.ig.com.br
+       . [odia.ig.com.br] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+       . [Congresso em Foco] Leia a íntegra do relatório da PF usado por Moraes contra Mendonça
+       . [O Antagonista] “Sem valor probatório”, diz relatório usado por Moraes contra Mendonça
+
+   4      1      60      2  Saiba os horários dos shows do primeiro fi
+       ineditas: candidatos, rock
+       veiculos: Google Trends BR, Jornal da Paraíba, Poder360, Veja
+       . [Jornal da Paraíba] Falta um mês para Eleições 2026: veja como pesquisar para escolher melhor os candidatos
+       . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
+       . [Google Trends BR] rock in rio 2026 line up
+
+   2      0       7      3  STF é 'maior do que qualquer um que o inte
+       ineditas: dino, integra, qualquer
+       veiculos: CNN Brasil, O GLOBO
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+       . [O GLOBO] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais, 
+
+   2      1      34      2  Oposição afirma que Moraes quis retaliar M
+       ineditas: mendonca, quis
+       veiculos: Claudio Dantas, Poder360
+       . [Poder360] Mendonça quis saber o que tinha sobre Moraes no celular de Vorcaro, diz PF
+       . [Claudio Dantas] Oposição afirma que Moraes quis retaliar Mendonça
+
