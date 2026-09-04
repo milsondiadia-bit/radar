@@ -4232,3 +4232,28 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [oglobo.globo.com] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
        . [BBC Brasil] Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o 
 
+==============================================================================
+RODADA 04/09 04:02 UTC  |  janela 90 min  |  44 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      1      70      3  Moraes deflagra guerra no STF ao acusar Me
+       ineditas: agir, motivos, politicos
+       veiculos: BBC, BBC Brasil, Gazeta do Povo, Gazeta do Povo Rep, O GLOBO, Poder360
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e pede que colega de STF seja investigado
+       . [O GLOBO] Salvem a democracia, não Moraes
+       . [Gazeta do Povo] Moraes deflagra guerra no STF ao acusar Mendonça no inquérito das fake news
+
+   3      1      25      0  PF diz que Alcolumbre seria alvo de Mendon
+       veiculos: G1 Politica, Gazeta do Povo Rep, Poder360
+       . [G1 Politica] Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo e
+       . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
+       . [Gazeta do Povo Rep] PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+
+   2      0       0      0  Eleições 2026: veja a agenda dos candidato
+       veiculos: G1, G1 Politica
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do RJ na sexta-feira
+       . [G1 Politica] Eleições 2026: O que faz um senador?
+       . [G1 Politica] VÍDEO: entenda por que um deputado eleito pode 'puxar' outro candidato nas eleições
+
