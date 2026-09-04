@@ -34,6 +34,7 @@ Uso:
 
 import argparse
 import json
+import sys
 import os
 from collections import defaultdict
 from datetime import datetime, timedelta, timezone
@@ -887,8 +888,12 @@ def checa_ancapsu(mudo=False):
 #
 # Custo: uma chamada por candidato, poucos por rodada, no modelo mais
 # barato. Continua de graca.
-MODELOS_IA = ["gemini-flash-lite-latest", "gemini-3-flash-preview",
-              "gemini-flash-latest"]
+# Medido em 04/09/2026 pelo diagnostico da chave: gemini-2.5-flash e
+# gemini-2.0-flash sairam do ar (404), e o proprio Google aponta o
+# gemini-3.6-flash como substituto. Ele entra primeiro; os demais ficam
+# de reserva.
+MODELOS_IA = ["gemini-3.6-flash", "gemini-flash-lite-latest",
+              "gemini-3-flash-preview", "gemini-flash-latest"]
 
 
 def _chama_gemini(prompt, chave, teto_seg=60):
@@ -938,6 +943,19 @@ def _chama_gemini(prompt, chave, teto_seg=60):
                 except Exception as e:
                     if any(c in str(e) for c in ("404", "401", "403")):
                         break
+                    # cota do plano esgotada: nao adianta esperar, nao
+                    # adianta trocar de modelo - a cota e da chave.
+                    # Medido em 04/09/2026: insistir aqui custava 60s
+                    # por manchete e devolvia o mesmo 429.
+                    if "429" in str(e):
+                        try:
+                            detalhe = e.read().decode()
+                        except Exception:
+                            detalhe = ""
+                        if "RESOURCE_EXHAUSTED" in detalhe:
+                            print("  Gemini: cota da chave esgotada",
+                                  file=sys.stderr)
+                            return None
     return None
 
 
