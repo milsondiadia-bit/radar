@@ -1,0 +1,35 @@
+  0 grupos trazem fato novo, 4 sao repeteco
+  0 alerta(s)
+==============================================================================
+RODADA 04/09 09:26 UTC  |  janela 90 min  |  58 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      2      23      1  Saiba quais indicadores e balanços saem ne
+       ineditas: resumo
+       veiculos: Metropoles, O Antagonista, Poder360, Veja
+       . [Poder360] Saiba quais indicadores e balanços saem nesta 6ª feira
+       . [Metropoles] Áreas de Planaltina ficam sem energia nesta sexta-feira (4/9)
+       . [O Antagonista] Bancos estarão de portas fechadas nesta sexta-feira, 04, e só retornarão dia 08
+
+   3      1      30      0  Meta descumpre prazo e não envia ao TSE da
+       veiculos: Metropoles, Poder360, Veja
+       . [Poder360] Crise Moraes-Vorcaro só favorece Flávio, diz Renato Meirelles
+       . [Metropoles] Cury x Flávio
+       . [Metropoles] Meta descumpre prazo e não envia ao TSE dados de perfis que atacaram Flávio
+
+   2      1      30      0  Vorcaro sinaliza poupar Moraes em nova del
+       veiculos: CNN Brasil, Veja
+       . [CNN Brasil] Vorcaro sinaliza poupar Moraes em nova delação premiada
+       . [Veja] Revelações sobre Moraes e Vorcaro colocam STF em encruzilhada inédita
+
+   2      0       0      0  A eleição de 2026 pode ser definida em tem
+       veiculos: Carta Capital, Época Negócios
+       . [Época Negócios] TSE define regras para IA nas eleições de 2026: o que pode, o que é proibido e quando o uso vira infração
+       . [Carta Capital] A eleição de 2026 pode ser definida em tempo real
+
+
+
+MODO MEDICAO: nada foi enviado ao Telegram.
+log.txt agora tem 360 KB
