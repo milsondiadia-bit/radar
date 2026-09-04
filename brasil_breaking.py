@@ -750,6 +750,40 @@ def envia_com_link(texto):
         return False
 
 
+def eh_short(video_id):
+    """
+    Este video e um Short?
+
+    O RSS do YouTube nao diz a duracao nem o formato, e a YouTube Data
+    API gastaria cota. O truque e o proprio site: a pagina
+    youtube.com/shorts/ID abre normal quando o video E um Short, e
+    REDIRECIONA para /watch quando nao e. Basta olhar para onde ela
+    manda, sem baixar a pagina.
+
+    Na duvida devolve False: perder um Short incomoda menos do que
+    perder um video de verdade.
+    """
+    import urllib.request
+
+    class SemSeguir(urllib.request.HTTPRedirectHandler):
+        def redirect_request(self, *a, **k):
+            return None
+
+    url = f"https://www.youtube.com/shorts/{video_id}"
+    abridor = urllib.request.build_opener(SemSeguir)
+    req = urllib.request.Request(url, method="HEAD", headers={
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"})
+    try:
+        with abridor.open(req, timeout=20) as r:
+            return r.status == 200          # abriu como Short
+    except urllib.error.HTTPError as e:
+        if e.code in (301, 302, 303, 307, 308):
+            return False                    # mandou para /watch: video normal
+        return False
+    except Exception:
+        return False
+
+
 def checa_ancapsu(mudo=False):
     """Avisa quando o ANCAPSU sobe video novo."""
     import urllib.request
@@ -813,6 +847,9 @@ def checa_ancapsu(mudo=False):
     limite = agora - timedelta(minutes=minutos)
     for vid, titulo, data in novos:
         if data and data < limite:
+            continue
+        if eh_short(vid):
+            print(f"  ANCAPSU: pulei um Short - {titulo[:50]}")
             continue
         hora_br = (data or agora) - timedelta(hours=3)
         texto = (
