@@ -9569,3 +9569,44 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
        . [Metropoles] Alencar Santana aciona STF para investigar suposta propina a Tarcísio
 
+==============================================================================
+RODADA 04/09 21:02 UTC  |  janela 90 min  |  111 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      57      2  AtlasIntel indica disputa acirrada ao gove
+       ineditas: atlasintel, oficial
+       veiculos: Carta Capital, Gazeta do Povo, Lula | Site oficial, O Antagonista, Veja, gauchazh.clicrbs.com.br
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governo e Senado no Ceará
+       . [Lula | Site oficial] Obras de segurança hídrica do Governo Lula mudam realidade do semiárido no Ceará - Lula | Site oficial
+       . [gauchazh.clicrbs.com.br] Cobranças ao governo federal pela ausência de Lula marcam a abertura oficial da Expointer
+
+   5      3      42      0  Impeachment de Alexandre de Moraes: qual é
+       veiculos: G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [Gazeta do Povo Rep] Transparência Internacional defende saída de Alexandre de Moraes do cargo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   5      2      75      0  Lula espera avanço do fim da escala 6×1 ap
+       veiculos: Metropoles, O Antagonista, Poder360, SBT News, Veja
+       . [SBT News] Lula espera avanço do fim da escala 6×1 após 1º turno
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+       . [Metropoles] Atlas no Amazonas: Flávio Bolsonaro tem 48% e Lula soma 41,3% no 2º turno
+
+   2      0      33      0  Lula se diz ‘predestinado’ a transformar o
+       veiculos: Estadão, Poder360
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+
+   2      1      88      3  Caiado sobre Flávio Bolsonaro: 'Personagem
+       ineditas: criado, disputar, personagem
+       veiculos: G1 Politica, O Antagonista
+       . [G1 Politica] Caiado sobre Flávio Bolsonaro: 'Personagem criado para disputar uma eleição'
+       . [O Antagonista] Caiado: “Não sou um personagem criado para disputar uma eleição”
+
+   2      1      21      0  Gonet pretende responder “o quanto antes” 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
+       . [O Antagonista] Gonet pretende responder “o quanto antes” sobre mensagens de Vorcaro
+
