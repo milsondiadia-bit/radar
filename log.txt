@@ -5152,3 +5152,46 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
        . [Veja] A crítica avaliação da Globo para Cesar Tralli na sabatina dos candidatos: ‘muito mal’
 
+==============================================================================
+RODADA 04/09 10:52 UTC  |  janela 90 min  |  76 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      62      3  Mendonça x Moraes: crise no STF envolve ac
+       ineditas: moraes, probatorio, valor
+       veiculos: BBC Brasil, Claudio Dantas, Metropoles, O Antagonista, Veja
+       . [BBC Brasil] 'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça
+       . [Metropoles] Relatório da PF usado por Moraes contra Mendonça não tem valor probatório
+       . [Metropoles] Mendonça x Moraes: crise no STF envolve acusações de condutas irregulares
+
+   3      1      30      3  Rock in Rio 2026: as principais novidades 
+       ineditas: 2026, rock, signos
+       veiculos: Carta Capital, Google Trends BR, Veja
+       . [Carta Capital] Horóscopo semanal: previsões para os signos de 07 a 13 de setembro de 2026
+       . [Carta Capital] Tarot do dia: previsão para os 12 signos em 04/09/2026
+       . [Carta Capital] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
+
+   2      0       7      3  STF é 'maior do que qualquer um que o inte
+       ineditas: dino, integra, qualquer
+       veiculos: CNN Brasil, O GLOBO
+       . [O GLOBO] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais, 
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+
+   2      0       0      0  Caso de PGR, STF e Vorcaro: a contradição 
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] Caso de PGR, STF e Vorcaro: a contradição do sistema acusatório
+       . [Conjur] Súbita descoberta do sistema acusatório: princípios mudam conforme investigado
+
+   2      1      30      1  Saiba o que os candidatos ao Planalto farã
+       ineditas: candidatos
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
+       . [Veja] A crítica avaliação da Globo para Cesar Tralli na sabatina dos candidatos: ‘Muito mal’
+
+   2      0      12      1  feriado 7 de setembro
+       ineditas: feriado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] feriado 7 de setembro
+       . [Metropoles] São Paulo suspende rodízio de veículos durante o Feriado da Independência
+
