@@ -5115,3 +5115,40 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
        . [Veja] A crítica avaliação da Globo para Cesar Tralli na sabatina dos candidatos: ‘muito mal’
 
+==============================================================================
+RODADA 04/09 10:42 UTC  |  janela 90 min  |  70 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      2      63      1  Moraes e Mendonça têm cinco dias para pres
+       ineditas: moraes
+       veiculos: BBC Brasil, CBN, Claudio Dantas, Metropoles, Veja
+       . [CBN] Moraes e Mendonça têm cinco dias para prestar esclarecimentos sobre crise no STF
+       . [BBC Brasil] 'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça
+       . [Metropoles] Relatório da PF usado por Moraes contra Mendonça não tem valor probatório
+
+   2      0       7      2  Horóscopo do dia: previsão para os 12 sign
+       ineditas: 2026, signos
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Horóscopo semanal: previsões para os signos de 07 a 13 de setembro de 2026
+       . [Carta Capital] Tarot do dia: previsão para os 12 signos em 04/09/2026
+       . [Carta Capital] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
+
+   2      0      11      0  'Não tem ninguém certo nessa história': an
+       veiculos: Assine o Meio, BBC Brasil
+       . [Assine o Meio] A maior crise da história do Supremo
+       . [BBC Brasil] 'Não tem ninguém certo nessa história': analistas apontam crise sem precedentes e enraizada no STF
+
+   2      0       0      2  Caso de PGR, STF e Vorcaro: a contradição 
+       ineditas: acusatorio, sistema
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] Caso de PGR, STF e Vorcaro: a contradição do sistema acusatório
+       . [Conjur] Súbita descoberta do sistema acusatório: princípios mudam conforme investigado
+
+   2      1      30      1  Saiba o que os candidatos ao Planalto farã
+       ineditas: candidatos
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
+       . [Veja] A crítica avaliação da Globo para Cesar Tralli na sabatina dos candidatos: ‘muito mal’
+
