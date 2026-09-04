@@ -7250,3 +7250,76 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Chico Pinheiro "farma aura" no hospital após 11ª semana de quimioterapia
        . [Veja] Chico Pinheiro atualiza estado de saúde durante tratamento contra o câncer
 
+==============================================================================
+RODADA 04/09 16:32 UTC  |  janela 90 min  |  125 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  10      3      70      2  Fachin diz que crise no STF torna urgente 
+       ineditas: torna, urgente
+       veiculos: BBC Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, G1, Gazeta do Povo Rep, JOTA Info, O Antagonista, Poder360, oglobo.globo.com
+       . [G1] Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF
+       . [JOTA Info] Caso Master: 'Gravidade dos fatos não autoriza atalhos', diz Fachin, ao prometer fim do inquérito das fake new
+       . [oglobo.globo.com] Inquérito das fake news, 'resposta rigorosa' e reforma do Judiciário: os recados de Lula e Fachin sobre a cris
+
+   4      3      75      0  Lula procura se afastar de Moraes enquanto
+       veiculos: Agência Brasil, Gazeta do Povo Rep, O Antagonista, Veja
+       . [Agência Brasil] STF: PGR e Mendonça têm 5 dias para responderem acusações de Moraes
+       . [Gazeta do Povo Rep] Lula procura se afastar de Moraes enquanto investe em enfraquecer Mendonça
+       . [O Antagonista] PF monitorou André Mendonça diante de crise contra Moraes
+
+   4      1      40      1  Após seis indicações ao STF, Lula agora qu
+       ineditas: reforma
+       veiculos: Metropoles, O Antagonista, Poder360, Valor Econômico
+       . [Valor Econômico] Caiado chama STF de ‘desordem institucional’ e defende reforma no Judiciário
+       . [Poder360] Lula diz que, no próximo ano, discutirá reforma no Judiciário
+       . [Metropoles] Em meio à crise no Supremo, Lula defende nova reforma do Poder Judiciário
+
+   4      2      38      0  Sem citar Moraes, Lula diz que “ninguém po
+       veiculos: Claudio Dantas, Folha Poder, Poder360, Veja
+       . [Poder360] Sem citar Moraes, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+       . [Folha Poder] Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
+       . [Claudio Dantas] Com STF em crise, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+
+   3      0      47      5  Quaest no Ceará: Ciro tem 45%; Elmano tem 
+       ineditas: ceara, ciro, cury, elmano, quaest
+       veiculos: G1, G1 Politica, Metropoles
+       . [G1] Quaest no Ceará: Ciro tem 45%; Elmano tem 34%
+       . [G1 Politica] Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+       . [G1 Politica] Quaest no Ceará: 49% aprovam e 38% desaprovam governo de Elmano de Freitas
+
+   3      0      46      0  MP Eleitoral atesta segurança dos sistemas
+       veiculos: Tribunal Regional Eleitoral do Ceará, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Justiça Eleitoral pelo Brasil: TRE-AL reúne comunidades quilombolas para planejar transporte nas Eleições 2026
+       . [Tribunal Regional Eleitoral do Ceará] Eleições 2026: contagem regressiva chega a um mês para o primeiro turno
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+
+   2      1      13      2  Transparência Internacional alerta para ‘c
+       ineditas: internacional, transparencia
+       veiculos: O Antagonista, veja.abril.com.br
+       . [veja.abril.com.br] Transparência Internacional alerta para ‘colapso institucional’ e pede afastamento de Moraes
+       . [O Antagonista] Crusoé: Transparência Internacional defende afastamento de Moraes
+
+   2      0       2      4  Ibama autoriza Petrobras a perfurar mais t
+       ineditas: amazonas, ibama, petrobras, pocos
+       veiculos: Metropoles, Poder360
+       . [Poder360] Ibama autoriza mais 3 poços da Petrobras na Foz do Amazonas
+       . [Metropoles] Ibama autoriza Petrobras a perfurar mais três poços na Foz do Amazonas
+
+   2      0       1      1  Casa Branca lança jogos “retrô” sobre depo
+       ineditas: lanca
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Casa Branca lança jogos “retrô” sobre deportações e muro de Trump
+       . [Carta Capital] Governo Trump lança games para perseguir imigrantes
+
+   2      0      44      0  Em meio à crise no STF, Lula critica uso p
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Em meio à crise no STF, Lula critica uso político de cargos e vazamentos seletivos
+       . [Metropoles] Ministro da Justiça entra na mira do PT em meio à crise no STF
+
+   2      1       7      0  globo filmes
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] globo filmes
+       . [Veja] Nina de Pádua retorna à Globo 21 anos após deixar emissora
+
