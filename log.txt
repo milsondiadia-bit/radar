@@ -5918,3 +5918,44 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
        . [Veja] Dino cobra ‘lealdade institucional’ ao STF em crise sobre mensagens de Moraes e Vorcaro
 
+==============================================================================
+RODADA 04/09 13:43 UTC  |  janela 90 min  |  107 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      4      82      5  Moraes acusa Mendonça de agir para favorec
+       ineditas: cobra, flavio, precedentes, prisao, senador
+       veiculos: BBC, BBC Brasil, Claudio Dantas, Congresso em Foco, DW.com, Folha Poder, GZH, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, Times Brasil | 
+       . [BBC] Moraes x Mendonça: Analistas sobre crise sem precedentes e enraizada no STF
+       . [GZH] Crise sem precedentes expõe as entranhas do Supremo Tribunal Federal
+       . [DW.com] Crise no STF escala com guerra entre Moraes e Mendonça
+
+  10      3      79      1  Fachin tira pedido de investigação de Mora
+       ineditas: investigar
+       veiculos: CNN Brasil, Carta Capital, Claudio Dantas, Estadão, Folha Poder, G1, Gazeta do Povo Rep, JOTA Info, O Antagonista, Poder360
+       . [G1] Fachin retira do inquérito das fake news pedido de Moraes para investigar Mendonça
+       . [CNN Brasil] Fim do inquérito das fake news entra na equação para resolver crise no STF
+       . [JOTA Info] Fachin retira investigação contra Mendonça do inquérito das fake news e coloca no mesmo de Moraes
+
+   2      0      41      0  Governo Lula manifesta ‘profunda preocupaç
+       veiculos: EuQueroInvestir, Jovem Pan
+       . [Jovem Pan] Governo Lula manifesta ‘profunda preocupação’ com suspensão de carne para UE
+       . [EuQueroInvestir] Vale: Governo Lula impediu IPO da VBM, diz jornal canadense
+
+   2      0      20      1  As mulheres (por José Sarney)
+       ineditas: mulheres
+       veiculos: Conjur, Metropoles
+       . [Conjur] Convenções 156 e 190 da OIT e a proteção das mulheres no trabalho
+       . [Metropoles] As mulheres (por José Sarney)
+
+   2      1      10      0  Rock in Rio 2026 começa nesta sexta, 4: ve
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] elton john shows
+       . [Veja] Rock in Rio 2026 começa nesta sexta, 4: veja horários e onde assistir aos shows
+
+   2      1      10      0  payroll
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] payroll
+       . [Veja] Payroll: EUA criam 162 mil vagas em agosto e superam expectativas do mercado
+
