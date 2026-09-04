@@ -10288,3 +10288,59 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
        . [O Antagonista] Erika Hilton pede prisão de Nikolas por respostar laudo falso da PF
 
+==============================================================================
+RODADA 04/09 23:02 UTC  |  janela 90 min  |  105 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      67      1  Igreja de André Mendonça cita cortes fora 
+       ineditas: moraes
+       veiculos: Folha Poder, Gazeta do Povo Rep, Google Trends BR, O Antagonista, Veja
+       . [Gazeta do Povo Rep] Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
+       . [Gazeta do Povo Rep] Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+       . [Google Trends BR] alexandre de moraes afastamento
+
+   4      0      27      1  Sob crise no STF, Mendonça agradece apoio 
+       ineditas: apoio
+       veiculos: CNN Brasil, Congresso em Foco, G1 Politica, Metropoles
+       . [CNN Brasil] Sob crise no STF, Mendonça agradece apoio de fieis de igreja onde é pastor
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Congresso em Foco] Em vídeo, Mendonça agradece orações em meio a embate com Moraes
+
+   3      0      48      3  TSE autoriza Lula a fazer pronunciamento s
+       ineditas: fazer, lula, pronunciamento
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] TSE autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+       . [Carta Capital] Nunes Marques autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+       . [Metropoles] Pronunciamento de Lula no 7 de Setembro traz apelo à soberania e democracia
+
+   2      0       0      3  STF filtra "aventuras processuais" em caso
+       ineditas: aventuras, gratuita, processuais
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      1      44      0  Caiado propõe idade mínima de 60 anos para
+       veiculos: G1, Veja
+       . [G1] Caiado propõe idade mínima de 60 anos para ministros do Supremo e quarentena para ex-integrantes da Corte
+       . [Veja] ’Vou indicar quatro mulheres para o Supremo’, diz Caiado
+
+   2      0       1      2  Maria do Carmo tem 53% contra 46% de Aziz 
+       ineditas: carmo, maria
+       veiculos: G1, Poder360
+       . [G1] Eleições 2026: Maria do Carmo grava programa eleitoral e propõe descentralizar governo no interior do AM
+       . [Poder360] Maria do Carmo tem 53% contra 46% de Aziz no 2º turno no AM
+
+   2      0       0      2  Painel: Alcolumbre considera votar fim da 
+       ineditas: considera, votar
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Painel: Alcolumbre considera votar fim da 6x1 antes do segundo turno
+       . [Folha Poder] Alcolumbre considera votar fim da 6x1 antes do segundo turno
+
+   2      1      12      1  ONU aprova nova versão do mapa-múndi; veja
+       ineditas: aprova
+       veiculos: O Antagonista, Poder360
+       . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
+       . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
+
