@@ -5621,3 +5621,34 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] grande prêmio de mônaco
        . [Metropoles] F1: FIA volta atrás e retira pódio de Pierre Gasly no GP de Mônaco
 
+==============================================================================
+RODADA 04/09 12:42 UTC  |  janela 90 min  |  91 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  12      4      78     13  Mendonça apresenta notas fiscais para reba
+       ineditas: acusa, acusacoes, alcolumbre, andre, fake, horas, inquerito, investigacao, news, pede, pedido, relatorio, tira
+       veiculos: BBC Brasil, CNN Brasil, Claudio Dantas, Congresso em Foco, Estadão, Folha Poder, G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360,
+       . [CNN Brasil] Fachin dá 5 dias para PGR e Mendonça responderem Moraes
+       . [Estadão] Dino diz que STF é ‘maior do que qualquer um que o integra’ em meio à crise entre Moraes e Mendonça
+       . [G1 Politica] Fachin manda PGR e Mendonça se manifestarem sobre pedido de investigação feito por Moraes
+
+   3      0      85      3  TSE realiza hoje lacração dos sistemas que
+       ineditas: eleicoes, lacra, sistemas
+       veiculos: Agência Brasil, G1, Metropoles
+       . [Agência Brasil] TSE realiza hoje lacração dos sistemas que serão usados nas eleições
+       . [G1] Eleições 2026: TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas
+       . [Metropoles] Kassio lacra sistemas das eleições e diz que Justiça não escolhe vencedores
+
+   2      2      47      0  Dino reconhece crise no STF e defende “seg
+       veiculos: Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo Rep] Dino reconhece crise no STF e defende “seguir julgando”
+       . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
+
+   2      0      22      1  grande prêmio de mônaco
+       ineditas: monaco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] grande prêmio de mônaco
+       . [Metropoles] F1: FIA volta atrás e retira pódio de Pierre Gasly no GP de Mônaco
+
