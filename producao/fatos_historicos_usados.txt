@@ -1,7 +1,0 @@
-# Fatos historicos ja usados. O robo le esta lista antes de escrever e
-# anota o novo sozinho no fim. Nao precisa mexer aqui na mao.
-# Para liberar um fato de novo, apague a linha dele.
-Invasao do Kuwait, 2 de agosto de 1990
-Guerra das Malvinas, 2 de abril de 1982
-Invasao sovietica do Afeganistao, 24 de dezembro de 1979
-Confronto do Golfo de Sidra, Libia, marco de 1986
