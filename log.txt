@@ -9453,3 +9453,67 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
        . [Metropoles] Alencar Santana aciona STF para investigar suposta propina a Tarcísio
 
+==============================================================================
+RODADA 04/09 20:42 UTC  |  janela 90 min  |  129 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      3      60      0  Esquerda articula pedido de impeachment co
+       veiculos: BBC Brasil, Claudio Dantas, Estadão, Gazeta do Povo Rep, Metropoles, Veja
+       . [Estadão] Alexandre de Moraes vandaliza o Supremo
+       . [BBC Brasil] Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   5      2      75      0  Lula se diz convicto de que Elmano pode vi
+       veiculos: Carta Capital, O Antagonista, Poder360, SBT News, Veja
+       . [SBT News] Lula espera avanço do fim da escala 6×1 após 1º turno
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+       . [Poder360] Ciro tem 49% e Elmano, 36%, em 2º turno no CE, diz pesquisa
+
+   3      0      52      0  Estou predestinado a transformar este País
+       veiculos: Estadão, Poder360, Terra
+       . [Terra] Estou predestinado a transformar este País em um país de classe média alta, diz Lula
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+
+   3      0       4      1  Governo sanciona leis que criam e reestrut
+       ineditas: sanciona
+       veiculos: CNN Brasil, Conexão Tocantins, agenciabrasil.ebc.com.br
+       . [CNN Brasil] Lula sanciona leis que criam fundos para Justiça
+       . [agenciabrasil.ebc.com.br] Governo sanciona leis que criam e reestruturam fundos para a Justiça
+       . [Conexão Tocantins] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, DPU e MPU
+
+   3      0      36      1  Cobranças ao governo federal pela ausência
+       ineditas: oficial
+       veiculos: GZH, Gazeta do Povo, Lula | Site oficial
+       . [Gazeta do Povo] AtlasIntel divulga pesquisa para governo e Senado no Ceará
+       . [Lula | Site oficial] Obras de segurança hídrica do Governo Lula mudam realidade do semiárido no Ceará - Lula | Site oficial
+       . [GZH] Cobranças ao governo federal pela ausência de Lula marcam a abertura oficial da Expointer
+
+   2      1      46      0  Lula diz manter boa relação com líderes in
+       veiculos: Gazeta do Povo Rep, Terra
+       . [Terra] Lula diz manter boa relação com líderes internacionais e que quer vencer Trump 'na narrativa'
+       . [Gazeta do Povo Rep] Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+
+   2      1      39      0  STF deve rechaçar manobra de Moraes no cas
+       veiculos: Gazeta do Povo Rep, O GLOBO
+       . [O GLOBO] STF deve rechaçar manobra de Moraes no caso Master
+       . [Gazeta do Povo Rep] 7 de Setembro: atos da direita ganham força com caso Master e reação de Moraes contra Mendonça
+
+   2      1      21      0  Gonet pretende responder “o quanto antes” 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
+       . [O Antagonista] Gonet pretende responder “o quanto antes” sobre mensagens de Vorcaro
+
+   2      0       5      1  Alencar Santana aciona STF para investigar
+       ineditas: aciona
+       veiculos: Folha Poder, Metropoles
+       . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
+       . [Metropoles] Alencar Santana aciona STF para investigar suposta propina a Tarcísio
+
+   2      1       6      0  Atlas: Ciro e Elmano estão tecnicamente em
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Atlas: Ciro e Elmano estão tecnicamente empatados nos dois turnos no Ceará
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+
