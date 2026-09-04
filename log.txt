@@ -3169,3 +3169,85 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Cláudio Castro acompanhava pedidos da Refit e cobrava providências, diz PF
        . [Claudio Dantas] Esquema ligado à Refit custeou mansão na Serra e cobertura para Cláudio Castro, diz PF
 
+==============================================================================
+RODADA 04/09 00:02 UTC  |  janela 90 min  |  127 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  17      2      84      3  Datafolha: 51% desaprovam o governo Lula; 
+       ineditas: delacao, doacao, kassab
+       veiculos: BBC Brasil, CNN Brasil, Carta Capital, Folha Poder, G1, Gazeta do Povo Rep, Jornal de Brasília, Jovem Pan, Metropoles, O Antagonista, Poder360, UOL Ec
+       . [valor.globo.com] Datafolha: Flávio tem rejeição de 47% e Lula, de 45%
+       . [band.com.br] Governo Lula é rejeitado por 51% e aprovado por 45%, diz Datafolha
+       . [Jovem Pan] Governo Lula é considerado ruim ou péssimo por 42% dos eleitores, diz Datafolha
+
+  13      4      52     15  Moraes encaminha a Fachin pedido de invest
+       ineditas: andre, andrei, apuracao, crimes, dias, encaminha, fake, fortes, indicios, inquerito, investigacao, news, pede, pedido, r
+       veiculos: CNN Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Folha Poder, G1, G1 Politica, Gazeta do Povo Rep, Metropoles, Metrópoles, O Antagonista,
+       . [CNN Brasil] Moraes usa inquérito das fake news para acusar Mendonça de crimes
+       . [G1] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+       . [G1] Fachin dá 5 dias para que Mendonça, Moraes, PGR e Polícia Federal prestem informações sobre crise no STF
+
+   4      1      17      7  Lula diz que todos devem ser investigados 
+       ineditas: caso, cobra, historia, investigacao, maior, master, roubo
+       veiculos: Folha Poder, Metropoles, O Antagonista, revistaforum.com.br
+       . [revistaforum.com.br] Lula chama caso Banco Master de “maior roubo da história do Brasil” e cobra investigação "sem blindagem"
+       . [Folha Poder] Lula diz que todos devem ser investigados e cobra PGR e STF por resolução de caso Master
+       . [Metropoles] Caso Master: Lula defende investigação de "todo mundo, doa a quem doer"
+
+   4      0      64      1  STF fixa teto de R$ 5 mil de renda para ac
+       ineditas: teto
+       veiculos: Agência Brasil, CartaCapital, infomoney.com.br, valor.globo.com
+       . [Agência Brasil] STF decide limitar gratuidade em ações na Justiça do Trabalho
+       . [valor.globo.com] STF adota teto de R$ 5 mil para gratuidade na Justiça
+       . [CartaCapital] STF contraria TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5 mil
+
+   4      0       8      0  Governo Lula não proibiu garis de usarem e
+       veiculos: GZH, Lula | Site oficial, UOL Notícias, oglobo.globo.com
+       . [Lula | Site oficial] Governo Lula anuncia resultados que humanizam a fila do INSS - Lula | Site oficial
+       . [oglobo.globo.com] Avaliação do governo Lula está abaixo do patamar dos anteriores
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+
+   3      1      49      0  Justiça Eleitoral barra candidatura de Edu
+       veiculos: Carta Capital, O Antagonista, valor.globo.com
+       . [valor.globo.com] Justiça Eleitoral barra candidatura de Eduardo Cunha a deputado federal
+       . [Carta Capital] Justiça Eleitoral de Minas Gerais rejeita registro de candidatura de Eduardo Cunha
+       . [O Antagonista] Justiça eleitoral barra candidatura de Arruda no DF
+
+   2      1      18      4  Nova pesquisa Quaest para São Paulo será d
+       ineditas: feira, nesta, paulo, quaest
+       veiculos: Veja, valor.globo.com
+       . [valor.globo.com] A nova pesquisa Quaest para Minas Gerais após a chegada de Aécio Neves
+       . [valor.globo.com] Nova pesquisa Quaest para São Paulo será divulgada nesta terça-feira
+       . [Veja] Previsão do tempo em São Paulo nesta sexta-feira, 4: chuva volta com avanço de frente fria
+
+   2      0      21      2  STF institui teto de R$ 5 mil para concess
+       ineditas: concessao, teto
+       veiculos: JOTA Info, conjur.com.br
+       . [JOTA Info] STF institui teto de R$ 5 mil para concessão do benefício da Justiça gratuita
+       . [conjur.com.br] STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+
+   2      0      13      3  Moraes pede providências a Fachin contra M
+       ineditas: abuso, autoridade, pede
+       veiculos: Brasil de Fato, JOTA Info
+       . [JOTA Info] Moraes pede providências a Fachin contra Mendonça por abuso de autoridade e favorecer grupo político
+       . [Brasil de Fato] Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin
+
+   2      1      29      5  Master e STF: Lula diz que país não pode '
+       ineditas: ficar, pode, refem, seletivos, vazamentos
+       veiculos: G1, Veja
+       . [G1] Master e STF: Lula diz que país não pode 'ficar refém' de vazamentos seletivos e defende reforma no Judiciário
+       . [Veja] ‘Nossa justiça não pode ficar refém de vazamentos seletivos’, diz Lula
+
+   2      1      54      0  Esquema ligado à Refit custeou mansão na S
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Cláudio Castro acompanhava pedidos da Refit e cobrava providências, diz PF
+       . [Claudio Dantas] Esquema ligado à Refit custeou mansão na Serra e cobertura para Cláudio Castro, diz PF
+
+   2      2      54      1  Justiça manda STF analisar pedido para Sen
+       ineditas: pedido
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
+       . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
+
