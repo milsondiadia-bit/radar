@@ -15,6 +15,7 @@ from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
 CHAVE = os.environ.get("GEMINI_API_KEY", "").strip()
+ROTULO = os.environ.get("ROTULO", "?")
 
 MODELOS = ["gemini-flash-lite-latest", "gemini-3-flash-preview",
            "gemini-flash-latest", "gemini-2.5-flash", "gemini-2.0-flash"]
@@ -49,7 +50,9 @@ def testar(modelo, versao="v1beta"):
 
 
 def main():
-    linhas = ["DIAGNOSTICO DA CHAVE DO GEMINI", ""]
+    if ROTULO == "ATUAL":
+        open("teste_chave.txt", "w").close()
+    linhas = ["", "=" * 60, "CHAVE %s" % ROTULO, "=" * 60]
     linhas.append("chave presente: %s" % ("sim" if CHAVE else "NAO"))
     if CHAVE:
         linhas.append("tamanho da chave: %d caracteres" % len(CHAVE))
@@ -61,7 +64,7 @@ def main():
 
     texto = "\n".join(linhas)
     print(texto)
-    open("teste_chave.txt", "w", encoding="utf-8").write(texto + "\n")
+    open("teste_chave.txt", "a", encoding="utf-8").write(texto + "\n")
 
 
 if __name__ == "__main__":
