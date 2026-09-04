@@ -4885,3 +4885,27 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Caso Master deflagra operação de “salve-se quem puder” em Brasília
        . [Veja] Brasília: nada de novo no front
 
+==============================================================================
+RODADA 04/09 09:52 UTC  |  janela 90 min  |  63 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      30      0  Vorcaro sinaliza poupar Moraes em nova del
+       veiculos: CNN Brasil, Metropoles, Poder360, Veja
+       . [CNN Brasil] Vorcaro sinaliza poupar Moraes em nova delação premiada
+       . [Poder360] Crise Moraes-Vorcaro só favorece Flávio, diz Renato Meirelles
+       . [Metropoles] Cury x Flávio
+
+   3      1      46      0  A crise avança
+       veiculos: CBN, Metropoles, Veja
+       . [CBN] Moraes e Mendonça têm cinco dias para prestar esclarecimentos sobre crise no STF
+       . [Metropoles] Mendonça x Moraes: crise no STF envolve acusações de condutas irregulares
+       . [Veja] A crise avança
+
+   2      1       0      1  Caso Master deflagra operação de “salve-se
+       ineditas: brasilia
+       veiculos: Metropoles, Veja
+       . [Metropoles] Caso Master deflagra operação de “salve-se quem puder” em Brasília
+       . [Veja] Brasília: nada de novo no front
+
