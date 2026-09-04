@@ -5455,3 +5455,45 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] feriado 7 de setembro
        . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
 
+==============================================================================
+RODADA 04/09 12:02 UTC  |  janela 90 min  |  79 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      2      76      0  Leia a íntegra do relatório da PF usado po
+       veiculos: Claudio Dantas, Congresso em Foco, G1, O Antagonista
+       . [G1] 'Crise no STF se agrava': o que diz imprensa internacional sobre disputa entre Moraes e Mendonça
+       . [Congresso em Foco] Leia a íntegra do relatório da PF usado por Moraes contra Mendonça
+       . [O Antagonista] “Sem valor probatório”, diz relatório usado por Moraes contra Mendonça
+
+   4      0      48      2  STF é 'maior do que qualquer um que o inte
+       ineditas: crise, meio
+       veiculos: CNN Brasil, Congresso em Foco, Metropoles, oglobo.globo.com
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+       . [oglobo.globo.com] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais
+       . [Congresso em Foco] Em meio à crise, Flávio Dino diz que STF é maior que qualquer ministro
+
+   2      1      59      0  Lula quebra silêncio e grava vídeo sobre c
+       veiculos: CNN Brasil, O Antagonista
+       . [CNN Brasil] Lula quebra silêncio e grava vídeo sobre crise no STF, mas sem citar Moraes
+       . [O Antagonista] Moraes acusa o espelho
+
+   2      1      77      1  General Theophilo diz que vai trabalhar pa
+       ineditas: ministros
+       veiculos: G1, O Antagonista
+       . [G1] General Theophilo diz que vai trabalhar para destituir ministros do STF e quer país livre de jogos de azar, ab
+       . [O Antagonista] Ministros do STF vão poder rir à vontade
+
+   2      1      12      1  Fachin cobra explicações de Moraes, Mendon
+       ineditas: fachin
+       veiculos: Jornal Opção, O Dia
+       . [O Dia] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+       . [Jornal Opção] Fachin dá 5 dias para Moraes, Mendonça, PGR e Polícia Federal se explicarem sobre caso Master
+
+   2      0      54      2  Agenda dos candidatos: Lula vai ao Ceará e
+       ineditas: bolsonaro, tarcisio
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Agenda dos candidatos: Lula vai ao Ceará enquanto Flávio Bolsonaro faz comício com Tarcísio em São Carlos
+       . [Metropoles] Vorcaro diz que R$ 5 milhões a Bolsonaro e Tarcísio eram propina
+
