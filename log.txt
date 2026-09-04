@@ -4513,3 +4513,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
        . [Gazeta do Povo Rep] Alexandre de Moraes pede investigação contra André Mendonça no STF
 
+==============================================================================
+RODADA 04/09 07:02 UTC  |  janela 90 min  |  16 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      65      0  Moraes acusa Mendonça de agir para favorec
+       veiculos: BBC Brasil, G1 Politica, Gazeta do Povo
+       . [Gazeta do Povo] Alexandre de Moraes pede investigação contra André Mendonça no STF
+       . [G1 Politica] O contra-ataque de Moraes a Mendonça: a crise inédita na história do Supremo - O Assunto #1798
+       . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
+
