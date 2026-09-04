@@ -10447,3 +10447,46 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
        . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
 
+==============================================================================
+RODADA 04/09 23:32 UTC  |  janela 90 min  |  100 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      72      3  Em meio à crise, Mendonça agradece apoio a
+       ineditas: crise, meio, mendonca
+       veiculos: Carta Capital, G1 Politica, O Antagonista, Pleno.News, Poder360
+       . [Pleno.News] André Mendonça agradece mensagens de apoio e orações
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Poder360] Mendonça agradece orações após pedido de Moraes para investigá-lo
+
+   5      1      48      0  Nunes Marques autoriza pronunciamento de L
+       veiculos: Carta Capital, Estadão, Jurinews, Metropoles, O Antagonista
+       . [Estadão] Fim da taxa das blusinhas e da escala 6x1 é aposta eleitoral de Lula, com efeito incerto
+       . [Jurinews] TSE autoriza pronunciamento de Lula para o 7 de setembro
+       . [Carta Capital] Nunes Marques autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+
+   4      2      74      3  Marco Aurélio critica Moraes por tentar in
+       ineditas: critica, defesa, lulinha
+       veiculos: Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360
+       . [Poder360] Após relatório da PF, defesa de Lulinha critica inquérito do STF
+       . [Gazeta do Povo Rep] Marco Aurélio critica Moraes por tentar incluir Mendonça no “inquérito do fim do mundo”
+       . [Metropoles] Defesa de Lulinha diz que relatórios expostos por Moraes provam perseguição
+
+   2      0      42      1  alexandre de moraes afastamento
+       ineditas: afastamento
+       veiculos: Google Trends BR, Pleno.News
+       . [Pleno.News] Carlos Viana sobra Alcolumbre e sugere afastamento do Senado
+       . [Google Trends BR] alexandre de moraes afastamento
+
+   2      0      19      3  Lucas Ribeiro lidera disputa pelo governo 
+       ineditas: disputa, governo, lidera
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      1      43      0  Anvisa autoriza uso de remédio experimenta
+       veiculos: Carta Capital, O Antagonista
+       . [Carta Capital] Anvisa autoriza importação de medicamento para o influenciador Lito Sousa
+       . [O Antagonista] Anvisa autoriza uso de remédio experimental para Lito
+
