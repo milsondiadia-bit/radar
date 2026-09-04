@@ -5265,3 +5265,36 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Mendonça quis saber o que tinha sobre Moraes no celular de Vorcaro, diz PF
        . [Claudio Dantas] Oposição afirma que Moraes quis retaliar Mendonça
 
+==============================================================================
+RODADA 04/09 11:22 UTC  |  janela 90 min  |  92 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      4      79      2  O que vai acontecer no STF após pedido de 
+       ineditas: fachin, mendonca
+       veiculos: BBC Brasil, Claudio Dantas, Congresso em Foco, Jornal Opção, Metropoles, O Antagonista, O Dia, Veja
+       . [Jornal Opção] Fachin dá 5 dias para Moraes, Mendonça, PGR e Polícia Federal se explicarem sobre caso Master
+       . [O Dia] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+       . [Congresso em Foco] Leia a íntegra do relatório da PF usado por Moraes contra Mendonça
+
+   5      1      76      3  Saiba os horários dos shows do primeiro fi
+       ineditas: horarios, rock, shows
+       veiculos: Google Trends BR, Jornal da Paraíba, Metropoles, Poder360, Veja
+       . [Jornal da Paraíba] Falta um mês para Eleições 2026: veja como pesquisar para escolher melhor os candidatos
+       . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
+       . [Google Trends BR] rock in rio 2026 line up
+
+   3      0       7      3  STF é 'maior do que qualquer um que o inte
+       ineditas: dino, integra, qualquer
+       veiculos: CNN Brasil, Congresso em Foco, O GLOBO
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+       . [O GLOBO] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais
+       . [Congresso em Foco] Em meio à crise, Flávio Dino diz que STF é maior que qualquer ministro
+
+   2      0      22      1  feriado 7 de setembro
+       ineditas: feriado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] feriado 7 de setembro
+       . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
+
