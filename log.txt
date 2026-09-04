@@ -5412,3 +5412,46 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] feriado 7 de setembro
        . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
 
+==============================================================================
+RODADA 04/09 11:52 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      2      71      1  Leia a íntegra do relatório da PF usado po
+       ineditas: mendonca
+       veiculos: Claudio Dantas, Congresso em Foco, Estadão, Folha Poder, O Antagonista
+       . [Estadão] Moraes usou relatório interno da PF ‘sem valor probatório’ para acusar Mendonça de interferências
+       . [Congresso em Foco] Leia a íntegra do relatório da PF usado por Moraes contra Mendonça
+       . [Folha Poder] Moraes usa documento da PF apócrifo e sem valor probatório contra André Mendonça
+
+   4      1      69      0  rock in rio 2026 line up
+       veiculos: Google Trends BR, Jornal da Paraíba, Metropoles, Veja
+       . [Jornal da Paraíba] Falta um mês para Eleições 2026: veja como pesquisar para escolher melhor os candidatos
+       . [Google Trends BR] rock in rio 2026 line up
+       . [Metropoles] Rock in Rio 2026 começa nesta sexta-feira (4/9). Confira horários dos shows
+
+   4      0      48      2  STF é 'maior do que qualquer um que o inte
+       ineditas: crise, meio
+       veiculos: CNN Brasil, Congresso em Foco, Metropoles, O GLOBO
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+       . [O GLOBO] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais
+       . [Congresso em Foco] Em meio à crise, Flávio Dino diz que STF é maior que qualquer ministro
+
+   3      1      12      2  Fachin cobra explicações de Moraes, Mendon
+       ineditas: fachin, mendonca
+       veiculos: Jornal Opção, Metropoles, O Dia
+       . [O Dia] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+       . [Jornal Opção] Fachin dá 5 dias para Moraes, Mendonça, PGR e Polícia Federal se explicarem sobre caso Master
+       . [Metropoles] Sem trégua no STF: Moraes cobra apuração contra Mendonça e Fachin age
+
+   2      1      59      0  Lula quebra silêncio e grava vídeo sobre c
+       veiculos: CNN Brasil, O Antagonista
+       . [CNN Brasil] Lula quebra silêncio e grava vídeo sobre crise no STF, mas sem citar Moraes
+       . [O Antagonista] Moraes acusa o espelho
+
+   2      0      22      0  feriado 7 de setembro
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] feriado 7 de setembro
+       . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
+
