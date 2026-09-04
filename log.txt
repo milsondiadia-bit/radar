@@ -7989,3 +7989,86 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Conselho Superior do MPF abre procedimento para analisar mensagens de Vorcaro que mencionam Gonet
        . [Claudio Dantas] Empresários articulam novo manifesto contra STF após mensagens de Vorcaro e Moraes
 
+==============================================================================
+RODADA 04/09 18:02 UTC  |  janela 90 min  |  121 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      84      1  Aliado de Moraes, Davi Alcolumbre tenta se
+       ineditas: proteger
+       veiculos: CNN Brasil, ICL Notícias, Metropoles, O Antagonista, O GLOBO, Veja
+       . [CNN Brasil] Flávio acusa Alcolumbre de proteger Moraes no Senado
+       . [O GLOBO] Aliado de Moraes, Davi Alcolumbre tenta se distanciar de Flávio Bolsonaro em meio à crise no STF
+       . [ICL Notícias] ‘O STF é maior do que qualquer um que o integra’, defende Flávio Dino, em meio à crise
+
+   5      1      76      0  A aposta do PT na neutralidade ‘pró-Lula’ 
+       veiculos: Carta Capital, Folha Poder, Metropoles, Poder360, Veja
+       . [Poder360] Lula espera ofensiva contra Flávio nos 10 dias finais da campanha
+       . [Carta Capital] Lula x Flávio Bolsonaro: a nova pesquisa Ideia sobre a disputa pela Presidência
+       . [Carta Capital] Quaest mostra ‘goleada’ de Lula sobre Flávio Bolsonaro no Ceará
+
+   4      3      62      0  Fachin retira apuração sobre Mendonça de i
+       veiculos: Claudio Dantas, Consultor Jurídico, Gazeta do Povo Rep, Veja
+       . [Consultor Jurídico] Fachin retira apuração sobre Mendonça de inquérito relatado por Alexandre
+       . [Gazeta do Povo Rep] Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
+       . [Gazeta do Povo Rep] Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
+
+   4      1      47      0  TSE conclui assinatura e lacração dos sist
+       veiculos: O Antagonista, Senado Federal, Tribunal Regional Eleitoral de Sergipe, UNALE
+       . [Senado Federal] TSE conclui assinatura e lacração dos sistemas das eleições de 2026
+       . [Tribunal Regional Eleitoral de Sergipe] TRE-SE indefere DRAP da Federação PSOL/REDE para as Eleições 2026
+       . [UNALE] Eleições 2026: saiba o conceito de turno eleitoral
+
+   3      2      72      2  Empresários articulam novo manifesto contr
+       ineditas: conselho, mensagens
+       veiculos: Carta Capital, Claudio Dantas, Veja
+       . [Carta Capital] Conselho Superior do MPF abre procedimento para analisar mensagens de Vorcaro que mencionam Gonet
+       . [Claudio Dantas] Empresários articulam novo manifesto contra STF após mensagens de Vorcaro e Moraes
+       . [Veja] Conselho do MPF dá prazo para Gonet comentar mensagens de Vorcaro
+
+   2      0      26      3  Quaest divulga pesquisa para governo e Sen
+       ineditas: gomes, pesquisa, senado
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] Os números da pesquisa Indexa para governo e Senado no Pará
+       . [Gazeta do Povo] Quaest divulga pesquisa para governo e Senado no Ceará
+       . [Carta Capital] Quaest no Ceará: Cid Gomes e Capitão Wagner lideram a disputa pelo Senado
+
+   2      1      34      0  Transparência Internacional pede afastamen
+       veiculos: Gazeta do Povo Rep, Pleno.News
+       . [Pleno.News] OAB-PR pede afastamento de Moraes e suspeição de Gonet
+       . [Gazeta do Povo Rep] Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+
+   2      0      28      1  Sancionadas leis que criam fundos para ape
+       ineditas: fundos
+       veiculos: Correio dos Municípios, stf noticias
+       . [stf noticias] Fachin destaca fortalecimento da Justiça com criação de fundos para Justiça Federal e STJ
+       . [Correio dos Municípios] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, Defensoria Pública da União e 
+
+   2      0       0      0  Opinião - Frederico Vasconcelos: Distorçõe
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Opinião - Frederico Vasconcelos: Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+       . [Folha Poder] Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+
+   2      0       1      0  Após cobrar reação de Fachin, Lula terá en
+       veiculos: Metropoles, O GLOBO
+       . [O GLOBO] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [Metropoles] Crise no STF: OAB-MG cobrará de Fachin investigação “rigorosa”
+
+   2      0       4      1  Lula sanciona nova lei de custas da Justiç
+       ineditas: custas
+       veiculos: Migalhas, trf3.jus.br
+       . [trf3.jus.br] Projeto que atualiza regime de custas da Justiça Federal e cria fundo especial é sancionado
+       . [Migalhas] Lula sanciona nova lei de custas da Justiça Federal e do STJ
+
+   2      0      31      0  Governo pede autorização do TSE para que L
+       veiculos: Estadão, Valor Econômico
+       . [Estadão] União Europeia reage à ameaça do governo Lula e nega discriminar carne do Brasil
+       . [Valor Econômico] Governo pede autorização do TSE para que Lula faça pronunciamento de 7 de Setembro
+
+   2      1       9      1  ALive: Moraes é vítima, acusa, julga e ago
+       ineditas: julga
+       veiculos: BBC Brasil, Claudio Dantas
+       . [BBC Brasil] 'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão
+       . [Claudio Dantas] ALive: Moraes é vítima, acusa, julga e agora também espiona
+
