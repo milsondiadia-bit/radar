@@ -5497,3 +5497,45 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Agenda dos candidatos: Lula vai ao Ceará enquanto Flávio Bolsonaro faz comício com Tarcísio em São Carlos
        . [Metropoles] Vorcaro diz que R$ 5 milhões a Bolsonaro e Tarcísio eram propina
 
+==============================================================================
+RODADA 04/09 12:12 UTC  |  janela 90 min  |  75 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      3      79      2  Lula se une a Moraes para tentar tirar Lul
+       ineditas: federal, policia
+       veiculos: Claudio Dantas, Jornal Opção, O Antagonista, O Dia
+       . [O Dia] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+       . [Jornal Opção] Fachin dá 5 dias para Moraes, Mendonça, PGR e Polícia Federal se explicarem sobre caso Master
+       . [O Antagonista] Moraes acusa o espelho
+
+   2      0      41      1  STF é maior do que qualquer um que o integ
+       ineditas: maior
+       veiculos: CNN Brasil, Metropoles
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+       . [Metropoles] Em meio à crise, Dino defende STF: "Maior do que qualquer um que o integra"
+
+   2      1       1      5  Dino reconhece crise no STF e defende "seg
+       ineditas: crise, defende, julgando, reconhece, seguir
+       veiculos: Gazeta do Povo, Gazeta do Povo Rep
+       . [Gazeta do Povo] Dino reconhece crise no STF e defende "seguir julgando"
+       . [Gazeta do Povo Rep] Dino reconhece crise no STF e defende “seguir julgando”
+
+   2      1      51      1  Candidatos ao Senado por MG focam no agro,
+       ineditas: ministros
+       veiculos: O Antagonista, O TEMPO
+       . [O TEMPO] Candidatos ao Senado por MG focam no agro, trajetórias e ataques a ministros e governo Lula
+       . [O Antagonista] Ministros do STF vão poder rir à vontade
+
+   2      0      54      2  Agenda dos candidatos: Lula vai ao Ceará e
+       ineditas: bolsonaro, tarcisio
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Agenda dos candidatos: Lula vai ao Ceará enquanto Flávio Bolsonaro faz comício com Tarcísio em São Carlos
+       . [Metropoles] Vorcaro diz que R$ 5 milhões a Bolsonaro e Tarcísio eram propina
+
+   2      1      55      0  “Sem valor probatório”, diz relatório usad
+       veiculos: Folha Poder, O Antagonista
+       . [Folha Poder] Moraes usa documento da PF apócrifo e sem valor probatório contra André Mendonça
+       . [O Antagonista] “Sem valor probatório”, diz relatório usado por Moraes contra Mendonça
+
