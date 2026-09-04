@@ -82,7 +82,7 @@ def main():
     acertos = 0
     for i, (titulo, esperado, origem) in enumerate(CASOS):
         if i:
-            time.sleep(6)   # nao estourar o limite de taxa do Gemini
+            time.sleep(20)  # nao estourar o limite de taxa do Gemini
         obtido, motivo = traz_fato_novo(titulo, JA_AVISADO, CHAVE)
         ok = (obtido == esperado)
         acertos += ok
