@@ -4058,3 +4058,26 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Valor Econômico] TRE-DF rejeita registro de candidatura de José Roberto Arruda
        . [Carta Capital] TRE indefere candidatura de José Roberto Arruda ao governo do DF
 
+==============================================================================
+RODADA 04/09 03:02 UTC  |  janela 90 min  |  59 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      3      52      0  Leia o relatório da PF que Moraes usou par
+       veiculos: BBC, BBC Brasil, Claudio Dantas, Folha Poder, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, UOL Notícias
+       . [BBC] Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da cris
+       . [UOL Notícias] Crise no STF se agrava e Lula pede investigação transparente
+       . [Poder360] PF vê Mendonça mais disposto a investigar Moraes do que Toffoli
+
+   2      1      36      0  Leia a íntegra do relatório da PF sobre at
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Leia a íntegra do relatório da PF sobre atuação de André Mendonça
+       . [Poder360] PF sugere haver “assimetria” em decisões de André Mendonça
+       . [O Antagonista] Relatório da PF insinua que Mendonça transformou Alcolumbre em alvo estratégico
+
+   2      1       5      0  PF diz que Alcolumbre seria alvo de Mendon
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
+       . [Gazeta do Povo Rep] PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+
