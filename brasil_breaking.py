@@ -891,8 +891,17 @@ MODELOS_IA = ["gemini-flash-lite-latest", "gemini-3-flash-preview",
               "gemini-flash-latest"]
 
 
-def _chama_gemini(prompt, chave):
-    """Uma pergunta ao Gemini, com cascata de modelos. Igual ao lula.py."""
+def _chama_gemini(prompt, chave, teto_seg=25):
+    """
+    Uma pergunta ao Gemini, com cascata de modelos.
+
+    TETO DE TEMPO. O juiz opina, mas nao manda: se ele demora, o alerta
+    atrasa - e alerta atrasado e o problema que este bot existe para
+    resolver. Medido em 04/09/2026: sem teto, uma sequencia de 429 do
+    Gemini deixou o teste rodando mais de 10 minutos; em producao isso
+    estouraria o limite do workflow e o aviso nao sairia. Vencido o
+    teto, desiste e o alerta segue sem julgamento.
+    """
     import time
     from urllib.request import Request, urlopen
 
@@ -906,20 +915,19 @@ def _chama_gemini(prompt, chave):
     }).encode()
     cabecalhos = {"Content-Type": "application/json", "x-goog-api-key": chave}
 
+    comeco = time.time()
     for modelo in MODELOS_IA:
         for versao in ("v1beta", "v1"):
             url = (f"https://generativelanguage.googleapis.com/{versao}"
                    f"/models/{modelo}:generateContent")
-            # o 429 do Gemini passa sozinho depois de alguns segundos.
-            # Medido em 04/09/2026: com apenas duas tentativas o teste
-            # perdeu 1 caso em 9 por limite de taxa, e o alerta passou
-            # sem ser julgado.
-            for espera in (0, 5, 15, 30):
+            for espera in (0, 4):
+                if time.time() - comeco > teto_seg:
+                    return None
                 if espera:
                     time.sleep(espera)
                 try:
                     req = Request(url, data=corpo, headers=cabecalhos)
-                    with urlopen(req, timeout=60) as r:
+                    with urlopen(req, timeout=20) as r:
                         dados = json.loads(r.read())
                     return dados["candidates"][0]["content"]["parts"][0]["text"]
                 except Exception as e:
