@@ -4402,3 +4402,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Horóscopo 2026: confira a previsão de hoje (4/9) para seu signo
        . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
 
+==============================================================================
+RODADA 04/09 05:32 UTC  |  janela 90 min  |  35 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      50      2  Horóscopo do dia: previsão para os 12 sign
+       ineditas: horoscopo, previsao
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Horóscopo 2026: confira a previsão de hoje (4/9) para seu signo
+       . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
+
