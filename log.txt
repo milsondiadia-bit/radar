@@ -4555,3 +4555,21 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Veja a agenda dos candidatos ao GDF nesta sexta-feira (4/9)
        . [Metropoles] TSE assina e lacra nesta sexta sistemas das eleições de 2026
 
+==============================================================================
+RODADA 04/09 07:32 UTC  |  janela 90 min  |  19 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      22      0  Alexandre de Moraes pede investigação cont
+       veiculos: G1 Politica, Gazeta do Povo, O GLOBO
+       . [O GLOBO] O que Alexandre de Moraes disse a colegas do STF sobre a troca de mensagens com Vorcaro
+       . [Gazeta do Povo] Alexandre de Moraes pede investigação contra André Mendonça no STF
+       . [G1 Politica] O contra-ataque de Moraes a Mendonça: a crise inédita na história do Supremo - O Assunto #1798
+
+   2      0      10      0  Ronaldo Caiado participa de sabatina da Fo
+       veiculos: Folha Poder, Metropoles
+       . [Folha Poder] Ronaldo Caiado participa de sabatina da Folha/UOL nesta sexta (4)
+       . [Metropoles] Veja a agenda dos candidatos ao GDF nesta sexta-feira (4/9)
+       . [Metropoles] TSE assina e lacra nesta sexta sistemas das eleições de 2026
+
