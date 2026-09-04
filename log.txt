@@ -4162,3 +4162,42 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [PlatôBR] A reação de delegados da PF ao pedido de Gilmar Mendes contra atuação no STF
        . [Poder360] PF diz que Mendonça desconfiava de Andrei por proximidade com Lula
 
+==============================================================================
+RODADA 04/09 03:42 UTC  |  janela 90 min  |  48 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      61      0  PF vê Mendonça mais disposto a investigar 
+       veiculos: Gazeta do Povo, Gazeta do Povo Rep, O GLOBO, Poder360
+       . [O GLOBO] Salvem a democracia, não Moraes
+       . [Gazeta do Povo] Moraes deflagra guerra no STF ao acusar Mendonça no inquérito das fake news
+       . [Gazeta do Povo] Imprensa internacional vê crise no STF após revelações envolvendo Moraes e Vorcaro
+
+   3      0      51      1  PF diz que Mendonça desconfiava de Gonet p
+       ineditas: desconfiava
+       veiculos: CNN Brasil, PlatôBR, Poder360
+       . [CNN Brasil] PF diz que Mendonça desconfiava de Gonet por proximidade com Gilmar Mendes
+       . [PlatôBR] A reação de delegados da PF ao pedido de Gilmar Mendes contra atuação no STF
+       . [Poder360] PF diz que Mendonça desconfiava de Andrei por proximidade com Lula
+
+   3      0      71      1  Item a Item, por que Moraes pede investiga
+       ineditas: corte
+       veiculos: BBC Brasil, Metropoles, O GLOBO
+       . [O GLOBO] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [BBC Brasil] Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o 
+       . [Metropoles] Item a Item, por que Moraes pede investigação de Mendonça. Li o texto
+
+   3      1      25      1  PF diz que Alcolumbre seria alvo de Mendon
+       ineditas: provavel
+       veiculos: G1 Politica, Gazeta do Povo Rep, Poder360
+       . [G1 Politica] Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo e
+       . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
+       . [Gazeta do Povo Rep] PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+
+   2      0       0      0  Eleições 2026: veja a agenda dos candidato
+       veiculos: G1, G1 Politica
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do RJ na sexta-feira
+       . [G1 Politica] Eleições 2026: O que faz um senador?
+       . [G1 Politica] VÍDEO: entenda por que um deputado eleito pode 'puxar' outro candidato nas eleições
+
