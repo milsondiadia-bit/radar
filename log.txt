@@ -4201,3 +4201,34 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [G1 Politica] Eleições 2026: O que faz um senador?
        . [G1 Politica] VÍDEO: entenda por que um deputado eleito pode 'puxar' outro candidato nas eleições
 
+==============================================================================
+RODADA 04/09 03:52 UTC  |  janela 90 min  |  46 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      69      0  Imprensa internacional vê crise no STF apó
+       veiculos: Gazeta do Povo, Gazeta do Povo Rep, Poder360, oglobo.globo.com
+       . [oglobo.globo.com] Salvem a democracia, não Moraes
+       . [Gazeta do Povo] Moraes deflagra guerra no STF ao acusar Mendonça no inquérito das fake news
+       . [Gazeta do Povo] Imprensa internacional vê crise no STF após revelações envolvendo Moraes e Vorcaro
+
+   3      1      25      1  PF diz que Alcolumbre seria alvo de Mendon
+       ineditas: provavel
+       veiculos: G1 Politica, Gazeta do Povo Rep, Poder360
+       . [G1 Politica] Em relatório, PF indica assimetria em ações de Mendonça contra políticos e vê Alcolumbre como 'provável alvo e
+       . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
+       . [Gazeta do Povo Rep] PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+
+   2      0       0      0  Eleições 2026: veja a agenda dos candidato
+       veiculos: G1, G1 Politica
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do RJ na sexta-feira
+       . [G1 Politica] Eleições 2026: O que faz um senador?
+       . [G1 Politica] VÍDEO: entenda por que um deputado eleito pode 'puxar' outro candidato nas eleições
+
+   2      0      31      1  Após cobrar reação de Fachin, Lula terá en
+       ineditas: corte
+       veiculos: BBC Brasil, oglobo.globo.com
+       . [oglobo.globo.com] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [BBC Brasil] Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o 
+
