@@ -5298,3 +5298,62 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] feriado 7 de setembro
        . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
 
+==============================================================================
+RODADA 04/09 11:32 UTC  |  janela 90 min  |  91 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      72      1  Saiba o que os candidatos ao Planalto farã
+       ineditas: rock
+       veiculos: Google Trends BR, Jornal da Paraíba, Metropoles, Poder360, Veja
+       . [Jornal da Paraíba] Falta um mês para Eleições 2026: veja como pesquisar para escolher melhor os candidatos
+       . [Poder360] Saiba o que os candidatos ao Planalto farão nesta 6ª feira
+       . [Google Trends BR] rock in rio 2026 line up
+
+   4      0      48      5  STF é 'maior do que qualquer um que o inte
+       ineditas: crise, dino, integra, meio, qualquer
+       veiculos: CNN Brasil, Congresso em Foco, Metropoles, O GLOBO
+       . [CNN Brasil] STF é maior do que qualquer um que o integra, diz Dino
+       . [O GLOBO] STF é 'maior do que qualquer um que o integra' e 'lealdade institucional' exige enfrentar os problemas reais
+       . [Congresso em Foco] Em meio à crise, Flávio Dino diz que STF é maior que qualquer ministro
+
+   4      2      39      1  O Grande Debate: Contra-ataque de Moraes a
+       ineditas: mendonca
+       veiculos: CNN Brasil, Claudio Dantas, Congresso em Foco, O Antagonista
+       . [CNN Brasil] O Grande Debate: Contra-ataque de Moraes a Mendonça é defesa ou vingança?
+       . [Congresso em Foco] Leia a íntegra do relatório da PF usado por Moraes contra Mendonça
+       . [O Antagonista] “Sem valor probatório”, diz relatório usado por Moraes contra Mendonça
+
+   3      0      62      1  Governo Lula: leia a agenda de ministros d
+       ineditas: ministros
+       veiculos: Carta Capital, O TEMPO, Poder360
+       . [Poder360] Governo Lula: leia a agenda de ministros do governo nesta 6ª feira
+       . [Poder360] Agenda de Lula: leia os compromissos do presidente 6ª feira
+       . [O TEMPO] Candidatos ao Senado por MG focam no agro, trajetórias e ataques a ministros e governo Lula
+
+   3      1      12      2  Fachin cobra explicações de Moraes, Mendon
+       ineditas: fachin, mendonca
+       veiculos: Jornal Opção, Metropoles, O Dia
+       . [Jornal Opção] Fachin dá 5 dias para Moraes, Mendonça, PGR e Polícia Federal se explicarem sobre caso Master
+       . [O Dia] Fachin cobra explicações de Moraes, Mendonça, Polícia Federal e PGR
+       . [Metropoles] Sem trégua no STF: Moraes cobra apuração contra Mendonça e Fachin age
+
+   2      1      34      2  Oposição afirma que Moraes quis retaliar M
+       ineditas: mendonca, quis
+       veiculos: Claudio Dantas, Poder360
+       . [Poder360] Mendonça quis saber o que tinha sobre Moraes no celular de Vorcaro, diz PF
+       . [Claudio Dantas] Oposição afirma que Moraes quis retaliar Mendonça
+
+   2      0      65      4  Declaração de Trump reacende disputa sobre
+       ineditas: disputa, ilhas, malvinas, trump
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Declaração de Trump reacende disputa sobre Ilhas Malvinas
+       . [Metropoles] Declarações de Trump reacendem disputa sobre Ilhas Malvinas
+
+   2      0      22      1  feriado 7 de setembro
+       ineditas: feriado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] feriado 7 de setembro
+       . [Metropoles] Chuvas e trovoadas devem marcar o feriado prolongado no DF
+
