@@ -10490,3 +10490,47 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Anvisa autoriza importação de medicamento para o influenciador Lito Sousa
        . [O Antagonista] Anvisa autoriza uso de remédio experimental para Lito
 
+==============================================================================
+RODADA 04/09 23:42 UTC  |  janela 90 min  |  92 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      48      0  Nunes Marques autoriza pronunciamento de L
+       veiculos: Carta Capital, Estadão, Jurinews, Metropoles, O Antagonista
+       . [Estadão] Fim da taxa das blusinhas e da escala 6x1 é aposta eleitoral de Lula, com efeito incerto
+       . [Jurinews] TSE autoriza pronunciamento de Lula para o 7 de setembro
+       . [Carta Capital] Nunes Marques autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+
+   4      1      65      1  André Mendonça agradece mensagens de apoio
+       ineditas: mendonca
+       veiculos: Carta Capital, Gazeta do Povo Rep, Pleno.News, Poder360
+       . [Pleno.News] André Mendonça agradece mensagens de apoio e orações
+       . [Poder360] Mendonça agradece orações após pedido de Moraes para investigá-lo
+       . [Carta Capital] Mendonça agradece apoio de fieis em meio a crise no STF
+
+   3      1      31      2  Defesa de Lulinha surfa em relatório apócr
+       ineditas: defesa, lulinha
+       veiculos: Metropoles, O Antagonista, Poder360
+       . [Poder360] Após relatório da PF, defesa de Lulinha critica inquérito do STF
+       . [Metropoles] Defesa de Lulinha diz que relatórios expostos por Moraes provam perseguição
+       . [O Antagonista] Defesa de Lulinha surfa em relatório apócrifo usado por Moraes
+
+   2      0      25      4  Maria do Carmo tem 53% contra 46% de Aziz 
+       ineditas: 2026, carmo, governo, maria
+       veiculos: Poder360, g1.globo.com
+       . [g1.globo.com] Eleições 2026: Maria do Carmo grava programa eleitoral e propõe descentralizar governo no interior do AM
+       . [g1.globo.com] Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta sexta-feira
+       . [Poder360] Maria do Carmo tem 53% contra 46% de Aziz no 2º turno no AM
+
+   2      0       9      4  Fábio Mitidieri lidera disputa pelo govern
+       ineditas: data, governo, sergipe, time
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] Real Time Big Data divulga pesquisa para governo e Senado em Sergipe
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      1      43      0  Anvisa autoriza uso de remédio experimenta
+       veiculos: Carta Capital, O Antagonista
+       . [Carta Capital] Anvisa autoriza importação de medicamento para o influenciador Lito Sousa
+       . [O Antagonista] Anvisa autoriza uso de remédio experimental para Lito
+
