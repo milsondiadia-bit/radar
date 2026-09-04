@@ -8614,3 +8614,100 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Ettore Zuim, dublador brasileiro de Batman e Hércules, morre aos 66 anos
        . [Veja] Morre Ettore Zuim, o dublador de Batman e Hércules no Brasil, aos 66 anos
 
+==============================================================================
+RODADA 04/09 19:12 UTC  |  janela 90 min  |  122 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      4      36      2  Conselho do MPF dá prazo para Gonet coment
+       ineditas: abre, procedimento
+       veiculos: Claudio Dantas, Folha Poder, Gazeta do Povo Rep, O Antagonista, Veja
+       . [Gazeta do Povo Rep] Gonet vira alvo de procedimento em conselho que ele mesmo preside; irmão de Dino é o vice-presidente
+       . [Folha Poder] Conselho do MPF abre procedimento sobre Gonet, que deve negar interferência no caso Master
+       . [O Antagonista] Conselho do MPF abre apuração sobre mensagens de Vorcaro que citam Gonet
+
+   4      3      60      0  ALive: Quem é Moraes para acusar Mendonça 
+       veiculos: Claudio Dantas, Gazeta do Povo Rep, Veja, instagram.com
+       . [instagram.com] TENSÃO NO STF | A reação de Alexandre de Moraes à divulgação das mensagens encontradas no celular de Daniel Vo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+       . [Claudio Dantas] ALive: Quem é Moraes para acusar Mendonça de algo?
+
+   4      1      24      2  STF deve rechaçar manobra de Moraes no cas
+       ineditas: cientista, politico
+       veiculos: Brasil de Fato, O GLOBO, Terra, Veja
+       . [Brasil de Fato] Embate entre Moraes e Mendonça escancara natureza política do STF, avalia cientista político
+       . [Terra] Escândalo do Banco Master reforça desconfiança na política e torna eleição mais instável, diz cientista políti
+       . [O GLOBO] STF deve rechaçar manobra de Moraes no caso Master
+
+   3      0      45      1  Lula x Flávio Bolsonaro: a nova pesquisa I
+       ineditas: ideia
+       veiculos: Carta Capital, UOL Notícias, Valor Econômico
+       . [UOL Notícias] Como está a pesquisa eleitoral para presidente? Veja últimos levantamentos
+       . [Valor Econômico] Nova pesquisa Meio/Ideia para presidente investiga se crise no STF muda voto em Lula e Flávio
+       . [Carta Capital] Lula x Flávio Bolsonaro: a nova pesquisa Ideia sobre a disputa pela Presidência
+
+   3      1      29      0  Balança comercial tem superávit de US$ 7,4
+       veiculos: G1 Politica, Poder360, Veja
+       . [G1 Politica] Balança comercial tem superávit de US$ 7,4 bilhões em agosto, maior saldo para o mês em 3 anos
+       . [Poder360] Balança comercial registra superavit de US$ 7,4 bi em agosto
+       . [Veja] Balança comercial tem superávit de US$ 7,4 bi em agosto, com alta em exportações e importações
+
+   2      1      25      1  Flávio Bolsonaro acusa Alcolumbre de prote
+       ineditas: autoprotecao
+       veiculos: Claudio Dantas, Folha Poder
+       . [Folha Poder] Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
+       . [Claudio Dantas] Flávio Bolsonaro: “Sem dúvida alguma”, apoiaria Tarcísio ao Planalto em 2030
+       . [Claudio Dantas] Flávio Bolsonaro acusa Alcolumbre de proteger Moraes e priorizar “autoproteção”
+
+   2      0      40      0  Com STF em crise, Lula sanciona lei ao lad
+       veiculos: G1, Poder360
+       . [G1] 'Crise Master' no STF: Fachin diz que nenhuma autoridade está acima da Constituição e que resposta a fatos 'gr
+       . [Poder360] Com STF em crise, Lula sanciona lei ao lado de Fachin e Gonet
+
+   2      1      62      2  União Europeia reage à ameaça do governo L
+       ineditas: carne, europeia
+       veiculos: Estadão, Veja
+       . [Estadão] União Europeia reage à ameaça do governo Lula e nega discriminar carne do Brasil
+       . [Veja] O avanço do Brasil para destravar exportação de carne de aves e mel para a União Europeia
+
+   2      0      17      1  Lula avalia indicar Ricardo Couto ao STF
+       ineditas: avalia
+       veiculos: Google Trends BR, Poder360
+       . [Poder360] Lula avalia indicar Ricardo Couto ao STF
+       . [Google Trends BR] avalia
+
+   2      1      31      0  Lula diz esperar que PEC do fim da escala 
+       veiculos: G1 Politica, Veja
+       . [G1 Politica] Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
+       . [Veja] Lula diz esperar que PEC do fim da escala 6×1 avance após o primeiro turno das eleições
+
+   2      1      50      0  Crusoé: Censura em campanha
+       veiculos: G1 Politica, O Antagonista
+       . [G1 Politica] Em gesto ao STF, coordenador da campanha de Flávio se reúne com Gilmar Mendes
+       . [O Antagonista] Crusoé: Censura em campanha
+
+   2      0       7      1  Austrália domina Porto Rico e estreia com 
+       ineditas: mundial
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Austrália domina Porto Rico e estreia com vitória no Mundial de Basquete Feminino
+       . [Google Trends BR] liga mundial de surfe
+
+   2      0       6      1  silo
+       ineditas: silo
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] silo
+       . [Metropoles] 4ª temporada de Silo tem data de estreia definida. Saiba quando vai ao ar
+
+   2      0      13      1  Fórmula 1: Antonelli chama Bortoleto de “i
+       ineditas: bortoleto
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] gabriel bortoleto
+       . [Metropoles] Fórmula 1: Antonelli chama Bortoleto de “idiota” após incidente no TL2
+
+   2      1      20      6  Morre Ettore Zuim, o dublador de Batman e 
+       ineditas: batman, dublador, ettore, hercules, morre, zuim
+       veiculos: Metropoles, Veja
+       . [Metropoles] Ettore Zuim, dublador brasileiro de Batman e Hércules, morre aos 66 anos
+       . [Veja] Morre Ettore Zuim, o dublador de Batman e Hércules no Brasil, aos 66 anos
+
