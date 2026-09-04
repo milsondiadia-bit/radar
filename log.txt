@@ -4308,3 +4308,25 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O GLOBO] Salvem a democracia, não Moraes
        . [O GLOBO] Relatório da PF usado por Moraes contra Mendonça também mira ministro de Lula
 
+==============================================================================
+RODADA 04/09 04:42 UTC  |  janela 90 min  |  24 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      49      3  Moraes acusa Mendonça de agir por 'motivos
+       ineditas: agir, motivos, politicos
+       veiculos: BBC, BBC Brasil
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e pede que colega de STF seja investigado
+       . [BBC Brasil] Moraes acusa Mendonça de agir por 'motivos políticos' e pede providências de Fachin contra o colega de STF; o 
+
+   2      0      44      0  Datafolha: Lula mantém dianteira entre nor
+       veiculos: Folha Poder, Valor Econômico
+       . [Valor Econômico] Datafolha: Lula tem 38% e Flávio, 33% no primeiro turno; Cury vai a 8%
+       . [Folha Poder] Datafolha: Lula mantém dianteira entre nordestinos, e Flávio entre sulistas; Cury avança entre jovens
+
+   2      1      13      0  Moraes usou relatório da PF “sem valor pro
+       veiculos: Gazeta do Povo Rep, O GLOBO
+       . [O GLOBO] Relatório da PF usado por Moraes contra Mendonça também mira ministro de Lula
+       . [Gazeta do Povo Rep] Moraes usou relatório da PF “sem valor probatório” para pedir investigação contra Mendonça
+
