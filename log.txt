@@ -10111,3 +10111,64 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Consultor Jurídico] Lula sanciona nova lei de custas da Justiça Federal e do STJ
        . [Jornal de Brasília] Nova lei atualiza cobrança de custas na Justiça Federal e no STJ
 
+==============================================================================
+RODADA 04/09 22:32 UTC  |  janela 90 min  |  104 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      47      3  Sob crise no STF, Mendonça agradece apoio 
+       ineditas: agradece, apoio, moraes
+       veiculos: CNN Brasil, G1 Politica, Metropoles, O Antagonista, Poder360, Veja
+       . [CNN Brasil] Sob crise no STF, Mendonça agradece apoio de fieis de igreja onde é pastor
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Poder360] Entenda a cronologia da crise no STF com embate entre Moraes e Mendonça
+
+   2      0      21      0  Debate para o Senado em Mato Grosso do Sul
+       veiculos: G1 Politica, Metropoles
+       . [G1 Politica] VÍDEOS: o que os candidatos ao Senado de MS disseram no debate do g1
+       . [G1 Politica] Candidatos ao Senado por Mato Grosso do Sul participam de debate no g1; veja íntegra
+       . [G1 Politica] Debate para o Senado em Mato Grosso do Sul; veja como foi
+
+   2      1      50      4  Erika Hilton pede prisão de Nikolas por pu
+       ineditas: erika, falso, hilton, laudo
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Deputado do PT aciona MPE contra Nikolas por laudo falso atribuído à PF
+       . [Metropoles] Erika Hilton pede prisão de Nikolas por publicação de laudo falso da PF
+       . [O Antagonista] Erika Hilton pede prisão de Nikolas por respostar laudo falso da PF
+
+   2      0      41      1  Advogados de Vorcaro aproveitam crise para
+       ineditas: vorcaro
+       veiculos: CNN Brasil, Folha Poder
+       . [CNN Brasil] Advogados de Vorcaro aproveitam crise para novas investidas
+       . [Folha Poder] Entenda a escalada da crise no STF, provocada por revelações de elos entre ministros e Vorcaro
+
+   2      0      30      1  carlos sadi
+       ineditas: carlos
+       veiculos: Google Trends BR, Viomundo
+       . [Viomundo] Carlos Fidelis: Democracia sitiada — autoritarismo, crime organizado e a disputa pelo Brasil
+       . [Google Trends BR] carlos sadi
+
+   2      0       0      3  STF filtra "aventuras processuais" em caso
+       ineditas: aventuras, gratuita, processuais
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      0      16      0  Lula sanciona nova lei de custas da Justiç
+       veiculos: Consultor Jurídico, jornaldebrasilia.com.br
+       . [Consultor Jurídico] Lula sanciona nova lei de custas da Justiça Federal e do STJ
+       . [jornaldebrasilia.com.br] Nova lei atualiza cobrança de custas na Justiça Federal e no STJ
+
+   2      0      51      1  ONU aprova uso do mapa-múndi mais fiel ao 
+       ineditas: aprova
+       veiculos: Carta Capital, Poder360
+       . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
+       . [Carta Capital] ONU aprova uso do mapa-múndi mais fiel ao tamanho dos continentes
+
+   2      0      19      1  TSE autoriza Lula a fazer pronunciamento s
+       ineditas: pronunciamento
+       veiculos: Metropoles, Poder360
+       . [Poder360] TSE autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+       . [Metropoles] Nunes Marques autoriza pronunciamento de Lula sobre o 7 de Setembro
+
