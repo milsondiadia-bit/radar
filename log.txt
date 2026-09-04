@@ -5582,3 +5582,42 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Ministros do STF vão poder rir à vontade
        . [Veja] ‘Investigação pressupõe indício de crime’, disse Gonet sobre investigar ministros do STF, em abril
 
+==============================================================================
+RODADA 04/09 12:32 UTC  |  janela 90 min  |  87 manchetes  |  1 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      5      82     12  Fachin dá 5 dias para Moraes, Mendonça, PG
+       ineditas: acusa, acusacoes, alcolumbre, alexandre, andre, fake, inquerito, investigacao, news, pede, pedido, relatorio
+       veiculos: BBC Brasil, CNN Brasil, Claudio Dantas, Congresso em Foco, Folha Poder, G1 Politica, Gazeta do Povo Rep, Jornal Opção, Metropoles, O Antagonista, Pode
+       . [CNN Brasil] Fachin dá 5 dias para PGR e Mendonça responderem Moraes
+       . [SINDSEP-PE] Guerra total no STF: Alexandre de Moraes abre investigação contra André Mendonça no inquérito das fake news - 
+       . [Jornal Opção] Fachin dá 5 dias para Moraes, Mendonça, PGR e Polícia Federal se explicarem sobre caso Master
+
+   3      2      48      4  Dino reconhece crise no STF e defende "seg
+       ineditas: defende, julgando, reconhece, seguir
+       veiculos: Gazeta do Povo, Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo] Dino reconhece crise no STF e defende "seguir julgando"
+       . [Gazeta do Povo Rep] Dino reconhece crise no STF e defende “seguir julgando”
+       . [O Antagonista] “Cedam as armas à toga”, diz Dino sobre crise no STF
+
+   3      0      83      5  Começa hoje (31) compilação, assinatura di
+       ineditas: assinatura, digital, eleicoes, lacracao, sistemas
+       veiculos: Agência Brasil, G1 Politica, Tribunal Superior Eleitoral
+       . [Tribunal Superior Eleitoral] Começa hoje (31) compilação, assinatura digital e lacração dos sistemas eleitorais
+       . [Agência Brasil] TSE realiza hoje lacração dos sistemas que serão usados nas eleições
+       . [G1 Politica] Eleições 2026: TSE conclui assinatura digital e lacra sistemas das urnas eletrônicas
+
+   2      0      54      2  Agenda dos candidatos: Lula vai ao Ceará e
+       ineditas: bolsonaro, tarcisio
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Agenda dos candidatos: Lula vai ao Ceará enquanto Flávio Bolsonaro faz comício com Tarcísio em São Carlos
+       . [Metropoles] Vorcaro diz que R$ 5 milhões a Bolsonaro e Tarcísio eram propina
+
+   2      0      22      1  grande prêmio de mônaco
+       ineditas: monaco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] grande prêmio de mônaco
+       . [Metropoles] F1: FIA volta atrás e retira pódio de Pierre Gasly no GP de Mônaco
+
