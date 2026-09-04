@@ -327,19 +327,12 @@ def main():
 
     chave = cfg["GEMINI_API_KEY"]
 
-    # ---------- 3. titulos ----------
-    print("\n>>> Gerando as 3 opcoes de titulo")
-    titulos = pergunta_ia(ler_prompt("titulo") + "\n\nTITULO BASE:\n" + titulo,
-                          chave, "titulos") or "(nao veio resposta)"
+    # Titulo e frase de capa NAO passam pela IA: quem define os dois e
+    # voce, e e o seu titulo que carrega a tese central da redacao.
+    # Tirar essas duas chamadas deixa a producao mais rapida e reduz o
+    # risco de bater no limite por minuto do Gemini.
 
-    # ---------- 4. frases de capa ----------
-    print("\n>>> Gerando as 5 frases de capa")
-    frases = pergunta_ia(
-        ler_prompt("frases").replace("Gere 10 frases", "Gere 5 frases")
-        + "\n\nTITULO:\n" + titulo + "\nFASE 2", chave, "frases"
-    ) or "(nao veio resposta)"
-
-    # ---------- 5. redacao ----------
+    # ---------- 3. redacao ----------
     print("\n>>> Escrevendo a redacao (esta e a parte demorada)")
     ja_usados = ler_historico()
     prompt_redacao = ler_prompt("redacao").replace(
@@ -360,7 +353,7 @@ def main():
         print(f"    fato historico desta redacao: {fato_historico[:60]}")
     redacao, suspeitas = aplicar_revisor(redacao)
 
-    # ---------- 6. entrega ----------
+    # ---------- 4. entrega ----------
     os.makedirs(PASTA_ENTREGA, exist_ok=True)
     apelido = re.sub(r"[^\w ]", "", titulo)[:60].strip().replace(" ", "_")
     arquivo = os.path.join(
@@ -369,12 +362,9 @@ def main():
     with open(arquivo, "w", encoding="utf-8") as f:
         f.write(redacao)
 
-    linhas = [f"🎬 <b>{escapa(titulo)}</b>", ""]
-    linhas.append("<b>TITULOS</b>")
-    linhas.append(escapa(titulos.strip()))
-    linhas.append("")
-    linhas.append("<b>FRASES DE CAPA</b>")
-    linhas.append(escapa(frases.strip()))
+    linhas = [f"🎬 <b>{escapa(titulo)}</b>"]
+    if frase_thumb:
+        linhas.append(f"<i>{escapa(frase_thumb)}</i>")
     if perfis:
         linhas.append("")
         linhas.append("<b>PERFIS DOS PRINTS</b>")
