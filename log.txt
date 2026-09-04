@@ -7813,3 +7813,100 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Palpite CRB x América-MG - Série B - 04/09/26
        . [Veja] HBO revela novos atores para segunda temporada da série ‘Harry Potter’
 
+==============================================================================
+RODADA 04/09 17:42 UTC  |  janela 90 min  |  120 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      3      61      0  Inquérito das fake news, 'resposta rigoros
+       veiculos: Claudio Dantas, Gazeta do Povo Rep, O Antagonista, O GLOBO
+       . [O GLOBO] Inquérito das fake news, 'resposta rigorosa' e reforma do Judiciário: os recados de Lula e Fachin sobre a cris
+       . [Gazeta do Povo Rep] Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
+       . [Gazeta do Povo Rep] Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
+
+   4      1      53      1  Aliado de Moraes, Davi Alcolumbre tenta se
+       ineditas: proteger
+       veiculos: CNN Brasil, Metropoles, O GLOBO, Veja
+       . [CNN Brasil] Flávio acusa Alcolumbre de proteger Moraes no Senado
+       . [O GLOBO] Aliado de Moraes, Davi Alcolumbre tenta se distanciar de Flávio Bolsonaro em meio à crise no STF
+       . [Metropoles] "Está muito interessado em proteger Moraes", diz Flávio sobre Alcolumbre
+
+   4      1      28      1  Sancionadas leis que criam fundos para ape
+       ineditas: fundos
+       veiculos: Correio dos Municípios, Google Trends BR, O Antagonista, stf noticias
+       . [stf noticias] Fachin destaca fortalecimento da Justiça com criação de fundos para Justiça Federal e STJ
+       . [Correio dos Municípios] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, Defensoria Pública da União e 
+       . [Google Trends BR] adc 80 justiça gratuita
+
+   4      0      49      0  Jornal Midiamax. . O ministro Edson Fachin
+       veiculos: Metropoles, O GLOBO, Poder360, facebook.com
+       . [O GLOBO] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [facebook.com] Jornal Midiamax. . O ministro Edson Fachin, presidente do STF (Supremo Tribunal Federal), voltou a se manifest
+       . [Poder360] Não posso parar de ser presidente porque sou candidato, diz Lula
+
+   3      0      36      3  Quaest: Ciro Gomes lidera corrida para o g
+       ineditas: gomes, pesquisa, senado
+       veiculos: Carta Capital, Metropoles, gazetadopovo.com.br
+       . [gazetadopovo.com.br] Os números da pesquisa Indexa para governo e Senado no Pará
+       . [gazetadopovo.com.br] Quaest divulga pesquisa para governo e Senado no Ceará
+       . [Carta Capital] Quaest no Ceará: Cid Gomes e Capitão Wagner lideram a disputa pelo Senado
+
+   3      2      71      0  Crusoé: Transparência Internacional defend
+       veiculos: Gazeta do Povo Rep, O Antagonista, pleno.news
+       . [pleno.news] OAB-PR pede afastamento de Moraes e suspeição de Gonet
+       . [Gazeta do Povo Rep] Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+       . [O Antagonista] Crusoé: Transparência Internacional defende afastamento de Moraes
+
+   3      1      25      1  A aposta do PT na neutralidade ‘pró-Lula’ 
+       ineditas: neutralidade
+       veiculos: Folha Poder, Poder360, Veja
+       . [Poder360] Lula espera ofensiva contra Flávio nos 10 dias finais da campanha
+       . [Folha Poder] Lula planeja ato de campanha no Piauí e contraria expectativa de Ciro Nogueira por neutralidade
+       . [Veja] A aposta do PT na neutralidade ‘pró-Lula’ do Centrão no Rio
+
+   2      1      39      2  ALive: Fachin ignora ‘Zorra Total’ que é o
+       ineditas: alive, julga
+       veiculos: BBC Brasil, Claudio Dantas
+       . [BBC Brasil] 'Ou o Supremo julga Moraes ou o Congresso julga', diz jurista Joaquim Falcão
+       . [Claudio Dantas] ALive: Moraes é vítima, acusa, julga e agora também espiona
+       . [Claudio Dantas] ALive: Fachin ignora ‘Zorra Total’ que é o Supremo
+
+   2      0       0      4  Opinião - Frederico Vasconcelos: Distorçõe
+       ineditas: acumuladas, desgastaram, distorcoes, imagem
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Opinião - Frederico Vasconcelos: Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+       . [Folha Poder] Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+
+   2      0       0      0  Fachin pede manifestação da PGR e de Mendo
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] Fachin pede manifestação da PGR e de Mendonça sobre procedimento de Alexandre
+       . [Conjur] Fachin retira apuração sobre Mendonça de inquérito relatado por Alexandre
+
+   2      0      45      0  TSE conclui assinatura e lacração dos sist
+       veiculos: UNALE, senado.leg.br
+       . [senado.leg.br] TSE conclui assinatura e lacração dos sistemas das eleições de 2026
+       . [UNALE] Eleições 2026: saiba o conceito de turno eleitoral
+
+   2      0      27      0  Cobranças ao governo federal pela ausência
+       veiculos: GZH, Valor Econômico
+       . [Valor Econômico] Governo pede autorização do TSE para que Lula faça pronunciamento de 7 de Setembro
+       . [GZH] Cobranças ao governo federal pela ausência de Lula marcam a abertura oficial da Expointer
+
+   2      1       5      1  Empresários articulam novo manifesto contr
+       ineditas: mensagens
+       veiculos: Carta Capital, Claudio Dantas
+       . [Carta Capital] Conselho Superior do MPF abre procedimento para analisar mensagens de Vorcaro que mencionam Gonet
+       . [Claudio Dantas] Empresários articulam novo manifesto contra STF após mensagens de Vorcaro e Moraes
+
+   2      1      20      3  Em vídeo, Lito Sousa anuncia autorização p
+       ineditas: lito, sousa, video
+       veiculos: Metropoles, Veja
+       . [Metropoles] "Serão boas notícias", garante Lito Sousa em novo vídeo após receber alta
+       . [Veja] Em vídeo, Lito Sousa anuncia autorização para uso de medicação em desenvolvimento para doença rara
+
+   2      1       2      0  Palpite CRB x América-MG - Série B - 04/09
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite CRB x América-MG - Série B - 04/09/26
+       . [Veja] HBO revela novos atores para segunda temporada da série ‘Harry Potter’
+
