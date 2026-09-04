@@ -3324,3 +3324,87 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
        . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
 
+==============================================================================
+RODADA 04/09 00:22 UTC  |  janela 90 min  |  127 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: URLError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  16      4      72     22  Moraes encaminha a Fachin pedido de invest
+       ineditas: andrei, apuracao, caso, cinco, cobra, defende, determina, dias, doer, esclarecimentos, federal, gonet, informacoes, inve
+       veiculos: CNN Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Conjur, Folha Poder, G1 Politica, GZH, Gazeta do Povo Rep, Metropoles, Metrópoles, NSC T
+       . [CNN Brasil] Moraes usa inquérito das fake news para acusar Mendonça de crimes
+       . [g1.globo.com] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+       . [CNN Brasil] Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF
+
+  10      1      63      0  Senado aprova MP do fim da taxa das blusin
+       veiculos: GZH, Gazeta do Povo Rep, ICL Notícias, Lula | Site oficial, Metropoles, UOL Economia, UOL Notícias, Vero Notícias, band.com.br, oglobo.globo.com
+       . [Lula | Site oficial] Governo Lula anuncia resultados que humanizam a fila do INSS - Lula | Site oficial
+       . [oglobo.globo.com] Avaliação do governo Lula está abaixo do patamar dos anteriores
+       . [UOL Notícias] Governo Lula não proibiu garis de usarem estribo em caminhões de lixo
+
+   5      2      39      8  Master e STF: Lula diz que país não pode '
+       ineditas: banco, cobra, ficar, master, pode, refem, seletivos, vazamentos
+       veiculos: Folha Poder, Gazeta do Povo Rep, SBT News, Veja, g1.globo.com
+       . [SBT News] Lula cobra investigação do Banco Master “sem blindagem”
+       . [g1.globo.com] Master e STF: Lula diz que país não pode 'ficar refém' de vazamentos seletivos e defende reforma no Judiciário
+       . [Gazeta do Povo Rep] Lula chama para si mérito por investigar e liquidar Banco Master e prender Vorcaro
+
+   3      0      45      0  STF decide limitar gratuidade em ações na 
+       veiculos: Agência Brasil, CartaCapital, valor.globo.com
+       . [Agência Brasil] STF decide limitar gratuidade em ações na Justiça do Trabalho
+       . [valor.globo.com] STF adota teto de R$ 5 mil para gratuidade na Justiça
+       . [CartaCapital] STF contraria TST e limita acesso a Justiça do Trabalho gratuita a quem ganha até R$ 5 mil
+
+   3      0      13      2  Moraes pede providências a Fachin contra M
+       ineditas: abuso, autoridade
+       veiculos: Brasil de Fato, JOTA Info, g1.globo.com
+       . [g1.globo.com] Fachin dá 5 dias para que Mendonça, Moraes, PGR e Polícia Federal prestem informações sobre crise no STF
+       . [JOTA Info] Moraes pede providências a Fachin contra Mendonça por abuso de autoridade e favorecer grupo político
+       . [Brasil de Fato] Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin
+
+   2      0      13      5  lotofacil 3779
+       ineditas: 3779, confira, hoje, lotofacil, resultado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] lotofacil 3779
+       . [Metropoles] Confira o resultado da Lotofácil 3779 sorteada hoje (3/9)
+       . [Metropoles] Mega-Sena 3053 sorteia R$ 41 milhões hoje (3/9). Confira resultado
+
+   2      0      21      2  STF institui teto de R$ 5 mil para concess
+       ineditas: concessao, teto
+       veiculos: JOTA Info, conjur.com.br
+       . [JOTA Info] STF institui teto de R$ 5 mil para concessão do benefício da Justiça gratuita
+       . [conjur.com.br] STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+
+   2      0      35      0  Flávio diz que Kassab é aliado de Lula e n
+       veiculos: Poder360, UOL Notícias
+       . [UOL Notícias] Flávio diz que Kassab é aliado de Lula e nega doação de Vorcaro a Bolsonaro
+       . [Poder360] Vorcaro diz que doações a Tarcísio e Bolsonaro foram propina
+
+   2      1      31      0  Justiça eleitoral barra candidatura de Arr
+       veiculos: Agencia Brasil Just, O Antagonista
+       . [Agencia Brasil Just] TRE indefere candidatura de José Roberto Arruda ao governo do DF
+       . [O Antagonista] Justiça eleitoral barra candidatura de Arruda no DF
+
+   2      1      73      1  Dr. Daniel lidera disputa pelo governo do 
+       ineditas: daniel
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Dr. Daniel lidera disputa pelo governo do Pará com 43,9%, diz Futura
+       . [Gazeta do Povo Rep] Daniel Vorcaro denuncia ameaças e pressão para omitir nomes do governo federal
+
+   2      1      54      0  Esquema ligado à Refit custeou mansão na S
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Cláudio Castro acompanhava pedidos da Refit e cobrava providências, diz PF
+       . [Claudio Dantas] Esquema ligado à Refit custeou mansão na Serra e cobertura para Cláudio Castro, diz PF
+
+   2      1      44      1  Previsão do tempo em São Paulo nesta sexta
+       ineditas: sexta
+       veiculos: Metropoles, Veja
+       . [Metropoles] Agencia do Trabalhador tem 1.676 vagas de emprego nesta sexta-feira (4/9)
+       . [Veja] Previsão do tempo em São Paulo nesta sexta-feira, 4: chuva volta com avanço de frente fria
+
+   2      2      54      0  Justiça manda STF analisar pedido para Sen
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
+       . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
+
