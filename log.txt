@@ -4028,3 +4028,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Valor Econômico] TRE-DF rejeita registro de candidatura de José Roberto Arruda
        . [Carta Capital] TRE indefere candidatura de José Roberto Arruda ao governo do DF
 
+==============================================================================
+RODADA 04/09 02:52 UTC  |  janela 90 min  |  70 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  11      3      70      5  Crise escala no STF, e aliados de Mendonça
+       ineditas: campanha, deflagra, guerra, messias, usado
+       veiculos: BBC, BBC Brasil, Claudio Dantas, Folha Poder, G1 Politica, Gazeta do Povo, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, noticias.uol.com.b
+       . [BBC] Moraes acusa Mendonça de 'motivação política' e pede que colega de STF seja investigado; o que se sabe da cris
+       . [noticias.uol.com.br] Crise no STF se agrava e Lula pede investigação transparente
+       . [Gazeta do Povo] Moraes deflagra guerra interna no STF contra Mendonça
+
+   3      2      60      0  Relatório da PF insinua que Mendonça trans
+       veiculos: Gazeta do Povo Rep, O Antagonista, Poder360
+       . [Poder360] Relatório da PF avalia Alcolumbre como “provável alvo estratégico”
+       . [Gazeta do Povo Rep] PF diz que Alcolumbre seria alvo de Mendonça em plano para recompor forças no STF
+       . [O Antagonista] Relatório da PF insinua que Mendonça transformou Alcolumbre em alvo estratégico
+
+   2      0       2      0  PF aponta possível rigor maior de Mendonça
+       veiculos: CNN Brasil, Metropoles
+       . [CNN Brasil] PF aponta possível rigor maior de Mendonça com Lulinha
+       . [Metropoles] PF cita caso Lulinha e diz que Mendonça agiu conforme “espectro político”
+
+   2      0      23      2  TRE indefere candidatura de José Roberto A
+       ineditas: jose, roberto
+       veiculos: Carta Capital, Valor Econômico
+       . [Valor Econômico] TRE-DF rejeita registro de candidatura de José Roberto Arruda
+       . [Carta Capital] TRE indefere candidatura de José Roberto Arruda ao governo do DF
+
