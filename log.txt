@@ -3408,3 +3408,62 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
        . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
 
+==============================================================================
+RODADA 04/09 00:32 UTC  |  janela 90 min  |  119 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  16      4      80     16  Moraes encaminha a Fachin pedido de invest
+       ineditas: andrei, apuracao, caso, cobra, defende, determina, dias, doer, esclarecimentos, gonet, informacoes, leia, master, quem, 
+       veiculos: Brasil de Fato, CNN Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Folha Poder, Folha de S.Paulo, G1 Politica, Gazeta do Povo Rep, Metropol
+       . [CNN Brasil] Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF
+       . [Brasil de Fato] Moraes acusa Mendonça de abuso de autoridade e pede investigação a Fachin
+       . [g1.globo.com] Moraes encaminha a Fachin pedido de investigação contra Mendonça
+
+  10      0      76      0  Governo Lula é rejeitado por 51% e aprovad
+       veiculos: GZH, ICL Notícias, Lula | Site oficial, Metropoles, O GLOBO, Poder360, UOL Economia, UOL Notícias, Vero Notícias, band.com.br
+       . [band.com.br] Governo Lula é rejeitado por 51% e aprovado por 45%, diz Datafolha
+       . [Lula | Site oficial] Governo Lula anuncia resultados que humanizam a fila do INSS - Lula | Site oficial
+       . [O GLOBO] Avaliação do governo Lula está abaixo do patamar dos anteriores
+
+   4      1      49      8  Master e STF: Lula diz que país não pode '
+       ineditas: blindagem, defende, ficar, master, pode, refem, seletivos, vazamentos
+       veiculos: SBT News, Tribuna do Sertão, Veja, g1.globo.com
+       . [Tribuna do Sertão] Maior roubo da história do Brasil: Lula defende investigação 'sem blindagem' no caso Master
+       . [SBT News] Lula cobra investigação do Banco Master “sem blindagem”
+       . [g1.globo.com] Master e STF: Lula diz que país não pode 'ficar refém' de vazamentos seletivos e defende reforma no Judiciário
+
+   3      0      25      0  STF institui teto de R$ 5 mil para concess
+       veiculos: Consultor Jurídico, JOTA Info, Valor Econômico
+       . [JOTA Info] STF institui teto de R$ 5 mil para concessão do benefício da Justiça gratuita
+       . [Consultor Jurídico] STF fixa renda de R$ 5 mil como teto para concessão de Justiça gratuita
+       . [Valor Econômico] STF adota teto de R$ 5 mil para gratuidade na Justiça
+
+   2      0      13      5  lotofacil 3779
+       ineditas: 3779, confira, hoje, lotofacil, resultado
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] lotofacil 3779
+       . [Metropoles] Confira o resultado da Lotofácil 3779 sorteada hoje (3/9)
+       . [Metropoles] Mega-Sena 3053 sorteia R$ 41 milhões hoje (3/9). Confira resultado
+
+   2      0      11      0  Moraes pede providências a Fachin contra M
+       veiculos: JOTA Info, g1.globo.com
+       . [g1.globo.com] Fachin dá 5 dias para que Mendonça, Moraes, PGR e Polícia Federal prestem informações sobre crise no STF
+       . [JOTA Info] Moraes pede providências a Fachin contra Mendonça por abuso de autoridade e favorecer grupo político
+
+   2      0      35      0  Flávio diz que Kassab é aliado de Lula e n
+       veiculos: Poder360, UOL Notícias
+       . [UOL Notícias] Flávio diz que Kassab é aliado de Lula e nega doação de Vorcaro a Bolsonaro
+       . [Poder360] Vorcaro diz que doações a Tarcísio e Bolsonaro foram propina
+
+   2      1      31      0  Justiça eleitoral barra candidatura de Arr
+       veiculos: Agencia Brasil Just, O Antagonista
+       . [Agencia Brasil Just] TRE indefere candidatura de José Roberto Arruda ao governo do DF
+       . [O Antagonista] Justiça eleitoral barra candidatura de Arruda no DF
+
+   2      2      54      0  Justiça manda STF analisar pedido para Sen
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] Áudio revela pedido de Nikolas Ferreira para Vorcaro
+       . [Claudio Dantas] Justiça manda STF analisar pedido para Senado revelar visitas de Vorcaro
+
