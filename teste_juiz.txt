@@ -5,13 +5,13 @@ Ja avisado:
   - Moraes encaminha a Fachin pedido de investigacao contra Mendonca
   - Moraes acusa Mendonca de abuso de autoridade e pede investigacao a Fachin
 
-ERRO  esperado=False obtido=True  | alerta de 10h43 - o que incomodou
+OK    esperado=False obtido=False | alerta de 10h43 - o que incomodou
       Moraes acusa Mendonca de agir para favorecer 'grupos politicos', pede providen
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: mesmo pedido de Moraes contra Mendonca
 
-ERRO  esperado=False obtido=True  | repercussao da BBC, mesmo grupo
+OK    esperado=False obtido=False | repercussao da BBC, mesmo grupo
       Moraes x Mendonca: analistas apontam crise sem precedentes e enraizada no STF
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: Analistas opinam sobre crise, sem novo ato
 
 ERRO  esperado=False obtido=True  | analise da GZH, mesmo grupo
       Crise sem precedentes expoe as entranhas do Supremo Tribunal Federal
@@ -23,22 +23,22 @@ OK    esperado=True  obtido=True  | FATO NOVO real, 11h02 - o que chegou tarde
 
 OK    esperado=True  obtido=True  | FATO NOVO - Fachin agiu
       Fachin da 5 dias para Moraes, Mendonca, PGR e Policia Federal prestarem inform
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: Fachin deu prazo para prestação de informações
 
-OK    esperado=True  obtido=True  | FATO NOVO - achado sobre o documento
+ERRO  esperado=True  obtido=False | FATO NOVO - achado sobre o documento
       Relatorio da PF usado por Moraes contra Mendonca nao tem valor probatorio
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: analise sobre relatorio usado no caso
 
-ERRO  esperado=False obtido=True  | declaracao de terceiro sobre o mesmo caso
+OK    esperado=False obtido=False | declaracao de terceiro sobre o mesmo caso
       Dino reconhece crise no STF e defende 'seguir julgando'
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: Dino apenas deu declaracao sobre a crise
 
-ERRO  esperado=False obtido=True  | repercussao pura
+OK    esperado=False obtido=False | repercussao pura
       Imprensa internacional ve crise no STF apos revelacoes envolvendo Moraes e Vor
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: imprensa internacional apenas repercute o caso
 
 OK    esperado=True  obtido=True  | FATO NOVO inventado, para ver se ele deixa passar o forte
       PF indicia Alexandre de Moraes por obstrucao de justica
-      motivo da IA: IA fora do ar - passou sem julgar
+      motivo da IA: PF indicia Alexandre de Moraes por obstrução
 
-ACERTOS: 4 de 9
+ACERTOS: 7 de 9
