@@ -510,39 +510,69 @@ def ja_foi_avisado(grupo, enviados, agora):
     return False
 
 
-def monta_alerta(grupo, espalho):
-    fontes = sorted(grupo["fontes"])
-    campo = sorted(grupo["fontes"] & CAMPO_DO_CANAL)
-    grandes = grupo["fontes"] & GRANDES
+# Os nomes de fonte carregam o sufixo da editoria do feed - "Gazeta do
+# Povo Rep", "Folha Poder", "G1 Politica". Serve para eu saber de qual
+# feed veio, mas fica feio no alerta.
+SUFIXOS = (" Rep", " Poder", " Politica", " Just", " Noticias",
+           " Brasil Politica", " Intl")
 
-    # a manchete mais antiga: quem deu primeiro
+
+def nome_curto(fonte):
+    for s in SUFIXOS:
+        if fonte.endswith(s):
+            return fonte[:-len(s)]
+    return fonte
+
+
+def monta_alerta(grupo, espalho):
+    """
+    O alerta que chega no celular.
+
+    Curto de proposito. A primeira versao trazia tempo de espalhamento,
+    lista de veiculos e as palavras ineditas - informacao demais para
+    quem esta lendo no meio da rua, decidindo em 5 segundos se vale um
+    video. Isso tudo continua no log.txt, para quando eu precisar
+    calibrar.
+    
+    Aqui fica so: o que aconteceu, o tamanho da coisa, e links para
+    clicar. O nome do veiculo E o link - assim nao ha URL comprida
+    poluindo a tela.
+    """
+    campo = grupo["fontes"] & CAMPO_DO_CANAL
+
     com_data = [i for i in grupo["itens"] if i["data"]]
     primeiro = min(com_data, key=lambda i: i["data"]) if com_data \
         else grupo["itens"][0]
 
     linhas = ["🔴 <b>BREAKING — BRASIL</b>", ""]
-    linhas.append(f"<b>{escapa(primeiro['titulo'])}</b>")
-    linhas.append("")
-    linhas.append(f"📊 {len(grupo['fontes'])} veiculos em "
-                  f"{espalho if espalho is not None else '?'} min")
+    if primeiro["link"]:
+        linhas.append(f'<b><a href="{escapa(primeiro["link"])}">'
+                      f'{escapa(primeiro["titulo"])}</a></b>')
+    else:
+        linhas.append(f"<b>{escapa(primeiro['titulo'])}</b>")
+    linhas.append(f"<i>{escapa(nome_curto(primeiro['fonte']))}</i>")
+
+    resumo = f"{len(grupo['fontes'])} veículos"
     if campo:
-        linhas.append(f"✅ Do seu campo: {escapa(', '.join(campo))}")
-    elif not grandes:
-        linhas.append("⚠️ Nenhum portal grande cobriu ainda")
+        resumo += f" · {len(campo)} do seu campo"
+    elif not (grupo["fontes"] & GRANDES):
+        resumo += " · nenhum portal grande ainda"
+    linhas.append(resumo)
     linhas.append("")
 
-    # as outras manchetes, para dar os angulos
-    vistas = {normaliza(primeiro["titulo"])[:60]}
-    for it in sorted(grupo["itens"], key=lambda i: i["fonte"]):
-        chave = normaliza(it["titulo"])[:60]
-        if chave in vistas:
+    # uma manchete por veiculo, com o nome do veiculo virando link.
+    # o item que virou titulo la em cima nao se repete aqui.
+    vistos = {primeiro["fonte"]}
+    postos = 0
+    for it in grupo["itens"]:
+        if it["fonte"] in vistos or not it["link"]:
             continue
-        vistas.add(chave)
-        linhas.append(f"• <b>{escapa(it['fonte'])}</b>: "
-                      f"{escapa(it['titulo'][:130])}")
-        if it["link"]:
-            linhas.append(f"  {escapa(it['link'])}")
-        if len(vistas) >= 6:
+        vistos.add(it["fonte"])
+        nome = escapa(nome_curto(it["fonte"]))
+        texto = escapa(it["titulo"][:110])
+        linhas.append(f'• <a href="{escapa(it["link"])}">{nome}</a> — {texto}')
+        postos += 1
+        if postos >= 4:
             break
 
     return "\n".join(linhas)
