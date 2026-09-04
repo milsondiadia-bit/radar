@@ -3645,3 +3645,50 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [g1.globo.com] Datafolha divulga também nova pesquisa com avaliação que os brasileiros fazem do governo Lula
        . [Google Trends BR] pesquisa datafolha ceara
 
+==============================================================================
+RODADA 04/09 01:12 UTC  |  janela 90 min  |  113 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  21      4      88     10  Moraes acusa Mendonça de abuso de autorida
+       ineditas: alvo, colega, determinou, investigados, manda, marinho, nota, perseguir, prestarem, revela
+       veiculos: Agência Brasil, BBC, BBC Brasil, CNN Brasil, Carta Capital, Claudio Dantas, Congresso em Foco, Folha Poder, G1 Politica, GZH, Gazeta do Povo Rep, Goog
+       . [CNN Brasil] Moraes acusa Mendonça de perseguir Alcolumbre e outros ministros do STF
+       . [CNN Brasil] Moraes diz que Mendonça entregou à PF decisão sem assinatura
+       . [BBC] Moraes acusa Mendonça de crime e pede inclusão do colega no inquérito das Fake News; entenda
+
+   3      0      44      0  pesquisa datafolha ceara
+       veiculos: Folha Poder, G1, Google Trends BR
+       . [G1] Datafolha divulga também nova pesquisa com avaliação que os brasileiros fazem do governo Lula
+       . [Google Trends BR] pesquisa datafolha ceara
+       . [Folha Poder] Datafolha: Campanha zera efeito 'Dark Horse' e Cury finca bandeira no eleitor de centro
+
+   2      0      18      0  Relatório da PF que aponta ‘assimetria pol
+       veiculos: CNN Brasil, O GLOBO
+       . [CNN Brasil] PF aponta interferência de Mendonça e suposto direcionamento de alvos
+       . [O GLOBO] Relatório da PF que aponta ‘assimetria política’ de Mendonça e cita ACM Neto, Rueda, Alcolumbre e Lulinha
+
+   2      0      45      5  Governo do DF pede que STF obrigue União a
+       ineditas: emprestimo, garantia, obrigue, socorrer, uniao
+       veiculos: Estadão, Valor Econômico
+       . [Valor Econômico] DF pede ao STF que obrigue União dar garantia a empréstimo para socorrer o BRB
+       . [Estadão] Governo do DF pede que STF obrigue União a dar garantia a empréstimo para socorrer BRB
+
+   2      0       0      5  Cristiano Zanin é eleito para 2º mandato c
+       ineditas: cristiano, eleito, mandato, substituto, zanin
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] Cristiano Zanin é eleito para 2º mandato como substituto do TSE
+       . [Conjur] Cristiano Zanin é eleito para segundo mandato como substituto do TSE
+
+   2      0      29      1  Lula se posiciona sobre crise no STF, defe
+       ineditas: posiciona
+       veiculos: Carta Capital, UOL Notícias
+       . [UOL Notícias] Lula se posiciona sobre crise no STF, defende reforma no Judiciário e apuração
+       . [Carta Capital] Lula se posiciona sobre crise no STF e defende reforma do sistema Judiciário
+
+   2      0      11      0  Sem taxa das blusinhas, governo deve perde
+       veiculos: Poder360, UOL Economia
+       . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
+       . [Poder360] Sem taxa das blusinhas, governo deve perder cerca de R$ 5 bi em 2027
+
