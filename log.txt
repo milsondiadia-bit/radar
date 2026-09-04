@@ -3883,3 +3883,36 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [UOL Economia] Senado aprova fim da 'taxa das blusinhas' em vitória do governo Lula
        . [Poder360] Taxa das blusinhas: avaliação periódica é insuficiente, diz varejo
 
+==============================================================================
+RODADA 04/09 02:12 UTC  |  janela 90 min  |  90 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  13      4      83      7  Fachin cobra informações de Mendonça, Mora
+       ineditas: afastamento, atuacao, critica, guerra, messias, ofensiva, usado
+       veiculos: BBC, BBC Brasil, Claudio Dantas, Folha Poder, G1 Politica, Gazeta do Povo Rep, Google Trends BR, Metropoles, O Antagonista, Poder360, Valor Econômico,
+       . [cnnbrasil.com.br] Inteligência da PF vê Mendonça ciente de que investigação atingiria Moraes
+       . [cnnbrasil.com.br] Análise: O que representam para o STF as denúncias de Moraes a Mendonça?
+       . [BBC] Moraes acusa Mendonça de crime e pede inclusão do colega no inquérito das Fake News; entenda
+
+   3      1      37      1  PF aponta participação de Mendonça em trat
+       ineditas: lulinha
+       veiculos: Metropoles, O Antagonista, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF aponta possível rigor maior de Mendonça com Lulinha
+       . [Metropoles] PF cita caso Lulinha e diz que Mendonça agiu conforme “espectro político”
+       . [O Antagonista] PF aponta participação de Mendonça em tratativas de delação
+
+   2      0      46      1  Ribeiro tem 42,5% contra 30,9% de Efraim n
+       ineditas: campanha
+       veiculos: Folha Poder, Poder360
+       . [Poder360] Flávio e Lula empatam no 2º turno, diz pesquisa
+       . [Poder360] Com 51% das intenções de voto, Lula ganharia no 1º turno na Paraíba
+       . [Poder360] Ribeiro tem 42,5% contra 30,9% de Efraim no 1º turno na Paraíba
+
+   2      1      21      1  PF insinua que Mendonça atua para mudar co
+       ineditas: insinua
+       veiculos: O Antagonista, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF insinua que Mendonça atua para mudar correlação de forças no STF
+       . [O Antagonista] Relatório da PF insinua que Mendonça transformou Alcolumbre em alvo estratégico
+
