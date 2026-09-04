@@ -7724,3 +7724,92 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Palpite CRB x América-MG - Série B - 04/09/26
        . [Veja] HBO revela novos atores para segunda temporada da série ‘Harry Potter’
 
+==============================================================================
+RODADA 04/09 17:32 UTC  |  janela 90 min  |  119 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      63      0  Com STF em crise, Lula diz que “ninguém po
+       veiculos: Claudio Dantas, Metropoles, O GLOBO, Poder360, facebook.com
+       . [O GLOBO] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [facebook.com] Jornal Midiamax. . O ministro Edson Fachin, presidente do STF (Supremo Tribunal Federal), voltou a se manifest
+       . [Poder360] Não posso parar de ser presidente porque sou candidato, diz Lula
+
+   4      2      72      0  STF: PGR e Mendonça têm 5 dias para respon
+       veiculos: Agência Brasil, Carta Capital, Claudio Dantas, Veja
+       . [Agência Brasil] STF: PGR e Mendonça têm 5 dias para responderem acusações de Moraes
+       . [Carta Capital] Relatório usado por Moraes contra Mendonça joga Toffoli e Nunes Marques na fogueira
+       . [Claudio Dantas] Nikolas diz que Mendonça “deveria dar voz de prisão” a Moraes
+
+   4      2      64      0  PF monitorou André Mendonça diante de cris
+       veiculos: CNN Brasil, O Antagonista, O GLOBO, Veja
+       . [CNN Brasil] Flávio acusa Alcolumbre de proteger Moraes no Senado
+       . [O GLOBO] Aliado de Moraes, Davi Alcolumbre tenta se distanciar de Flávio Bolsonaro em meio à crise no STF
+       . [O Antagonista] PF monitorou André Mendonça diante de crise contra Moraes
+
+   4      1      28      1  Sancionadas leis que criam fundos para ape
+       ineditas: fundos
+       veiculos: Correio dos Municípios, Google Trends BR, O Antagonista, stf noticias
+       . [stf noticias] Fachin destaca fortalecimento da Justiça com criação de fundos para Justiça Federal e STJ
+       . [Correio dos Municípios] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, Defensoria Pública da União e 
+       . [Google Trends BR] adc 80 justiça gratuita
+
+   3      2      50      0  Inquérito das fake news, 'resposta rigoros
+       veiculos: Gazeta do Povo Rep, O Antagonista, O GLOBO
+       . [O GLOBO] Inquérito das fake news, 'resposta rigorosa' e reforma do Judiciário: os recados de Lula e Fachin sobre a cris
+       . [Gazeta do Povo Rep] Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
+       . [Gazeta do Povo Rep] Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
+
+   3      2      49      0  Transparência Internacional alerta para ‘c
+       veiculos: Gazeta do Povo Rep, O Antagonista, VEJA
+       . [VEJA] Transparência Internacional alerta para ‘colapso institucional’ e pede afastamento de Moraes
+       . [Gazeta do Povo Rep] Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+       . [O Antagonista] Crusoé: Transparência Internacional defende afastamento de Moraes
+
+   3      0      11      0  Quaest: Ciro Gomes lidera corrida para o g
+       veiculos: Carta Capital, Metropoles, gazetadopovo.com.br
+       . [gazetadopovo.com.br] Quaest divulga pesquisa para governo e Senado no Ceará
+       . [Carta Capital] Quaest mostra ‘goleada’ de Lula sobre Flávio Bolsonaro no Ceará
+       . [Metropoles] Quaest: Ciro Gomes lidera corrida para o governo do Ceará no 1º e 2º turnos
+
+   3      1      25      1  A aposta do PT na neutralidade ‘pró-Lula’ 
+       ineditas: neutralidade
+       veiculos: Folha Poder, Poder360, Veja
+       . [Poder360] Lula espera ofensiva contra Flávio nos 10 dias finais da campanha
+       . [Folha Poder] Lula planeja ato de campanha no Piauí e contraria expectativa de Ciro Nogueira por neutralidade
+       . [Veja] A aposta do PT na neutralidade ‘pró-Lula’ do Centrão no Rio
+
+   2      0      34      1  TSE conclui lacração dos sistemas eleitora
+       ineditas: conclui
+       veiculos: Terra, senado.leg.br
+       . [Terra] TSE conclui lacração dos sistemas eleitorais que serão usados nas eleições de 2026
+       . [senado.leg.br] TSE conclui assinatura e lacração dos sistemas das eleições de 2026
+
+   2      0       0      4  Opinião - Frederico Vasconcelos: Distorçõe
+       ineditas: acumuladas, desgastaram, distorcoes, imagem
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Opinião - Frederico Vasconcelos: Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+       . [Folha Poder] Distorções acumuladas desgastaram a imagem do Supremo Tribunal
+
+   2      0       0      0  Fachin pede manifestação da PGR e de Mendo
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] Fachin pede manifestação da PGR e de Mendonça sobre procedimento de Alexandre
+       . [Conjur] Fachin retira apuração sobre Mendonça de inquérito relatado por Alexandre
+
+   2      1      61      0  Por que a FIA retirou pódio de Pierre Gasl
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] psg x mônaco
+       . [Veja] Por que a FIA retirou pódio de Pierre Gasly do GP de Mônaco?
+
+   2      1      20      3  Em vídeo, Lito Sousa anuncia autorização p
+       ineditas: lito, sousa, video
+       veiculos: Metropoles, Veja
+       . [Metropoles] "Serão boas notícias", garante Lito Sousa em novo vídeo após receber alta
+       . [Veja] Em vídeo, Lito Sousa anuncia autorização para uso de medicação em desenvolvimento para doença rara
+
+   2      1       2      0  Palpite CRB x América-MG - Série B - 04/09
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite CRB x América-MG - Série B - 04/09/26
+       . [Veja] HBO revela novos atores para segunda temporada da série ‘Harry Potter’
+
