@@ -4414,3 +4414,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Horóscopo 2026: confira a previsão de hoje (4/9) para seu signo
        . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
 
+==============================================================================
+RODADA 04/09 05:42 UTC  |  janela 90 min  |  33 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      24      1  Moraes acusa Mendonça de agir por 'motivos
+       ineditas: agrava
+       veiculos: BBC, BBC Brasil
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e agrava crise no STF
+       . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
+
