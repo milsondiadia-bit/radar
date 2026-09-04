@@ -6076,3 +6076,95 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Dólar sobe e Bolsa afunda com temor de alta de juros nos EUA
        . [Veja] Ibovespa cai após dados do payroll reforçarem alta de juros nos EUA
 
+==============================================================================
+RODADA 04/09 14:12 UTC  |  janela 90 min  |  115 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      3      49      0  Fachin retira investigação contra Mendonça
+       veiculos: CNN Brasil, Carta Capital, Claudio Dantas, Gazeta do Povo Rep, JOTA Info, O Antagonista, Poder360
+       . [CNN Brasil] Fim do inquérito das fake news entra na equação para resolver crise no STF
+       . [JOTA Info] Fachin retira investigação contra Mendonça do inquérito das fake news e coloca no mesmo de Moraes
+       . [Poder360] Leia a íntegra da decisão que tira Mendonça do inquérito das fake news
+
+   6      2      49      0  Fachin cobra explicações de Moraes, Mendon
+       veiculos: BBC Brasil, Claudio Dantas, DW.com, Folha Poder, O Antagonista, timesbrasil.com.br
+       . [DW.com] Crise no STF escala com guerra entre Moraes e Mendonça
+       . [timesbrasil.com.br] Fachin cobra explicações de Moraes, Mendonça, PGR e Polícia Federal sobre caso Banco Master
+       . [BBC Brasil] Crise entre Moraes e Mendonça: a reação de Lula, Flávio e do mundo político
+
+   2      1      20      0  “Vamos para a rua”, diz fundador da Petz s
+       veiculos: Claudio Dantas, Poder360
+       . [Poder360] “Vamos para a rua”, diz fundador da Petz sobre caso Moraes-Vorcaro
+       . [Claudio Dantas] Arapongagem de Moraes
+
+   2      0      47      0  Eleições 2026: saiba como consultar local 
+       veiculos: G1, Portal Catarinas
+       . [Portal Catarinas] Catarinas abre chamada para candidatas feministas de todo Brasil nas eleições de 2026
+       . [G1] Eleições 2026: saiba como consultar local e seção de votação
+
+   2      0      31      2  Crise sem precedentes expõe as entranhas d
+       ineditas: supremo, tribunal
+       veiculos: GZH, instagram.com
+       . [GZH] Crise sem precedentes expõe as entranhas do Supremo Tribunal Federal
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+
+   2      0      41      0  Governo Lula manifesta ‘profunda preocupaç
+       veiculos: EuQueroInvestir, jovempan.com.br
+       . [jovempan.com.br] Governo Lula manifesta ‘profunda preocupação’ com suspensão de carne para UE
+       . [EuQueroInvestir] Vale: Governo Lula impediu IPO da VBM, diz jornal canadense
+
+   2      0      67      1  Flávio acusa Moraes, Dino e Alcolumbre de 
+       ineditas: flavio
+       veiculos: Congresso em Foco, Google Trends BR
+       . [Congresso em Foco] Flávio acusa Moraes, Dino e Alcolumbre de articular ação contra ele
+       . [Google Trends BR] flávio dino
+
+   2      1      30      2  Número de mortos em megaenchente no Nepal 
+       ineditas: mortos, nepal
+       veiculos: BBC Brasil, Veja
+       . [BBC Brasil] Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos
+       . [Veja] Número de mortos em megaenchente no Nepal e Tibete passa de 1.300
+
+   2      1      47      4  Trump diz que vai exigir reembolso de país
+       ineditas: ajuda, europeus, paises, ucrania
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Trump cobrará que países europeus reembolsem os EUA por ajuda à Ucrânia
+       . [Veja] Trump diz que vai exigir reembolso de países europeus pela ajuda militar concedida à Ucrânia
+
+   2      0      11      1  previsão do tempo foz do iguaçu
+       ineditas: tempo
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Google impulsiona previsão do tempo com inteligência artificial para o dia a dia
+       . [Google Trends BR] previsão do tempo foz do iguaçu
+
+   2      0      40      1  tv globo
+       ineditas: globo
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] tv globo
+       . [Metropoles] Diretor da TV Globo é demitido por desistir da cobertura exclusiva da Copa
+
+   2      1      10      0  Rock in Rio 2026 começa nesta sexta, 4: ve
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] elton john shows
+       . [Veja] Rock in Rio 2026 começa nesta sexta, 4: veja horários e onde assistir aos shows
+
+   2      1      33      3  Anitta alfineta Belo ao vivo e causa saia-
+       ineditas: anitta, casa, estrelas
+       veiculos: Metropoles, Veja
+       . [Metropoles] Vídeo: Anitta expõe participante que falou mal dela no Estrelas da Casa
+       . [Veja] Anitta alfineta Belo ao vivo e causa saia-justa no ‘Estrelas da Casa’
+
+   2      1      32      2  Dólar sobe e Bolsa afunda com temor de alt
+       ineditas: alta, juros
+       veiculos: Metropoles, Veja
+       . [Metropoles] Dólar sobe e Bolsa afunda com temor de alta de juros nos EUA
+       . [Veja] Ibovespa cai após dados do payroll reforçarem alta de juros nos EUA
+
+   2      2       5      6  Nunes Marques: ‘Justiça não possui preferê
+       ineditas: candidaturas, justica, marques, nunes, possui, preferencia
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
