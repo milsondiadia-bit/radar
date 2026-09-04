@@ -10344,3 +10344,58 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
        . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
 
+==============================================================================
+RODADA 04/09 23:12 UTC  |  janela 90 min  |  101 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      3      66      1  André Mendonça divulga vídeo no meio da cr
+       ineditas: moraes
+       veiculos: Congresso em Foco, G1 Politica, Gazeta do Povo Rep, Google Trends BR, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Congresso em Foco] Em vídeo, Mendonça agradece orações em meio a embate com Moraes
+       . [Gazeta do Povo Rep] Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+
+   5      1      51      3  TSE autoriza Lula a fazer pronunciamento s
+       ineditas: fazer, lula, pronunciamento
+       veiculos: Carta Capital, Jurinews, Metropoles, O Antagonista, Poder360
+       . [Jurinews] TSE autoriza pronunciamento de Lula para o 7 de setembro
+       . [Poder360] 7 de Setembro de Lula terá Zé Gotinha, Copa Feminina e Esquadrilha
+       . [Poder360] TSE autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+
+   2      0      20      4  Maria do Carmo tem 53% contra 46% de Aziz 
+       ineditas: 2026, carmo, maria, programa
+       veiculos: G1, Poder360
+       . [G1] Eleições 2026: Maria do Carmo grava programa eleitoral e propõe descentralizar governo no interior do AM
+       . [G1] Eleições 2026: Ricardo Marques diz que tem programa de habitação para mulheres chefes de família
+       . [Poder360] Maria do Carmo tem 53% contra 46% de Aziz no 2º turno no AM
+
+   2      0       0      0  STF filtra "aventuras processuais" em caso
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      1      44      0  Caiado propõe idade mínima de 60 anos para
+       veiculos: G1, Veja
+       . [G1] Caiado propõe idade mínima de 60 anos para ministros do Supremo e quarentena para ex-integrantes da Corte
+       . [Veja] ’Vou indicar quatro mulheres para o Supremo’, diz Caiado
+
+   2      0      19      2  Lucas Ribeiro lidera disputa pelo governo 
+       ineditas: governo, lidera
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      1      12      1  ONU aprova nova versão do mapa-múndi; veja
+       ineditas: aprova
+       veiculos: O Antagonista, Poder360
+       . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
+       . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
+
+   2      1      61      1  Débora Nascimento estreia no Festival de V
+       ineditas: gael
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] gael monfils
+       . [Veja] Débora Nascimento estreia no Festival de Veneza com Gael García Bernal e Ricky Martin: “Privilegiada”
+
