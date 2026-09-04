@@ -4702,3 +4702,19 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
        . [Claudio Dantas] Moraes usou relatório da PF sem valor probatório contra Mendonça
 
+==============================================================================
+RODADA 04/09 08:52 UTC  |  janela 90 min  |  32 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      36      0  “Vamos para a rua”, diz fundador da Petz s
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Vorcaro sinaliza poupar Moraes em nova delação premiada
+       . [Poder360] “Vamos para a rua”, diz fundador da Petz sobre caso Moraes-Vorcaro
+
+   2      1      28      0  Moraes usou relatório da PF sem valor prob
+       veiculos: Claudio Dantas, instagram.com
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+       . [Claudio Dantas] Moraes usou relatório da PF sem valor probatório contra Mendonça
+
