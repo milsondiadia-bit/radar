@@ -4330,3 +4330,19 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O GLOBO] Relatório da PF usado por Moraes contra Mendonça também mira ministro de Lula
        . [Gazeta do Povo Rep] Moraes usou relatório da PF “sem valor probatório” para pedir investigação contra Mendonça
 
+==============================================================================
+RODADA 04/09 04:52 UTC  |  janela 90 min  |  21 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      59      0  Relatório da PF usado por Moraes contra Me
+       veiculos: UOL Notícias, oglobo.globo.com
+       . [UOL Notícias] PF aponta imputação 'sem lastro' contra Lulinha em relatório para Mendonça
+       . [oglobo.globo.com] Relatório da PF usado por Moraes contra Mendonça também mira ministro de Lula
+
+   2      0      56      0  Moraes acusa Mendonça de agir por 'motivos
+       veiculos: BBC, BBC Brasil
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e pede que colega de STF seja investigado
+       . [BBC Brasil] Moraes acusa Mendonça de agir por 'motivos políticos', pede providências de Fachin e agrava crise no STF
+
