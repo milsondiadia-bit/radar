@@ -892,8 +892,15 @@ def checa_ancapsu(mudo=False):
 # gemini-2.0-flash sairam do ar (404), e o proprio Google aponta o
 # gemini-3.6-flash como substituto. Ele entra primeiro; os demais ficam
 # de reserva.
-MODELOS_IA = ["gemini-3.6-flash", "gemini-flash-lite-latest",
-              "gemini-3-flash-preview", "gemini-flash-latest"]
+# Ordem medida em 04/09/2026, com a chave real:
+#   gemini-flash-latest      respondeu OK
+#   gemini-flash-lite-latest 503 (sobrecarga momentanea)
+#   gemini-3-flash-preview   429 (limite por minuto)
+#   gemini-2.5 e 2.0         404, sairam do ar
+# O Google aponta o gemini-3.6-flash como substituto dos que sairam,
+# entao ele fica de reserva. Na frente vai o que respondeu.
+MODELOS_IA = ["gemini-flash-latest", "gemini-flash-lite-latest",
+              "gemini-3.6-flash", "gemini-3-flash-preview"]
 
 
 def _chama_gemini(prompt, chave, teto_seg=60):
@@ -930,7 +937,12 @@ def _chama_gemini(prompt, chave, teto_seg=60):
             # limite liberar e deixava tudo passar sem julgar (3 de 9);
             # esperando ate 60s ele julga (7 de 9) e ainda cabe folgado
             # no limite de 10 minutos do workflow.
-            for espera in (0, 6, 15, 25):
+            # espera curta DE PROPOSITO: o que resolve nao e insistir
+            # no mesmo modelo, e passar para o proximo. Medido em
+            # 04/09/2026: dois modelos falharam e o terceiro respondeu
+            # na hora. Com espera longa o teto de 60s acabaria antes de
+            # a fila chegar nele.
+            for espera in (0, 3):
                 if time.time() - comeco > teto_seg:
                     return None
                 if espera:
@@ -943,19 +955,13 @@ def _chama_gemini(prompt, chave, teto_seg=60):
                 except Exception as e:
                     if any(c in str(e) for c in ("404", "401", "403")):
                         break
-                    # cota do plano esgotada: nao adianta esperar, nao
-                    # adianta trocar de modelo - a cota e da chave.
-                    # Medido em 04/09/2026: insistir aqui custava 60s
-                    # por manchete e devolvia o mesmo 429.
-                    if "429" in str(e):
-                        try:
-                            detalhe = e.read().decode()
-                        except Exception:
-                            detalhe = ""
-                        if "RESOURCE_EXHAUSTED" in detalhe:
-                            print("  Gemini: cota da chave esgotada",
-                                  file=sys.stderr)
-                            return None
+                    # 429 RESOURCE_EXHAUSTED aqui NAO e cota do plano:
+                    # e limite por minuto, e passa sozinho. Medido em
+                    # 04/09/2026: a mesma chave que devolvia 429 em
+                    # todos os modelos respondeu OK poucos minutos
+                    # depois, no gemini-flash-latest. Por isso a cascata
+                    # continua para o proximo modelo em vez de desistir
+                    # - foi o modelo seguinte que salvou o julgamento.
     return None
 
 
