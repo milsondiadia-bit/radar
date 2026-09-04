@@ -8250,3 +8250,81 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] semavy
        . [Veja] Preço, tempo fora de geladeira e suplementos: os diferenciais da Semavy, nova caneta de semaglutida brasileira
 
+==============================================================================
+RODADA 04/09 18:32 UTC  |  janela 90 min  |  127 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      2      82      0  Após cobrar reação de Fachin, Lula terá en
+       veiculos: Congresso em Foco, Metropoles, O Antagonista, O GLOBO, Poder360, Valor Econômico, Veja
+       . [O GLOBO] Após cobrar reação de Fachin, Lula terá encontro com presidente do STF em meio à crise na Corte
+       . [Valor Econômico] Nova pesquisa Meio/Ideia para presidente investiga se crise no STF muda voto em Lula e Flávio
+       . [Poder360] Com STF em crise, Lula sanciona lei ao lado de Fachin e Gonet
+
+   4      1      54      0  Flávio acusa Alcolumbre de proteger Moraes
+       veiculos: CNN Brasil, Claudio Dantas, Metropoles, Valor Econômico
+       . [CNN Brasil] Flávio acusa Alcolumbre de proteger Moraes no Senado
+       . [Valor Econômico] Flávio diz que decisão de Fachin em crise do STF é 'luz no fim do túnel' e rebate indireta de Alcolumbre
+       . [Metropoles] "Está muito interessado em proteger Moraes", diz Flávio sobre Alcolumbre
+
+   3      1      29      3  Balança comercial tem superávit de US$ 7,4
+       ineditas: balanca, comercial, superavit
+       veiculos: G1 Politica, Poder360, Veja
+       . [G1 Politica] Balança comercial tem superávit de US$ 7,4 bilhões em agosto, maior valor para o mês em três anos
+       . [Poder360] Balança comercial registra superavit de US$ 7,4 bi em agosto
+       . [Veja] Balança comercial tem superávit de US$ 7,4 bi em agosto, com alta em exportações e importações
+
+   3      2      37      0  Relatório usado por Moraes contra Mendonça
+       veiculos: Carta Capital, Claudio Dantas, Veja
+       . [Carta Capital] Relatório usado por Moraes contra Mendonça joga Toffoli e Nunes Marques na fogueira
+       . [Claudio Dantas] Nikolas diz que Mendonça “deveria dar voz de prisão” a Moraes
+       . [Veja] Racha entre Moraes e Mendonça coloca o STF diante de um dilema
+
+   3      3      29      2  Conselho do MPF dá prazo para Gonet coment
+       ineditas: abre, conselho
+       veiculos: Claudio Dantas, O Antagonista, Veja
+       . [O Antagonista] Conselho do MPF abre apuração sobre mensagens de Vorcaro que citam Gonet
+       . [Claudio Dantas] Conselho do MPF abre procedimento sobre citações a Gonet em mensagens de Vorcaro
+       . [Veja] Conselho do MPF dá prazo para Gonet comentar mensagens de Vorcaro
+
+   2      0      26      0  Quaest divulga pesquisa para governo e Sen
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] Os números da pesquisa Indexa para governo e Senado no Pará
+       . [Gazeta do Povo] Quaest divulga pesquisa para governo e Senado no Ceará
+       . [Carta Capital] Quaest no Ceará: Cid Gomes e Capitão Wagner lideram a disputa pelo Senado
+
+   2      1      64      1  Crusoé: Brigadeiro indigesto
+       ineditas: crusoe
+       veiculos: O Antagonista, O GLOBO
+       . [O GLOBO] Arruda é barrado pelo TRE-DF, mas pode continuar em campanha; entenda o que acontece agora
+       . [O Antagonista] Crusoé: Censura em campanha
+       . [O Antagonista] Crusoé: Brigadeiro indigesto
+
+   2      2      58      0  Fachin defende fim do inquérito das fake n
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Conflito entre Moraes e Mendonça faz Fachin defender o fim do inquérito das fake news
+       . [Gazeta do Povo Rep] Fachin defende fim do inquérito das fake news em meio a embate de Moraes com Mendonça
+       . [Veja] O ‘recado’ de Alexandre de Moraes para ministros do STF em meio à crise com Mendonça
+
+   2      0       2      0  Eleições 2026: saiba o conceito de turno e
+       veiculos: UNALE, tre-se.jus.br
+       . [tre-se.jus.br] TRE-SE indefere DRAP da Federação PSOL/REDE para as Eleições 2026 - tre-se.jus.br
+       . [UNALE] Eleições 2026: saiba o conceito de turno eleitoral
+
+   2      0      31      0  Governo pede autorização do TSE para que L
+       veiculos: Estadão, Valor Econômico
+       . [Estadão] União Europeia reage à ameaça do governo Lula e nega discriminar carne do Brasil
+       . [Valor Econômico] Governo pede autorização do TSE para que Lula faça pronunciamento de 7 de Setembro
+
+   2      0      13      2  Gabigol se pronuncia após polêmica envolve
+       ineditas: flamengo, gabigol
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Gabigol se pronuncia após polêmica envolvendo o Flamengo
+       . [Metropoles] Santos divulga pronunciamento Gabigol após falas sobre Cruzeiro e Flamengo
+
+   2      1       9      0  alexandre pato
+       veiculos: Gazeta do Povo Rep, Google Trends BR
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+       . [Google Trends BR] alexandre pato
+
