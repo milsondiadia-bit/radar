@@ -4933,3 +4933,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Saiba quais indicadores e balanços saem nesta 6ª feira
        . [Carta Capital] Agentes de IA saem dos chatbots e reduzem em até 95% etapas de processos nas empresas
 
+==============================================================================
+RODADA 04/09 10:02 UTC  |  janela 90 min  |  65 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      61      0  Crise Moraes-Vorcaro só favorece Flávio, d
+       veiculos: CBN, Metropoles, Poder360, Veja
+       . [CBN] Moraes e Mendonça têm cinco dias para prestar esclarecimentos sobre crise no STF
+       . [Poder360] Crise Moraes-Vorcaro só favorece Flávio, diz Renato Meirelles
+       . [Metropoles] Relatório da PF usado por Moraes contra Mendonça não tem valor probatório
+
+   2      0      23      0  Dario Durigan indica unificação de benefíc
+       veiculos: Money Times, Poder360
+       . [Money Times] Dario Durigan indica unificação de benefícios sociais em eventual novo governo Lula
+       . [Poder360] Governo Lula: leia a agenda de ministros do governo nesta 6ª feira
+       . [Poder360] Agenda de Lula: leia os compromissos do presidente 6ª feira
+
+   2      0       0      2  Caso de PGR, STF e Vorcaro: a contradição 
+       ineditas: acusatorio, sistema
+       veiculos: Conjur, conjur.com.br
+       . [conjur.com.br] Caso de PGR, STF e Vorcaro: a contradição do sistema acusatório
+       . [Conjur] Súbita descoberta do sistema acusatório: princípios mudam conforme investigado
+
+   2      0      60      1  Saiba quais indicadores e balanços saem ne
+       ineditas: saem
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Saiba quais indicadores e balanços saem nesta 6ª feira
+       . [Carta Capital] Agentes de IA saem dos chatbots e reduzem em até 95% etapas de processos nas empresas
+
