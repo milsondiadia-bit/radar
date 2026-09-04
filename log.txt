@@ -7470,3 +7470,87 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] globo filmes
        . [Veja] Globo faz a maior reestruturação de cúpula da década e demite três diretores
 
+==============================================================================
+RODADA 04/09 17:02 UTC  |  janela 90 min  |  127 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      3      64      0  Inquérito das fake news tem mais de sete a
+       veiculos: BBC Brasil, Claudio Dantas, Congresso em Foco, G1, Gazeta do Povo Rep, Metropoles, O Antagonista, O GLOBO, instagram.com
+       . [G1] Inquérito das fake news tem mais de sete anos, pressiona Moraes e ampliou crise no STF
+       . [O GLOBO] Inquérito das fake news, 'resposta rigorosa' e reforma do Judiciário: os recados de Lula e Fachin sobre a cris
+       . [instagram.com] FUTURO DO STF | Fachin diz que não haverá omissão sobre crise no STF e defende fim do inquérito das fake news 
+
+   5      3      53      0  Relatório da PF usado por Moraes aponta qu
+       veiculos: Agência Brasil, Claudio Dantas, O Antagonista, O GLOBO, Veja
+       . [Agência Brasil] STF: PGR e Mendonça têm 5 dias para responderem acusações de Moraes
+       . [O GLOBO] Relatório da PF usado por Moraes aponta que Mendonça disse em reunião analisar possível afastamento de chefe d
+       . [O Antagonista] PF monitorou André Mendonça diante de crise contra Moraes
+
+   4      0      65      0  Presidente Lula sanciona nova lei de custa
+       veiculos: Folha Poder, Superior Tribunal de Justiça, VEJA, facebook.com
+       . [VEJA] Supremo Tribunal Federal volta a julgar regulação das redes sociais
+       . [facebook.com] Jornal Midiamax. . O ministro Edson Fachin, presidente do STF (Supremo Tribunal Federal), voltou a se manifest
+       . [Superior Tribunal de Justiça] Presidente Lula sanciona nova lei de custas da Justiça Federal e do STJ
+
+   3      0      47      2  Quaest no Ceará: Ciro tem 45%; Elmano tem 
+       ineditas: ciro, elmano
+       veiculos: G1, G1 Politica, Metropoles
+       . [G1] Quaest no Ceará: Ciro tem 45%; Elmano tem 34%
+       . [G1 Politica] Quaest no Ceará: Lula, 54%; Flávio Bolsonaro, 16%; Augusto Cury, 10%;  Renan Santos, 2%; Ronaldo Caiado, 1%
+       . [G1 Politica] Quaest no Ceará: 49% aprovam e 38% desaprovam governo de Elmano de Freitas
+
+   3      0      62      1  Eleições 2026: contagem regressiva chega a
+       ineditas: conclui
+       veiculos: Senado Federal, Terra, tre-ce.jus.br
+       . [Terra] TSE conclui lacração dos sistemas eleitorais que serão usados nas eleições de 2026
+       . [Senado Federal] TSE conclui assinatura e lacração dos sistemas das eleições de 2026
+       . [tre-ce.jus.br] Eleições 2026: contagem regressiva chega a um mês para o primeiro turno - tre-ce.jus.br
+
+   3      2      49      2  Transparência Internacional alerta para ‘c
+       ineditas: internacional, transparencia
+       veiculos: Gazeta do Povo Rep, O Antagonista, VEJA
+       . [VEJA] Transparência Internacional alerta para ‘colapso institucional’ e pede afastamento de Moraes
+       . [Gazeta do Povo Rep] Transparência Internacional pede afastamento de Moraes para evitar interferência em investigações
+       . [O Antagonista] Crusoé: Transparência Internacional defende afastamento de Moraes
+
+   3      1      25      1  A aposta do PT na neutralidade ‘pró-Lula’ 
+       ineditas: neutralidade
+       veiculos: Folha Poder, Poder360, Veja
+       . [Poder360] Lula espera ofensiva contra Flávio nos 10 dias finais da campanha
+       . [Folha Poder] Lula planeja ato de campanha no Piauí e contraria expectativa de Ciro Nogueira por neutralidade
+       . [Veja] A aposta do PT na neutralidade ‘pró-Lula’ do Centrão no Rio
+
+   3      2      32      0  Cargo não pode ser usado para benefício pe
+       veiculos: Claudio Dantas, Folha Poder, Veja
+       . [Folha Poder] Cargo não pode ser usado para benefício pessoal em nome da democracia, diz Lula sem citar Moraes
+       . [Claudio Dantas] Com STF em crise, Lula diz que “ninguém pode usar cargo em benefício pessoal”
+       . [Veja] ‘Ninguém pode usar o cargo em benefício pessoal’: Lula busca aliança com Fachin e Gonet diante de crise
+
+   2      0       5      0  Lula diz que, no próximo ano, discutirá re
+       veiculos: Poder360, Valor Econômico
+       . [Valor Econômico] Caiado chama STF de ‘desordem institucional’ e defende reforma no Judiciário
+       . [Poder360] Lula diz que, no próximo ano, discutirá reforma no Judiciário
+
+   2      1      13      0  Flávio acusa Alcolumbre de proteger Moraes
+       veiculos: O Antagonista, O GLOBO
+       . [O GLOBO] Aliado de Moraes, Davi Alcolumbre tenta se distanciar de Flávio Bolsonaro em meio à crise no STF
+       . [O Antagonista] Flávio acusa Alcolumbre de proteger Moraes no Senado
+
+   2      0      28      2  Grenal da Copa do Brasil quebra recorde de
+       ineditas: copa, recorde
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Transferências pós-Copa movimentam US$ 9,89 bi, recorde na Fifa
+       . [Carta Capital] Grenal da Copa do Brasil quebra recorde de público
+
+   2      0       1      0  Casa Branca lança jogos “retrô” sobre depo
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Casa Branca lança jogos “retrô” sobre deportações e muro de Trump
+       . [Carta Capital] Governo Trump lança games para perseguir imigrantes
+
+   2      0      18      0  Chuva alaga acesso ao viaduto Israel Pinhe
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] chico pinheiro
+       . [Metropoles] Chuva alaga acesso ao viaduto Israel Pinheiro e congestiona EPTG
+
