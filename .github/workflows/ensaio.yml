@@ -1,6 +1,8 @@
 name: Brasil Breaking (ensaio mudo)
 on:
   workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   ensaio:
     runs-on: ubuntu-latest
@@ -9,4 +11,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python brasil_breaking.py --minutos 90 --mudo
+      - run: python brasil_breaking.py --minutos 90 --mudo > ensaio.txt 2>&1
+      - run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add ensaio.txt
+          git commit -m "ensaio mudo" || echo nada
+          git pull --rebase --autostash origin main || true
+          git push
