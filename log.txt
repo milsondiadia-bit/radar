@@ -6679,3 +6679,110 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 15:22 UTC  |  janela 90 min  |  143 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      2      76      1  Fachin participa de evento com Lula em mei
+       ineditas: master
+       veiculos: Agência Brasil, Brasil de Fato, Claudio Dantas, Folha Poder, G1, Gazeta do Povo Rep, O GLOBO, Poder360
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [Brasil de Fato] Fachin assume pedido de Moraes para investigar Mendonça no caso Banco Master
+       . [G1] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   8      1      34      2  Fachin promete fim do inquérito das fake n
+       ineditas: promete, relatoria
+       veiculos: Estadão, Folha Poder, Folha de S.Paulo, G1, G1 Politica, Metropoles, Poder360, Veja
+       . [Folha de S.Paulo] Fachin defende fim do inquérito das fake news no STF - 04/09/2026 - Política
+       . [Estadão] Fachin diz que não haverá omissão sobre crise no STF e defende fim do inquérito das fake news
+       . [Poder360] Fachin diz que crise no STF torna urgente fim do inquérito das fake news
+
+   4      0      16      8  'Crise Master' no STF: Fachin diz que fato
+       ineditas: acima, autoridade, constituicao, firme, nenhuma, resposta, rigorosa, sera
+       veiculos: G1, Poder360, Valor Econômico, cnnbrasil.com.br
+       . [cnnbrasil.com.br] Fachin: "Nenhuma autoridade está acima da Constituição"
+       . [Valor Econômico] Fachin diz que nenhuma autoridade está acima da lei e promete resposta 'firme e rigorosa' para crise no STF
+       . [G1] 'Crise Master' no STF: Fachin diz que fatos estão em apuração e que nenhuma autoridade está acima da Constitui
+
+   3      0      34      3  OAB assina sistemas de votação que serão u
+       ineditas: eleitoral, serao, votacao
+       veiculos: OAB, Tribunal Superior Eleitoral, mpf.mp.br
+       . [Tribunal Superior Eleitoral] Sistemas das Eleições Gerais de 2026 são assinados digitalmente e lacrados pelo TSE
+       . [mpf.mp.br] MP Eleitoral atesta segurança dos sistemas de votação e apuração que serão usados nas Eleições 2026
+       . [OAB] OAB assina sistemas de votação que serão utilizados nas eleições de 2026
+
+   3      1      32      2  Como está a disputa entre Lula e Flávio Bo
+       ineditas: pesquisas, turno
+       veiculos: BBC Brasil, Carta Capital, Veja
+       . [BBC Brasil] Lula e Flávio aparecem empatados no 2º turno: a corrida para presidente no Agregador de Pesquisas da BBC
+       . [Carta Capital] Lula x Flávio Bolsonaro: a um mês da eleição, veja como está a disputa no 2º turno
+       . [Veja] As pesquisas eleitorais e o ‘trade Flávio’
+
+   2      0      13      0  PF vê inação da AGU e aponta “relação polí
+       veiculos: Congresso em Foco, cnnbrasil.com.br
+       . [cnnbrasil.com.br] PF vê inação da AGU e aponta “relação política” de Mendonça e Messias
+       . [Congresso em Foco] Fachin e a política do rule of law
+
+   2      1       8      1  Veja quem participa do ato de 7 de Setembr
+       ineditas: quem
+       veiculos: Agência Brasil, Claudio Dantas
+       . [Agência Brasil] STF garante Justiça gratuita para quem ganha até R$ 5 mil por mês
+       . [Claudio Dantas] Veja quem participa do ato de 7 de Setembro na Paulista
+
+   2      0      19      0  🎙️ PODCAST | Depois de um relatório da Pol
+       veiculos: Google Trends BR, instagram.com
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+       . [Google Trends BR] presidente do supremo tribunal federal do brasil
+
+   2      0       0      5  Folha estreia no Substack com newsletter d
+       ineditas: eleicao, estreia, folha, newsletter, substack
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Folha estreia no Substack com newsletter da eleição - 04/09/2026 - Política
+       . [Folha Poder] Folha estreia no Substack com newsletter da eleição
+
+   2      0      30      1  Saiba quais autoridades devem comparecer a
+       ineditas: devem
+       veiculos: G1 Politica, Poder360
+       . [Poder360] Saiba quais autoridades devem comparecer ao 7 de Setembro no DF
+       . [G1 Politica] 'Crise Master' no STF: Lula volta a defender reforma no Judiciário e diz que todos devem seguir a lei
+
+   2      1       4      2  Lula: é preciso vencer batalha contra quem
+       ineditas: batalha, vencer
+       veiculos: Folha PE, O Antagonista
+       . [Folha PE] Lula: é preciso vencer batalha contra quem se opõe a mais 1 dia de descanso aos trabalhadores
+       . [O Antagonista] Fim da 6×1 ainda precisa “vencer batalha” no Congresso, diz Lula
+
+   2      1      13      4  ‘A gravidade dos fatos não autoriza atalho
+       ineditas: atalhos, autoriza, fatos, gravidade
+       veiculos: Poder360, Veja
+       . [Poder360] “Gravidade dos fatos não autoriza atalhos”, diz Fachin sobre STF
+       . [Veja] ‘A gravidade dos fatos não autoriza atalhos’, diz Edson Fachin sobre escândalo no STF
+
+   2      0      18      0  duda salabert
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Duda Salabert denuncia tentativa de homicídio durante fiscalização em Minas
+       . [Google Trends BR] duda salabert
+
+   2      0      14      1  Francesco Totti, ídolo da Roma, troca o fu
+       ineditas: futebol
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] jogador de futebol
+       . [Metropoles] Francesco Totti, ídolo da Roma, troca o futebol pelo basquete; entenda
+
+   2      0      60      0  série de televisão
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] série de televisão
+       . [Metropoles] Palpite Criciúma x Cuiabá - Série B - 04/09/26
+
+   2      1       5      0  “Faremos o que é certo”, diz Fachin ao lad
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] "Nenhum poder está acima da lei", diz Fachin em evento com Lula e Gonet
+       . [O Antagonista] “Faremos o que é certo”, diz Fachin ao lado de Lula
+
+   2      2       5      0  Nunes Marques: ‘Justiça não possui preferê
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
