@@ -382,7 +382,13 @@ ARQUIVO_MEMORIA = "brasil_vistos.json"
 # Entao o bot passa a guardar quando viu cada assunto pela primeira vez.
 # Se ele ja rondava o noticiario ha horas, nao alerta - por mais
 # veiculos que junte depois.
-HORAS_DE_MEMORIA = 12
+# Medido em 04/09/2026: com 12 horas, as palavras registradas as
+# 23h22 do dia 03 ("acusa", "inquerito", "fake", "news") voltaram a
+# contar como ineditas as 12h22 do dia 04. O alerta que saiu nessa
+# hora nao era fato novo: era o assunto da noite anterior renascendo
+# por expiracao da memoria - e chegou 80 minutos depois do fato real.
+# Com 24 horas isso nao acontece.
+HORAS_DE_MEMORIA = 24
 
 # Um assunto so conta como novo se a primeira vez que foi visto tiver
 # sido ha menos que isto. Acima disso, ja estava no radar.
@@ -482,7 +488,14 @@ def registra(grupo, memoria, agora):
 #
 # Dao cerca de 27 alertas por dia.
 MINIMO_VEICULOS = 6
-MINIMO_INEDITAS = 5
+# Medido em 04/09/2026 no log de 03/09 18h22 ate 04/09 12h52:
+# o fato novo do dia ("Mendonca quis saber o que tinha sobre Moraes no
+# celular de Vorcaro", Poder360) apareceu as 11h02 UTC com 6 veiculos
+# e 4 palavras ineditas - reprovado por UMA palavra. Com o corte em 4
+# ele sairia 80 minutos antes. Contando o log inteiro, baixar de 5
+# para 4 libera apenas 2 grupos a mais no dia, os dois sobre esse
+# mesmo caso. Nao gera enxurrada.
+MINIMO_INEDITAS = 4
 
 # Um evento so e avisado UMA vez. Sem isto, "Moraes acusa Mendonca"
 # seria enviado em 5 rodadas seguidas, porque continua batendo o corte
@@ -686,6 +699,133 @@ def escreve_log(grupos, total, erros, sem_data, minutos):
     print(texto)
 
 
+# =====================================================================
+# ANCAPSU - aviso de video novo
+# =====================================================================
+#
+# Canal ANCAPSU (@ancap_su). Vem pelo RSS do YouTube, que e de graca e
+# nao gasta cota da YouTube Data API.
+#
+# Tres protecoes contra enxurrada:
+#   1) so avisa video publicado nos ultimos ANCAPSU_MINUTOS
+#   2) guarda os IDs ja avisados em ancapsu_vistos.json
+#   3) na PRIMEIRA rodada a janela encolhe para ANCAPSU_MINUTOS_ESTREIA:
+#      o feed traz 15 videos e o canal publica varios por dia, entao
+#      com a janela cheia a estreia viraria uma rajada de avisos de
+#      video que voce ja viu. Com 30 minutos, se ele subir alguma coisa
+#      agora voce e avisado na hora, e o resto fica so anotado.
+ANCAPSU_CANAL = "UCLTWPE7XrHEe8m_xAmNbQ-Q"
+ANCAPSU_FEED = ("https://www.youtube.com/feeds/videos.xml"
+                f"?channel_id={ANCAPSU_CANAL}")
+ARQUIVO_ANCAPSU = "ancapsu_vistos.json"
+ANCAPSU_MINUTOS = 180
+ANCAPSU_MINUTOS_ESTREIA = 30
+ANCAPSU_LIMITE_MEMORIA = 300
+
+
+def envia_com_link(texto):
+    """
+    Igual ao envia(), mas DEIXA o Telegram abrir a previa do YouTube.
+
+    No alerta de manchetes a previa atrapalha (sao quatro links), aqui
+    ela e o ponto: aparece a thumb do video direto no celular.
+    """
+    token = os.environ.get("TELEGRAM_TOKEN", "")
+    chat = os.environ.get("CHAT_ID_BREAKING", "")
+    if not token or not chat:
+        print("  faltou TELEGRAM_TOKEN ou CHAT_ID_BREAKING - nao enviei")
+        return False
+    try:
+        import urllib.request, urllib.parse
+        dados = urllib.parse.urlencode({
+            "chat_id": chat, "text": texto, "parse_mode": "HTML",
+        }).encode()
+        req = urllib.request.Request(
+            f"https://api.telegram.org/bot{token}/sendMessage", data=dados)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return b'"ok":true' in r.read()
+    except Exception as e:
+        print(f"  Telegram falhou: {e}")
+        return False
+
+
+def checa_ancapsu(mudo=False):
+    """Avisa quando o ANCAPSU sobe video novo."""
+    import urllib.request
+    import xml.etree.ElementTree as ET
+
+    try:
+        req = urllib.request.Request(
+            ANCAPSU_FEED, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            bruto = r.read()
+    except Exception as e:
+        print(f"  ANCAPSU: nao consegui ler o feed: {e}")
+        return
+
+    ns = {"a": "http://www.w3.org/2005/Atom",
+          "yt": "http://www.youtube.com/xml/schemas/2015"}
+    try:
+        raiz = ET.fromstring(bruto)
+    except Exception as e:
+        print(f"  ANCAPSU: feed veio quebrado: {e}")
+        return
+
+    try:
+        with open(ARQUIVO_ANCAPSU, encoding="utf-8") as f:
+            vistos = json.load(f)
+        primeira_vez = False
+    except Exception:
+        vistos = []
+        primeira_vez = True
+
+    conhecidos = set(vistos)
+    agora = datetime.now(timezone.utc)
+    novos = []
+
+    for entrada in raiz.findall("a:entry", ns):
+        vid = entrada.findtext("yt:videoId", default="", namespaces=ns)
+        if not vid or vid in conhecidos:
+            continue
+        titulo = entrada.findtext("a:title", default="", namespaces=ns)
+        quando = entrada.findtext("a:published", default="", namespaces=ns)
+        try:
+            data = datetime.fromisoformat(quando.replace("Z", "+00:00"))
+        except Exception:
+            data = None
+        novos.append((vid, titulo, data))
+        conhecidos.add(vid)
+
+    # a memoria e gravada SEMPRE, inclusive na primeira vez - e ela que
+    # impede o proximo ciclo de tratar os mesmos 15 videos como novos
+    if not mudo:
+        try:
+            with open(ARQUIVO_ANCAPSU, "w", encoding="utf-8") as f:
+                json.dump(sorted(conhecidos)[-ANCAPSU_LIMITE_MEMORIA:], f)
+        except Exception as e:
+            print(f"  ANCAPSU: nao gravei os vistos: {e}")
+
+    if primeira_vez:
+        print(f"  ANCAPSU: primeira rodada, {len(novos)} videos no feed")
+
+    minutos = ANCAPSU_MINUTOS_ESTREIA if primeira_vez else ANCAPSU_MINUTOS
+    limite = agora - timedelta(minutes=minutos)
+    for vid, titulo, data in novos:
+        if data and data < limite:
+            continue
+        hora_br = (data or agora) - timedelta(hours=3)
+        texto = (
+            "🟡 <b>ANCAPSU subiu vídeo</b>\n"
+            f"<i>{hora_br.strftime('%Hh%M')}</i>\n\n"
+            f"<b>{escapa(titulo)}</b>\n\n"
+            f"https://www.youtube.com/watch?v={vid}"
+        )
+        if mudo:
+            print("\n--- SAIRIA ESTE AVISO ---\n" + texto + "\n")
+        elif envia_com_link(texto):
+            print(f"  ANCAPSU avisado: {titulo[:60]}")
+
+
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--minutos", type=int, default=MINUTOS_JANELA)
@@ -742,6 +882,9 @@ def main():
             print(f"  nao gravei os enviados: {e}")
 
     print(f"  {mandados} alerta(s)")
+
+    checa_ancapsu(mudo=args.mudo)
+
     escreve_log(grupos, len(itens), erros, sem_data, args.minutos)
 
     print(f"\nMODO MEDICAO: nada foi enviado ao Telegram.")
