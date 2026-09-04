@@ -9024,3 +9024,94 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Ettore Zuim, dublador brasileiro de Batman e Hércules, morre aos 66 anos
        . [Veja] Morre Ettore Zuim, o dublador de Batman e Hércules no Brasil, aos 66 anos
 
+==============================================================================
+RODADA 04/09 19:52 UTC  |  janela 90 min  |  133 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      3      60      0  Como estava a disputa entre Lula e Bolsona
+       veiculos: Claudio Dantas, Folha Poder, G1 Politica, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Caiado sobre Flávio Bolsonaro: 'Personagem criado para disputar uma eleição'
+       . [Folha Poder] Alcolumbre e Moraes buscam autoproteção, diz Flávio Bolsonaro em SP
+       . [Metropoles] Ex-mulher de Jair e mãe de Flávio Bolsonaro recebe R$ 1 milhão do PL
+
+   4      1      24      0  STF deve rechaçar manobra de Moraes no cas
+       veiculos: Brasil de Fato, O GLOBO, Veja, terra.com.br
+       . [Brasil de Fato] Embate entre Moraes e Mendonça escancara natureza política do STF, avalia cientista político
+       . [terra.com.br] Escândalo do Banco Master reforça desconfiança na política e torna eleição mais instável, diz cientista políti
+       . [O GLOBO] STF deve rechaçar manobra de Moraes no caso Master
+
+   3      1      38      1  TENSÃO NO STF | A reação de Alexandre de M
+       ineditas: daniel
+       veiculos: BBC Brasil, Gazeta do Povo Rep, instagram.com
+       . [instagram.com] TENSÃO NO STF | A reação de Alexandre de Moraes à divulgação das mensagens encontradas no celular de Daniel Vo
+       . [BBC Brasil] Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes
+       . [Gazeta do Povo Rep] André Mendonça desafia isolamento no STF e expõe provas contra Moraes
+
+   3      0      22      4  Estou predestinado a transformar este País
+       ineditas: classe, media, predestinado, transformar
+       veiculos: Estadão, Poder360, terra.com.br
+       . [terra.com.br] Estou predestinado a transformar este País em um país de classe média alta, diz Lula
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Lula diz estar “predestinado” a tornar Brasil classe média alta
+
+   3      1      31      1  Lula diz esperar que PEC do fim da escala 
+       ineditas: ingerencia
+       veiculos: G1, InfoMoney, Veja
+       . [G1] Lula afirma ter dito a Trump que Brasil não aceita 'ingerência de ninguém nas eleições'
+       . [InfoMoney] Lula diz ter afirmado a Trump que Brasil não aceitará ingerência nas eleições
+       . [Veja] Lula diz esperar que PEC do fim da escala 6×1 avance após o primeiro turno das eleições
+
+   3      0       4      3  Sancionadas leis que criam fundos para a J
+       ineditas: criam, leis, sancionadas
+       veiculos: Agência Brasil, Conexão Tocantins, cnnbrasil.com.br
+       . [cnnbrasil.com.br] Lula sanciona leis que criam fundos para Justiça
+       . [Agência Brasil] Sancionadas leis que criam fundos para a Justiça
+       . [Conexão Tocantins] Sancionadas leis que criam fundos para aperfeiçoamento da Justiça Federal, STJ, DPU e MPU
+
+   3      1      44      3  Mulher de Lito Sousa dá detalhes tratament
+       ineditas: anvisa, importacao, medicamento
+       veiculos: Metropoles, Poder360, Veja
+       . [Poder360] Anvisa autoriza importação de medicamento-teste para Lito Sousa
+       . [Metropoles] Mulher de Lito Sousa dá detalhes tratamento liberado pela Anvisa
+       . [Veja] Anvisa autoriza importação e uso de medicamento experimental para Lito Sousa
+
+   2      0      36      3  Candidatos nas Eleições 2026 em São Paulo:
+       ineditas: deputado, lista, paulo
+       veiculos: Gazeta do Povo, Valor Econômico
+       . [Valor Econômico] Candidatos a deputado federal em São Paulo (SP): veja lista de 2026
+       . [Valor Econômico] Candidatos a deputado federal no Amapá (AP): veja a lista das eleições 2026
+       . [Gazeta do Povo] Candidatos nas Eleições 2026 em São Paulo: governadores, senadores, deputados
+
+   2      0      37      0  'Crise Master' no STF: Fachin diz que nenh
+       veiculos: G1, Poder360
+       . [G1] 'Crise Master' no STF: Fachin diz que nenhuma autoridade está acima da Constituição e que resposta a fatos 'gr
+       . [Poder360] OAB-MG vai se reunir com Fachin sobre crise no STF
+
+   2      1      11      0  A senadores, Alcolumbre sinaliza abertura 
+       veiculos: Claudio Dantas, G1 Politica
+       . [G1 Politica] A senadores, Alcolumbre sinaliza abertura de processo de impeachment cruzado de Moraes e Mendonça
+       . [Claudio Dantas] Esquerda articula pedido de impeachment contra Mendonça  com base em relatório de Moraes
+
+   2      1      62      0  Quaest: Ciro mantém vantagem sobre Elmano 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Ciro tem 49% e Elmano, 36%, em 2º turno no CE, diz pesquisa
+       . [O Antagonista] Quaest: Ciro mantém vantagem sobre Elmano no Ceará
+
+   2      1      23      1  O avanço do Brasil para destravar exportaç
+       ineditas: exportacao
+       veiculos: Poder360, Veja
+       . [Poder360] Exportação para China sobe 15% no ano, mas cai 10,9% em agosto
+       . [Veja] O avanço do Brasil para destravar exportação de carne de aves e mel para a União Europeia
+
+   2      1       7      0  Conselho do MPF abre procedimento sobre ci
+       veiculos: Claudio Dantas, Folha Poder
+       . [Folha Poder] Conselho do MPF abre procedimento sobre Gonet, que deve negar interferência no caso Master
+       . [Claudio Dantas] Conselho do MPF abre procedimento sobre citações a Gonet em mensagens de Vorcaro
+
+   2      1      28      0  Lula questiona Alcolumbre por adiar votaçã
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Lula lamenta adiamento da votação do fim da 6x1 no Senado: "Uma pena"
+       . [O Antagonista] Lula questiona Alcolumbre por adiar votação do fim da escala 6×1
+
