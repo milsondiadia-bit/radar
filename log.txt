@@ -10399,3 +10399,51 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] gael monfils
        . [Veja] Débora Nascimento estreia no Festival de Veneza com Gael García Bernal e Ricky Martin: “Privilegiada”
 
+==============================================================================
+RODADA 04/09 23:22 UTC  |  janela 90 min  |  103 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      2      77      2  Os mistérios, fragilidades e especulações 
+       ineditas: mendonca, usado
+       veiculos: Congresso em Foco, G1 Politica, Gazeta do Povo Rep, Google Trends BR, Metropoles, O Antagonista, Poder360
+       . [G1 Politica] Relatório usado por Moraes recomenda 'monitoramento e coleta dirigida' sobre Mendonça e Messias
+       . [Poder360] Mendonça agradece orações após pedido de Moraes para investigá-lo
+       . [Congresso em Foco] Em vídeo, Mendonça agradece orações em meio a embate com Moraes
+
+   5      1      68      1  Daniela Lima: Campanha de Lula vai ao Supr
+       ineditas: lula
+       veiculos: Carta Capital, Jurinews, Metropoles, O Antagonista, UOL Notícias
+       . [UOL Notícias] Daniela Lima: Campanha de Lula vai ao Supremo por fim de sigilo no caso Dark Horse
+       . [Jurinews] TSE autoriza pronunciamento de Lula para o 7 de setembro
+       . [Carta Capital] Nunes Marques autoriza Lula a fazer pronunciamento sobre o 7 de Setembro
+
+   3      1      72      1  Em meio à crise, Mendonça agradece apoio a
+       ineditas: mendonca
+       veiculos: Carta Capital, G1 Politica, O Antagonista
+       . [G1 Politica] Em meio à crise, Mendonça agradece apoio a líderes religiosos: 'suas preces são fundamentais para me sustentar
+       . [Carta Capital] Mendonça agradece apoio de fieis em meio a crise no STF
+       . [O Antagonista] Lula fala em reforma do Judiciário em meio à crise do STF
+
+   2      0      80      0  Nikolas leva 'ovada' durante campanha em L
+       veiculos: Estado de Minas, Poder360
+       . [Estado de Minas] Nikolas leva 'ovada' durante campanha em Lagoa Santa
+       . [Poder360] Nikolas Ferreira é atingido por ovo em ato de campanha em MG
+
+   2      0       0      0  STF filtra "aventuras processuais" em caso
+       veiculos: Conjur, conjur.com.br
+       . [conjur.com.br] STF filtra "aventuras processuais" em casos de Justiça gratuita
+       . [Conjur] Ao fixar critério para Justiça gratuita, STF restringe ‘aventuras processuais’
+
+   2      0      19      2  Lucas Ribeiro lidera disputa pelo governo 
+       ineditas: governo, lidera
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Lucas Ribeiro lidera disputa pelo governo da Paraíba, diz pesquisa
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      1      12      0  ONU aprova nova versão do mapa-múndi; veja
+       veiculos: O Antagonista, Poder360
+       . [Poder360] ONU aprova nova versão do mapa-múndi; veja o que muda
+       . [O Antagonista] ONU aprova novo mapa-múndi para corrigir distorções
+
