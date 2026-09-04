@@ -64,8 +64,7 @@ QUANTOS_ANOTAR = 25
 # Os nomes tem que bater com os de FONTES["brasil"] no radar.py.
 GRANDES = {
     "G1 Politica",
-    "Agencia Brasil Pol",
-    "Agencia Brasil Just",
+    "Agencia Brasil",
     "Poder360",
     "BBC Brasil",
     "Gazeta do Povo Rep",
@@ -164,27 +163,33 @@ def titulo_limpo(it):
 #   Agencia Camara  -> ParseError (nao devolve XML)
 #   Migalhas        -> HTTPError
 TROCAR = {
+    # O Senado nao responde XML em nenhum dos dois enderecos que testei
+    # (03 e 04/09). Fica de fora ate eu achar o certo.
     "https://www12.senado.leg.br/noticias/feed":
         "https://www12.senado.leg.br/noticias/feed/todasnoticias",
 }
-REMOVER = {"Agencia Camara", "Migalhas"}
+# Fora da lista por nao devolverem XML valido, medido em varias
+# rodadas seguidas de 03 e 04/09. Nao adianta insistir: cada um deles
+# custa uma conexao e um timeout por rodada.
+REMOVER = {"Agencia Camara", "Migalhas", "Agencia Senado",
+           "Agencia Brasil Pol", "Agencia Brasil Just"}
 
 # Portais grandes que faltavam na lista e que sao justamente os que
 # marcam "isso e breaking" quando publicam. Se algum destes enderecos
 # estiver errado, ele aparece na linha "feeds que falharam" do log - e
 # ai eu troco. Melhor descobrir medindo do que supondo.
 ACRESCENTAR = [
-    ("CNN Brasil Politica", "https://www.cnnbrasil.com.br/politica/feed/"),
     ("Folha Poder", "https://feeds.folha.uol.com.br/poder/rss091.xml"),
-    ("UOL Noticias", "https://rss.uol.com.br/feed/noticias.xml"),
+    ("UOL Politica", "https://rss.uol.com.br/feed/politica.xml"),
     ("Metropoles", "https://www.metropoles.com/feed"),
     # Veiculos de linha conservadora, pedidos em 03/09. Entram porque
     # cobrem pauta que os grandes as vezes deixam passar - e e ai que
     # da para chegar antes.
-    ("Revista Oeste", "https://revistaoeste.com/feed/"),
+    ("Revista Oeste", "https://revistaoeste.com/feed"),
     ("O Antagonista", "https://oantagonista.com.br/feed/"),
     ("Claudio Dantas", "https://claudiodantas.com.br/feed/"),
     ("Veja", "https://veja.abril.com.br/feed/"),
+    ("Agencia Brasil", "https://agenciabrasil.ebc.com.br/feed/"),
 ]
 
 # Os veiculos alinhados ao canal.
@@ -434,6 +439,122 @@ def registra(grupo, memoria, agora):
         memoria.setdefault(p, agora)
 
 
+# --- QUANDO ALERTAR -------------------------------------------------
+#
+# Os dois numeros abaixo NAO foram escolhidos: foram medidos em 81
+# rodadas, 444 grupos, entre a tarde de 03/09 e a manha de 04/09.
+#
+# O que a medicao mostrou, olhando so o dia 04:
+#
+#   99 dos 203 grupos tiveram ZERO palavras ineditas -> repeteco puro
+#   os eventos de verdade ficam todos na cauda
+#
+# Com 6 veiculos e 5 palavras ineditas, os eventos que passariam na
+# madrugada foram, em ordem:
+#
+#   00h02  Moraes encaminha a Fachin pedido de investigacao   13 veic
+#   00h42  Moraes aponta "fortes indicios de crimes"          15 veic
+#   01h12  Moraes acusa Mendonca de abuso de autoridade       21 veic
+#   02h12  Fachin cobra informacoes de Mendonca               13 veic
+#   02h52  Crise escala no STF                                11 veic
+#
+# Todos fatos reais, na ordem em que aconteceram. Nenhuma pauta de
+# agenda passou - a taxa das blusinhas, que tinha 11 veiculos, ficou
+# de fora porque nao trouxe palavra inedita nenhuma.
+#
+# Dao cerca de 27 alertas por dia.
+MINIMO_VEICULOS = 6
+MINIMO_INEDITAS = 5
+
+# Um evento so e avisado UMA vez. Sem isto, "Moraes acusa Mendonca"
+# seria enviado em 5 rodadas seguidas, porque continua batendo o corte
+# enquanto os veiculos publicam.
+ARQUIVO_ENVIADOS = "brasil_enviados.json"
+HORAS_SEM_REPETIR = 10
+
+
+def ja_foi_avisado(grupo, enviados, agora):
+    """
+    Este evento ja saiu no canal?
+
+    Compara pelas palavras do grupo, nao pelo titulo: o titulo muda a
+    cada rodada conforme entram manchetes novas, mas o conjunto de
+    palavras do assunto continua o mesmo.
+    """
+    minhas = palavras_do_grupo(grupo)
+    limite = agora - HORAS_SEM_REPETIR * 3600
+    for antigas, quando in enviados:
+        if quando < limite:
+            continue
+        comuns = len(minhas & set(antigas))
+        if comuns / max(1, min(len(minhas), len(antigas))) >= 0.5:
+            return True
+    return False
+
+
+def monta_alerta(grupo, espalho):
+    fontes = sorted(grupo["fontes"])
+    campo = sorted(grupo["fontes"] & CAMPO_DO_CANAL)
+    grandes = grupo["fontes"] & GRANDES
+
+    # a manchete mais antiga: quem deu primeiro
+    com_data = [i for i in grupo["itens"] if i["data"]]
+    primeiro = min(com_data, key=lambda i: i["data"]) if com_data \
+        else grupo["itens"][0]
+
+    linhas = ["🔴 <b>BREAKING — BRASIL</b>", ""]
+    linhas.append(f"<b>{escapa(primeiro['titulo'])}</b>")
+    linhas.append("")
+    linhas.append(f"📊 {len(grupo['fontes'])} veiculos em "
+                  f"{espalho if espalho is not None else '?'} min")
+    if campo:
+        linhas.append(f"✅ Do seu campo: {escapa(', '.join(campo))}")
+    elif not grandes:
+        linhas.append("⚠️ Nenhum portal grande cobriu ainda")
+    linhas.append("")
+
+    # as outras manchetes, para dar os angulos
+    vistas = {normaliza(primeiro["titulo"])[:60]}
+    for it in sorted(grupo["itens"], key=lambda i: i["fonte"]):
+        chave = normaliza(it["titulo"])[:60]
+        if chave in vistas:
+            continue
+        vistas.add(chave)
+        linhas.append(f"• <b>{escapa(it['fonte'])}</b>: "
+                      f"{escapa(it['titulo'][:130])}")
+        if it["link"]:
+            linhas.append(f"  {escapa(it['link'])}")
+        if len(vistas) >= 6:
+            break
+
+    return "\n".join(linhas)
+
+
+def escapa(t):
+    return (t.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;"))
+
+
+def envia(texto):
+    token = os.environ.get("TELEGRAM_TOKEN", "")
+    chat = os.environ.get("CHAT_ID_BREAKING", "")
+    if not token or not chat:
+        print("  faltou TELEGRAM_TOKEN ou CHAT_ID_BREAKING - nao enviei")
+        return False
+    try:
+        import urllib.request, urllib.parse
+        dados = urllib.parse.urlencode({
+            "chat_id": chat, "text": texto, "parse_mode": "HTML",
+            "disable_web_page_preview": "true",
+        }).encode()
+        req = urllib.request.Request(
+            f"https://api.telegram.org/bot{token}/sendMessage", data=dados)
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return b'"ok":true' in r.read()
+    except Exception as e:
+        print(f"  Telegram falhou: {e}")
+        return False
+
+
 def minutos_de_espalhamento(grupo):
     """
     Em quantos minutos o assunto se espalhou.
@@ -503,6 +624,8 @@ def escreve_log(grupos, total, erros, sem_data, minutos):
 def main():
     p = argparse.ArgumentParser()
     p.add_argument("--minutos", type=int, default=MINUTOS_JANELA)
+    p.add_argument("--mudo", action="store_true",
+                   help="mostra o que sairia, sem mandar ao Telegram")
     args = p.parse_args()
 
     itens, erros, sem_data = coleta_minutos(args.minutos)
@@ -519,6 +642,41 @@ def main():
     com_fato = sum(1 for g in grupos if len(g["novas"]) >= 2)
     print(f"  {com_fato} grupos trazem fato novo, "
           f"{len(grupos) - com_fato} sao repeteco")
+
+    # --- alertas ---
+    try:
+        with open(ARQUIVO_ENVIADOS, encoding="utf-8") as f:
+            enviados = [(set(a), q) for a, q in json.load(f)]
+    except Exception:
+        enviados = []
+    enviados = [(a, q) for a, q in enviados
+                if q >= agora - HORAS_SEM_REPETIR * 3600]
+
+    mandados = 0
+    for g in grupos:
+        if len(g["fontes"]) < MINIMO_VEICULOS:
+            continue
+        if len(g["novas"]) < MINIMO_INEDITAS:
+            continue
+        if ja_foi_avisado(g, enviados, agora):
+            continue
+        texto = monta_alerta(g, minutos_de_espalhamento(g))
+        if args.mudo:
+            print("\n--- SAIRIA ESTE ALERTA ---\n" + texto + "\n")
+            mandados += 1
+        elif envia(texto):
+            print(f"  ALERTA enviado: {g['rotulo'][:60]}")
+            enviados.append((palavras_do_grupo(g), agora))
+            mandados += 1
+
+    if not args.mudo:
+        try:
+            with open(ARQUIVO_ENVIADOS, "w", encoding="utf-8") as f:
+                json.dump([[sorted(a), q] for a, q in enviados], f)
+        except Exception as e:
+            print(f"  nao gravei os enviados: {e}")
+
+    print(f"  {mandados} alerta(s)")
     escreve_log(grupos, len(itens), erros, sem_data, args.minutos)
 
     print(f"\nMODO MEDICAO: nada foi enviado ao Telegram.")
