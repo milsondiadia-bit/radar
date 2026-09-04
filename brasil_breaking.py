@@ -544,7 +544,11 @@ def monta_alerta(grupo, espalho):
     primeiro = min(com_data, key=lambda i: i["data"]) if com_data \
         else grupo["itens"][0]
 
-    linhas = ["🔴 <b>BREAKING — BRASIL</b>", ""]
+    # horario de Brasilia: o servidor do GitHub roda em UTC, e 3 horas
+    # a mais. Sem isto, o alerta das 2h da manha chegaria marcado 05h.
+    agora_br = datetime.now(timezone.utc) - timedelta(hours=3)
+    linhas = ["🔴 <b>BREAKING — BRASIL</b>",
+              f"<i>detectado às {agora_br.strftime('%Hh%M')}</i>", ""]
     if primeiro["link"]:
         linhas.append(f'<b><a href="{escapa(primeiro["link"])}">'
                       f'{escapa(primeiro["titulo"])}</a></b>')
