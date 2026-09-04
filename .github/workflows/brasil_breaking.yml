@@ -28,13 +28,14 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID_BREAKING: ${{ secrets.CHAT_ID_BREAKING }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python brasil_breaking.py --minutos 90
 
       - name: Guardar o log da medicao
         run: |
           git config user.name "radar-bot"
           git config user.email "radar-bot@users.noreply.github.com"
-          git add log.txt brasil_vistos.json brasil_enviados.json 2>/dev/null || true
+          git add log.txt brasil_vistos.json brasil_enviados.json ancapsu_vistos.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "Nada novo no log."
           else
