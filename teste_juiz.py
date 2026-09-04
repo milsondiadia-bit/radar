@@ -12,6 +12,7 @@ Nao envia nada ao Telegram. Nao altera nenhum arquivo do bot.
 import os
 import re
 import json
+import time
 import importlib.util
 
 spec = importlib.util.spec_from_file_location("bb", "brasil_breaking.py")
@@ -79,7 +80,9 @@ def main():
     linhas.append("")
 
     acertos = 0
-    for titulo, esperado, origem in CASOS:
+    for i, (titulo, esperado, origem) in enumerate(CASOS):
+        if i:
+            time.sleep(6)   # nao estourar o limite de taxa do Gemini
         obtido, motivo = traz_fato_novo(titulo, JA_AVISADO, CHAVE)
         ok = (obtido == esperado)
         acertos += ok
