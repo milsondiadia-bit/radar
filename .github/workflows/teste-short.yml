@@ -1,0 +1,25 @@
+name: Teste Short
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  testar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python teste_short.py
+      - name: Guardar o resultado
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "bot@radar"
+          git add teste_short.txt || true
+          git diff --staged --quiet || git commit -m "resultado do teste de short"
+          git pull --rebase --autostash origin ${{ github.ref_name }} || true
+          git push || true
