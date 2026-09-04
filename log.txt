@@ -9883,3 +9883,57 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Nikolas é atingido por ovo durante ato de campanha na Grande BH
        . [O Antagonista] Homem joga ovos em Nikolas durante ato de campanha
 
+==============================================================================
+RODADA 04/09 21:52 UTC  |  janela 90 min  |  99 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      60      0  Novo pedido de impeachment de Moraes chega
+       veiculos: G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [Gazeta do Povo Rep] Transparência Internacional defende saída de Alexandre de Moraes do cargo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   3      2       9      0  Elmano reduz distância para Ciro no Ceará,
+       veiculos: Carta Capital, O Antagonista, Veja
+       . [Carta Capital] AtlasIntel: Ciro tem 48% no primeiro turno; Elmano pontua 45%
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+       . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
+
+   3      2      64      0  Em meio à crise no STF, André Mendonça agr
+       veiculos: Claudio Dantas, Metropoles, Veja
+       . [Metropoles] Em meio à crise do STF, cúpula da OAB viaja à Suíça
+       . [Claudio Dantas] Em meio à crise no STF, André Mendonça agradece orações: “Que Deus nos abençoe”
+       . [Veja] André Mendonça divulga vídeo no meio da crise das mensagens de Vorcaro e Moraes no STF
+
+   2      0      87      0  Pesquisa AtlasIntel mostra liderança de Fl
+       veiculos: Carta Capital, Poder360
+       . [Poder360] Flávio tem 41,3% das intenções de voto contra 39,1% de Lula no Amazonas
+       . [Poder360] Lula tem 54,6% ante 30,1% de Flávio no 2º turno no Ceará, diz pesquisa
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+
+   2      0      21      2  Debate para o Senado em Mato Grosso do Sul
+       ineditas: grosso, mato
+       veiculos: G1 Politica, Metropoles
+       . [G1 Politica] VÍDEOS: o que os candidatos ao Senado de MS disseram no debate do g1
+       . [G1 Politica] Candidatos ao Senado por Mato Grosso do Sul participam de debate no g1; veja íntegra
+       . [G1 Politica] Debate para o Senado em Mato Grosso do Sul; veja como foi
+
+   2      1       9      0  Os mistérios, fragilidades e especulações 
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Entenda a cronologia da crise no STF com embate entre Moraes e Mendonça
+       . [Gazeta do Povo Rep] Os mistérios, fragilidades e especulações do relatório de Moraes contra Mendonça
+
+   2      0       2      1  julio iglesias
+       ineditas: julio
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] julio iglesias
+       . [Metropoles] TJSP mantém condenação após humorista associar padre Júlio à pedofilia
+
+   2      1      18      3  Nikolas é atingido por ovo durante ato de 
+       ineditas: campanha, durante, nikolas
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Nikolas é atingido por ovo durante ato de campanha na Grande BH
+       . [O Antagonista] Homem joga ovos em Nikolas durante ato de campanha
+
