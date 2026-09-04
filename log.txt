@@ -4489,3 +4489,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] ministro andré mendonça
        . [Metropoles] Candidato ao GDF, Expedito Mendonça propõe fim do STF em plano de governo
 
+==============================================================================
+RODADA 04/09 06:42 UTC  |  janela 90 min  |  17 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      44      0  Moraes acusa Mendonça de agir por 'motivos
+       veiculos: BBC, BBC Brasil, Google Trends BR, Metropoles
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e agrava crise no STF
+       . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
+       . [Google Trends BR] ministro andré mendonça
+
