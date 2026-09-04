@@ -9610,3 +9610,63 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
        . [O Antagonista] Gonet pretende responder “o quanto antes” sobre mensagens de Vorcaro
 
+==============================================================================
+RODADA 04/09 21:12 UTC  |  janela 90 min  |  103 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      47      0  O novo pedido de impeachment contra Alexan
+       veiculos: G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Veja
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [Gazeta do Povo Rep] Transparência Internacional defende saída de Alexandre de Moraes do cargo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   3      0      36      1  Pesquisa AtlasIntel mostra liderança de Fl
+       ineditas: atlasintel
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+       . [Carta Capital] AtlasIntel: Lula lidera com folga no Ceará e abre 26 pontos sobre Flávio Bolsonaro no primeiro turno
+       . [Carta Capital] AtlasIntel: Ciro tem 48% no primeiro turno; Elamano pontua 45%
+
+   3      2      15      1  Atlas: Ciro e Elmano estão tecnicamente em
+       ineditas: atlasintel
+       veiculos: Metropoles, O Antagonista, Veja
+       . [Metropoles] Atlas: Ciro e Elmano estão tecnicamente empatados nos dois turnos no Ceará
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+       . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
+
+   2      0      21      2  madrid
+       ineditas: madrid, real
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] madrid
+       . [Google Trends BR] real madrid fc
+       . [Metropoles] Mbappé perde pênalti e Betis derrota o Real Madrid pelo Campeonato Espanhol
+
+   2      0      61      0  No Parcão, extrema direita transforma comí
+       veiculos: Brasil de Fato, Google Trends BR
+       . [Brasil de Fato] No Parcão, extrema direita transforma comício de Flávio Bolsonaro em micareta política
+       . [Google Trends BR] rogéria bolsonaro
+
+   2      0      30      0  Lula se diz ‘predestinado’ a transformar o
+       veiculos: Estadão, Poder360
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+
+   2      0      36      1  Cobranças ao governo federal pela ausência
+       ineditas: oficial
+       veiculos: Lula | Site oficial, gauchazh.clicrbs.com.br
+       . [Lula | Site oficial] Obras de segurança hídrica do Governo Lula mudam realidade do semiárido no Ceará - Lula | Site oficial
+       . [gauchazh.clicrbs.com.br] Cobranças ao governo federal pela ausência de Lula marcam a abertura oficial da Expointer
+
+   2      1      53      0  Lula afirma ter dito a Trump que Brasil nã
+       veiculos: Gazeta do Povo Rep, Metrópoles
+       . [Metrópoles] Governo brasileiro não descarta encontro casual entre Lula e Trump na ONU
+       . [Gazeta do Povo Rep] Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+
+   2      0      14      1  palmeiras sub 20
+       ineditas: palmeiras
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] palmeiras sub 20
+       . [Metropoles] Santos confirma lesão de Neymar após jogo contra Palmeiras; leia nota
+
