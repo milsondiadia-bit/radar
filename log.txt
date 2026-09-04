@@ -6168,3 +6168,86 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
        . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
 
+==============================================================================
+RODADA 04/09 14:22 UTC  |  janela 90 min  |  113 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  11      3      79      0  Fachin tira do Inquérito das Fake News ped
+       veiculos: Agência Brasil, BBC Brasil, Carta Capital, Claudio Dantas, Folha Poder, G1 Politica, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, dw.com
+       . [Agência Brasil] Fachin dá 5 dias para Mendonça e Gonet responderem acusação de Moraes
+       . [dw.com] Crise no STF escala com guerra entre Moraes e Mendonça
+       . [G1 Politica] Fachin precisa propor algum tipo de punição para Moraes e Mendonça, dizem interlocutores do presidente do STF
+
+   3      1      36      0  Fachin retira Mendonça do inquérito das fa
+       veiculos: CNN Brasil, O Antagonista, Poder360
+       . [CNN Brasil] Fim do inquérito das fake news entra na equação para resolver crise no STF
+       . [Poder360] Leia a íntegra da decisão que tira Mendonça do inquérito das fake news
+       . [O Antagonista] Fachin retira Mendonça do inquérito das fake news
+
+   3      1      22      1  flávio dino
+       ineditas: flavio
+       veiculos: Google Trends BR, Metropoles, Veja
+       . [Google Trends BR] flávio dino
+       . [Metropoles] Prefeito de cidade do MS doa R$ 300 mil para campanha de Flávio Bolsonaro
+       . [Veja] Como está a disputa entre Lula e Flávio Bolsonaro nas regiões brasileiras, segundo o Datafolha
+
+   2      0       3      1  Fachin e a política do rule of law
+       ineditas: politica
+       veiculos: Congresso em Foco, brasildefato.com.br
+       . [brasildefato.com.br] Mídia alimenta picuinha política e esquece de cobrar políticas públicas para proteção animal em João Pessoa
+       . [Congresso em Foco] Fachin e a política do rule of law
+
+   2      0      47      0  Eleições 2026: saiba como consultar local 
+       veiculos: G1, Portal Catarinas
+       . [Portal Catarinas] Catarinas abre chamada para candidatas feministas de todo Brasil nas eleições de 2026
+       . [G1] Eleições 2026: saiba como consultar local e seção de votação
+
+   2      0      31      2  Crise sem precedentes expõe as entranhas d
+       ineditas: supremo, tribunal
+       veiculos: GZH, instagram.com
+       . [GZH] Crise sem precedentes expõe as entranhas do Supremo Tribunal Federal
+       . [instagram.com] 🎙️ PODCAST | Depois de um relatório da Polícia Federal ter o sigilo retirado e revelar novas mensagens do banq
+
+   2      0      41      0  Governo Lula manifesta ‘profunda preocupaç
+       veiculos: EuQueroInvestir, Jovem Pan
+       . [Jovem Pan] Governo Lula manifesta ‘profunda preocupação’ com suspensão de carne para UE
+       . [EuQueroInvestir] Vale: Governo Lula impediu IPO da VBM, diz jornal canadense
+
+   2      1      30      2  Número de mortos em megaenchente no Nepal 
+       ineditas: mortos, nepal
+       veiculos: BBC Brasil, Veja
+       . [BBC Brasil] Como Nepal resgatou dois sobreviventes em túnel nove dias após  avalanche que deixou mais de 1,3 mil mortos
+       . [Veja] Número de mortos em megaenchente no Nepal e Tibete passa de 1.300
+
+   2      1      47      4  Trump diz que vai exigir reembolso de país
+       ineditas: ajuda, europeus, paises, ucrania
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Trump cobrará que países europeus reembolsem os EUA por ajuda à Ucrânia
+       . [Veja] Trump diz que vai exigir reembolso de países europeus pela ajuda militar concedida à Ucrânia
+
+   2      0      40      1  tv globo
+       ineditas: globo
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] tv globo
+       . [Metropoles] Diretor da TV Globo é demitido por desistir da cobertura exclusiva da Copa
+
+   2      1      33      3  Anitta alfineta Belo ao vivo e causa saia-
+       ineditas: anitta, casa, estrelas
+       veiculos: Metropoles, Veja
+       . [Metropoles] Vídeo: Anitta expõe participante que falou mal dela no Estrelas da Casa
+       . [Veja] Anitta alfineta Belo ao vivo e causa saia-justa no ‘Estrelas da Casa’
+
+   2      1      32      2  Dólar sobe e Bolsa afunda com temor de alt
+       ineditas: alta, juros
+       veiculos: Metropoles, Veja
+       . [Metropoles] Dólar sobe e Bolsa afunda com temor de alta de juros nos EUA
+       . [Veja] Ibovespa cai após dados do payroll reforçarem alta de juros nos EUA
+
+   2      2       5      6  Nunes Marques: ‘Justiça não possui preferê
+       ineditas: candidaturas, justica, marques, nunes, possui, preferencia
+       veiculos: Claudio Dantas, O Antagonista
+       . [O Antagonista] A Justiça “não possui preferência por candidaturas”, diz Nunes Marques
+       . [Claudio Dantas] Nunes Marques: ‘Justiça não possui preferência por candidaturas’
+
