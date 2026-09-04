@@ -9750,3 +9750,66 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
        . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
 
+==============================================================================
+RODADA 04/09 21:32 UTC  |  janela 90 min  |  99 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      36      0  Pesquisa AtlasIntel mostra liderança de Fl
+       veiculos: Carta Capital, Google Trends BR, Poder360
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+       . [Carta Capital] AtlasIntel: Lula lidera com folga no Ceará e abre 26 pontos sobre Flávio Bolsonaro no primeiro turno
+       . [Carta Capital] AtlasIntel: Ciro tem 48% no primeiro turno; Elamano pontua 45%
+
+   3      1      43      1  Zema defende prisão de Alexandre de Moraes
+       ineditas: revelacoes
+       veiculos: G1 Politica, Gazeta do Povo Rep, Metropoles
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [Gazeta do Povo Rep] Transparência Internacional defende saída de Alexandre de Moraes do cargo
+       . [Gazeta do Povo Rep] Impeachment de Alexandre de Moraes: qual é a posição de cada senador
+
+   2      0      17      1  Deputado aciona Supremo para investigar do
+       ineditas: campanha
+       veiculos: Folha Poder, Valor Econômico
+       . [Valor Econômico] Tarcísio diz que suspeita de propina de Vorcaro para sua campanha 2022 é absurda
+       . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
+
+   2      1      29      0  Exportações para os EUA têm queda de 9,7% 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+       . [O Antagonista] Depois de um mês encontrando pegadas enormes junto ao barco todas as manhãs, pescador instala uma câmera no pí
+
+   2      1      82      2  ONU adota novo mapa-múndi de interesse do 
+       ineditas: mapa, mundi
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] ONU aprova uso do mapa-múndi mais fiel ao tamanho dos continentes
+       . [Veja] ONU adota novo mapa-múndi de interesse do Sul Global apesar de voto contrário dos EUA
+
+   2      1      54      0  Lula afirma ter dito a Trump que Brasil nã
+       veiculos: Gazeta do Povo Rep, Metropoles
+       . [Gazeta do Povo Rep] Lula afirma ter dito a Trump que Brasil não aceita interferência nas eleições
+       . [Metropoles] Governo brasileiro não descarta encontro casual entre Lula e Trump na ONU
+
+   2      0       2      1  julio iglesias
+       ineditas: julio
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] julio iglesias
+       . [Metropoles] TJSP mantém condenação após humorista associar padre Júlio à pedofilia
+
+   2      1      28      0  Em meio à crise no STF, André Mendonça agr
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Em meio à crise do STF, cúpula da OAB viaja à Suíça
+       . [Claudio Dantas] Em meio à crise no STF, André Mendonça agradece orações: “Que Deus nos abençoe”
+
+   2      1      18      3  Nikolas é atingido por ovo durante ato de 
+       ineditas: campanha, durante, nikolas
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Nikolas é atingido por ovo durante ato de campanha na Grande BH
+       . [O Antagonista] Homem joga ovos em Nikolas durante ato de campanha
+
+   2      2       9      0  Elmano reduz distância para Ciro no Ceará,
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+       . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
+
