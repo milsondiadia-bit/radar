@@ -4368,3 +4368,20 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Horóscopo 2026: confira a previsão de hoje (4/9) para seu signo
        . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
 
+==============================================================================
+RODADA 04/09 05:12 UTC  |  janela 90 min  |  37 manchetes  |  0 sem data  |  5 feeds com erro
+==============================================================================
+feeds que falharam: Agencia Brasil Pol: ParseError; Agencia Senado: ParseError; CNN Brasil Politica: HTTPError; UOL Noticias: ParseError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      81      0  Moraes acusa Mendonça de agir por 'motivos
+       veiculos: BBC, BBC Brasil
+       . [BBC] Moraes acusa Mendonça de agir por 'motivos políticos' e pede que colega de STF seja investigado
+       . [BBC Brasil] Moraes acusa Mendonça de agir para favorecer 'grupos políticos', pede providências de Fachin e agrava crise no
+
+   2      1      50      2  Horóscopo do dia: previsão para os 12 sign
+       ineditas: horoscopo, previsao
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Horóscopo 2026: confira a previsão de hoje (4/9) para seu signo
+       . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 04/09/2026
+
