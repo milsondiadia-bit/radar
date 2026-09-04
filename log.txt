@@ -9517,3 +9517,55 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Atlas: Ciro e Elmano estão tecnicamente empatados nos dois turnos no Ceará
        . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
 
+==============================================================================
+RODADA 04/09 20:52 UTC  |  janela 90 min  |  101 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Gazeta do Povo Rep: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      86      0  Lula se diz convicto de que Elmano pode vi
+       veiculos: Carta Capital, Metropoles, O Antagonista, Poder360, SBT News, Veja
+       . [SBT News] Lula espera avanço do fim da escala 6×1 após 1º turno
+       . [Poder360] Lula tem 54% e Flávio, 16%, em 1º turno no CE, diz pesquisa
+       . [Poder360] Ciro tem 49% e Elmano, 36%, em 2º turno no CE, diz pesquisa
+
+   4      3      81      0  Esquerda articula pedido de impeachment co
+       veiculos: Claudio Dantas, Metropoles, O Antagonista, Veja
+       . [Metropoles] Kiko Caputo diz ser "radicalmente a favor" de impeachment Moraes
+       . [O Antagonista] Papo Antagonista: Reforma no STF, impeachment de Mendonça e pressão sobre Moraes
+       . [Claudio Dantas] Esquerda articula pedido de impeachment contra Mendonça  com base em relatório de Moraes
+
+   3      2      15      1  Atlas: Ciro e Elmano estão tecnicamente em
+       ineditas: atlasintel
+       veiculos: Metropoles, O Antagonista, Veja
+       . [Metropoles] Atlas: Ciro e Elmano estão tecnicamente empatados nos dois turnos no Ceará
+       . [O Antagonista] Elmano reduz distância para Ciro no Ceará, aponta AtlasIntel
+       . [Veja] Ciro oscila para baixo e volta a empatar com Elmano no Ceará, indica AtlasIntel
+
+   2      0      33      0  Lula se diz ‘predestinado’ a transformar o
+       veiculos: Estadão, Poder360
+       . [Estadão] Lula se diz ‘predestinado’ a transformar o Brasil em um país de classe média alta
+       . [Poder360] Exportações para os EUA têm queda de 9,7% no ano e alta em agosto
+
+   2      0      36      1  Cobranças ao governo federal pela ausência
+       ineditas: oficial
+       veiculos: Lula | Site oficial, gauchazh.clicrbs.com.br
+       . [Lula | Site oficial] Obras de segurança hídrica do Governo Lula mudam realidade do semiárido no Ceará - Lula | Site oficial
+       . [gauchazh.clicrbs.com.br] Cobranças ao governo federal pela ausência de Lula marcam a abertura oficial da Expointer
+
+   2      0      79      0  Os novos indícios que ligam o número de te
+       veiculos: BBC Brasil, G1 Politica
+       . [G1 Politica] Zema defende prisão de Alexandre de Moraes após revelações sobre relação com Vorcaro
+       . [BBC Brasil] Os novos indícios que ligam o número de telefone salvo por Daniel Vorcaro a Alexandre de Moraes
+
+   2      1      21      0  Gonet pretende responder “o quanto antes” 
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Conselho Superior do MPF quer analisar citação a Gonet por Vorcaro
+       . [O Antagonista] Gonet pretende responder “o quanto antes” sobre mensagens de Vorcaro
+
+   2      0       5      1  Alencar Santana aciona STF para investigar
+       ineditas: aciona
+       veiculos: Folha Poder, Metropoles
+       . [Folha Poder] Deputado aciona Supremo para investigar doação de campanha de Vorcaro a Tarcísio
+       . [Metropoles] Alencar Santana aciona STF para investigar suposta propina a Tarcísio
+
