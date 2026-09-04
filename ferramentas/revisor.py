@@ -108,6 +108,46 @@ def ordinal_extenso(n, feminino=False):
 
 
 # ---------------------------------------------------------------------
+# NOMES QUE NAO PODEM SER MEXIDOS
+# ---------------------------------------------------------------------
+# Nome proprio de instituicao passa por cima de qualquer regra: nao se
+# escreve "Organizacao pra Libertacao da Palestina". Adivinhar isso por
+# regra erra dos dois lados, entao aqui vai uma lista simples.
+#
+# PODE ACRESCENTAR. Escreva o nome exatamente como aparece no texto,
+# entre aspas, com uma virgula no fim.
+INTOCAVEIS = [
+    "Organização para a Libertação da Palestina",
+    "Organização para a Cooperação",
+    "Agência Internacional para",
+    "Fundo para",
+    "Comissão para",
+    "Conselho para",
+    "Instituto para",
+    "Aliança para",
+    "Pacto para",
+    "Programa para",
+]
+
+
+def protege(t):
+    """Guarda os nomes intocaveis antes das trocas."""
+    guardados = {}
+    for i, nome in enumerate(INTOCAVEIS):
+        if nome in t:
+            marca = f"«INTOCAVEL{i}»"
+            guardados[marca] = nome
+            t = t.replace(nome, marca)
+    return t, guardados
+
+
+def devolve(t, guardados):
+    for marca, nome in guardados.items():
+        t = t.replace(marca, nome)
+    return t
+
+
+# ---------------------------------------------------------------------
 # as regras
 # ---------------------------------------------------------------------
 
@@ -191,6 +231,15 @@ TROCAS = [
     (r"\bEai\b", "É aí", "Eai"),
     (r"\bestá\b", "tá", "está"),
     (r"\bEstá\b", "Tá", "Está"),
+    # "para" so vira "pra" quando e preposicao. Duas armadilhas que o
+    # teste de 04/09/2026 pegou numa redacao de verdade:
+    #   "a maquina para de funcionar"  -> aqui e o verbo parar
+    #   "Organizacao para a Libertacao" -> aqui e nome proprio
+    # Por isso as duas linhas de baixo, que travam esses dois casos,
+    # precisam vir ANTES de qualquer troca.
+    (r"\bpara\s+de\b", "«PARAR» de", None),
+    (r"(?<=[A-ZÀ-Ú][a-zà-ú]{2})(\s+)para(\s+[a-z]{1,3}\s+[A-ZÀ-Ú])",
+     r"\1«PARAR»\2", None),
     (r"\bpara\s+os\b", "pros", "para os"),
     (r"\bpara\s+as\b", "pras", "para as"),
     (r"\bpara\s+o\b", "pro", "para o"),
@@ -199,6 +248,8 @@ TROCAS = [
     (r"\bPara\s+a\b", "Pra", "Para a"),
     (r"\bpara\b", "pra", "para"),
     (r"\bPara\b", "Pra", "Para"),
+    # devolve o que foi protegido acima
+    (r"«PARAR»", "para", None),
     (r"\bpor\s+quê\b", "porque", "por quê"),
     (r"\bpor\s+que\b", "porque", "por que"),
     (r"\bPor\s+que\b", "Porque", "Por que"),
@@ -273,7 +324,8 @@ def regra_pais(t, rel):
 def regra_trocas(t, rel):
     for padrao, novo_txt, nome in TROCAS:
         t, n = re.subn(padrao, novo_txt, t)
-        rel(f"'{nome}' → '{novo_txt.strip()}'", n)
+        if nome:
+            rel(f"'{nome}' → '{novo_txt.strip()}'", n)
     return t
 
 
@@ -321,7 +373,7 @@ def revisar(texto):
         if n:
             contagem[nome] = contagem.get(nome, 0) + n
 
-    t = texto
+    t, guardados = protege(texto)
     # a ordem importa: horario antes de numeros, senao 19h vira dezenove h
     t = regra_horarios(t, rel)
     # moeda ANTES da virgula: depois de "32,9" virar "32 virgula 9"
@@ -335,6 +387,7 @@ def revisar(texto):
     t = regra_hifen_barra(t, rel)
     t = regra_travessao(t, rel)
     t = re.sub(r"[ \t]{2,}", " ", t)
+    t = devolve(t, guardados)
 
     # a busca roda num texto de uma linha so: sem isso, um vicio que
     # cai bem na quebra de paragrafo ("Na minha\navaliacao") escapa
