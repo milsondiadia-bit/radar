@@ -13995,3 +13995,52 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
        . [Veja] Zanin aciona Justiça Eleitoral após Deltan incluir seus dados sigilosos em candidatura
 
+==============================================================================
+RODADA 05/09 21:12 UTC  |  janela 90 min  |  87 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      0      61      0  Delegados da PF pedem que Gonet se declare
+       veiculos: CNN Brasil, Carta Capital, Congresso em Foco, Folha de S.Paulo, Metropoles, Poder360
+       . [CNN Brasil] Delegados da PF pedem que Gonet se declare impedido em caso Moraes
+       . [Folha de S.Paulo] Delegados da PF pedem que Gonet se declare impedido de apurar atos que o citem no caso Master
+       . [Poder360] Delegados da PF pedem que Gonet se declare impedido em caso do Master
+
+   5      1      49      4  Gilmar Mendes protocola proposta para proi
+       ineditas: formaliza, militares, proibir, vetar
+       veiculos: CNN Brasil, Folha Poder, G1 Politica, Metropoles, O Antagonista
+       . [CNN Brasil] Gilmar formaliza proposta para proibir delegados e militares no STF
+       . [G1 Politica] Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministro
+       . [Folha Poder] Gilmar formaliza proposta para vetar membros da PF e das Forças Armadas em gabinetes do STF
+
+   4      2      20      0  Flávio Bolsonaro diz que julgamento do 8 d
+       veiculos: Folha de S.Paulo, O Antagonista, Poder360, Veja
+       . [Folha de S.Paulo] Flávio Bolsonaro chama Moraes de 'laranja podre do STF' em visita a condenado por trama golpista
+       . [Poder360] Gabinete de Moraes é o gabinete da perseguição, diz Flávio Bolsonaro
+       . [O Antagonista] Flávio se diz decepcionado com Alcolumbre e cobra impeachment de Moraes
+
+   3      1      58      0  Mesmo com gatilho, governo Lula prevê R$ 8
+       veiculos: Folha Poder, Revista Oeste, SeLigaPB
+       . [Revista Oeste] Mesmo com gatilho, governo Lula prevê R$ 8 bi para folha
+       . [Revista Oeste] Governo Lula arrecada R$ 3 trilhões, mas fecha 2025 com déficit de R$ 60 bilhões
+       . [SeLigaPB] Governo Lula tem 51% de desaprovação e 45% de aprovação
+
+   2      1      78      0  Dallagnol divulga sigilo fiscal de ministr
+       veiculos: Poder360, Revista Oeste
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Revista Oeste] Zanin pede providências ao Supremo Tribunal Federal e ao TRE contra Deltan
+
+   2      0      47      3  Caiado promete indicar 4 mulheres para o S
+       ineditas: caiado, mulheres, promete
+       veiculos: Metropoles, Poder360
+       . [Poder360] Caiado promete indicar 4 mulheres para o STF se eleito
+       . [Metropoles] Caiado promete reforma do Judiciário e indicação de quatro mulheres ao STF
+
+   2      2      27      2  Dallagnol apresenta à Justiça documentos c
+       ineditas: aciona, dados
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [Veja] Zanin aciona Justiça Eleitoral após Deltan incluir seus dados sigilosos em candidatura
+
