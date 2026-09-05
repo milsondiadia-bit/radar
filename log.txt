@@ -14200,3 +14200,47 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [G1 Politica] 57% dos eleitores se dizem mais decididos a votar neste ano do que estavam em 2022, diz Datafolha.
        . [Folha Poder] Datafolha: 46% se dizem mais preocupados que em 2022; maioria afirma estar decidida a ir votar
 
+==============================================================================
+RODADA 05/09 21:52 UTC  |  janela 90 min  |  90 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      2      47      3  Gilmar apresenta proposta para proibir del
+       ineditas: barrar, ministros, propoe
+       veiculos: Conjur, Consultor Jurídico, Estadão, Folha Poder, O Antagonista, Revista Oeste, SBT News, Valor Econômico
+       . [Valor Econômico] Gilmar apresenta proposta para proibir delegados e militares em gabinetes de ministros do STF
+       . [Consultor Jurídico] Gilmar propõe proibir policiais e militares em gabinetes do STF
+       . [Estadão] Gilmar oficializa proposta para proibir integrantes da Polícia Federal em gabinetes do STF
+
+   4      2      24      1  Zanin pede que Deltan seja responsabilizad
+       ineditas: sigilosos
+       veiculos: Conjur, Poder360, Revista Oeste, Veja
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Conjur] Zanin pede apuração criminal após ter dados sigilosos divulgados por Deltan
+       . [Revista Oeste] Zanin pede providências ao Supremo Tribunal Federal e ao TRE contra Deltan
+
+   4      1      44      0  Delegados da PF pedem que Gonet se declare
+       veiculos: Carta Capital, Congresso em Foco, Poder360, Veja
+       . [Poder360] Delegados da PF pedem que Gonet se declare impedido em caso do Master
+       . [Congresso em Foco] Caso Master: Delegados pedem impedimento de Gonet, citado em relatório
+       . [Carta Capital] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório do caso Master
+
+   3      0       5      7  Painel: Gestão Nunes pede aval ao governo 
+       ineditas: aval, azuis, criar, faixas, gestao, motos, nunes
+       veiculos: Folha Poder, Folha de S.Paulo, SeLigaPB
+       . [Folha de S.Paulo] Painel: Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+       . [SeLigaPB] Governo Lula tem 51% de desaprovação e 45% de aprovação
+       . [Folha Poder] Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+
+   2      1      47      0  Flávio Bolsonaro chama Moraes de 'laranja 
+       veiculos: Folha de S.Paulo, O Antagonista
+       . [Folha de S.Paulo] Flávio Bolsonaro chama Moraes de 'laranja podre do STF' em visita a condenado por trama golpista
+       . [O Antagonista] Flávio chama Moraes de “laranja podre” do STF
+
+   2      0      38      2  57% dos eleitores se dizem mais decididos 
+       ineditas: 2022, votar
+       veiculos: Folha Poder, G1 Politica
+       . [G1 Politica] 57% dos eleitores se dizem mais decididos a votar neste ano do que estavam em 2022, diz Datafolha.
+       . [Folha Poder] Datafolha: 46% se dizem mais preocupados que em 2022; maioria afirma estar decidida a ir votar
+
