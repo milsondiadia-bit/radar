@@ -12046,3 +12046,22 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Em guerra com Moraes, Mendonça pede preces e se cala sobre caso Master
        . [Revista Oeste] Moraes vandaliza STF em ofensiva contra Mendonça, afirma Estadão
 
+==============================================================================
+RODADA 05/09 11:42 UTC  |  janela 90 min  |  66 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      20      2  Apoiadora agarra Lula no Ceará, e Janja aj
+       ineditas: ceara, janja
+       veiculos: Google Trends BR, Metropoles, O Antagonista
+       . [Google Trends BR] janja lula da silva
+       . [Metropoles] Apoiadora agarra Lula no Ceará, e Janja ajuda a “resgatar” presidente
+       . [O Antagonista] Janja tenta separar Lula de eleitora que o abraçou em ato no Ceará
+
+   2      1      35      2  Moraes vandaliza STF em ofensiva contra Me
+       ineditas: mendonca, moraes
+       veiculos: Metropoles, Revista Oeste
+       . [Metropoles] Em guerra com Moraes, Mendonça pede preces e se cala sobre caso Master
+       . [Revista Oeste] Moraes vandaliza STF em ofensiva contra Mendonça, afirma Estadão
+
