@@ -13421,3 +13421,52 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Com chuva e presença de apoiadores, Flávio visita Filipe Martins em cadeia
        . [Veja] Flávio Bolsonaro visita ex-assessor Filipe Martins na cadeia
 
+==============================================================================
+RODADA 05/09 18:52 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      2      50      1  Lula foge de temas polêmicos em discurso d
+       ineditas: interior
+       veiculos: Carta Capital, Gazeta do Povo Rep, Veja
+       . [Carta Capital] Lula ‘provoca’ Trump com Pix e evita crise do STF em ato de campanha no interior de SP
+       . [Gazeta do Povo Rep] Lula ignora crise no STF em campanha no interior de São Paulo com Haddad
+       . [Veja] Lula foge de temas polêmicos em discurso de campanha no interior de SP
+
+   3      1      30      0  Erika Hilton denuncia acusado de homofobia
+       veiculos: Google Trends BR, Metropoles, Veja
+       . [Google Trends BR] quem ama cuida
+       . [Metropoles] Erika Hilton denuncia acusado de homofobia contra ator de Quem Ama Cuida
+       . [Veja] O esforço de Belize Pombal por Silvana em ‘Quem Ama Cuida’
+
+   2      1      17      1  “Se arrependimento matasse” diz ex-ministr
+       ineditas: ministro
+       veiculos: Gazeta do Povo Rep, Pleno.News
+       . [Pleno.News] Ministro aposentado do STF se arrepende de ter indicado Moraes
+       . [Gazeta do Povo Rep] “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
+
+   2      1      26      1  É “abominável” que paulistas prefiram Tarc
+       ineditas: haddad
+       veiculos: O Antagonista, Poder360
+       . [Poder360] É “abominável” que paulistas prefiram Tarcísio a Haddad, diz Lula
+       . [O Antagonista] Lula pede votos para Haddad, ataca Tarcísio e ignora crise no STF
+
+   2      0      41      2  Dallagnol divulga sigilo fiscal de ministr
+       ineditas: fiscal, sigilo
+       veiculos: Metropoles, Poder360
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Metropoles] Zanin pede responsabilização de Deltan por expor seu sigilo fiscal
+
+   2      1      62      1  Sátira ironiza relação de ministros do STF
+       ineditas: relacao
+       veiculos: Poder360, Revista Oeste
+       . [Poder360] Sátira ironiza relação de ministros do STF com Vorcaro
+       . [Revista Oeste] Como a relação entre Moraes e Vorcaro aprofundou a crise no STF
+
+   2      1      76      4  Com chuva e presença de apoiadores, Flávio
+       ineditas: cadeia, filipe, martins, visita
+       veiculos: Metropoles, Veja
+       . [Metropoles] Com chuva e presença de apoiadores, Flávio visita Filipe Martins em cadeia
+       . [Veja] Flávio Bolsonaro visita ex-assessor Filipe Martins na cadeia
+
