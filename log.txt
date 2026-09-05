@@ -13513,3 +13513,47 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
        . [Metropoles] Zanin pede responsabilização de Deltan por expor seu sigilo fiscal
 
+==============================================================================
+RODADA 05/09 19:12 UTC  |  janela 90 min  |  86 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      67      3  Erika Hilton denuncia acusado de homofobia
+       ineditas: acusado, ator, homofobia
+       veiculos: Google Trends BR, Metropoles, Veja
+       . [Google Trends BR] quem ama cuida
+       . [Metropoles] Streamer acusado de homofobia diz que ator de Quem Ama Cuida foi racista
+       . [Metropoles] Erika Hilton denuncia acusado de homofobia contra ator de Quem Ama Cuida
+
+   3      0      47      6  Zanin pede responsabilização de responsáve
+       ineditas: expor, fiscal, pede, responsabilizacao, sigilo, zanin
+       veiculos: Carta Capital, Metropoles, Metrópoles
+       . [Metrópoles] Zanin pede responsabilização de responsável por expor seu sigilo fiscal
+       . [Carta Capital] Dallagnol expõe dados sigilosos de Zanin em registro de candidatura e ministro pede responsabilização
+       . [Metropoles] Zanin pede responsabilização de Deltan por expor seu sigilo fiscal
+
+   3      2      50      0  Lula foge de temas polêmicos em discurso d
+       veiculos: Carta Capital, Gazeta do Povo Rep, Veja
+       . [Carta Capital] Lula ‘provoca’ Trump com Pix e evita crise do STF em ato de campanha no interior de SP
+       . [Gazeta do Povo Rep] Lula ignora crise no STF em campanha no interior de São Paulo com Haddad
+       . [Veja] Lula foge de temas polêmicos em discurso de campanha no interior de SP
+
+   2      1      69      1  Campanhas de Lula e Flávio trocam ataques,
+       ineditas: datafolha
+       veiculos: Valor Econômico, Veja
+       . [Valor Econômico] Campanhas de Lula e Flávio trocam ataques, e Caiado leva STF e Master ao horário eleitoral
+       . [Veja] Nova pesquisa Datafolha testa disputa Lula x Flávio no maior colégio eleitoral do país
+       . [Veja] Nova pesquisa Datafolha testa disputa Tarcísio x Haddad pelo governo de SP e corrida ao Senado
+
+   2      1      17      0  “Se arrependimento matasse” diz ex-ministr
+       veiculos: Gazeta do Povo Rep, Pleno.News
+       . [Pleno.News] Ministro aposentado do STF se arrepende de ter indicado Moraes
+       . [Gazeta do Povo Rep] “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
+
+   2      1      26      1  É “abominável” que paulistas prefiram Tarc
+       ineditas: haddad
+       veiculos: O Antagonista, Poder360
+       . [Poder360] É “abominável” que paulistas prefiram Tarcísio a Haddad, diz Lula
+       . [O Antagonista] Lula pede votos para Haddad, ataca Tarcísio e ignora crise no STF
+
