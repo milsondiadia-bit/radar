@@ -11620,3 +11620,16 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Veja a agenda dos candidatos ao governo de SP nesta sábado (5/9)
        . [Metropoles] Veja a agenda dos candidatos ao GDF neste sábado (5/9)
 
+==============================================================================
+RODADA 05/09 07:52 UTC  |  janela 90 min  |  27 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      66      1  Governo Lula seguirá desacelerando despesa
+       ineditas: agenda
+       veiculos: Metropoles, Terra
+       . [Terra] Governo Lula seguirá desacelerando despesa obrigatória e vai assegura queda de juros em próximo mandato, diz M
+       . [Metropoles] Veja a agenda dos candidatos ao governo de SP nesta sábado (5/9)
+       . [Metropoles] Veja a agenda dos candidatos ao GDF neste sábado (5/9)
+
