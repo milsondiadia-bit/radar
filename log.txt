@@ -13842,3 +13842,42 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
        . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
 
+==============================================================================
+RODADA 05/09 20:32 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      2      47      1  Alexandre de Moraes é ‘laranja podre’ dent
+       ineditas: chama
+       veiculos: G1 Politica, Metropoles, O Antagonista, Poder360, UOL Notícias, Valor Econômico, Veja, estadao.com.br
+       . [estadao.com.br] Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+       . [Valor Econômico] Após visita a Filipe Martins, Flávio Bolsonaro chama Moraes de 'laranja podre' mas preserva Suprema Corte
+       . [UOL Notícias] Alexandre de Moraes é 'laranja podre' dentro do STF, diz Flávio Bolsonaro
+
+   6      1      65      4  Delegados pedem afastamento de Gonet em ap
+       ineditas: apurar, declare, impedido, pedido
+       veiculos: CNN Brasil, Folha Poder, G1, Metropoles, O Antagonista, Poder360
+       . [CNN Brasil] "Fiquei atônito com pedido de nulidade do relatório da PF", diz Mello à CNN
+       . [G1] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório pedido por Mendonça que cita o
+       . [Poder360] Delegados da PF pedem que Gonet se declare impedido em caso do Master
+
+   3      0      34      2  Dallagnol expõe dados sigilosos de Zanin e
+       ineditas: candidatura, dallagnol
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Carta Capital] Dallagnol expõe dados sigilosos de Zanin em registro de candidatura e ministro pede responsabilização
+
+   3      0       6      6  Gilmar Mendes protocola proposta para proi
+       ineditas: gabinetes, gilmar, militares, policiais, proibir, proposta
+       veiculos: CNN Brasil, G1 Politica, Metropoles
+       . [CNN Brasil] Gilmar formaliza proposta para proibir delegados e militares no STF
+       . [G1 Politica] Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministro
+       . [Metropoles] Gilmar apresenta proposta para vetar policiais federais em gabinetes do STF
+
+   2      0      38      0  Augusto Cury não declarou três empresas no
+       veiculos: G1 Politica, Valor Econômico
+       . [Valor Econômico] Campanha de Augusto Cury admite omissão de bens e diz que vai retificar declaração feita à Justiça Eleitoral
+       . [G1 Politica] Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados
+
