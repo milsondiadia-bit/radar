@@ -11397,3 +11397,22 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] a mulher secreta
        . [Metropoles] Mulher é condenada a 20 anos por espancar homem até a morte no DF
 
+==============================================================================
+RODADA 05/09 03:02 UTC  |  janela 90 min  |  41 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      55      1  Ala pró-Mendonça vê tentativa de Moraes de
+       ineditas: tentativa
+       veiculos: CNN Brasil, Folha Poder, Folha de S.Paulo, Gazeta do Povo Rep, Metropoles
+       . [CNN Brasil] Nas redes, rejeição a Moraes supera polarização crescente sobre Mendonça
+       . [Folha de S.Paulo] Ala pró-Mendonça vê tentativa de Moraes de contaminar todo o STF para se blindar
+       . [Gazeta do Povo Rep] Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
+
+   2      0      41      2  PGR abre apuração para descobrir se PF inv
+       ineditas: descobrir, investigou
+       veiculos: Times Brasil | CNBC, poder360.com.br
+       . [poder360.com.br] PGR abre procedimento para descobrir se PF investigou Moraes ilegalmente
+       . [Times Brasil | CNBC] PGR abre apuração para descobrir se PF investigou Moraes de forma ilegal no caso Master
+
