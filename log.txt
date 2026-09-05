@@ -14289,3 +14289,51 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Diário PcD] O Direito de Votar não pode depender da sorte nas Eleições em 2026
        . [Metropoles] Eleições 2026: TSE libera consulta ao local de votação. Saiba como fazer
 
+==============================================================================
+RODADA 05/09 22:12 UTC  |  janela 90 min  |  91 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      2      65      2  Gilmar apresenta proposta para proibir del
+       ineditas: mendes, ministros
+       veiculos: Consultor Jurídico, Estadão, Folha Poder, JOTA Info, O Antagonista, Revista Oeste, SBT News, Valor Econômico, agenciabrasil.ebc.com.br
+       . [agenciabrasil.ebc.com.br] STF: Mendes propõe vetar delegados da PF como assessores de ministros
+       . [JOTA Info] Gilmar Mendes propõe proibição de policiais e militares em gabinetes do STF
+       . [Consultor Jurídico] Gilmar propõe proibir militares e agentes da PF em gabinetes de ministros do STF
+
+   4      1      33      1  Zanin pede apuração criminal após ter dado
+       ineditas: criminal
+       veiculos: Congresso em Foco, Conjur, Veja, revistaoeste.com
+       . [revistaoeste.com] Zanin pede providências ao Supremo Tribunal Federal e ao TRE contra Deltan
+       . [Conjur] Zanin pede apuração criminal após ter dados sigilosos divulgados por Deltan
+       . [Congresso em Foco] Zanin pede apuração criminal após Deltan divulgar seus dados sigilosos
+
+   3      0       5      0  Painel: Gestão Nunes pede aval ao governo 
+       veiculos: Folha Poder, Folha de S.Paulo, SeLigaPB
+       . [Folha de S.Paulo] Painel: Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+       . [SeLigaPB] Governo Lula tem 51% de desaprovação e 45% de aprovação
+       . [Folha Poder] Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+
+   3      2      53      0  Flávio chama Moraes de “laranja podre” do 
+       veiculos: O Antagonista, Poder360, Revista Oeste
+       . [Poder360] Flávio promete proteger o STF e diz que Moraes é “laranja podre”
+       . [Revista Oeste] Flávio cobra Alcolumbre por impeachment de Moraes
+       . [O Antagonista] Flávio chama Moraes de “laranja podre” do STF
+
+   2      1      49      1  Datafolha: 46% se dizem mais preocupados q
+       ineditas: preocupados
+       veiculos: Folha de S.Paulo, O Antagonista
+       . [Folha de S.Paulo] Datafolha: 46% se dizem mais preocupados que em 2022; maioria afirma estar decidida a ir votar
+       . [O Antagonista] Datafolha: brasileiros estão mais preocupados com a eleição neste ano
+
+   2      0       4      0  Eleições 2026: TSE libera consulta ao loca
+       veiculos: Diário PcD, Metropoles
+       . [Diário PcD] O Direito de Votar não pode depender da sorte nas Eleições em 2026
+       . [Metropoles] Eleições 2026: TSE libera consulta ao local de votação. Saiba como fazer
+
+   2      1      28      0  Caso Master: Delegados pedem impedimento d
+       veiculos: Congresso em Foco, Veja
+       . [Congresso em Foco] Caso Master: Delegados pedem impedimento de Gonet, citado em relatório
+       . [Veja] Delegados da Polícia Federal querem que Gonet se declare impedido no caso Master
+
