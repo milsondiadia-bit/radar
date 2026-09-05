@@ -12995,3 +12995,43 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Fernando Haddad sobre Tarcísio: "Recebeu dinheiro do Master para se eleger"
        . [O Antagonista] Tarcísio recebeu dinheiro do Master para se eleger, diz Haddad
 
+==============================================================================
+RODADA 05/09 16:52 UTC  |  janela 90 min  |  73 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      44      1  Lula em comício: "Trump, faça um Pix para 
+       ineditas: trump
+       veiculos: Metropoles, Poder360, Veja
+       . [Poder360] Lula diz que vai sugerir a Trump criar um Pix nos EUA
+       . [Metropoles] Lula em comício: "Trump, faça um Pix para você ver como é bom"
+       . [Veja] O conselho sobre o Pix que Lula diz que dará a Trump na ONU
+
+   2      1      38      0  COLUNA DO ESTADÃO ⚖️ O inquérito das fake 
+       veiculos: Veja, instagram.com
+       . [instagram.com] COLUNA DO ESTADÃO ⚖️ O inquérito das fake news, instaurado em 2019 no STF, segue sem prazo para terminar e sem
+       . [Veja] Vinho bom é vinho caro? Dez fake news para tirar de sua taça
+
+   2      0       1      0  Em passagem por Barretos, Lula critica atu
+       veiculos: Brasil 247, CBN
+       . [CBN] Em passagem por Barretos, Lula critica atuação do governo Bolsonaro durante pandemia
+       . [Brasil 247] Lula critica negacionismo do governo Bolsonaro na pandemia: ‘400 mil mortes poderiam ter sido evitadas’
+
+   2      0      16      3  EUA atacam 3 petroleiros iranianos após di
+       ineditas: iranianos, navios, petroleiros
+       veiculos: BBC Brasil, Poder360
+       . [Poder360] EUA atacam 3 petroleiros iranianos após disparos contra navios
+       . [BBC Brasil] EUA dizem ter atacado 3 petroleiros iranianos após seus navios de guerra serem alvejados
+
+   2      0      38      0  Carlos Alberto Parreira se emociona ao dei
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] carlos alberto de nóbrega
+       . [Metropoles] Carlos Alberto Parreira se emociona ao deixar hospital após 80 dias
+
+   2      1      27      5  Fernando Haddad sobre Tarcísio: "Recebeu d
+       ineditas: dinheiro, eleger, master, recebeu, tarcisio
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Fernando Haddad sobre Tarcísio: "Recebeu dinheiro do Master para se eleger"
+       . [O Antagonista] Tarcísio recebeu dinheiro do Master para se eleger, diz Haddad
+
