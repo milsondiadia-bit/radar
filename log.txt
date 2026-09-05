@@ -11587,3 +11587,8 @@ RODADA 05/09 06:52 UTC  |  janela 90 min  |  7 manchetes  |  0 sem data  |  11 f
 ==============================================================================
 feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; Carta Capital: HTTPError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 07:02 UTC  |  janela 90 min  |  11 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+(nenhum assunto com 2+ manchetes de 2+ veiculos)
