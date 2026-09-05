@@ -12700,3 +12700,28 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Flávio Bolsonaro acusa Alcolumbre de proteger Moraes e diz haver articulação contra sua candidatura
        . [Gazeta do Povo Rep] Flávio diz que Alcolumbre blinda Moraes e trava impeachment
 
+==============================================================================
+RODADA 05/09 15:12 UTC  |  janela 90 min  |  81 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      2      33      0  Não se pode igualar Mendonça a Moraes
+       veiculos: O Antagonista, OpiniãoCE, Veja
+       . [OpiniãoCE] Fachin indica a Lula que levará casos de Moraes e Mendonça ao plenário do STF
+       . [O Antagonista] Não se pode igualar Mendonça a Moraes
+       . [Veja] A grande preocupação de Lula no embate entre Alexandre de Moraes e André Mendonça
+
+   2      1      60      3  Palpite São Paulo x Atlético-MG - Brasilei
+       ineditas: atletico, palpite, paulo
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Juventude x Atlético-GO - Série B - 05/09/26
+       . [Metropoles] Palpite São Paulo x Atlético-MG - Brasileirão - 05/09/26
+       . [Veja] São Paulo x Atlético-MG no Brasileirão: onde assistir, horário e escalações
+
+   2      0      11      1  PGR investigará relatório sobre mensagens 
+       ineditas: relatorio
+       veiculos: Conjur, Jornal GGN
+       . [Jornal GGN] PGR investigará relatório sobre mensagens de Vorcaro a Moraes
+       . [Conjur] PGR apura atuação da PF em relatório sobre Alexandre e Vorcaro
+
