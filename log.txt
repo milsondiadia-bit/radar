@@ -12587,3 +12587,37 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Carlos Alberto Parreira vai continuar tratamento em casa após alta médica
        . [Veja] Carlos Alberto Parreira recebe alta de hospital no Rio
 
+==============================================================================
+RODADA 05/09 14:32 UTC  |  janela 90 min  |  74 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      16      0  Eleições 2026: de qual política pública o 
+       veiculos: Money Times, g1.globo.com, noveen.com.br
+       . [Money Times] Eleições 2026: de qual política pública o agronegócio precisa?
+       . [noveen.com.br] Política externa ganha espaço nas eleições de 2026 em meio a tensões com os EUA
+       . [g1.globo.com] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão nesta sábado (5)
+
+   2      1      33      0  Não se pode igualar Mendonça a Moraes
+       veiculos: O Antagonista, OpiniãoCE
+       . [OpiniãoCE] Fachin indica a Lula que levará casos de Moraes e Mendonça ao plenário do STF
+       . [O Antagonista] Não se pode igualar Mendonça a Moraes
+
+   2      1      41      2  Flávio diz que Alcolumbre blinda Moraes e 
+       ineditas: alcolumbre, flavio
+       veiculos: Carta Capital, Gazeta do Povo Rep
+       . [Carta Capital] Flávio Bolsonaro acusa Alcolumbre de proteger Moraes e diz haver articulação contra sua candidatura
+       . [Gazeta do Povo Rep] Flávio diz que Alcolumbre blinda Moraes e trava impeachment
+
+   2      1       9      0  Carlos Alberto Parreira recebe alta de hos
+       veiculos: Metropoles, Veja
+       . [Metropoles] Carlos Alberto Parreira vai continuar tratamento em casa após alta médica
+       . [Veja] Carlos Alberto Parreira recebe alta de hospital no Rio
+
+   2      2      56      1  Marco Aurélio Mello sai em defesa de André
+       ineditas: andre
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Marco Aurélio Mello sai em defesa de André Mendonça
+       . [Veja] A grande preocupação de Lula no embate entre Alexandre de Moraes e André Mendonça
+
