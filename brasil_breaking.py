@@ -209,9 +209,21 @@ ACRESCENTAR = [
     # enderecos: vale o primeiro que responder XML. O log continua
     # mostrando na linha "feeds que falharam" quem nao respondeu em
     # nenhum deles - e ai eu apago o veiculo de vez.
-    ("UOL Politica", ["https://rss.uol.com.br/feed/politica.xml",
-                      "https://rss.uol.com.br/feed/noticias.xml",
-                      "http://rss.home.uol.com.br/index.xml"]),
+    # 05/09/2026, MEDIDO: os dois enderecos de reserva que eu tinha
+    # posto aqui de manha (feed/noticias.xml e rss.home.uol.com.br)
+    # respondiam XML, sim - mas SEM pubDate. Na rodada das 10h40, das
+    # 62 manchetes, 26 vieram sem data e TODAS as 26 eram do UOL;
+    # nenhum outro feed tinha uma sequer.
+    #
+    # Manchete sem data pula a janela de 90 minutos: entra contando
+    # como fresca mesmo sendo de dias atras. Para um bot de breaking
+    # isso e pior que feed morto - o morto ao menos aparece na linha
+    # "feeds que falharam", em vez de mentir em silencio.
+    #
+    # Fica so o endereco certo. Ele da 403 hoje (Cloudflare); se
+    # liberarem, o UOL volta sozinho. A perda e pequena: a Folha Poder
+    # ja esta na lista e e do mesmo grupo.
+    ("UOL Politica", "https://rss.uol.com.br/feed/politica.xml"),
     ("Metropoles", "https://www.metropoles.com/feed"),
     # Veiculos de linha conservadora, pedidos em 03/09. Entram porque
     # cobrem pauta que os grandes as vezes deixam passar - e e ai que
