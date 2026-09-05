@@ -11777,3 +11777,20 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Entenda os próximos passos do pedido de Moraes contra Mendonça
        . [Metropoles] Moraes ou Mendonça?
 
+==============================================================================
+RODADA 05/09 10:02 UTC  |  janela 90 min  |  40 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      43      1  quem ama cuida?
+       ineditas: quem
+       veiculos: Google Trends BR, Poder360
+       . [Poder360] Projeto defende descontos em tarifas para quem faz coleta seletiva
+       . [Google Trends BR] quem ama cuida?
+
+   2      0       0      0  Entenda os próximos passos do pedido de Mo
+       veiculos: Metropoles, Poder360
+       . [Poder360] Entenda os próximos passos do pedido de Moraes contra Mendonça
+       . [Metropoles] Moraes ou Mendonça?
+
