@@ -13952,3 +13952,46 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Caiado promete indicar 4 mulheres para o STF se eleito
        . [Metropoles] Caiado promete reforma do Judiciário e indicação de quatro mulheres ao STF
 
+==============================================================================
+RODADA 05/09 21:02 UTC  |  janela 90 min  |  85 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      2      57      0  Alexandre de Moraes é 'laranja podre' dent
+       veiculos: Folha de S.Paulo, G1 Politica, O Antagonista, Poder360, UOL Notícias, Valor Econômico, Veja
+       . [Valor Econômico] Após visita a Filipe Martins, Flávio Bolsonaro chama Moraes de 'laranja podre' mas preserva Suprema Corte
+       . [UOL Notícias] Alexandre de Moraes é 'laranja podre' dentro do STF, diz Flávio Bolsonaro
+       . [Folha de S.Paulo] Flávio Bolsonaro chama Moraes de 'laranja podre do STF' em visita a condenado por trama golpista
+
+   5      0      56      0  Delegados da PF pedem que Gonet se declare
+       veiculos: CNN Brasil, Carta Capital, Folha de S.Paulo, Metropoles, Poder360
+       . [CNN Brasil] Delegados da PF pedem que Gonet se declare impedido em caso Moraes
+       . [Folha de S.Paulo] Delegados da PF pedem que Gonet se declare impedido de apurar atos que o citem no caso Master
+       . [Poder360] Delegados da PF pedem que Gonet se declare impedido em caso do Master
+
+   4      1      49      7  Gilmar Mendes protocola proposta para proi
+       ineditas: formaliza, gabinetes, gilmar, militares, policiais, proibir, proposta
+       veiculos: CNN Brasil, G1 Politica, Metropoles, O Antagonista
+       . [CNN Brasil] Gilmar formaliza proposta para proibir delegados e militares no STF
+       . [G1 Politica] Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministro
+       . [Metropoles] Gilmar apresenta proposta para vetar policiais federais em gabinetes do STF
+
+   2      1      78      0  Dallagnol divulga sigilo fiscal de ministr
+       veiculos: Poder360, Revista Oeste
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Revista Oeste] Zanin pede providências ao Supremo Tribunal Federal e ao TRE contra Deltan
+
+   2      0      47      3  Caiado promete indicar 4 mulheres para o S
+       ineditas: caiado, mulheres, promete
+       veiculos: Metropoles, Poder360
+       . [Poder360] Caiado promete indicar 4 mulheres para o STF se eleito
+       . [Metropoles] Caiado promete reforma do Judiciário e indicação de quatro mulheres ao STF
+
+   2      2      27      2  Dallagnol apresenta à Justiça documentos c
+       ineditas: aciona, dados
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [Veja] Zanin aciona Justiça Eleitoral após Deltan incluir seus dados sigilosos em candidatura
+
