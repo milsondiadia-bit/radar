@@ -11648,3 +11648,16 @@ RODADA 05/09 08:22 UTC  |  janela 90 min  |  29 manchetes  |  0 sem data  |  4 f
 ==============================================================================
 feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 08:32 UTC  |  janela 90 min  |  26 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      70      3  Veja a agenda dos candidatos ao GDF neste 
+       ineditas: judiciario, presidente, propoem
+       veiculos: Metropoles, Poder360
+       . [Poder360] Crise no STF: leia o que os candidatos a presidente propõem para o Judiciário
+       . [Poder360] 6 de 13 candidatos a presidente propõem mudanças no Judiciário ou no STF
+       . [Metropoles] Veja a agenda dos candidatos ao governo de SP nesta sábado (5/9)
+
