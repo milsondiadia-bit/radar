@@ -11096,3 +11096,43 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Após término com Scooby, Cintia Dicker nega desavença com Bianca Andrade
        . [Veja] Rock in Rio: Pedro Scooby fala de disputa judicial com Cintia Dicker em meio a petiscos
 
+==============================================================================
+RODADA 05/09 01:52 UTC  |  janela 90 min  |  67 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      3      56      0  PGR abre apuração sobre atuação da PF em r
+       veiculos: CartaCapital, Gazeta do Povo Rep, Metrópoles, O Antagonista, Rádio Itatiaia, Veja
+       . [CartaCapital] Gonet abre inquérito para apurar possível interferência de Mendonça em relatório da PF
+       . [Metrópoles] PGR apura possível interferência em relatório da PF sobre Moraes e Vorcaro
+       . [Rádio Itatiaia] PGR abre apuração sobre produção de relatório da PF divulgado por André Mendonça
+
+   2      0       0      0  Fachin conversa com Lula e indica que leva
+       veiculos: Folha de S.Paulo, gazetadopovo.com.br
+       . [Folha de S.Paulo] Fachin conversa com Lula e indica que levará casos de Moraes e Mendonça ao plenário do STF
+       . [gazetadopovo.com.br] Moraes e Mendonça: entenda as falhas no relatório da PF contra o ministro
+
+   2      1      56      3  Coronel Assis cobra a PGR e expõe crise no
+       ineditas: federal, policia, relatorios
+       veiculos: Gazeta do Povo Rep, Poconet
+       . [Poconet] Coronel Assis cobra a PGR e expõe crise no STF após relatórios da Policia Federal
+       . [Gazeta do Povo Rep] Moraes usa relatórios frágeis da Polícia Federal para investigar Mendonça
+
+   2      0      21      1  Nikolas Ferreira após ser atingido por ova
+       ineditas: ferreira
+       veiculos: Metropoles, Poder360
+       . [Poder360] Bancada Psol-Rede pede cassação de Nikolas Ferreira
+       . [Metropoles] Nikolas Ferreira após ser atingido por ovada nas costas: "Sou antiovos"
+
+   2      0      28      0  Vasco é campeão do Brasileirão Sub-20 após
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] palmeiras x bahia feminino
+       . [Metropoles] Vasco é campeão do Brasileirão Sub-20 após superar o Palmeiras por 2 x 0
+
+   2      1      22      3  Após término com Scooby, Cintia Dicker neg
+       ineditas: cintia, dicker, scooby
+       veiculos: Metropoles, Veja
+       . [Metropoles] Após término com Scooby, Cintia Dicker nega desavença com Bianca Andrade
+       . [Veja] Rock in Rio: Pedro Scooby fala de disputa judicial com Cintia Dicker em meio a petiscos
+
