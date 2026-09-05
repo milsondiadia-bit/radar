@@ -13747,3 +13747,50 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
        . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
 
+==============================================================================
+RODADA 05/09 20:12 UTC  |  janela 90 min  |  85 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      1      54      6  Flávio Bolsonaro diz que Moraes é uma "lar
+       ineditas: chama, dentro, laranja, podre, supremo, tribunal
+       veiculos: Estadão, G1 Politica, Metropoles, Terra, UOL Notícias, Valor Econômico, Veja
+       . [Estadão] Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+       . [Valor Econômico] Após visita a Filipe Martins, Flávio Bolsonaro chama Moraes de 'laranja podre' mas preserva Suprema Corte
+       . [Terra] Alexandre de Moraes é 'laranja podre' dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+
+   4      1      44      7  Delegados pedem afastamento de Gonet em ap
+       ineditas: apuracao, apurar, declare, delegados, gonet, impedido, pedem
+       veiculos: Folha Poder, G1, Metropoles, O Antagonista
+       . [G1] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório pedido por Mendonça que cita o
+       . [Folha Poder] Delegados da PF pedem que Gonet se declare impedido de apurar atos que o citem no caso Master
+       . [Metropoles] Delegados da PF pedem que Gonet se declare impedido para apurar relatório
+
+   3      0      34      3  Dallagnol expõe dados sigilosos de Zanin e
+       ineditas: candidatura, dallagnol, deltan
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Carta Capital] Dallagnol expõe dados sigilosos de Zanin em registro de candidatura e ministro pede responsabilização
+
+   2      0      38      0  Augusto Cury não declarou três empresas no
+       veiculos: G1 Politica, Valor Econômico
+       . [Valor Econômico] Campanha de Augusto Cury admite omissão de bens e diz que vai retificar declaração feita à Justiça Eleitoral
+       . [G1 Politica] Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados
+
+   2      1      71      0  Lula ignora crise no STF em campanha no in
+       veiculos: Gazeta do Povo Rep, band.com.br
+       . [band.com.br] TSE autoriza pronunciamento de Lula pelo 7 de Setembro em meio à campanha
+       . [Gazeta do Povo Rep] Lula ignora crise no STF em campanha no interior de São Paulo com Haddad
+
+   2      1      35      0  Nova pesquisa Datafolha testa disputa Lula
+       veiculos: Poder360, Veja
+       . [Poder360] Flávio mira “endividados” em programa eleitoral
+       . [Veja] Nova pesquisa Datafolha testa disputa Lula x Flávio no maior colégio eleitoral do país
+
+   2      2      22      0  Jovem que foi receber rescisão de R$ 6 mil
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
+       . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
+
