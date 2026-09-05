@@ -11816,3 +11816,20 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Entenda os próximos passos do pedido de Moraes contra Mendonça
        . [Metropoles] Moraes ou Mendonça?
 
+==============================================================================
+RODADA 05/09 10:22 UTC  |  janela 90 min  |  74 manchetes  |  25 sem data  |  8 feeds com erro
+==============================================================================
+feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       0      0  Entenda os próximos passos do pedido de Mo
+       veiculos: Metropoles, Poder360
+       . [Poder360] Entenda os próximos passos do pedido de Moraes contra Mendonça
+       . [Metropoles] Moraes ou Mendonça?
+
+   2      1      37      1  Os alertas vermelhos na campanha de Lula e
+       ineditas: campanha
+       veiculos: BBC Brasil, O Antagonista
+       . [BBC Brasil] Os alertas vermelhos na campanha de Lula e as armas que ele quer usar
+       . [O Antagonista] Lula reclama de material de campanha com Ciro Gomes
+
