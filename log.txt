@@ -14554,3 +14554,36 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Nikolas promete vídeo sobre Lulinha e cutuca adversários: "Tentem de novo"
        . [O Antagonista] Nikolas: “Foi só anunciar vídeo sobre Lulinha e começou o desespero”
 
+==============================================================================
+RODADA 05/09 23:12 UTC  |  janela 90 min  |  74 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      67      0  Zanin aciona TSE e STF após suposta quebra
+       veiculos: Folha Poder, G1 Politica, Poder360, Valor Econômico
+       . [Valor Econômico] Zanin aciona TSE e STF após suposta quebra de sigilo por Deltan Dallagnol
+       . [G1 Politica] Zanin pede que Deltan Dallagnoll seja responsabilizado por abrir seu sigilo fiscal
+       . [Poder360] TRE-PR dá 24 horas para Deltan explicar divulgação de sigilo de Zanin
+
+   2      0      55      0  STF: Mendes propõe vetar delegados da PF c
+       veiculos: Agência Brasil, VEJA
+       . [Agência Brasil] STF: Mendes propõe vetar delegados da PF como assessores de ministros
+       . [VEJA] Gilmar Mendes quer ‘blindar’ o Supremo de delegados e militares
+
+   2      1      20      1  Confira deputados e senadores que assinam 
+       ineditas: moraes
+       veiculos: Correio Braziliense, Revista Oeste
+       . [Correio Braziliense] Confira deputados e senadores que assinam o pedido de impeachment de Moraes
+       . [Revista Oeste] Flávio cobra Alcolumbre por impeachment de Moraes
+
+   2      0      26      0  O Direito de Votar não pode depender da so
+       veiculos: Diário PcD, tre-go.jus.br
+       . [tre-go.jus.br] TRE-GO reunirá forças de segurança para planejar atuação nas Eleições Gerais de 2026 - tre-go.jus.br
+       . [Diário PcD] O Direito de Votar não pode depender da sorte nas Eleições em 2026
+
+   2      2      30      0  Zanin aciona STF após exposição de dados e
+       veiculos: Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [O Antagonista] Zanin aciona STF após exposição de dados em candidatura de Deltan
+
