@@ -14435,3 +14435,43 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Nikolas promete vídeo sobre Lulinha e cutuca adversários: "Tentem de novo"
        . [O Antagonista] Nikolas: “Foi só anunciar vídeo sobre Lulinha e começou o desespero”
 
+==============================================================================
+RODADA 05/09 22:42 UTC  |  janela 90 min  |  81 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      59      0  Gilmar propõe proibir militares e agentes 
+       veiculos: Agência Brasil, Consultor Jurídico, Estadão, Poder360, Revista Oeste
+       . [Agência Brasil] STF: Mendes propõe vetar delegados da PF como assessores de ministros
+       . [Consultor Jurídico] Gilmar propõe proibir militares e agentes da PF em gabinetes de ministros do STF
+       . [Estadão] Gilmar oficializa proposta para proibir integrantes da Polícia Federal em gabinetes do STF
+
+   4      1      79      0  Zanin pede apuração criminal após Deltan d
+       veiculos: Congresso em Foco, G1 Politica, O Antagonista, Valor Econômico
+       . [Valor Econômico] Zanin aciona TSE e STF após suposta quebra de sigilo por Deltan Dallagnol
+       . [G1 Politica] Zanin pede que Deltan Dallagnoll seja responsabilizado por abrir seu sigilo fiscal
+       . [Congresso em Foco] Zanin pede apuração criminal após Deltan divulgar seus dados sigilosos
+
+   3      2      53      0  Flávio chama Moraes de “laranja podre” do 
+       veiculos: O Antagonista, Poder360, Revista Oeste
+       . [Poder360] Flávio promete proteger o STF e diz que Moraes é “laranja podre”
+       . [Revista Oeste] Flávio cobra Alcolumbre por impeachment de Moraes
+       . [O Antagonista] Flávio chama Moraes de “laranja podre” do STF
+
+   2      0      26      0  O Direito de Votar não pode depender da so
+       veiculos: Diário PcD, Tribunal Regional Eleitoral de Goiás
+       . [Tribunal Regional Eleitoral de Goiás] TRE-GO reunirá forças de segurança para planejar atuação nas Eleições Gerais de 2026
+       . [Diário PcD] O Direito de Votar não pode depender da sorte nas Eleições em 2026
+
+   2      2      60      0  Delegados da Polícia Federal querem que Go
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Delegados da PF pedem que Gonet se declare impedido de atuar no caso Master
+       . [Veja] Delegados da Polícia Federal querem que Gonet se declare impedido no caso Master
+
+   2      1      53      3  Nikolas promete vídeo sobre Lulinha e cutu
+       ineditas: lulinha, nikolas, video
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Nikolas promete vídeo sobre Lulinha e cutuca adversários: "Tentem de novo"
+       . [O Antagonista] Nikolas: “Foi só anunciar vídeo sobre Lulinha e começou o desespero”
+
