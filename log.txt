@@ -13297,3 +13297,36 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Palpite Fluminense x Vasco - Brasileirão - 05/09/26
        . [Veja] Fluminense x Vasco no Brasileirão: onde assistir, horário e escalações
 
+==============================================================================
+RODADA 05/09 18:22 UTC  |  janela 90 min  |  87 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      17      1  “Se arrependimento matasse” diz ex-ministr
+       ineditas: ministro
+       veiculos: Gazeta do Povo Rep, Pleno.News
+       . [Pleno.News] Ministro aposentado do STF se arrepende de ter indicado Moraes
+       . [Gazeta do Povo Rep] “Se arrependimento matasse” diz ex-ministro Marco Aurélio sobre apoio a Moraes no STF
+
+   2      1      26      0  É “abominável” que paulistas prefiram Tarc
+       veiculos: O Antagonista, Poder360
+       . [Poder360] É “abominável” que paulistas prefiram Tarcísio a Haddad, diz Lula
+       . [O Antagonista] Lula pede votos para Haddad, ataca Tarcísio e ignora crise no STF
+
+   2      1      12      1  Lula foge de temas polêmicos em discurso d
+       ineditas: interior
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Lula ‘provoca’ Trump com Pix e evita crise do STF em ato de campanha no interior de SP
+       . [Veja] Lula foge de temas polêmicos em discurso de campanha no interior de SP
+
+   2      1       0      0  Erika Hilton denuncia acusado de homofobia
+       veiculos: Metropoles, Veja
+       . [Metropoles] Erika Hilton denuncia acusado de homofobia contra ator de Quem Ama Cuida
+       . [Veja] O esforço de Belize Pombal por Silvana em ‘Quem Ama Cuida’
+
+   2      1      30      0  Palpite Fluminense x Vasco - Brasileirão -
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Fluminense x Vasco - Brasileirão - 05/09/26
+       . [Veja] Fluminense x Vasco no Brasileirão: onde assistir, horário e escalações
+
