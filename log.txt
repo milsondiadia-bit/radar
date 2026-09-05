@@ -12550,3 +12550,40 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Marco Aurélio Mello sai em defesa de André Mendonça
        . [Veja] A grande preocupação de Lula no embate entre Alexandre de Moraes e André Mendonça
 
+==============================================================================
+RODADA 05/09 14:22 UTC  |  janela 90 min  |  87 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      2      82      3  Fachin indica intenção de levar ao plenári
+       ineditas: fachin, indica, plenario
+       veiculos: G1, O Antagonista, Poder360, Veja, opiniaoce.com.br
+       . [G1] Fachin indica intenção de levar ao plenário crise envolvendo Moraes e Mendonça
+       . [opiniaoce.com.br] Fachin indica a Lula que levará casos de Moraes e Mendonça ao plenário do STF
+       . [Poder360] Coordenador de Lula vê “crise profunda” no STF e fala em modernização
+
+   4      0      17      0  Eleições 2026: candidaturas de autistas au
+       veiculos: Agência Brasil, G1, Money Times, noveen.com.br
+       . [Agência Brasil] Eleições 2026: candidaturas de autistas aumentam mais de cinco vezes
+       . [Money Times] Eleições 2026: de qual política pública o agronegócio precisa?
+       . [noveen.com.br] Política externa ganha espaço nas eleições de 2026 em meio a tensões com os EUA
+
+   3      2      73      3  Investigação contra vice de Flávio Bolsona
+       ineditas: alcolumbre, bolsonaro, flavio
+       veiculos: Carta Capital, Gazeta do Povo Rep, Veja
+       . [Carta Capital] Flávio Bolsonaro acusa Alcolumbre de proteger Moraes e diz haver articulação contra sua candidatura
+       . [Gazeta do Povo Rep] Flávio diz que Alcolumbre blinda Moraes e trava impeachment
+       . [Veja] Investigação contra vice de Flávio Bolsonaro deve ser arquivada no STF
+
+   2      0      40      2  Fluminense e Vasco fazem clássico carioca 
+       ineditas: fluminense, vasco
+       veiculos: Carta Capital, Google Trends BR
+       . [Carta Capital] Fluminense e Vasco fazem clássico carioca em momentos distintos no Brasileirão
+       . [Google Trends BR] fluminense x vasco
+
+   2      1       9      0  Carlos Alberto Parreira recebe alta de hos
+       veiculos: Metropoles, Veja
+       . [Metropoles] Carlos Alberto Parreira vai continuar tratamento em casa após alta médica
+       . [Veja] Carlos Alberto Parreira recebe alta de hospital no Rio
+
