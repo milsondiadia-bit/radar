@@ -11931,3 +11931,21 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Apoiadora agarra Lula no Ceará, e Janja ajuda a “resgatar” presidente
        . [O Antagonista] Janja tenta separar Lula de eleitora que o abraçou em ato no Ceará
 
+==============================================================================
+RODADA 05/09 11:02 UTC  |  janela 90 min  |  56 manchetes  |  0 sem data  |  2 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError [<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmln]
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      37      2  Os alertas vermelhos na campanha de Lula e
+       ineditas: campanha, lula
+       veiculos: BBC Brasil, O Antagonista
+       . [BBC Brasil] Os alertas vermelhos na campanha de Lula e as armas que ele quer usar
+       . [O Antagonista] Lula reclama de material de campanha com Ciro Gomes
+
+   2      1       6      3  Apoiadora agarra Lula no Ceará, e Janja aj
+       ineditas: ceara, janja, lula
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Apoiadora agarra Lula no Ceará, e Janja ajuda a “resgatar” presidente
+       . [O Antagonista] Janja tenta separar Lula de eleitora que o abraçou em ato no Ceará
+
