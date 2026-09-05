@@ -12742,3 +12742,26 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Consultor Jurídico] PGR apura atuação da PF em relatório sobre Alexandre e Vorcaro
        . [Jornal GGN] PGR investigará relatório sobre mensagens de Vorcaro a Moraes
 
+==============================================================================
+RODADA 05/09 15:32 UTC  |  janela 90 min  |  76 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      14      0  A grande preocupação de Lula no embate ent
+       veiculos: OpiniãoCE, Veja
+       . [OpiniãoCE] Fachin indica a Lula que levará casos de Moraes e Mendonça ao plenário do STF
+       . [Veja] A grande preocupação de Lula no embate entre Alexandre de Moraes e André Mendonça
+
+   2      0      11      1  PGR investigará relatório sobre mensagens 
+       ineditas: relatorio
+       veiculos: Conjur, Jornal GGN
+       . [Jornal GGN] PGR investigará relatório sobre mensagens de Vorcaro a Moraes
+       . [Conjur] PGR apura atuação da PF em relatório sobre Alexandre e Vorcaro
+
+   2      1      24      4  Augusto Cury omitiu negócios nos EUA da Ju
+       ineditas: cury, eleitoral, justica, omitiu
+       veiculos: Folha de S.Paulo, O Antagonista
+       . [Folha de S.Paulo] Augusto Cury omitiu negócios nos EUA da Justiça Eleitoral
+       . [O Antagonista] Cury omitiu cinco empresas na declaração de bens à Justiça Eleitoral
+
