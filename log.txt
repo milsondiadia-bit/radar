@@ -11060,3 +11060,39 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Após término com Scooby, Cintia Dicker nega desavença com Bianca Andrade
        . [Veja] Rock in Rio: Pedro Scooby fala de disputa judicial com Cintia Dicker em meio a petiscos
 
+==============================================================================
+RODADA 05/09 01:42 UTC  |  janela 90 min  |  71 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      3      68      2  AGU chama pedido da PF contra medidas de M
+       ineditas: investigar, possivel
+       veiculos: Folha Poder, G1, Gazeta do Povo, Gazeta do Povo Rep, Metrópoles, O Antagonista, Rádio Itatiaia, Veja
+       . [G1] Crise no STF: juristas propõem que Moraes e Mendonça sejam afastados temporariamente de processos em apuração
+       . [Gazeta do Povo] Moraes e Mendonça: entenda as falhas no relatório da PF contra o ministro
+       . [Metrópoles] PGR apura possível interferência em relatório da PF sobre Moraes e Vorcaro
+
+   2      0      24      1  Em meio à crise sem precedentes no Supremo
+       ineditas: fachin
+       veiculos: CNN Brasil, G1
+       . [CNN Brasil] Análise: Fachin promete rigor e age para esfriar crise no Supremo
+       . [G1] Em meio à crise sem precedentes no Supremo, Fachin fala em dar resposta firme e proporcional
+
+   2      0      21      1  Nikolas Ferreira após ser atingido por ova
+       ineditas: ferreira
+       veiculos: Metropoles, Poder360
+       . [Poder360] Bancada Psol-Rede pede cassação de Nikolas Ferreira
+       . [Metropoles] Nikolas Ferreira após ser atingido por ovada nas costas: "Sou antiovos"
+
+   2      0      28      0  Vasco é campeão do Brasileirão Sub-20 após
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] palmeiras x bahia feminino
+       . [Metropoles] Vasco é campeão do Brasileirão Sub-20 após superar o Palmeiras por 2 x 0
+
+   2      1      22      3  Após término com Scooby, Cintia Dicker neg
+       ineditas: cintia, dicker, scooby
+       veiculos: Metropoles, Veja
+       . [Metropoles] Após término com Scooby, Cintia Dicker nega desavença com Bianca Andrade
+       . [Veja] Rock in Rio: Pedro Scooby fala de disputa judicial com Cintia Dicker em meio a petiscos
+
