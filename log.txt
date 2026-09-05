@@ -11428,3 +11428,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha de S.Paulo] Ala pró-Mendonça vê tentativa de Moraes de contaminar todo o STF para se blindar
        . [Gazeta do Povo Rep] Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
 
+==============================================================================
+RODADA 05/09 03:22 UTC  |  janela 90 min  |  48 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      1      55      0  Ala pró-Mendonça vê tentativa de Moraes de
+       veiculos: CNN Brasil, Folha Poder, Folha de S.Paulo, Gazeta do Povo Rep, Metropoles
+       . [CNN Brasil] Nas redes, rejeição a Moraes supera polarização crescente sobre Mendonça
+       . [Folha de S.Paulo] Ala pró-Mendonça vê tentativa de Moraes de contaminar todo o STF para se blindar
+       . [Gazeta do Povo Rep] Marco Aurélio Mello condena tentativa de Moraes de investigar Mendonça no STF
+
