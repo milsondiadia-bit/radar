@@ -14244,3 +14244,48 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [G1 Politica] 57% dos eleitores se dizem mais decididos a votar neste ano do que estavam em 2022, diz Datafolha.
        . [Folha Poder] Datafolha: 46% se dizem mais preocupados que em 2022; maioria afirma estar decidida a ir votar
 
+==============================================================================
+RODADA 05/09 22:02 UTC  |  janela 90 min  |  92 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      2      65      3  Gilmar apresenta proposta para proibir del
+       ineditas: barrar, ministros, propoe
+       veiculos: Agência Brasil, Conjur, Consultor Jurídico, Estadão, Folha Poder, O Antagonista, Revista Oeste, SBT News, Valor Econômico
+       . [Agência Brasil] STF: Mendes propõe vetar delegados da PF como assessores de ministros
+       . [Valor Econômico] Gilmar apresenta proposta para proibir delegados e militares em gabinetes de ministros do STF
+       . [Consultor Jurídico] Gilmar propõe proibir policiais e militares em gabinetes do STF
+
+   6      2      69      2  Zanin pede que Deltan seja responsabilizad
+       ineditas: criminal, sigilosos
+       veiculos: Congresso em Foco, Conjur, Poder360, Revista Oeste, Valor Econômico, Veja
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Valor Econômico] Zanin aciona TSE e STF após suposta quebra de sigilo por Deltan Dallagnol
+       . [Revista Oeste] Zanin pede providências ao Supremo Tribunal Federal e ao TRE contra Deltan
+
+   3      0       5      7  Painel: Gestão Nunes pede aval ao governo 
+       ineditas: aval, azuis, criar, faixas, gestao, motos, nunes
+       veiculos: Folha Poder, Folha de S.Paulo, SeLigaPB
+       . [Folha de S.Paulo] Painel: Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+       . [SeLigaPB] Governo Lula tem 51% de desaprovação e 45% de aprovação
+       . [Folha Poder] Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+
+   3      1      87      3  57% dos eleitores se dizem mais decididos 
+       ineditas: 2022, preocupados, votar
+       veiculos: Folha Poder, G1 Politica, O Antagonista
+       . [G1 Politica] 57% dos eleitores se dizem mais decididos a votar neste ano do que estavam em 2022, diz Datafolha.
+       . [Folha Poder] Datafolha: 46% se dizem mais preocupados que em 2022; maioria afirma estar decidida a ir votar
+       . [O Antagonista] Datafolha: brasileiros estão mais preocupados com a eleição neste ano
+
+   3      1      33      0  Delegados da PF pedem que Gonet se declare
+       veiculos: Carta Capital, Congresso em Foco, Veja
+       . [Congresso em Foco] Caso Master: Delegados pedem impedimento de Gonet, citado em relatório
+       . [Carta Capital] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório do caso Master
+       . [Veja] Delegados da Polícia Federal querem que Gonet se declare impedido no caso Master
+
+   2      0       4      0  Eleições 2026: TSE libera consulta ao loca
+       veiculos: Diário PcD, Metropoles
+       . [Diário PcD] O Direito de Votar não pode depender da sorte nas Eleições em 2026
+       . [Metropoles] Eleições 2026: TSE libera consulta ao local de votação. Saiba como fazer
+
