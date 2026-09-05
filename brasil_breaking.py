@@ -277,13 +277,18 @@ def coleta_minutos(minutos, workers=12):
 
     corte = datetime.now(timezone.utc) - timedelta(minutes=minutos)
     recentes, vistos = [], set()
-    sem_data = 0
+    # 05/09/2026: passou a contar POR FEED, nao so o total. Depois que
+    # UOL e Agencia Brasil voltaram a responder, o numero de manchetes
+    # sem data pulou de 0-1 para 25 numa rodada de 74. Manchete sem data
+    # PULA a janela de 90 minutos - entra mesmo se for de tres dias
+    # atras. Sem saber de qual feed vem, so da para chutar qual cortar.
+    sem_data_por_feed = defaultdict(int)
     for it in itens:
         if it["data"] is None:
-            # Feed que nao data direito entra, mas eu conto quantos sao:
-            # se for muita gente, a medida de "em quantos minutos" perde
-            # o sentido e eu preciso saber disso antes de confiar nela.
-            sem_data += 1
+            # aqui it["fonte"] ainda e o nome do FEED: o fonte_real(),
+            # que troca pelo veiculo que o Google News agrega, so roda
+            # umas linhas abaixo.
+            sem_data_por_feed[it["fonte"]] += 1
         elif it["data"] < corte:
             continue
         it["titulo"] = titulo_limpo(it)
@@ -293,7 +298,7 @@ def coleta_minutos(minutos, workers=12):
             continue
         vistos.add(chave)
         recentes.append(it)
-    return recentes, erros, sem_data
+    return recentes, erros, dict(sem_data_por_feed)
 
 
 PALAVRAS_VAZIAS = set("""
@@ -747,12 +752,22 @@ def minutos_de_espalhamento(grupo):
 
 def escreve_log(grupos, total, erros, sem_data, minutos):
     agora = datetime.now(timezone.utc).strftime("%d/%m %H:%M UTC")
+    # sem_data agora e um dicionario {feed: quantas}. O total continua
+    # no cabecalho, do jeito que sempre esteve, e a repartição por feed
+    # entra numa linha propria logo abaixo - so quando houver alguma.
+    total_sem_data = sum(sem_data.values()) if isinstance(sem_data, dict) \
+        else sem_data
     linhas = []
     linhas.append("=" * 78)
     linhas.append(f"RODADA {agora}  |  janela {minutos} min  |  "
-                  f"{total} manchetes  |  {sem_data} sem data  |  "
+                  f"{total} manchetes  |  {total_sem_data} sem data  |  "
                   f"{len(erros)} feeds com erro")
     linhas.append("=" * 78)
+
+    if isinstance(sem_data, dict) and sem_data:
+        quem = sorted(sem_data.items(), key=lambda kv: -kv[1])
+        linhas.append("sem data, por feed: "
+                      + "; ".join(f"{n} ({q})" for n, q in quem))
 
     if erros:
         linhas.append("feeds que falharam: " + "; ".join(erros[:8]))
