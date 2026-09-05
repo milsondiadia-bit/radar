@@ -10725,3 +10725,68 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] diogo defante
        . [Veja] Diogo Defante é substituído por robô em estreia no Rock in Rio
 
+==============================================================================
+RODADA 05/09 00:32 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      21      1  Mendonça agradece orações após pedido de M
+       ineditas: fieis
+       veiculos: Carta Capital, CartaCapital, Gazeta do Povo Rep, Poder360
+       . [CartaCapital] Mendonça agradece apoio de fieis em meio a crise no STF; veja o vídeo
+       . [Poder360] Mendonça agradece orações após pedido de Moraes para investigá-lo
+       . [Carta Capital] Mendonça agradece apoio de fieis em meio a crise no STF
+
+   3      1      37      3  Nunes Marques autoriza pronunciamento de L
+       ineditas: colonia, dira, soberania
+       veiculos: G1 Politica, O Antagonista, O GLOBO
+       . [O GLOBO] Lula dirá em pronunciamento do 7 de setembro que Brasil não será colônia de outras nações e vai reforçar mote 
+       . [G1 Politica] TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defender
+       . [O Antagonista] Nunes Marques autoriza pronunciamento de Lula sobre 7 de setembro
+
+   2      0      35      1  Confira como foi a sexta-feira (4) dos can
+       ineditas: candidatos
+       veiculos: Agência Brasil, Metropoles
+       . [Agência Brasil] Confira como foi a sexta-feira (4) dos candidatos a presidente
+       . [Metropoles] Com 2% em pesquisas, Zema diz que eleitor só olha candidatos “na véspera”
+
+   2      0       9      0  Fábio Mitidieri lidera disputa pelo govern
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] Real Time Big Data divulga pesquisa para governo e Senado em Sergipe
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      0      16      4  Lula dispara contra Flávio Bolsonaro: "Usa
+       ineditas: bolsonaro, enganar, fake, news
+       veiculos: Metropoles, Poder360
+       . [Poder360] Flávio Bolsonaro usa fake news para enganar a sociedade, diz Lula
+       . [Metropoles] Lula dispara contra Flávio Bolsonaro: "Usa fake news para enganar o Brasil"
+
+   2      1      13      0  PGR informa Fachin que vai apurar conduta 
+       veiculos: G1 Politica, Gazeta do Povo Rep
+       . [G1 Politica] PGR informa Fachin que vai apurar conduta da PF na produção do relatório que apontou uma relação entre Moraes 
+       . [Gazeta do Povo Rep] Por que Moraes, Toffoli e Gonet deveriam se afastar do caso Moraes-Vorcaro
+
+   2      0       1      0  Após relatório da PF, defesa de Lulinha cr
+       veiculos: Metropoles, Poder360
+       . [Poder360] Após relatório da PF, defesa de Lulinha critica inquérito do STF
+       . [Metropoles] Defesa de Lulinha diz que relatórios expostos por Moraes provam perseguição
+
+   2      0      51      2  Associação questiona decreto de Minas Gera
+       ineditas: gerais, minas
+       veiculos: Conjur, Metropoles
+       . [Conjur] Associação questiona decreto de Minas Gerais que restringe publicidade de bets
+       . [Metropoles] Fim de semana terá chuva e risco de tempestades em Minas Gerais
+
+   2      0       5      2  Confira o resultado da Quina 7110, sortead
+       ineditas: 7110, quina
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] quina 7110
+       . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
+
+   2      1       8      2  Diogo Defante é substituído por robô em es
+       ineditas: defante, diogo
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] diogo defante
+       . [Veja] Diogo Defante é substituído por robô em estreia no Rock in Rio
+
