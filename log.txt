@@ -14632,3 +14632,26 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
        . [O Antagonista] Zanin aciona STF após exposição de dados em candidatura de Deltan
 
+==============================================================================
+RODADA 05/09 23:42 UTC  |  janela 90 min  |  63 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      80      0  Gilmar formaliza proposta para proibir pol
+       veiculos: BBC, BBC Brasil, Poder360
+       . [BBC] STF: Gilmar Mendes pede proibição de policiais alocados em gabinetes de ministros
+       . [Poder360] Gilmar formaliza proposta para proibir policiais em gabinetes do STF
+       . [BBC Brasil] Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+
+   3      0      39      0  Zanin pede que Deltan Dallagnoll seja resp
+       veiculos: Folha Poder, G1 Politica, Poder360
+       . [G1 Politica] Zanin pede que Deltan Dallagnoll seja responsabilizado por abrir seu sigilo fiscal
+       . [Poder360] TRE-PR dá 24 horas para Deltan explicar divulgação de sigilo de Zanin
+       . [Folha Poder] Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização
+
+   2      2      30      0  Zanin aciona STF após exposição de dados e
+       veiculos: Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [O Antagonista] Zanin aciona STF após exposição de dados em candidatura de Deltan
+
