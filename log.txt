@@ -14655,3 +14655,31 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
        . [O Antagonista] Zanin aciona STF após exposição de dados em candidatura de Deltan
 
+==============================================================================
+RODADA 05/09 23:52 UTC  |  janela 90 min  |  60 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      24      0  TRE-PR dá 24 horas para Deltan explicar di
+       veiculos: Folha Poder, O Antagonista, Poder360
+       . [Poder360] TRE-PR dá 24 horas para Deltan explicar divulgação de sigilo de Zanin
+       . [Folha Poder] Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização
+       . [O Antagonista] Zanin aciona STF após exposição de dados em candidatura de Deltan
+
+   2      0      38      0  Gilmar Mendes quer ‘blindar’ o Supremo de 
+       veiculos: BBC Brasil, VEJA
+       . [VEJA] Gilmar Mendes quer ‘blindar’ o Supremo de delegados e militares
+       . [BBC Brasil] Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+
+   2      0      38      0  fluminense vs vasco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] fluminense vs vasco
+       . [Metropoles] Fluminense x Vasco: onde assistir ao clássico pelo Brasileirão
+
+   2      1      29      3  Relatório usado por Moraes contra Mendonça
+       ineditas: mendonca, moraes, usado
+       veiculos: Claudio Dantas, Metropoles
+       . [Metropoles] Relatório usado por Moraes contra Mendonça não segue padrão de inteligência
+       . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
+
