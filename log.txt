@@ -11851,3 +11851,16 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [BBC Brasil] Os alertas vermelhos na campanha de Lula e as armas que ele quer usar
        . [O Antagonista] Lula reclama de material de campanha com Ciro Gomes
 
+==============================================================================
+RODADA 05/09 10:40 UTC  |  janela 90 min  |  62 manchetes  |  26 sem data  |  1 feeds com erro
+==============================================================================
+sem data, por feed: UOL Politica (26)
+feeds que falharam: Revista Oeste: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      37      1  Os alertas vermelhos na campanha de Lula e
+       ineditas: campanha
+       veiculos: BBC Brasil, O Antagonista
+       . [BBC Brasil] Os alertas vermelhos na campanha de Lula e as armas que ele quer usar
+       . [O Antagonista] Lula reclama de material de campanha com Ciro Gomes
+
