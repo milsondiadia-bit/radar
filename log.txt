@@ -13881,3 +13881,42 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Valor Econômico] Campanha de Augusto Cury admite omissão de bens e diz que vai retificar declaração feita à Justiça Eleitoral
        . [G1 Politica] Augusto Cury não declarou três empresas nos EUA ao TSE; campanha diz que é erro e corrigirá dados
 
+==============================================================================
+RODADA 05/09 20:42 UTC  |  janela 90 min  |  84 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      2      58      1  Alexandre de Moraes é ‘laranja podre’ dent
+       ineditas: chama
+       veiculos: Estadão, Folha de S.Paulo, G1 Politica, O Antagonista, Poder360, UOL Notícias, Valor Econômico, Veja
+       . [Estadão] Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+       . [Valor Econômico] Após visita a Filipe Martins, Flávio Bolsonaro chama Moraes de 'laranja podre' mas preserva Suprema Corte
+       . [UOL Notícias] Alexandre de Moraes é 'laranja podre' dentro do STF, diz Flávio Bolsonaro
+
+   6      0      71      1  Delegados da PF pedem que Gonet se declare
+       ineditas: apurar
+       veiculos: CNN Brasil, Carta Capital, Folha Poder, G1, Metropoles, Poder360
+       . [CNN Brasil] Delegados da PF pedem que Gonet se declare impedido em caso Moraes
+       . [G1] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório pedido por Mendonça que cita o
+       . [Poder360] Delegados da PF pedem que Gonet se declare impedido em caso do Master
+
+   3      0       6      6  Gilmar Mendes protocola proposta para proi
+       ineditas: gabinetes, gilmar, militares, policiais, proibir, proposta
+       veiculos: CNN Brasil, G1 Politica, Metropoles
+       . [CNN Brasil] Gilmar formaliza proposta para proibir delegados e militares no STF
+       . [G1 Politica] Gilmar Mendes protocola proposta para proibir policiais e militares como funcionários de gabinetes de ministro
+       . [Metropoles] Gilmar apresenta proposta para vetar policiais federais em gabinetes do STF
+
+   2      0      15      0  TRE-PR dá 24h para Deltan se explicar por 
+       veiculos: Metropoles, Poder360
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Metropoles] TRE-PR dá 24h para Deltan se explicar por vazar sigilo de ministro do STF
+
+   2      0      47      3  Caiado promete indicar 4 mulheres para o S
+       ineditas: caiado, mulheres, promete
+       veiculos: Metropoles, Poder360
+       . [Poder360] Caiado promete indicar 4 mulheres para o STF se eleito
+       . [Metropoles] Caiado promete reforma do Judiciário e indicação de quatro mulheres ao STF
+
