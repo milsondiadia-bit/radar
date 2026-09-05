@@ -12212,3 +12212,40 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Dinho Ouro Preto dedica Que País É Esse a Vorcaro e faz cobrança ao STF
        . [O Antagonista] Dinho Ouro Preto critica Vorcaro e STF em show no Rock in Rio
 
+==============================================================================
+RODADA 05/09 13:02 UTC  |  janela 90 min  |  65 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      70      3  Pesquisas eleitorais: como ficou a disputa
+       ineditas: crise, disputa, pesquisa
+       veiculos: Poder360, Veja
+       . [Poder360] Coordenador de Lula vê “crise profunda” no STF e fala em modernização
+       . [Veja] Nova pesquisa BTG/Nexus testa Lula x Flávio após crise no STF e cenário com Cury no segundo turno
+       . [Veja] A primeira pesquisa Meio/Ideia sobre a disputa Lula x Flávio após o escândalo no STF
+
+   2      1      52      2  STF instaurou 307 inquéritos sigilosos des
+       ineditas: fake, news
+       veiculos: Revista Oeste, instagram.com
+       . [instagram.com] COLUNA DO ESTADÃO ⚖️ O inquérito das fake news, instaurado em 2019 no STF, segue sem prazo para terminar e sem
+       . [Revista Oeste] STF instaurou 307 inquéritos sigilosos desde que Moraes abriu o das fake news
+
+   2      1      60      3  O que se sabe sobre explosão na Bolívia qu
+       ineditas: bolivia, feridos, mortos
+       veiculos: BBC Brasil, Veja
+       . [BBC Brasil] O que se sabe sobre explosão na Bolívia que deixou ao menos 2 mortos e 81 feridos
+       . [Veja] Tragédia explosiva em instalação militar deixa dois mortos e 59 feridos na Bolívia
+
+   2      1      27      2  Cruzeiro x Athletico-PR: prováveis escalaç
+       ineditas: assistir, escalacoes
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Cruzeiro x Athletico-PR: prováveis escalações, arbitragem, onde assistir, retrospecto e palpites
+       . [Veja] Bragantino x Bahia no Brasileirão: onde assistir, horário e escalações
+
+   2      1      21      1  Dinho Ouro Preto critica Vorcaro e STF em 
+       ineditas: vorcaro
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Dinho Ouro Preto dedica Que País É Esse a Vorcaro e faz cobrança ao STF
+       . [O Antagonista] Dinho Ouro Preto critica Vorcaro e STF em show no Rock in Rio
+
