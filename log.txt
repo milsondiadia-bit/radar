@@ -11337,3 +11337,34 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] a mulher secreta
        . [Metropoles] Mulher é condenada a 20 anos por espancar homem até a morte no DF
 
+==============================================================================
+RODADA 05/09 02:42 UTC  |  janela 90 min  |  48 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      56      0  Fachin conversa com Lula e indica que leva
+       veiculos: Folha Poder, Folha de S.Paulo, Gazeta do Povo, Metropoles
+       . [Folha de S.Paulo] Fachin conversa com Lula e indica que levará casos de Moraes e Mendonça ao plenário do STF
+       . [Gazeta do Povo] Moraes e Mendonça: entenda as falhas no relatório da PF contra o ministro
+       . [Folha Poder] PGR investigará relatório da PF que revelou mensagens de Vorcaro a Moraes
+
+   2      1      22      2  Nova pesquisa AtlasIntel testa disputa Lul
+       ineditas: corrida, flavio
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] corrida contra o tempo
+       . [Veja] Pesquisa AtlasIntel mede a corrida Lula x Flávio nos dois menores colégios eleitorais do Brasil
+       . [Veja] Nova pesquisa AtlasIntel testa disputa Lula x Flávio no estado da Lava Jato
+
+   2      1      11      3  ‘Meio-irmãos’: Dado Villa-Lobos e Dinho Ou
+       ineditas: dinho, ouro, preto
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] dinho ouro preto
+       . [Veja] ‘Meio-irmãos’: Dado Villa-Lobos e Dinho Ouro Preto se apresentam juntos pela primeira vez no Rock in Rio
+
+   2      0      42      1  a mulher secreta
+       ineditas: mulher
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] a mulher secreta
+       . [Metropoles] Mulher é condenada a 20 anos por espancar homem até a morte no DF
+
