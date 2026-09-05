@@ -11482,3 +11482,15 @@ RODADA 05/09 04:32 UTC  |  janela 90 min  |  18 manchetes  |  0 sem data  |  4 f
 ==============================================================================
 feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 04:42 UTC  |  janela 90 min  |  17 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      49      1  setlist foo fighters rock in rio
+       ineditas: rock
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] setlist foo fighters rock in rio
+       . [Veja] O look dos famosos na primeira noite de Rock in Rio
+
