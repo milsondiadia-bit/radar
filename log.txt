@@ -13557,3 +13557,46 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] É “abominável” que paulistas prefiram Tarcísio a Haddad, diz Lula
        . [O Antagonista] Lula pede votos para Haddad, ataca Tarcísio e ignora crise no STF
 
+==============================================================================
+RODADA 05/09 19:22 UTC  |  janela 90 min  |  84 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      47      4  Zanin pede responsabilização de responsáve
+       ineditas: expor, pede, responsabilizacao, zanin
+       veiculos: Carta Capital, Metropoles, Metrópoles
+       . [Metrópoles] Zanin pede responsabilização de responsável por expor seu sigilo fiscal
+       . [Carta Capital] Dallagnol expõe dados sigilosos de Zanin em registro de candidatura e ministro pede responsabilização
+       . [Metropoles] Zanin pede responsabilização de Deltan por expor seu sigilo fiscal
+
+   3      2      50      0  Lula foge de temas polêmicos em discurso d
+       veiculos: Carta Capital, Gazeta do Povo Rep, Veja
+       . [Carta Capital] Lula ‘provoca’ Trump com Pix e evita crise do STF em ato de campanha no interior de SP
+       . [Gazeta do Povo Rep] Lula ignora crise no STF em campanha no interior de São Paulo com Haddad
+       . [Veja] Lula foge de temas polêmicos em discurso de campanha no interior de SP
+
+   2      1      67      3  Erika Hilton denuncia acusado de homofobia
+       ineditas: acusado, ator, homofobia
+       veiculos: Metropoles, Veja
+       . [Metropoles] Streamer acusado de homofobia diz que ator de Quem Ama Cuida foi racista
+       . [Metropoles] Erika Hilton denuncia acusado de homofobia contra ator de Quem Ama Cuida
+       . [Veja] O esforço de Belize Pombal por Silvana em ‘Quem Ama Cuida’
+
+   2      1      26      1  É “abominável” que paulistas prefiram Tarc
+       ineditas: haddad
+       veiculos: O Antagonista, Poder360
+       . [Poder360] É “abominável” que paulistas prefiram Tarcísio a Haddad, diz Lula
+       . [O Antagonista] Lula pede votos para Haddad, ataca Tarcísio e ignora crise no STF
+
+   2      1      36      0  Flávio Bolsonaro visita ex-assessor Filipe
+       veiculos: Metropoles, Veja
+       . [Metropoles] Flávio Bolsonaro diz que Moraes é uma "laranja podre" dentro do STF
+       . [Veja] Flávio Bolsonaro visita ex-assessor Filipe Martins na cadeia
+
+   2      2      22      2  Jovem que foi receber rescisão de R$ 6 mil
+       ineditas: rescisao, trabalho
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
+       . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
+
