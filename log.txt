@@ -10850,3 +10850,52 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] diogo defante
        . [Veja] Diogo Defante é substituído por robô em estreia no Rock in Rio
 
+==============================================================================
+RODADA 05/09 00:52 UTC  |  janela 90 min  |  82 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      2      67      2  Defesa de Lulinha diz que relatórios expos
+       ineditas: apuracao, relatorio
+       veiculos: BBC Brasil, G1, Gazeta do Povo Rep, Metropoles, O Antagonista, Poder360, SpaceMoney
+       . [G1] Crise no STF: juristas propõem que Moraes e Mendonça sejam afastados temporariamente de processos em apuração
+       . [SpaceMoney] PGR abre apuração sobre conduta da PF em relatório que cita Moraes
+       . [Poder360] PGR abre procedimento para descobrir se PF investigou Moraes ilegalmente
+
+   2      0      35      1  Confira como foi a sexta-feira (4) dos can
+       ineditas: candidatos
+       veiculos: Agência Brasil, Metropoles
+       . [Agência Brasil] Confira como foi a sexta-feira (4) dos candidatos a presidente
+       . [Metropoles] Com 2% em pesquisas, Zema diz que eleitor só olha candidatos “na véspera”
+
+   2      0      12      2  TSE autoriza pronunciamento de Lula sobre 
+       ineditas: colonia, dira
+       veiculos: G1 Politica, oglobo.globo.com
+       . [oglobo.globo.com] Lula dirá em pronunciamento do 7 de setembro que Brasil não será colônia de outras nações e vai reforçar mote 
+       . [G1 Politica] TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defender
+
+   2      0      16      4  Lula dispara contra Flávio Bolsonaro: "Usa
+       ineditas: bolsonaro, enganar, fake, news
+       veiculos: Metropoles, poder360.com.br
+       . [poder360.com.br] Flávio Bolsonaro usa fake news para enganar a sociedade, diz Lula
+       . [Metropoles] Lula dispara contra Flávio Bolsonaro: "Usa fake news para enganar o Brasil"
+
+   2      1      61      2  PGR diz a Fachin que vai apurar possível i
+       ineditas: interferencia, relatorio
+       veiculos: G1 Politica, Gazeta do Povo Rep
+       . [G1 Politica] PGR diz a Fachin que vai apurar possível interferência em relatório da PF pedido por Mendonça que apontou rela
+       . [Gazeta do Povo Rep] PGR manda investigar se houve interferência em relatório da PF sobre Moraes e Vorcaro
+
+   2      0      51      2  Associação questiona decreto de Minas Gera
+       ineditas: gerais, minas
+       veiculos: Conjur, Metropoles
+       . [Conjur] Associação questiona decreto de Minas Gerais que restringe publicidade de bets
+       . [Metropoles] Fim de semana terá chuva e risco de tempestades em Minas Gerais
+
+   2      0       5      2  Confira o resultado da Quina 7110, sortead
+       ineditas: 7110, quina
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] quina 7110
+       . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
+
