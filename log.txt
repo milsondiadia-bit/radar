@@ -11643,3 +11643,8 @@ RODADA 05/09 08:12 UTC  |  janela 90 min  |  28 manchetes  |  0 sem data  |  4 f
 ==============================================================================
 feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 08:22 UTC  |  janela 90 min  |  29 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+(nenhum assunto com 2+ manchetes de 2+ veiculos)
