@@ -13268,3 +13268,32 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Palpite Fluminense x Vasco - Brasileirão - 05/09/26
        . [Veja] Fluminense x Vasco no Brasileirão: onde assistir, horário e escalações
 
+==============================================================================
+RODADA 05/09 18:12 UTC  |  janela 90 min  |  91 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      69      0  Lula critica Tarcísio em SP, e Haddad asso
+       veiculos: Folha de S.Paulo, Metropoles, Poder360, Veja
+       . [Folha de S.Paulo] Lula critica Tarcísio em SP, e Haddad associa governador a 'máfia do Master'
+       . [Poder360] É “abominável” que paulistas prefiram Tarcísio a Haddad, diz Lula
+       . [Metropoles] Lula critica discurso de candidatos sobre futuro do país: "Cinismo"
+
+   2      1      78      1  O conselho sobre o Pix que Lula diz que da
+       ineditas: interior
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Lula ‘provoca’ Trump com Pix e evita crise do STF em ato de campanha no interior de SP
+       . [Veja] Lula foge de temas polêmicos em discurso de campanha no interior de SP
+       . [Veja] O conselho sobre o Pix que Lula diz que dará a Trump na ONU
+
+   2      1       0      0  Erika Hilton denuncia acusado de homofobia
+       veiculos: Metropoles, Veja
+       . [Metropoles] Erika Hilton denuncia acusado de homofobia contra ator de Quem Ama Cuida
+       . [Veja] O esforço de Belize Pombal por Silvana em ‘Quem Ama Cuida’
+
+   2      1      30      0  Palpite Fluminense x Vasco - Brasileirão -
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Fluminense x Vasco - Brasileirão - 05/09/26
+       . [Veja] Fluminense x Vasco no Brasileirão: onde assistir, horário e escalações
+
