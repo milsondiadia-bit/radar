@@ -10991,3 +10991,38 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] quina 7110
        . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
 
+==============================================================================
+RODADA 05/09 01:22 UTC  |  janela 90 min  |  75 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      33      2  Por que Moraes, Toffoli e Gonet deveriam s
+       ineditas: apuracao, relatorio
+       veiculos: BBC Brasil, G1, Gazeta do Povo Rep, O Antagonista, Poder360, SpaceMoney
+       . [G1] Crise no STF: juristas propõem que Moraes e Mendonça sejam afastados temporariamente de processos em apuração
+       . [SpaceMoney] PGR abre apuração sobre conduta da PF em relatório que cita Moraes
+       . [Poder360] PGR abre procedimento para descobrir se PF investigou Moraes ilegalmente
+
+   3      2       3      4  PGR vai investigar possível interferência 
+       ineditas: interferencia, investigar, possivel, relatorio
+       veiculos: Gazeta do Povo Rep, Metrópoles, Veja
+       . [Metrópoles] PGR apura possível interferência em relatório da PF sobre Moraes e Vorcaro
+       . [Gazeta do Povo Rep] PGR manda investigar se houve interferência em relatório da PF sobre Moraes e Vorcaro
+       . [Veja] PGR vai investigar possível interferência em relatório da PF sobre Moraes
+
+   2      0      67      0  Confira como foi a sexta-feira (4) dos can
+       veiculos: Agência Brasil, G1 Politica
+       . [Agência Brasil] Confira como foi a sexta-feira (4) dos candidatos a presidente
+       . [G1 Politica] Veja como foi a agenda dos candidatos ao governo de Goiás nesta sexta-feira (4)
+
+   2      0      16      0  Lula dispara contra Flávio Bolsonaro: "Usa
+       veiculos: Metropoles, Poder360
+       . [Poder360] Flávio Bolsonaro usa fake news para enganar a sociedade, diz Lula
+       . [Metropoles] Lula dispara contra Flávio Bolsonaro: "Usa fake news para enganar o Brasil"
+
+   2      0       5      0  Confira o resultado da Quina 7110, sortead
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] quina 7110
+       . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
+
