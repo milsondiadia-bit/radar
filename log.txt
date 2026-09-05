@@ -11582,3 +11582,8 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [oglobo.globo.com] Haddad busca Lula para ampliar atos conjuntos em São Paulo antes do primeiro turno
        . [Metropoles] Lula e Haddad fazem campanha em São José do Rio Preto neste sábado (5/9)
 
+==============================================================================
+RODADA 05/09 06:52 UTC  |  janela 90 min  |  7 manchetes  |  0 sem data  |  11 feeds com erro
+==============================================================================
+feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; Carta Capital: HTTPError
+(nenhum assunto com 2+ manchetes de 2+ veiculos)
