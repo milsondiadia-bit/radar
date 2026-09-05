@@ -13666,3 +13666,41 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
        . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
 
+==============================================================================
+RODADA 05/09 19:52 UTC  |  janela 90 min  |  81 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      0      26      5  Flávio Bolsonaro diz que Moraes é uma "lar
+       ineditas: dentro, laranja, podre, supremo, tribunal
+       veiculos: G1 Politica, Metropoles, Terra, UOL Notícias, estadao.com.br
+       . [estadao.com.br] Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+       . [Terra] Alexandre de Moraes é 'laranja podre' dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+       . [UOL Notícias] Alexandre de Moraes é 'laranja podre' dentro do STF, diz Flávio Bolsonaro
+
+   3      0      34      5  Dallagnol expõe dados sigilosos de Zanin e
+       ineditas: candidatura, dallagnol, deltan, pede, zanin
+       veiculos: Carta Capital, Metropoles, Poder360
+       . [Poder360] Dallagnol divulga sigilo fiscal de ministro do STF em candidatura
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Carta Capital] Dallagnol expõe dados sigilosos de Zanin em registro de candidatura e ministro pede responsabilização
+
+   3      1      21      6  Delegados pedem afastamento de Gonet em ap
+       ineditas: apuracao, declare, delegados, gonet, impedido, pedem
+       veiculos: Folha Poder, G1, O Antagonista
+       . [G1] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório pedido por Mendonça que cita o
+       . [Folha Poder] Delegados da PF pedem que Gonet se declare impedido de apurar atos que o citem no caso Master
+       . [O Antagonista] Delegados pedem afastamento de Gonet em apuração sobre relatório da PF
+
+   2      1      35      0  Nova pesquisa Datafolha testa disputa Lula
+       veiculos: Poder360, Veja
+       . [Poder360] Flávio mira “endividados” em programa eleitoral
+       . [Veja] Nova pesquisa Datafolha testa disputa Lula x Flávio no maior colégio eleitoral do país
+
+   2      2      22      2  Jovem que foi receber rescisão de R$ 6 mil
+       ineditas: rescisao, trabalho
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
+       . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
+
