@@ -10567,3 +10567,47 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo] Real Time Big Data divulga pesquisa para governo e Senado em Sergipe
        . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
 
+==============================================================================
+RODADA 05/09 00:02 UTC  |  janela 90 min  |  94 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      1      65      1  Risco Brasil cai ao menor nível do 3º mand
+       ineditas: soberania
+       veiculos: Carta Capital, G1 Politica, Jurinews, Metropoles, O Antagonista, Poder360, bahia.ba
+       . [bahia.ba] Lula sanciona lei de custas processuais da Justiça Federal e do STJ
+       . [Jurinews] TSE autoriza pronunciamento de Lula para o 7 de setembro
+       . [G1 Politica] TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defender
+
+   4      1      21      1  Mendonça agradece orações após pedido de M
+       ineditas: mendonca
+       veiculos: Carta Capital, G1 Politica, Gazeta do Povo Rep, Poder360
+       . [G1 Politica] Relatório usado por Moraes recomenda 'monitoramento e coleta dirigida' sobre Mendonça e Messias
+       . [Poder360] Mendonça agradece orações após pedido de Moraes para investigá-lo
+       . [Carta Capital] Mendonça agradece apoio de fieis em meio a crise no STF
+
+   3      1      31      2  Defesa de Lulinha surfa em relatório apócr
+       ineditas: defesa, lulinha
+       veiculos: Metropoles, O Antagonista, Poder360
+       . [Poder360] Após relatório da PF, defesa de Lulinha critica inquérito do STF
+       . [Metropoles] Defesa de Lulinha diz que relatórios expostos por Moraes provam perseguição
+       . [O Antagonista] Defesa de Lulinha surfa em relatório apócrifo usado por Moraes
+
+   2      0       8      0  TSE recebe missões internacionais e formal
+       veiculos: G1, Tribunal Superior Eleitoral
+       . [Tribunal Superior Eleitoral] TSE recebe missões internacionais e formaliza atuação de observadores nas Eleições 2026
+       . [G1] Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta sexta-feira
+
+   2      0       9      3  Fábio Mitidieri lidera disputa pelo govern
+       ineditas: data, sergipe, time
+       veiculos: Carta Capital, Gazeta do Povo
+       . [Gazeta do Povo] Real Time Big Data divulga pesquisa para governo e Senado em Sergipe
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      1       8      2  Diogo Defante é substituído por robô em es
+       ineditas: defante, diogo
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] diogo defante
+       . [Veja] Diogo Defante é substituído por robô em estreia no Rock in Rio
+
