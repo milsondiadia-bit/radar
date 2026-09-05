@@ -133,7 +133,13 @@ STOPWORDS = set(STOP_PT) | set(STOP_EN)
 # UTILIDADES
 # ----------------------------------------------------------------------------
 
-UA = "Mozilla/5.0 (compatible; RadarBot/1.0; +https://example.local)"
+# 05/09/2026: era "RadarBot/1.0; +https://example.local". Carta Capital e
+# UOL devolviam HTTPError em 100% das rodadas - Cloudflare barra
+# User-Agent de robo, ainda mais com dominio falso. Um UA de navegador
+# real e aceito em todo lugar e nao muda nada nos feeds que ja
+# funcionavam.
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36")
 TAG_RE = re.compile(r"<[^>]+>")
 WORD_RE = re.compile(r"[A-Za-zÀ-ÿ][A-Za-zÀ-ÿ'’\-]*")
 ENTIDADE_RE = re.compile(
