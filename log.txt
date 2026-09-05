@@ -13630,3 +13630,39 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
        . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
 
+==============================================================================
+RODADA 05/09 19:42 UTC  |  janela 90 min  |  76 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      72      4  Zanin pede responsabilização de Deltan por
+       ineditas: deltan, expor, pede, zanin
+       veiculos: Metropoles, Poder360
+       . [Poder360] Zanin pede que Deltan seja responsabilizado por expor seu sigilo fiscal
+       . [Metropoles] TRE-PR dá 24h para Deltan se explicar por vazar sigilo de ministro do STF
+       . [Metropoles] Zanin pede responsabilização de Deltan por expor seu sigilo fiscal
+
+   2      0      15      3  Flávio Bolsonaro diz que Moraes é uma "lar
+       ineditas: dentro, laranja, podre
+       veiculos: Estadão, Metropoles
+       . [Estadão] Alexandre de Moraes é ‘laranja podre’ dentro do Supremo Tribunal Federal, diz Flávio Bolsonaro
+       . [Metropoles] Flávio Bolsonaro diz que Moraes é uma "laranja podre" dentro do STF
+
+   2      1       6      4  Delegados pedem afastamento de Gonet em ap
+       ineditas: apuracao, delegados, gonet, pedem
+       veiculos: G1 Politica, O Antagonista
+       . [G1 Politica] Delegados da PF pedem que Gonet se declare impedido em apuração sobre relatório pedido por Mendonça que cita o
+       . [O Antagonista] Delegados pedem afastamento de Gonet em apuração sobre relatório da PF
+
+   2      1      35      0  Nova pesquisa Datafolha testa disputa Lula
+       veiculos: Poder360, Veja
+       . [Poder360] Flávio mira “endividados” em programa eleitoral
+       . [Veja] Nova pesquisa Datafolha testa disputa Lula x Flávio no maior colégio eleitoral do país
+
+   2      2      22      2  Jovem que foi receber rescisão de R$ 6 mil
+       ineditas: rescisao, trabalho
+       veiculos: O Antagonista, Veja
+       . [O Antagonista] Trabalhador pede demissão após conseguir novo emprego, acredita que pode deixar a empresa no mesmo dia sem per
+       . [Veja] Jovem que foi receber rescisão de R$ 6 mil do trabalho aparece morto em SP
+
