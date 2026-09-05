@@ -12337,3 +12337,41 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Dinho Ouro Preto dedica Que País É Esse a Vorcaro e faz cobrança ao STF
        . [O Antagonista] Dinho Ouro Preto critica Vorcaro e STF em show no Rock in Rio
 
+==============================================================================
+RODADA 05/09 13:32 UTC  |  janela 90 min  |  70 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      17      3  Eleições 2026: candidaturas de autistas au
+       ineditas: 2026, eleicoes, politica
+       veiculos: Agência Brasil, G1, Money Times, noveen.com.br
+       . [Agência Brasil] Eleições 2026: candidaturas de autistas aumentam mais de cinco vezes
+       . [Money Times] Eleições 2026: de qual política pública o agronegócio precisa?
+       . [noveen.com.br] Política externa ganha espaço nas eleições de 2026 em meio a tensões com os EUA
+
+   2      1      43      2  A primeira pesquisa Meio/Ideia sobre a dis
+       ineditas: crise, pesquisa
+       veiculos: Poder360, Veja
+       . [Poder360] Coordenador de Lula vê “crise profunda” no STF e fala em modernização
+       . [Veja] Nova pesquisa BTG/Nexus testa Lula x Flávio após crise no STF e cenário com Cury no segundo turno
+       . [Veja] A primeira pesquisa Meio/Ideia sobre a disputa Lula x Flávio após o escândalo no STF
+
+   2      1       9      4  Carlos Alberto Parreira recebe alta de hos
+       ineditas: alberto, alta, carlos, parreira
+       veiculos: Metropoles, Veja
+       . [Metropoles] Carlos Alberto Parreira vai continuar tratamento em casa após alta médica
+       . [Veja] Carlos Alberto Parreira recebe alta de hospital no Rio
+
+   2      1      29      3  Bragantino x Bahia no Brasileirão: onde as
+       ineditas: bahia, bragantino, brasileirao
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Bragantino x Bahia - Brasileirão - 05/09/26
+       . [Veja] Bragantino x Bahia no Brasileirão: onde assistir, horário e escalações
+
+   2      1      21      1  Dinho Ouro Preto critica Vorcaro e STF em 
+       ineditas: vorcaro
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Dinho Ouro Preto dedica Que País É Esse a Vorcaro e faz cobrança ao STF
+       . [O Antagonista] Dinho Ouro Preto critica Vorcaro e STF em show no Rock in Rio
+
