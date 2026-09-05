@@ -11570,3 +11570,15 @@ RODADA 05/09 06:32 UTC  |  janela 90 min  |  8 manchetes  |  0 sem data  |  5 fe
 ==============================================================================
 feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Metropoles: URLError; Revista Oeste: ParseError; Agencia Brasil: ParseError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 06:42 UTC  |  janela 90 min  |  11 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      74      1  Lula e Haddad fazem campanha em São José d
+       ineditas: haddad
+       veiculos: Metropoles, oglobo.globo.com
+       . [oglobo.globo.com] Haddad busca Lula para ampliar atos conjuntos em São Paulo antes do primeiro turno
+       . [Metropoles] Lula e Haddad fazem campanha em São José do Rio Preto neste sábado (5/9)
+
