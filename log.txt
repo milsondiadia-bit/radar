@@ -11794,3 +11794,14 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Entenda os próximos passos do pedido de Moraes contra Mendonça
        . [Metropoles] Moraes ou Mendonça?
 
+==============================================================================
+RODADA 05/09 10:12 UTC  |  janela 90 min  |  46 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       0      0  Entenda os próximos passos do pedido de Mo
+       veiculos: Metropoles, Poder360
+       . [Poder360] Entenda os próximos passos do pedido de Moraes contra Mendonça
+       . [Metropoles] Moraes ou Mendonça?
+
