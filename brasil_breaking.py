@@ -108,10 +108,23 @@ def le_feed_com_fonte(nome, url, timeout=15):
     raiz, erro = None, f"{nome}: sem endereco"
     for endereco in enderecos:
         try:
-            raiz = ET.fromstring(baixa(endereco, timeout))
+            bruto = baixa(endereco, timeout)
+        except Exception as e:
+            # nao chegou resposta nenhuma: 403, 404, timeout
+            erro = f"{nome}: {type(e).__name__}"
+            continue
+        try:
+            raiz = ET.fromstring(bruto)
             break
         except Exception as e:
-            erro = f"{nome}: {type(e).__name__}"
+            # 05/09/2026: chegou resposta, mas nao e XML. Sem ver o que
+            # veio, "ParseError" nao diz se o endereco esta errado (404
+            # em HTML) ou se o servidor esta barrando o robo (pagina de
+            # desafio). Os primeiros 120 caracteres respondem isso de
+            # cara, e servem para qualquer feed que quebrar depois.
+            amostra = bruto[:120].decode("utf-8", "replace")
+            amostra = " ".join(amostra.split())
+            erro = f"{nome}: {type(e).__name__} [{amostra}]"
     if raiz is None:
         return itens, erro
 
