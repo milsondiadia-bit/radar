@@ -81,6 +81,43 @@ from radar import baixa, limpa_html, parse_data, _tag
 _RE_VEICULO_GNEWS = re.compile(r"\s+-\s+([^-]{2,40})\s*$")
 
 
+_PREFIXO_EM_TAG = re.compile(rb"</?([A-Za-z][\w.-]*):")
+_PREFIXO_DECLARADO = re.compile(rb"xmlns:([A-Za-z][\w.-]*)\s*=")
+_PRIMEIRA_TAG = re.compile(rb"<([A-Za-z][\w.:-]*)((?:\s[^>]*)?)>")
+
+
+def _parse_tolerante(bruto):
+    """
+    Le o XML. Se falhar por prefixo nao declarado, conserta e tenta de novo.
+
+    05/09/2026: a Revista Oeste dava ParseError em 100% das rodadas. O
+    log mostrou que o servidor devolvia RSS 2.0 legitimo - nao era
+    bloqueio nem endereco errado. O defeito e do feed deles: usam
+    <media:content> dentro dos itens sem declarar xmlns:media no <rss>.
+    Isso e XML mal formado, e o leitor recusa com razao.
+
+    Em vez de escrever o nome deles numa lista de excecao, a correcao e
+    geral: descobre quais prefixos aparecem nas tags, ve quais nao foram
+    declarados, e declara os que faltam num endereco de mentira antes de
+    ler de novo. O prefixo inventado nao atrapalha - o resto do codigo
+    so olha o nome da tag depois da chave, pelo _tag().
+
+    Qualquer outro feed com o mesmo descuido passa a funcionar sozinho.
+    """
+    try:
+        return ET.fromstring(bruto)
+    except ET.ParseError:
+        usados = set(_PREFIXO_EM_TAG.findall(bruto)) - {b"xml"}
+        faltando = usados - set(_PREFIXO_DECLARADO.findall(bruto))
+        m = _PRIMEIRA_TAG.search(bruto)
+        if not faltando or not m:
+            raise
+        extra = b"".join(b' xmlns:%s="urn:falta:%s"' % (p, p)
+                         for p in sorted(faltando))
+        remendado = (bruto[:m.end() - 1] + extra + bruto[m.end() - 1:])
+        return ET.fromstring(remendado)
+
+
 def le_feed_com_fonte(nome, url, timeout=15):
     """
     Igual ao le_feed() do radar.py, mas tambem captura a tag <source>.
@@ -114,7 +151,7 @@ def le_feed_com_fonte(nome, url, timeout=15):
             erro = f"{nome}: {type(e).__name__}"
             continue
         try:
-            raiz = ET.fromstring(bruto)
+            raiz = _parse_tolerante(bruto)
             break
         except Exception as e:
             # 05/09/2026: chegou resposta, mas nao e XML. Sem ver o que
