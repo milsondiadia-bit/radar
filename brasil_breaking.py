@@ -228,9 +228,14 @@ ACRESCENTAR = [
     # Veiculos de linha conservadora, pedidos em 03/09. Entram porque
     # cobrem pauta que os grandes as vezes deixam passar - e e ai que
     # da para chegar antes.
-    ("Revista Oeste", ["https://revistaoeste.com/feed/",
-                       "https://revistaoeste.com/feed",
-                       "https://revistaoeste.com/politica/feed/"]),
+    # 05/09/2026, MEDIDO: os tres enderecos anteriores davam ParseError
+    # em 100% das rodadas, inclusive depois do User-Agent novo - logo,
+    # nao era bloqueio. O site roda WordPress com W3 Total Cache, e o
+    # cache devolve HTML no /feed/ puro. O sufixo /rss2/ escapa disso:
+    # conferido no feed de busca deles, que veio RSS 2.0 valido e com
+    # pubDate em todos os itens.
+    ("Revista Oeste", ["https://revistaoeste.com/feed/rss2/",
+                       "https://revistaoeste.com/politica/feed/rss2/"]),
     ("O Antagonista", "https://oantagonista.com.br/feed/"),
     ("Claudio Dantas", "https://claudiodantas.com.br/feed/"),
     ("Veja", "https://veja.abril.com.br/feed/"),
@@ -288,12 +293,30 @@ def coleta_minutos(minutos, workers=12):
                 erros.append(err)
 
     corte = datetime.now(timezone.utc) - timedelta(minutes=minutos)
+
+    # 05/09/2026: manchete sem data PULAVA a janela inteira - entrava
+    # contando como fresca mesmo sendo de dias atras. Enquanto todo
+    # feed datava direito isso passava despercebido (0 a 1 por rodada).
+    # No dia em que o UOL voltou por um endereco sem pubDate, foram 26
+    # numa rodada de 62.
+    #
+    # A regra agora separa os dois casos, e separa MEDINDO, sem lista
+    # de nomes escrita a mao:
+    #
+    #   feed que datou ALGUMA coisa nesta rodada -> a manchete sem data
+    #       e falha pontual daquele item. Entra, como antes.
+    #   feed que nao datou NADA nesta rodada -> ele nao sabe dizer
+    #       quando publicou. Para um bot de breaking de 90 minutos isso
+    #       nao serve. Fica de fora, e o log registra quantas foram.
+    #
+    # Assim, se amanha outro feed vier sem data, ele ja nasce barrado
+    # sem eu precisar descobrir na marra.
+    datou = defaultdict(int)
+    for it in itens:
+        if it["data"] is not None:
+            datou[it["fonte"]] += 1
+
     recentes, vistos = [], set()
-    # 05/09/2026: passou a contar POR FEED, nao so o total. Depois que
-    # UOL e Agencia Brasil voltaram a responder, o numero de manchetes
-    # sem data pulou de 0-1 para 25 numa rodada de 74. Manchete sem data
-    # PULA a janela de 90 minutos - entra mesmo se for de tres dias
-    # atras. Sem saber de qual feed vem, so da para chutar qual cortar.
     sem_data_por_feed = defaultdict(int)
     for it in itens:
         if it["data"] is None:
@@ -301,6 +324,8 @@ def coleta_minutos(minutos, workers=12):
             # que troca pelo veiculo que o Google News agrega, so roda
             # umas linhas abaixo.
             sem_data_por_feed[it["fonte"]] += 1
+            if not datou[it["fonte"]]:
+                continue
         elif it["data"] < corte:
             continue
         it["titulo"] = titulo_limpo(it)
