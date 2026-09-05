@@ -12917,3 +12917,42 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Fernando Haddad sobre Tarcísio: "Recebeu dinheiro do Master para se eleger"
        . [O Antagonista] Tarcísio recebeu dinheiro do Master para se eleger, diz Haddad
 
+==============================================================================
+RODADA 05/09 16:32 UTC  |  janela 90 min  |  72 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      38      0  COLUNA DO ESTADÃO ⚖️ O inquérito das fake 
+       veiculos: Veja, instagram.com
+       . [instagram.com] COLUNA DO ESTADÃO ⚖️ O inquérito das fake news, instaurado em 2019 no STF, segue sem prazo para terminar e sem
+       . [Veja] Vinho bom é vinho caro? Dez fake news para tirar de sua taça
+
+   2      1      24      0  Augusto Cury omitiu negócios nos EUA da Ju
+       veiculos: O Antagonista, folha.uol.com.br
+       . [folha.uol.com.br] Augusto Cury omitiu negócios nos EUA da Justiça Eleitoral
+       . [O Antagonista] Cury omitiu cinco empresas na declaração de bens à Justiça Eleitoral
+
+   2      0       1      0  Em passagem por Barretos, Lula critica atu
+       veiculos: Brasil 247, CBN
+       . [CBN] Em passagem por Barretos, Lula critica atuação do governo Bolsonaro durante pandemia
+       . [Brasil 247] Lula critica negacionismo do governo Bolsonaro na pandemia: ‘400 mil mortes poderiam ter sido evitadas’
+
+   2      1       3      2  Forças Armadas dos Estados Unidos atacam t
+       ineditas: atacam, navios
+       veiculos: Poder360, Veja
+       . [Poder360] EUA atacam 3 petroleiros iranianos após disparos contra navios
+       . [Veja] Forças Armadas dos Estados Unidos atacam três navios do Irã
+
+   2      0      31      1  Parreira recebe alta do hospital no Rio, a
+       ineditas: hospital
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Parreira recebe alta do hospital no Rio, após 80 dias de internação
+       . [Metropoles] Carlos Alberto Parreira se emociona ao deixar hospital após 80 dias
+
+   2      1      27      5  Fernando Haddad sobre Tarcísio: "Recebeu d
+       ineditas: dinheiro, eleger, master, recebeu, tarcisio
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Fernando Haddad sobre Tarcísio: "Recebeu dinheiro do Master para se eleger"
+       . [O Antagonista] Tarcísio recebeu dinheiro do Master para se eleger, diz Haddad
+
