@@ -14337,3 +14337,55 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Congresso em Foco] Caso Master: Delegados pedem impedimento de Gonet, citado em relatório
        . [Veja] Delegados da Polícia Federal querem que Gonet se declare impedido no caso Master
 
+==============================================================================
+RODADA 05/09 22:22 UTC  |  janela 90 min  |  93 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      2      77      1  Gilmar Mendes propõe proibição de policiai
+       ineditas: mendes
+       veiculos: Agência Brasil, Consultor Jurídico, Folha Poder, JOTA Info, O Antagonista, Poder360, Revista Oeste, SBT News, estadao.com.br
+       . [Agência Brasil] STF: Mendes propõe vetar delegados da PF como assessores de ministros
+       . [JOTA Info] Gilmar Mendes propõe proibição de policiais e militares em gabinetes do STF
+       . [Consultor Jurídico] Gilmar propõe proibir militares e agentes da PF em gabinetes de ministros do STF
+
+   3      2      21      0  Zanin aciona Justiça Eleitoral após Deltan
+       veiculos: Congresso em Foco, Revista Oeste, Veja
+       . [Revista Oeste] Zanin pede providências ao Supremo Tribunal Federal e ao TRE contra Deltan
+       . [Congresso em Foco] Zanin pede apuração criminal após Deltan divulgar seus dados sigilosos
+       . [Veja] Zanin aciona Justiça Eleitoral após Deltan incluir seus dados sigilosos em candidatura
+
+   3      0       5      0  Painel: Gestão Nunes pede aval ao governo 
+       veiculos: Folha Poder, Folha de S.Paulo, SeLigaPB
+       . [Folha de S.Paulo] Painel: Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+       . [SeLigaPB] Governo Lula tem 51% de desaprovação e 45% de aprovação
+       . [Folha Poder] Gestão Nunes pede aval ao governo Lula para criar mais 84 km de faixas azuis para motos
+
+   3      2      53      0  Flávio chama Moraes de “laranja podre” do 
+       veiculos: O Antagonista, Poder360, Revista Oeste
+       . [Poder360] Flávio promete proteger o STF e diz que Moraes é “laranja podre”
+       . [Revista Oeste] Flávio cobra Alcolumbre por impeachment de Moraes
+       . [O Antagonista] Flávio chama Moraes de “laranja podre” do STF
+
+   2      0      29      0  Zanin aciona TSE e STF após suposta quebra
+       veiculos: G1 Politica, Valor Econômico
+       . [Valor Econômico] Zanin aciona TSE e STF após suposta quebra de sigilo por Deltan Dallagnol
+       . [G1 Politica] Zanin pede que Deltan Dallagnoll seja responsabilizado por abrir seu sigilo fiscal
+
+   2      1      49      1  Datafolha: 46% se dizem mais preocupados q
+       ineditas: preocupados
+       veiculos: Folha de S.Paulo, O Antagonista
+       . [Folha de S.Paulo] Datafolha: 46% se dizem mais preocupados que em 2022; maioria afirma estar decidida a ir votar
+       . [O Antagonista] Datafolha: brasileiros estão mais preocupados com a eleição neste ano
+
+   2      0       4      0  Eleições 2026: TSE libera consulta ao loca
+       veiculos: Diário PcD, Metropoles
+       . [Diário PcD] O Direito de Votar não pode depender da sorte nas Eleições em 2026
+       . [Metropoles] Eleições 2026: TSE libera consulta ao local de votação. Saiba como fazer
+
+   2      2      60      0  Delegados da Polícia Federal querem que Go
+       veiculos: Gazeta do Povo Rep, Veja
+       . [Gazeta do Povo Rep] Delegados da PF requerem que Gonet se declare impedido de atuar no caso Master
+       . [Veja] Delegados da Polícia Federal querem que Gonet se declare impedido no caso Master
+
