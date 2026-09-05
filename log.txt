@@ -11504,3 +11504,15 @@ RODADA 05/09 05:02 UTC  |  janela 90 min  |  13 manchetes  |  0 sem data  |  4 f
 ==============================================================================
 feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 05:12 UTC  |  janela 90 min  |  31 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      55      2  Horóscopo do dia: previsão para os 12 sign
+       ineditas: horoscopo, previsao
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Horóscopo 2026: confira a previsão de hoje (5/9) para seu signo
+       . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 05/09/2026
+
