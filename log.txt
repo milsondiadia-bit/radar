@@ -10671,3 +10671,57 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] diogo defante
        . [Veja] Diogo Defante é substituído por robô em estreia no Rock in Rio
 
+==============================================================================
+RODADA 05/09 00:22 UTC  |  janela 90 min  |  91 manchetes  |  0 sem data  |  3 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   6      2      60      3  Nunes Marques autoriza Lula a fazer pronun
+       ineditas: colonia, dira, soberania
+       veiculos: G1 Politica, Gazeta do Povo Rep, Jurinews, Metropoles, O Antagonista, oglobo.globo.com
+       . [oglobo.globo.com] Lula dirá em pronunciamento do 7 de setembro que Brasil não será colônia de outras nações e vai reforçar mote 
+       . [Jurinews] TSE autoriza pronunciamento de Lula para o 7 de setembro
+       . [G1 Politica] TSE autoriza pronunciamento de Lula sobre 7 de setembro; presidente dirá que Brasil 'não é colônia' e defender
+
+   4      1      21      0  Mendonça agradece orações após pedido de M
+       veiculos: Carta Capital, G1 Politica, Gazeta do Povo Rep, Poder360
+       . [G1 Politica] Relatório usado por Moraes recomenda 'monitoramento e coleta dirigida' sobre Mendonça e Messias
+       . [Poder360] Mendonça agradece orações após pedido de Moraes para investigá-lo
+       . [Carta Capital] Mendonça agradece apoio de fieis em meio a crise no STF
+
+   3      0      22      3  Eleições 2026: saiba como foi o dia dos ca
+       ineditas: data, sergipe, time
+       veiculos: Carta Capital, G1, Gazeta do Povo
+       . [Gazeta do Povo] Real Time Big Data divulga pesquisa para governo e Senado em Sergipe
+       . [G1] Eleições 2026: saiba como foi o dia dos candidatos ao governo de Sergipe nesta sexta-feira
+       . [Carta Capital] Fábio Mitidieri lidera disputa pelo governo de Sergipe, diz Real Time Big Data
+
+   2      0      10      1  Confira como foi a sexta-feira (4) dos can
+       ineditas: confira
+       veiculos: Agência Brasil, Metropoles
+       . [Agência Brasil] Confira como foi a sexta-feira (4) dos candidatos a presidente
+       . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
+
+   2      1      13      0  PGR informa Fachin que vai apurar conduta 
+       veiculos: G1 Politica, Gazeta do Povo Rep
+       . [G1 Politica] PGR informa Fachin que vai apurar conduta da PF na produção do relatório que apontou uma relação entre Moraes 
+       . [Gazeta do Povo Rep] Por que Moraes, Toffoli e Gonet deveriam se afastar do caso Moraes-Vorcaro
+
+   2      0      13      2  Lula dispara contra Flávio Bolsonaro: "Usa
+       ineditas: bolsonaro, enganar
+       veiculos: Metropoles, Poder360
+       . [Poder360] Flávio Bolsonaro usa fake news para enganar a sociedade, diz Lula
+       . [Metropoles] Lula dispara contra Flávio Bolsonaro: "Usa fake news para enganar o Brasil"
+
+   2      0       1      0  Após relatório da PF, defesa de Lulinha cr
+       veiculos: Metropoles, Poder360
+       . [Poder360] Após relatório da PF, defesa de Lulinha critica inquérito do STF
+       . [Metropoles] Defesa de Lulinha diz que relatórios expostos por Moraes provam perseguição
+
+   2      1       8      2  Diogo Defante é substituído por robô em es
+       ineditas: defante, diogo
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] diogo defante
+       . [Veja] Diogo Defante é substituído por robô em estreia no Rock in Rio
+
