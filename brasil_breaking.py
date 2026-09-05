@@ -96,10 +96,24 @@ def le_feed_com_fonte(nome, url, timeout=15):
     caminho confiavel; o sufixo fica de reserva.
     """
     itens = []
-    try:
-        raiz = ET.fromstring(baixa(url, timeout))
-    except Exception as e:
-        return itens, f"{nome}: {type(e).__name__}"
+
+    # 05/09/2026: o segundo parametro passou a aceitar uma LISTA de
+    # enderecos. Tenta um por um e para no primeiro que devolver XML.
+    #
+    # Por que lista e nao entradas separadas: se dois enderecos do mesmo
+    # veiculo funcionassem ao mesmo tempo, a Agencia Brasil contaria
+    # como DOIS veiculos e o portao de 6 seria atingido por um veiculo
+    # so. A lista mantem um nome = um veiculo.
+    enderecos = list(url) if isinstance(url, (list, tuple)) else [url]
+    raiz, erro = None, f"{nome}: sem endereco"
+    for endereco in enderecos:
+        try:
+            raiz = ET.fromstring(baixa(endereco, timeout))
+            break
+        except Exception as e:
+            erro = f"{nome}: {type(e).__name__}"
+    if raiz is None:
+        return itens, erro
 
     for el in raiz.iter():
         if _tag(el) not in ("item", "entry"):
@@ -168,6 +182,15 @@ TROCAR = {
     # (03 e 04/09). Fica de fora ate eu achar o certo.
     "https://www12.senado.leg.br/noticias/feed":
         "https://www12.senado.leg.br/noticias/feed/todasnoticias",
+
+    # 05/09/2026: Carta Capital dava HTTPError em 100% das rodadas. O
+    # endereco esta certo - quem recusava era o Cloudflare por causa do
+    # User-Agent de robo, ja corrigido no radar.py. Os alternativos
+    # ficam de reserva caso o bloqueio volte.
+    "https://www.cartacapital.com.br/feed/": [
+        "https://www.cartacapital.com.br/feed/",
+        "https://www.cartacapital.com.br/politica/feed/",
+    ],
 }
 # Fora da lista por nao devolverem XML valido, medido em varias
 # rodadas seguidas de 03 e 04/09. Nao adianta insistir: cada um deles
@@ -181,16 +204,27 @@ REMOVER = {"Agencia Camara", "Migalhas", "Agencia Senado",
 # ai eu troco. Melhor descobrir medindo do que supondo.
 ACRESCENTAR = [
     ("Folha Poder", "https://feeds.folha.uol.com.br/poder/rss091.xml"),
-    ("UOL Politica", "https://rss.uol.com.br/feed/politica.xml"),
+    # 05/09/2026: os quatro feeds abaixo falhavam em 100% das rodadas
+    # medidas entre 03 e 05/09. Agora cada um leva uma lista de
+    # enderecos: vale o primeiro que responder XML. O log continua
+    # mostrando na linha "feeds que falharam" quem nao respondeu em
+    # nenhum deles - e ai eu apago o veiculo de vez.
+    ("UOL Politica", ["https://rss.uol.com.br/feed/politica.xml",
+                      "https://rss.uol.com.br/feed/noticias.xml",
+                      "http://rss.home.uol.com.br/index.xml"]),
     ("Metropoles", "https://www.metropoles.com/feed"),
     # Veiculos de linha conservadora, pedidos em 03/09. Entram porque
     # cobrem pauta que os grandes as vezes deixam passar - e e ai que
     # da para chegar antes.
-    ("Revista Oeste", "https://revistaoeste.com/feed"),
+    ("Revista Oeste", ["https://revistaoeste.com/feed/",
+                       "https://revistaoeste.com/feed",
+                       "https://revistaoeste.com/politica/feed/"]),
     ("O Antagonista", "https://oantagonista.com.br/feed/"),
     ("Claudio Dantas", "https://claudiodantas.com.br/feed/"),
     ("Veja", "https://veja.abril.com.br/feed/"),
-    ("Agencia Brasil", "https://agenciabrasil.ebc.com.br/feed/"),
+    ("Agencia Brasil", ["https://agenciabrasil.ebc.com.br/rss.xml",
+                        "https://agenciabrasil.ebc.com.br/feed/",
+                        "http://www.ebc.com.br/rss/feed.xml"]),
 ]
 
 # Os veiculos alinhados ao canal.
@@ -291,6 +325,21 @@ segundo terceiro ultimo ultima acao acoes caso casos pais brasil
 # para juntar (as 4 manchetes do impeachment de Moraes ficaram numa so).
 SEMELHANCA_HISTORIA = 0.30
 
+# Quantas palavras que importam duas manchetes precisam repetir para
+# caírem no mesmo grupo. Uma palavra so nao basta: "Moraes" aparece em
+# meia duzia de historias diferentes por dia.
+#
+# MEDIDO em 171 rodadas do log de 03 a 05/09:
+#   comuns >= 1  -> 14,6% das rodadas com grupo de 6+ veiculos (inclui
+#                   os grupos falsos, como o das 19h22 de 04/09)
+#   comuns >= 2  ->  3,5%   <- escolhido
+#   comuns >= 3  ->  0,6%   estrangula, o bot ficaria mudo
+MINIMO_PALAVRAS_COMUNS = 2
+
+# Piso para o tamanho do nucleo no divisor. Sem ele, nucleo pequeno
+# vira divisor pequeno e qualquer coincidencia parece semelhanca alta.
+PISO_DO_NUCLEO = 4
+
 
 def _palavras(titulo):
     return {w for w in re.findall(r"[a-z0-9]{4,}", normaliza(titulo))
@@ -329,7 +378,26 @@ def agrupa(itens):
         for g in grupos:
             nucleo = g["nucleo"]
             comuns = len(minhas & nucleo)
-            sim = comuns / max(1, min(len(minhas), len(nucleo)))
+            # 05/09/2026: DUAS correcoes no mesmo lugar.
+            #
+            # O nucleo encolhe conforme o grupo cresce (so fica o que a
+            # maioria repete). Quando sobrava {moraes, mendonca}, o
+            # divisor min(len(minhas), len(nucleo)) virava 2 - e UMA
+            # palavra em comum dava 0.50, bem acima do corte de 0.30.
+            # O grupo virava ima: engolia toda manchete que dissesse
+            # "Moraes" OU "Mendonca". Foi assim que o alerta das 19h22
+            # saiu com o titulo da Transparencia Internacional e quatro
+            # materias que nao falavam disso.
+            #
+            # Medido na rodada real de 04/09 22:22: com a regra antiga o
+            # maior grupo tinha 5 veiculos e misturava a crise
+            # Moraes x Mendonca com os advogados do Vorcaro. Com estas
+            # duas travas, cai para 3 veiculos e as duas historias se
+            # separam.
+            if comuns < MINIMO_PALAVRAS_COMUNS:
+                continue
+            divisor = max(1, min(len(minhas), max(len(nucleo), PISO_DO_NUCLEO)))
+            sim = comuns / divisor
             if sim >= SEMELHANCA_HISTORIA and sim > melhor:
                 destino, melhor = g, sim
         if destino is None:
@@ -605,9 +673,21 @@ def monta_alerta(grupo, espalho):
     # uma manchete por veiculo, com o nome virando link
     # deduplica pelo nome CURTO: "G1" e "G1 Politica" sao dois feeds,
     # mas o mesmo jornal - nao faz sentido aparecer duas vezes.
+    # 05/09/2026: a lista comecava por grupo["itens"], que vem na ordem
+    # em que os feeds foram lidos. O titulo, porem, sai da manchete MAIS
+    # ANTIGA. Como a lista deduplica por veiculo e corta em 4, a
+    # manchete do titulo muitas vezes nao aparecia - e quando o veiculo
+    # dela tinha outra materia lida antes, saia o veiculo certo com a
+    # manchete errada. Foi o que aconteceu no alerta das 19h22: titulo
+    # da Gazeta sobre a Transparencia Internacional, e na lista a Gazeta
+    # com a materia dos "misterios do relatorio".
+    #
+    # Agora a manchete do titulo abre a lista, sempre.
+    ordenados = [primeiro] + [i for i in grupo["itens"] if i is not primeiro]
+
     vistos = set()
     postos = 0
-    for it in grupo["itens"]:
+    for it in ordenados:
         curto = nome_curto(it["fonte"])
         if curto in vistos:
             continue
