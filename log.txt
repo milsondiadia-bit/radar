@@ -12639,3 +12639,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Flávio Bolsonaro acusa Alcolumbre de proteger Moraes e diz haver articulação contra sua candidatura
        . [Gazeta do Povo Rep] Flávio diz que Alcolumbre blinda Moraes e trava impeachment
 
+==============================================================================
+RODADA 05/09 14:52 UTC  |  janela 90 min  |  69 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      2      33      0  Não se pode igualar Mendonça a Moraes
+       veiculos: O Antagonista, OpiniãoCE, Veja
+       . [OpiniãoCE] Fachin indica a Lula que levará casos de Moraes e Mendonça ao plenário do STF
+       . [O Antagonista] Não se pode igualar Mendonça a Moraes
+       . [Veja] A grande preocupação de Lula no embate entre Alexandre de Moraes e André Mendonça
+
+   2      0      11      1  PGR investigará relatório sobre mensagens 
+       ineditas: relatorio
+       veiculos: Consultor Jurídico, Jornal GGN
+       . [Consultor Jurídico] PGR apura atuação da PF em relatório sobre Alexandre e Vorcaro
+       . [Jornal GGN] PGR investigará relatório sobre mensagens de Vorcaro a Moraes
+
+   2      0       3      2  PGR inicia investigação sobre produção de 
+       ineditas: investigacao, relatorio
+       veiculos: BH 24 Horas, Carta Capital
+       . [BH 24 Horas] PGR inicia investigação sobre produção de relatório da Polícia Federal divulgado por André Mendonça
+       . [Carta Capital] Defesa de Lulinha vê relatório da PF como argumento para arquivar investigação
+
+   2      1      41      2  Flávio diz que Alcolumbre blinda Moraes e 
+       ineditas: alcolumbre, flavio
+       veiculos: Carta Capital, Gazeta do Povo Rep
+       . [Carta Capital] Flávio Bolsonaro acusa Alcolumbre de proteger Moraes e diz haver articulação contra sua candidatura
+       . [Gazeta do Povo Rep] Flávio diz que Alcolumbre blinda Moraes e trava impeachment
+
