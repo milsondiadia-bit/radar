@@ -13159,3 +13159,38 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [VEJA] Nova pesquisa AtlasIntel mostra disputa Lula x Flávio após escândalo no STF e testa Cury no segundo turno
        . [Veja] Primeira pesquisa Datafolha sobre a disputa Lula x Flávio após crise no STF testa também Cury no 2º turno
 
+==============================================================================
+RODADA 05/09 17:32 UTC  |  janela 90 min  |  84 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      79      1  Lula em comício: "Trump, faça um Pix para 
+       ineditas: comicio
+       veiculos: Metropoles, Poder360
+       . [Poder360] Lula diz que distribuiria cerveja em comício se não fosse proibido
+       . [Poder360] Janja borrifa água no pescoço de Lula durante comício pelo calor
+       . [Metropoles] Lula em comício: "Trump, faça um Pix para você ver como é bom"
+
+   2      1      32      0  Tarcísio recebeu dinheiro do Master para s
+       veiculos: Folha de S.Paulo, O Antagonista
+       . [Folha de S.Paulo] Lula critica Tarcísio em SP, e Haddad associa governador a 'máfia do Master'
+       . [O Antagonista] Tarcísio recebeu dinheiro do Master para se eleger, diz Haddad
+
+   2      1      22      2  A Capital Nacional do Morango por lei fede
+       ineditas: estado, federal
+       veiculos: Estadão, O Antagonista
+       . [Estadão] Em que Estado é mais concorrida a disputa por uma vaga de deputado federal? Veja
+       . [O Antagonista] A Capital Nacional do Morango por lei federal: cidade a 65 km de São Paulo que lidera a qualidade de vida no e
+
+   2      1      57      1  Augusto Cury faz carreata em Araçatuba e v
+       ineditas: augusto
+       veiculos: Gazeta do Povo Rep, Metropoles
+       . [Gazeta do Povo Rep] As pesquisas que confirmam o avanço de Augusto Cury
+       . [Metropoles] Augusto Cury faz carreata em Araçatuba e volta a atacar polarização
+
+   2      1      30      0  Palpite Fluminense x Vasco - Brasileirão -
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Fluminense x Vasco - Brasileirão - 05/09/26
+       . [Veja] Fluminense x Vasco no Brasileirão: onde assistir, horário e escalações
+
