@@ -12887,3 +12887,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [CBN] Em passagem por Barretos, Lula critica atuação do governo Bolsonaro durante pandemia
        . [Brasil 247] Lula critica negacionismo do governo Bolsonaro na pandemia: ‘400 mil mortes poderiam ter sido evitadas’
 
+==============================================================================
+RODADA 05/09 16:22 UTC  |  janela 90 min  |  77 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      46      1  Carlos Alberto Parreira recebe alta após 8
+       ineditas: hospital
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Parreira recebe alta do hospital no Rio, após 80 dias de internação
+       . [Carta Capital] Carlos Alberto Parreira recebe alta após 80 dias internado
+       . [Metropoles] Carlos Alberto Parreira se emociona ao deixar hospital após 80 dias
+
+   2      1      24      0  Augusto Cury omitiu negócios nos EUA da Ju
+       veiculos: Folha de S.Paulo, O Antagonista
+       . [Folha de S.Paulo] Augusto Cury omitiu negócios nos EUA da Justiça Eleitoral
+       . [O Antagonista] Cury omitiu cinco empresas na declaração de bens à Justiça Eleitoral
+
+   2      0       1      2  Em passagem por Barretos, Lula critica atu
+       ineditas: critica, pandemia
+       veiculos: Brasil 247, CBN
+       . [CBN] Em passagem por Barretos, Lula critica atuação do governo Bolsonaro durante pandemia
+       . [Brasil 247] Lula critica negacionismo do governo Bolsonaro na pandemia: ‘400 mil mortes poderiam ter sido evitadas’
+
+   2      1      27      5  Fernando Haddad sobre Tarcísio: "Recebeu d
+       ineditas: dinheiro, eleger, master, recebeu, tarcisio
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Fernando Haddad sobre Tarcísio: "Recebeu dinheiro do Master para se eleger"
+       . [O Antagonista] Tarcísio recebeu dinheiro do Master para se eleger, diz Haddad
+
