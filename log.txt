@@ -11455,3 +11455,15 @@ RODADA 05/09 03:52 UTC  |  janela 90 min  |  37 manchetes  |  0 sem data  |  4 f
 ==============================================================================
 feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 05/09 04:02 UTC  |  janela 90 min  |  35 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1       8      1  setlist foo fighters rock in rio
+       ineditas: rock
+       veiculos: Google Trends BR, Veja
+       . [Google Trends BR] setlist foo fighters rock in rio
+       . [Veja] Otaviano Costa, lesionado no ‘Dança’, curte Rock in Rio
+
