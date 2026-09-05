@@ -11026,3 +11026,37 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] quina 7110
        . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
 
+==============================================================================
+RODADA 05/09 01:32 UTC  |  janela 90 min  |  72 manchetes  |  0 sem data  |  4 feeds com erro
+==============================================================================
+feeds que falharam: Carta Capital: HTTPError; UOL Politica: HTTPError; Revista Oeste: ParseError; Agencia Brasil: ParseError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   5      3      32      3  Caso Master: o que pode acontecer com Mora
+       ineditas: interferencia, investigar, possivel
+       veiculos: BBC Brasil, Gazeta do Povo Rep, O Antagonista, Veja, metropoles.com
+       . [metropoles.com] PGR apura possível interferência em relatório da PF sobre Moraes e Vorcaro
+       . [BBC Brasil] Caso Master: o que pode acontecer com Moraes após supostas mensagens que revelam sua ligação com Vorcaro
+       . [Gazeta do Povo Rep] PGR manda investigar se houve interferência em relatório da PF sobre Moraes e Vorcaro
+
+   2      0      21      0  PGR abre apuração sobre conduta da PF em r
+       veiculos: G1, SpaceMoney
+       . [G1] Crise no STF: juristas propõem que Moraes e Mendonça sejam afastados temporariamente de processos em apuração
+       . [SpaceMoney] PGR abre apuração sobre conduta da PF em relatório que cita Moraes
+
+   2      0      16      0  Lula dispara contra Flávio Bolsonaro: "Usa
+       veiculos: Metropoles, poder360.com.br
+       . [poder360.com.br] Flávio Bolsonaro usa fake news para enganar a sociedade, diz Lula
+       . [Metropoles] Lula dispara contra Flávio Bolsonaro: "Usa fake news para enganar o Brasil"
+
+   2      0       5      0  Confira o resultado da Quina 7110, sortead
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] quina 7110
+       . [Metropoles] Confira o resultado da Quina 7110, sorteada nesta sexta (4/9)
+
+   2      1      22      3  Após término com Scooby, Cintia Dicker neg
+       ineditas: cintia, dicker, scooby
+       veiculos: Metropoles, Veja
+       . [Metropoles] Após término com Scooby, Cintia Dicker nega desavença com Bianca Andrade
+       . [Veja] Rock in Rio: Pedro Scooby fala de disputa judicial com Cintia Dicker em meio a petiscos
+
