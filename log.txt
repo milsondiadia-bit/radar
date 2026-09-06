@@ -15739,3 +15739,22 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Jornal da Paraíba] Eleições 2026: veja mudanças nos locais de votação em João Pessoa e Campina Grande
        . [A Redação] Saiba como denunciar irregularidades nas Eleições 2026
 
+==============================================================================
+RODADA 06/09 12:42 UTC  |  janela 90 min  |  59 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0       2      7  Seus investimentos e patrimônio estão prep
+       ineditas: campina, grande, joao, locais, mudancas, pessoa, votacao
+       veiculos: G1, Jornal da Paraíba, Seu Dinheiro
+       . [G1] Eleições 2026: locais de votação são alterados em João Pessoa e Campina Grande; veja mudanças
+       . [Jornal da Paraíba] Eleições 2026: veja mudanças nos locais de votação em João Pessoa e Campina Grande
+       . [Seu Dinheiro] Seus investimentos e patrimônio estão preparados para as Eleições 2026?
+
+   2      0       0      7  O Supremo Tribunal Federal, esse outro des
+       ineditas: aliomar, baleeiro, desconhecido, federal, outro, supremo, tribunal
+       veiculos: Conjur, conjur.com.br
+       . [conjur.com.br] O Supremo Tribunal Federal, esse outro desconhecido , de Aliomar Baleeiro
+       . [Conjur] O Supremo Tribunal Federal, esse outro desconhecido, de Aliomar Baleeiro
+
