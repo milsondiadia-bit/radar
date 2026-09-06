@@ -15014,3 +15014,16 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Entenda o que diz o relatório usado por Moraes em contra-ataque a Mendonça
        . [Revista Oeste] Entidade da Abin critica relatório citado por Moraes contra Mendonça
 
+==============================================================================
+RODADA 06/09 03:12 UTC  |  janela 90 min  |  45 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      58      1  Cármen Lúcia vê erros tanto de Moraes quan
+       ineditas: relatorio
+       veiculos: Folha Poder, Revista Oeste
+       . [Folha Poder] Cármen Lúcia vê erros tanto de Moraes quanto de Mendonça e vira peça-chave na disputa por hegemonia no STF
+       . [Folha Poder] Entenda o que diz o relatório usado por Moraes em contra-ataque a Mendonça
+       . [Revista Oeste] Entidade da Abin critica relatório citado por Moraes contra Mendonça
+
