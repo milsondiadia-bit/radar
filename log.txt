@@ -17238,3 +17238,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] jogo do inter hoje
        . [Metropoles] Torcedores do Inter deixam jogo no primeiro tempo após gols do Santos
 
+==============================================================================
+RODADA 06/09 20:42 UTC  |  janela 90 min  |  75 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      2      41      4  Avião de carga da Amazon sai da pista e fi
+       ineditas: aeroporto, carga, cargueiro, pista
+       veiculos: Metropoles, O Antagonista, Poder360, Veja
+       . [Poder360] Avião de carga da Amazon ultrapassa pista de aeroporto em Miami
+       . [Metropoles] Avião cargueiro da Amazon cai durante pouso e Aeroporto de Miami é fechado
+       . [O Antagonista] Avião de carga da Amazon sai da pista e fica em chamas em Miami
+
+   3      0      22      0  Mendonça libera caso de Moraes e Vorcaro p
+       veiculos: CartaCapital, G1, VEJA
+       . [G1] Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+       . [CartaCapital] Mendonça libera para julgamento relatório da PF sobre Moraes
+       . [VEJA] Mendonça libera caso de Moraes e Vorcaro para plenário do STF; Fachin decide próximos passos
+
+   2      1       8      0  Campanha de Augusto Cury admite omissão de
+       veiculos: JC, Revista Oeste
+       . [JC] Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE
+       . [Revista Oeste] Campanha de Augusto Cury admite omissão de bens nos EUA
+
+   2      1      45      2  Rock in Rio promete investigar caso de rac
+       ineditas: milena, rock
+       veiculos: Metropoles, Veja
+       . [Metropoles] Rock in Rio promete investigar caso de racismo relatado por Tia Milena
+       . [Veja] A falta de respeito de ex-bbb Tia Milena com Sepultura no Rock in Rio
+
