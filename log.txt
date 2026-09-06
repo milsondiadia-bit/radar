@@ -15851,3 +15851,38 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
        . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
 
+==============================================================================
+RODADA 06/09 13:32 UTC  |  janela 90 min  |  65 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      37      0  Seus investimentos e patrimônio estão prep
+       veiculos: G1, Jornal da Paraíba, Seu Dinheiro
+       . [G1] Eleições 2026: locais de votação são alterados em João Pessoa e Campina Grande; veja mudanças
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão neste domingo (6)
+       . [Jornal da Paraíba] Eleições 2026: veja mudanças nos locais de votação em João Pessoa e Campina Grande
+
+   2      0       0      0  O Supremo Tribunal Federal, esse outro des
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] O Supremo Tribunal Federal, esse outro desconhecido , de Aliomar Baleeiro
+       . [Conjur] O Supremo Tribunal Federal, esse outro desconhecido, de Aliomar Baleeiro
+
+   2      0      31      1  Michelle Bolsonaro chama Mendonça de 'ungi
+       ineditas: meio
+       veiculos: Folha Poder, InfoMoney
+       . [InfoMoney] Em meio a crise, STF reforça esquema de segurança para o Sete de Setembro
+       . [Folha Poder] Michelle Bolsonaro chama Mendonça de 'ungido do Senhor' em meio a crise no STF
+
+   2      1      10      2  Pesquisas eleitorais mostram a distância e
+       ineditas: flavio, lula
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba quais são as propostas de Lula e Flávio para as contas públicas
+       . [Veja] Pesquisas eleitorais mostram a distância entre Lula e Flávio após números da semana
+
+   2      1      27      3  Enviados de Trump se reúnem com Zelensky a
+       ineditas: enviados, trump, zelensky
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
+       . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
+
