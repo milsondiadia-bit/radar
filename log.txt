@@ -16151,3 +16151,52 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Congresso em Foco] Natália Bonavides e Brisa Bracchi denunciam ameaças de estupro e morte
        . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
 
+==============================================================================
+RODADA 06/09 15:02 UTC  |  janela 90 min  |  87 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      33      2  Incêndio destrói pavilhão do Ceagesp na ma
+       ineditas: atinge, paulo
+       veiculos: CNN Brasil, Poder360, Veja
+       . [CNN Brasil] Incêndio atinge galpão na Ceagesp, na zona oeste de São Paulo
+       . [Poder360] Incêndio atinge galpão na Ceagesp, em São Paulo
+       . [Veja] Incêndio destrói pavilhão do Ceagesp na madrugada deste domingo
+
+   2      1      22      4  Deputada aciona polícia após ameaça de est
+       ineditas: aciona, ameaca, estupro, policia
+       veiculos: CNN Brasil, O Antagonista
+       . [CNN Brasil] Deputada do PT aciona polícia e MPE após receber ameaça de estupro e morte
+       . [O Antagonista] Deputada aciona polícia após ameaça de estupro e esquartejamento
+
+   2      1      40      3  Michelle manda recado a Mendonça: “Você é 
+       ineditas: mendonca, senhor, ungido
+       veiculos: Gazeta do Povo Rep, O GLOBO
+       . [O GLOBO] Michelle Bolsonaro publica mensagem de apoio a Mendonça em meio a crise no STF: 'ungido do Senhor'
+       . [Gazeta do Povo Rep] Michelle manda recado a Mendonça: “Você é um escolhido e ungido do Senhor”
+
+   2      0      37      3  Confira resultado da Mega-Sena 3054, sorte
+       ineditas: confira, mega, sena
+       veiculos: Metropoles, Poder360
+       . [Poder360] Mega-Sena acumula e vai a R$ 70 milhões; confira os números sorteados
+       . [Metropoles] Confira resultado da Mega-Sena 3054, sorteada neste domingo (6/9)
+
+   2      0      13      3  Deputada Natália Bonavides denuncia ameaça
+       ineditas: ameacas, bonavides, natalia
+       veiculos: Carta Capital, Congresso em Foco
+       . [Congresso em Foco] Natália Bonavides e Brisa Bracchi denunciam ameaças de estupro e morte
+       . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
+
+   2      1      77      1  Flávio Bolsonaro cobra voto de Cármen cont
+       ineditas: carmen
+       veiculos: Folha Poder, O Antagonista
+       . [Folha Poder] Flávio Bolsonaro cobra voto de Cármen contra Moraes e diz que ela deve se preocupar com biografia
+       . [O Antagonista] Flávio pede que Cármen Lúcia apoie investigação sobre Moraes
+
+   2      1      12      3  Deputados do PT pedem inelegibilidade de N
+       ineditas: inelegibilidade, nikolas, pedem
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
+       . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
+
