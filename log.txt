@@ -14851,3 +14851,25 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo Rep] Gonet acusa Mendonça do que sempre tolerou em Moraes
        . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
 
+==============================================================================
+RODADA 06/09 01:12 UTC  |  janela 90 min  |  51 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      66      0  Gilmar Mendes propõe barrar policiais e mi
+       veiculos: CartaCapital, Gazeta do Povo Rep
+       . [CartaCapital] Gilmar Mendes propõe barrar policiais e militares em gabinetes de ministros do STF
+       . [Gazeta do Povo Rep] Gilmar propõe barrar policiais e militares em gabinetes de ministros do STF
+
+   2      1       4      2  Zanin vota contra pedido de liberdade para
+       ineditas: liberdade, vota
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Zanin vota contra pedido de liberdade para Bolsonaro no STF
+       . [Gazeta do Povo Rep] Zanin acompanha Cármen Lúcia e vota contra liberdade de Bolsonaro no STF
+
+   2      2      18      0  Exclusivo: Documento apócrifo usado por Mo
+       veiculos: Claudio Dantas, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Gonet acusa Mendonça do que sempre tolerou em Moraes
+       . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
+
