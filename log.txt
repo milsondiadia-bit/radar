@@ -16002,3 +16002,28 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
        . [O Antagonista] Deputada aciona polícia após ameaça de estupro e esquartejamento
 
+==============================================================================
+RODADA 06/09 14:12 UTC  |  janela 90 min  |  78 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      25      2  Palpite Corinthians x Chapecoense - Brasil
+       ineditas: internacional, santos
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Internacional x Santos - Brasileirão - 06/09/26
+       . [Metropoles] Palpite Corinthians x Chapecoense - Brasileirão - 06/09/26
+       . [Veja] Internacional x Santos no Brasileirão: onde assistir, horário e escalações
+
+   2      1      21      2  Deputada aciona polícia após ameaça de est
+       ineditas: deputada, esquartejamento
+       veiculos: Carta Capital, O Antagonista
+       . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
+       . [O Antagonista] Deputada aciona polícia após ameaça de estupro e esquartejamento
+
+   2      1      45      2  Enviados de Trump chegam à Ucrânia para ne
+       ineditas: chegam, ucrania
+       veiculos: Metropoles, Veja
+       . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
+       . [Veja] Enviados de Trump chegam à Ucrânia após se reunirem com Putin
+
