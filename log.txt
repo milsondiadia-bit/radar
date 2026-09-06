@@ -14712,3 +14712,32 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] fluminense vs vasco
        . [Metropoles] Fluminense x Vasco: onde assistir ao clássico pelo Brasileirão
 
+==============================================================================
+RODADA 06/09 00:12 UTC  |  janela 90 min  |  61 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      76      0  Gilmar Mendes quer ‘blindar’ o Supremo de 
+       veiculos: BBC, BBC Brasil, CartaCapital, veja.abril.com.br
+       . [BBC] STF: Gilmar Mendes pede proibição de policiais alocados em gabinetes de ministros
+       . [CartaCapital] Gilmar Mendes propõe barrar policiais e militares em gabinetes de ministros do STF
+       . [veja.abril.com.br] Gilmar Mendes quer ‘blindar’ o Supremo de delegados e militares
+
+   3      1      29      2  Relatório usado por Moraes contra Mendonça
+       ineditas: mendonca, usado
+       veiculos: CNN Brasil, Claudio Dantas, Metropoles
+       . [CNN Brasil] Agentes da Abin criticam relatório da PF usado por Moraes contra Mendonça
+       . [Metropoles] Relatório usado por Moraes contra Mendonça não segue padrão de inteligência
+       . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
+
+   2      1      16      0  Deltan anexa dados de sigilo fiscal de Zan
+       veiculos: Folha Poder, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [Folha Poder] Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização
+
+   2      0      38      0  fluminense vs vasco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] fluminense vs vasco
+       . [Metropoles] Fluminense x Vasco: onde assistir ao clássico pelo Brasileirão
+
