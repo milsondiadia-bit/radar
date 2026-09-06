@@ -16309,3 +16309,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
        . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
 
+==============================================================================
+RODADA 06/09 15:42 UTC  |  janela 90 min  |  75 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      12      3  Deputados do PT pedem inelegibilidade de N
+       ineditas: inelegibilidade, nikolas, pedem
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
+       . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
+
