@@ -17098,3 +17098,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Avião cargueiro da Amazon cai durante pouso e Aeroporto de Miami é fechado
        . [O Antagonista] Avião de carga da Amazon sai da pista e fica em chamas em Miami
 
+==============================================================================
+RODADA 06/09 20:02 UTC  |  janela 90 min  |  82 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   9      1      60      0  Mendonça libera para análise do plenário d
+       veiculos: CartaCapital, Folha Poder, G1, Metropoles, O Antagonista, O GLOBO, Poder360, VEJA, Valor Econômico
+       . [G1] Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+       . [Valor Econômico] Mendonça libera para análise do plenário do STF relatório sobre mensagens de Vorcaro a Moraes
+       . [O GLOBO] Mendonça libera relatório da PF com mensagens de Vorcaro a Moraes para Fachin pautar no plenário do STF
+
+   3      1      19      0  Dino questiona “promessa” de encerrar inqu
+       veiculos: CNN Brasil, O GLOBO, Veja
+       . [CNN Brasil] Dino questiona “promessa” de encerrar inquéritos em meio a crise no STF
+       . [O GLOBO] Sem citar Fachin, Dino questiona plano de encerrar inquéritos “muito antigos”, como o das fake news
+       . [Veja] A indireta de Flávio Dino ao presidente do STF, Edson Fachin, sobre o ‘inquérito das fake news’
+
+   2      1      16      2  Augusto Cury omitiu empresas nos Estados U
+       ineditas: augusto, cury
+       veiculos: Revista Oeste, Tribuna do Norte
+       . [Tribuna do Norte] Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE
+       . [Revista Oeste] Campanha de Augusto Cury admite omissão de bens nos EUA
+
+   2      1       0      3  Avião de carga da Amazon sai da pista e fi
+       ineditas: amazon, aviao, miami
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Avião cargueiro da Amazon cai durante pouso e Aeroporto de Miami é fechado
+       . [O Antagonista] Avião de carga da Amazon sai da pista e fica em chamas em Miami
+
