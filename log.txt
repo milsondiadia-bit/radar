@@ -16321,3 +16321,32 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
        . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
 
+==============================================================================
+RODADA 06/09 15:52 UTC  |  janela 90 min  |  82 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      51      1  Michelle Bolsonaro publica mensagem de apo
+       ineditas: chama
+       veiculos: Congresso em Foco, O GLOBO, Terra
+       . [O GLOBO] Michelle Bolsonaro publica mensagem de apoio a Mendonça em meio a crise no STF: 'ungido do Senhor'
+       . [Terra] Michelle chama Mendonça de 'ungido do Senhor' em meio a crise no STF
+       . [Congresso em Foco] Michelle recorda indicação de Mendonça e o chama de "ungido do Senhor"
+
+   2      0      52      0  Veritá: Flávio tem 38,9% no 1º turno; Lula
+       veiculos: CNN Brasil, Metropoles
+       . [CNN Brasil] Veritá: Flávio tem 38,9% no 1º turno; Lula, 38,4% e Cury, 12,2%
+       . [Metropoles] Lula vai às redes sociais, fala de Pix e faz comparação direta com Flávio
+
+   2      0       2      2  Saiba quem são os candidatos ao Senado apo
+       ineditas: candidatos, senado
+       veiculos: Poder360, poder360.com.br
+       . [poder360.com.br] Lula apoia 50 candidatos ao Senado; 18 são competitivos
+       . [Poder360] Saiba quem são os candidatos ao Senado apoiados por Lula em 2026
+
+   2      1      12      0  Deputados do PT pedem inelegibilidade de N
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
+       . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
+
