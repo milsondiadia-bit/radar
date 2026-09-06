@@ -16424,3 +16424,27 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Aprovação de Trump registra novo recorde negativo
        . [Metropoles] Aprovação de Donald Trump atinge menor nível já registrado em pesquisa
 
+==============================================================================
+RODADA 06/09 16:32 UTC  |  janela 90 min  |  82 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      23      0  Lula vai às redes sociais, fala de Pix e f
+       veiculos: Metropoles, Veja
+       . [Metropoles] Caiado diz que Lula e Flávio "têm muito a explicar" sobre investigações
+       . [Metropoles] Lula vai às redes sociais, fala de Pix e faz comparação direta com Flávio
+       . [Veja] Na véspera do 7 de setembro, Lula se contrapõe a Flávio e faz aceno sobre soberania
+
+   2      1       2      1  Zema mira Moraes, Gonet e Vorcaro em novo 
+       ineditas: vorcaro
+       veiculos: O Antagonista, Poder360
+       . [Poder360] Zema mira Moraes, Gonet e Vorcaro em novo vídeo; assista
+       . [O Antagonista] OAB-MG cobra “investigação rigorosa” após mensagens entre Vorcaro e Moraes
+
+   2      1      79      4  Após ordem de Moraes, diarista condenada r
+       ineditas: condenada, desaparece, diarista, ordem
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Após ordem de Moraes, diarista condenada rompe tornozeleira e desaparece
+       . [O Antagonista] Diarista condenada pelo 8/1 desaparece após ordem de prisão de Moraes
+
