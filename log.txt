@@ -14811,3 +14811,26 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Revista Oeste] Moraes não deve ir ao desfile de 7 de Setembro com Lula
        . [Veja] Crise de Moraes testa limites da aliança entre Lula e o STF
 
+==============================================================================
+RODADA 06/09 00:52 UTC  |  janela 90 min  |  54 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      2      43      0  Agentes da Abin criticam relatório da PF u
+       veiculos: CNN Brasil, Claudio Dantas, Gazeta do Povo Rep
+       . [CNN Brasil] Agentes da Abin criticam relatório da PF usado por Moraes contra Mendonça
+       . [Gazeta do Povo Rep] Gonet acusa Mendonça do que sempre tolerou em Moraes
+       . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
+
+   2      0      38      0  Sem polícia nos gabinetes: o pedido de Gil
+       veiculos: BBC Brasil, CartaCapital
+       . [CartaCapital] Gilmar Mendes propõe barrar policiais e militares em gabinetes de ministros do STF
+       . [BBC Brasil] Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+
+   2      1       4      2  Zanin vota contra pedido de liberdade para
+       ineditas: liberdade, vota
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Zanin vota contra pedido de liberdade para Bolsonaro no STF
+       . [Gazeta do Povo Rep] Zanin acompanha Cármen Lúcia e vota contra liberdade de Bolsonaro no STF
+
