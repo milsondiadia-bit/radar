@@ -15287,3 +15287,28 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Estadão] Pacote de Lula para estimular economia em ano de eleição tem impacto abaixo do esperado
        . [Poder360] Lula leva 5 vitórias no Congresso antes da eleição, mas 6 X 1 é adiada
 
+==============================================================================
+RODADA 06/09 09:12 UTC  |  janela 90 min  |  41 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      18      2  3 missões internacionais vão observar as e
+       ineditas: eleicoes, principais
+       veiculos: Poder360, poder360.com.br
+       . [poder360.com.br] 3 missões internacionais vão observar as eleições de 2026
+       . [Poder360] Saiba quem são os principais ex-atletas candidatos nas eleições de 2026
+       . [Poder360] Conheça os principais nomes do entretenimento que disputam as eleições
+
+   2      0      33      1  Pacote de Lula para estimular economia em 
+       ineditas: eleicao
+       veiculos: Estadão, poder360.com.br
+       . [poder360.com.br] Lula leva 5 vitórias no Congresso antes da eleição, mas 6 X 1 é adiada
+       . [Estadão] Pacote de Lula para estimular economia em ano de eleição tem impacto abaixo do esperado
+
+   2      1      55      4  Palpite Arsenal x Chelsea - Premier League
+       ineditas: arsenal, chelsea, league, premier
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Arsenal x Chelsea - Premier League - 06/09/26
+       . [Veja] Arsenal x Chelsea na Premier League: onde assistir, horário e escalações
+
