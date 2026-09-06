@@ -16576,3 +16576,28 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Revista Oeste] Flávio cobra de Cármen Lúcia apoio à investigação contra Moraes
        . [O Antagonista] OAB-MG cobra “investigação rigorosa” após mensagens entre Vorcaro e Moraes
 
+==============================================================================
+RODADA 06/09 17:32 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      3      77      3  OAB-MG cobra “investigação rigorosa” após 
+       ineditas: cobra, investigacao, lucia
+       veiculos: Gazeta do Povo Rep, O Antagonista, Revista Oeste
+       . [Gazeta do Povo Rep] Flávio cobra voto de Cármen Lúcia para abertura de investigação contra Alexandre de Moraes
+       . [Revista Oeste] Flávio cobra de Cármen Lúcia apoio à investigação contra Moraes
+       . [O Antagonista] OAB-MG cobra “investigação rigorosa” após mensagens entre Vorcaro e Moraes
+
+   2      0      15      6  Pesquisas de boca de urna apontam grande v
+       ineditas: apontam, boca, pesquisas, radical, urna, vitoria
+       veiculos: BBC Brasil, Carta Capital
+       . [BBC Brasil] Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia
+       . [BBC Brasil] Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha
+       . [Carta Capital] Extrema-direita tem ampla vitória em eleição regional na Alemanha, apontam pesquisas de boca de urna
+
+   2      1      30      0  Policia Federal extradita brasileira procu
+       veiculos: Isso É Notícia, Revista Oeste
+       . [Isso É Notícia] Policia Federal extradita brasileira procurada pela Interpol por estelionato
+       . [Revista Oeste] Como os pedidos de Vorcaro alcançaram o comando da PGR e da Polícia Federal
+
