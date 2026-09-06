@@ -17027,3 +17027,23 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Jornal do Brasil] Eleições de 2026 – o Brasil à beira do precipício outra vez
        . [Revista Oeste] Eleições de 2026 custam mais de R$ 20 bilhões aos cofres públicos
 
+==============================================================================
+RODADA 06/09 19:32 UTC  |  janela 90 min  |  85 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+  10      2      57      4  Mendonça libera para plenário julgamento d
+       ineditas: julgamento, libera, plenario, relatorio
+       veiculos: CNN Brasil, Carta Capital, Folha Poder, G1, Metropoles, O Antagonista, O GLOBO, Poder360, Valor Econômico, Veja
+       . [CNN Brasil] Mendonça libera para plenário julgamento de caso Moraes
+       . [Valor Econômico] Mendonça libera para análise do plenário do STF relatório sobre mensagens de Vorcaro a Moraes
+       . [G1] Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+
+   7      1      52      2  Sem citar Fachin, Dino critica promessa de
+       ineditas: encerrar, fala
+       veiculos: CNN Brasil, CartaCapital, Congresso em Foco, Metropoles, O GLOBO, Veja, estadao.com.br
+       . [CNN Brasil] Dino questiona “promessa” de encerrar inquéritos em meio a crise no STF
+       . [O GLOBO] Sem citar Fachin, Dino questiona plano de encerrar inquéritos “muito antigos”, como o das fake news
+       . [CartaCapital] Sem citar Fachin, Dino questiona promessa de fim do Inquérito das Fake News
+
