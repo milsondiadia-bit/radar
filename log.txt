@@ -15726,3 +15726,16 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [revistaoeste.com] Marcelo Tostes: 'Maior crise da história dos Correios escancara falhas de gestão do governo Lula'
        . [Revista Oeste] Maior crise da história dos Correios escancara falhas de gestão do governo Lula
 
+==============================================================================
+RODADA 06/09 12:32 UTC  |  janela 90 min  |  59 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      56      7  Saiba como denunciar irregularidades nas E
+       ineditas: campina, grande, joao, locais, mudancas, pessoa, votacao
+       veiculos: A Redação, Jornal da Paraíba, Seu Dinheiro, g1.globo.com
+       . [g1.globo.com] Eleições 2026: locais de votação são alterados em João Pessoa e Campina Grande; veja mudanças
+       . [Jornal da Paraíba] Eleições 2026: veja mudanças nos locais de votação em João Pessoa e Campina Grande
+       . [A Redação] Saiba como denunciar irregularidades nas Eleições 2026
+
