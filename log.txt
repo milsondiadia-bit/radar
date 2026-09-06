@@ -14834,3 +14834,20 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Zanin vota contra pedido de liberdade para Bolsonaro no STF
        . [Gazeta do Povo Rep] Zanin acompanha Cármen Lúcia e vota contra liberdade de Bolsonaro no STF
 
+==============================================================================
+RODADA 06/09 01:02 UTC  |  janela 90 min  |  48 manchetes  |  0 sem data  |  8 feeds com erro
+==============================================================================
+feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1       4      2  Zanin vota contra pedido de liberdade para
+       ineditas: liberdade, vota
+       veiculos: Gazeta do Povo Rep, Poder360
+       . [Poder360] Zanin vota contra pedido de liberdade para Bolsonaro no STF
+       . [Gazeta do Povo Rep] Zanin acompanha Cármen Lúcia e vota contra liberdade de Bolsonaro no STF
+
+   2      2      18      0  Exclusivo: Documento apócrifo usado por Mo
+       veiculos: Claudio Dantas, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Gonet acusa Mendonça do que sempre tolerou em Moraes
+       . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
+
