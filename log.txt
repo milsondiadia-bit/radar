@@ -15966,3 +15966,39 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Poder360] Saiba quais são as propostas de Lula e Flávio para as contas públicas
        . [Veja] Pesquisas eleitorais mostram a distância entre Lula e Flávio após números da semana
 
+==============================================================================
+RODADA 06/09 14:02 UTC  |  janela 90 min  |  73 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      2      72      3  Enviados de Trump se reúnem com Zelensky a
+       ineditas: chegam, putin, ucrania
+       veiculos: Metropoles, O Antagonista, Veja
+       . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
+       . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
+       . [Veja] Enviados de Trump chegam à Ucrânia após se reunirem com Putin
+
+   2      1      25      2  Palpite Corinthians x Chapecoense - Brasil
+       ineditas: internacional, santos
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Internacional x Santos - Brasileirão - 06/09/26
+       . [Metropoles] Palpite Corinthians x Chapecoense - Brasileirão - 06/09/26
+       . [Veja] Internacional x Santos no Brasileirão: onde assistir, horário e escalações
+
+   2      0       7      0  Eleições 2026: veja a agenda dos candidato
+       veiculos: G1, tmc.com.br
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão neste domingo (6)
+       . [tmc.com.br] Semana no Congresso tem vitórias parciais para Governo Lula, mas PEC da Segurança e fim da escala 6x1 ficam pa
+
+   2      1      10      0  Pesquisas eleitorais mostram a distância e
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba quais são as propostas de Lula e Flávio para as contas públicas
+       . [Veja] Pesquisas eleitorais mostram a distância entre Lula e Flávio após números da semana
+
+   2      1      21      2  Deputada aciona polícia após ameaça de est
+       ineditas: deputada, esquartejamento
+       veiculos: Carta Capital, O Antagonista
+       . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
+       . [O Antagonista] Deputada aciona polícia após ameaça de estupro e esquartejamento
+
