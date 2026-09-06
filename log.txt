@@ -15265,3 +15265,8 @@ RODADA 06/09 08:32 UTC  |  janela 90 min  |  27 manchetes  |  0 sem data  |  1 f
 ==============================================================================
 feeds que falharam: UOL Politica: HTTPError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 06/09 08:42 UTC  |  janela 90 min  |  31 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+(nenhum assunto com 2+ manchetes de 2+ veiculos)
