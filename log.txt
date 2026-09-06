@@ -15449,3 +15449,26 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha de S.Paulo] Painel: Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
        . [Folha Poder] Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
 
+==============================================================================
+RODADA 06/09 10:22 UTC  |  janela 90 min  |  58 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       0      3  A leitura equivocada do Tema 1.199/STF
+       ineditas: equivocada, leitura, tema
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] A leitura equivocada do Tema 1.199/STF
+       . [Conjur] Irretroatividade que retroage: a leitura equivocada do Tema 1.199
+
+   2      0       0      0  Painel: Planalto mobiliza militância para 
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Painel: Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
+       . [Folha Poder] Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
+
+   2      2       9      2  Marco Aurélio Mello se arrepende de ter ap
+       ineditas: apoiado, aurelio
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
+       . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
+
