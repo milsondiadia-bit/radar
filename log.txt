@@ -15112,3 +15112,8 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [PlatôBR] Os caminhos possíveis do Supremo para a guerra entre Mendonça e Moraes
        . [Revista Oeste] Entidade da Abin critica relatório citado por Moraes contra Mendonça
 
+==============================================================================
+RODADA 06/09 04:32 UTC  |  janela 90 min  |  18 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+(nenhum assunto com 2+ manchetes de 2+ veiculos)
