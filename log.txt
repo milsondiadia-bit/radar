@@ -15833,3 +15833,21 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
        . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
 
+==============================================================================
+RODADA 06/09 13:22 UTC  |  janela 90 min  |  60 manchetes  |  0 sem data  |  8 feeds com erro
+==============================================================================
+feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      10      2  Pesquisas eleitorais mostram a distância e
+       ineditas: flavio, lula
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba quais são as propostas de Lula e Flávio para as contas públicas
+       . [Veja] Pesquisas eleitorais mostram a distância entre Lula e Flávio após números da semana
+
+   2      1      27      3  Enviados de Trump se reúnem com Zelensky a
+       ineditas: enviados, trump, zelensky
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
+       . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
+
