@@ -15437,3 +15437,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [folha.uol.com.br] Painel: Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
        . [Folha Poder] Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
 
+==============================================================================
+RODADA 06/09 10:12 UTC  |  janela 90 min  |  54 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       0      7  Painel: Planalto mobiliza militância para 
+       ineditas: lotar, militancia, mobiliza, planalto, politica, proibe, propaganda
+       veiculos: Folha Poder, Folha de S.Paulo
+       . [Folha de S.Paulo] Painel: Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
+       . [Folha Poder] Planalto mobiliza militância para lotar 7 de Setembro, mas proíbe propaganda política
+
