@@ -15312,3 +15312,21 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Palpite Arsenal x Chelsea - Premier League - 06/09/26
        . [Veja] Arsenal x Chelsea na Premier League: onde assistir, horário e escalações
 
+==============================================================================
+RODADA 06/09 09:22 UTC  |  janela 90 min  |  40 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      33      1  Pacote de Lula para estimular economia em 
+       ineditas: eleicao
+       veiculos: Estadão, Poder360
+       . [Poder360] Lula leva 5 vitórias no Congresso antes da eleição, mas 6 X 1 é adiada
+       . [Estadão] Pacote de Lula para estimular economia em ano de eleição tem impacto abaixo do esperado
+
+   2      1      55      4  Palpite Arsenal x Chelsea - Premier League
+       ineditas: arsenal, chelsea, league, premier
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Arsenal x Chelsea - Premier League - 06/09/26
+       . [Veja] Arsenal x Chelsea na Premier League: onde assistir, horário e escalações
+
