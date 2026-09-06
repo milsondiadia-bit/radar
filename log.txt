@@ -15663,3 +15663,14 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [VEJA] Modelo de gasto público e consumo turbinados do governo Lula já provoca ressaca econômica
        . [Revista Fórum] Governo Lula projeta recorde de 23,7% do PIB na receita em 2026
 
+==============================================================================
+RODADA 06/09 11:52 UTC  |  janela 90 min  |  65 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       3      0  Governo Lula projeta recorde de 23,7% do P
+       veiculos: Revista Fórum, VEJA
+       . [VEJA] Modelo de gasto público e consumo turbinados do governo Lula já provoca ressaca econômica
+       . [Revista Fórum] Governo Lula projeta recorde de 23,7% do PIB na receita em 2026
+
