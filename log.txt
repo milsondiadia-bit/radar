@@ -14788,3 +14788,26 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
        . [Revista Oeste] Zanin pede que Dallagnol seja responsabilizado por vazamento de seus dados sigilosos
 
+==============================================================================
+RODADA 06/09 00:42 UTC  |  janela 90 min  |  59 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      2      47      0  Relatório usado por Moraes contra Mendonça
+       veiculos: CNN Brasil, Claudio Dantas, Gazeta do Povo Rep, Metropoles
+       . [CNN Brasil] Agentes da Abin criticam relatório da PF usado por Moraes contra Mendonça
+       . [Gazeta do Povo Rep] Gonet acusa Mendonça do que sempre tolerou em Moraes
+       . [Metropoles] Relatório usado por Moraes contra Mendonça não segue padrão de inteligência
+
+   2      0      38      0  Sem polícia nos gabinetes: o pedido de Gil
+       veiculos: BBC Brasil, cartacapital.com.br
+       . [cartacapital.com.br] Gilmar Mendes propõe barrar policiais e militares em gabinetes de ministros do STF
+       . [BBC Brasil] Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+
+   2      2      83      1  Moraes não deve ir ao desfile de 7 de Sete
+       ineditas: lula
+       veiculos: Revista Oeste, Veja
+       . [Revista Oeste] Moraes não deve ir ao desfile de 7 de Setembro com Lula
+       . [Veja] Crise de Moraes testa limites da aliança entre Lula e o STF
+
