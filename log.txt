@@ -16374,3 +16374,28 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Aprovação de Trump registra novo recorde negativo
        . [Metropoles] Aprovação de Donald Trump atinge menor nível já registrado em pesquisa
 
+==============================================================================
+RODADA 06/09 16:12 UTC  |  janela 90 min  |  84 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      75      0  Veritá: Flávio tem 38,9% no 1º turno; Lula
+       veiculos: Metropoles, Veja, cnnbrasil.com.br
+       . [cnnbrasil.com.br] Veritá: Flávio tem 38,9% no 1º turno; Lula, 38,4% e Cury, 12,2%
+       . [Metropoles] Caiado diz que Lula e Flávio "têm muito a explicar" sobre investigações
+       . [Veja] Na véspera do 7 de setembro, Lula se contrapõe a Flávio e faz aceno sobre soberania
+
+   3      2      62      2  A semana de momentos tensos nos bastidores
+       ineditas: mensagens, vorcaro
+       veiculos: O Antagonista, Poder360, Veja
+       . [Poder360] Zema mira Moraes, Gonet e Vorcaro em novo vídeo; assista
+       . [O Antagonista] OAB-MG cobra “investigação rigorosa” após mensagens entre Vorcaro e Moraes
+       . [Veja] A semana de momentos tensos nos bastidores do STF, após as mensagens de Vorcaro e Moraes
+
+   2      0      55      1  Aprovação de Trump registra novo recorde n
+       ineditas: aprovacao
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Aprovação de Trump registra novo recorde negativo
+       . [Metropoles] Aprovação de Donald Trump atinge menor nível já registrado em pesquisa
+
