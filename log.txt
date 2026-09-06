@@ -14683,3 +14683,32 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Relatório usado por Moraes contra Mendonça não segue padrão de inteligência
        . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
 
+==============================================================================
+RODADA 06/09 00:02 UTC  |  janela 90 min  |  59 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      1      29      2  Relatório usado por Moraes contra Mendonça
+       ineditas: mendonca, usado
+       veiculos: CNN Brasil, Claudio Dantas, Metropoles
+       . [CNN Brasil] Agentes da Abin criticam relatório da PF usado por Moraes contra Mendonça
+       . [Metropoles] Relatório usado por Moraes contra Mendonça não segue padrão de inteligência
+       . [Claudio Dantas] Exclusivo: Documento apócrifo usado por Moraes contra Mendonça aponta para ‘fábrica de dossiês’ na PF
+
+   3      2      30      0  Zanin aciona STF após exposição de dados e
+       veiculos: Folha Poder, Gazeta do Povo Rep, O Antagonista
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [Folha Poder] Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização
+       . [O Antagonista] Zanin aciona STF após exposição de dados em candidatura de Deltan
+
+   2      0      38      0  Gilmar Mendes quer ‘blindar’ o Supremo de 
+       veiculos: BBC Brasil, VEJA
+       . [VEJA] Gilmar Mendes quer ‘blindar’ o Supremo de delegados e militares
+       . [BBC Brasil] Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+
+   2      0      38      0  fluminense vs vasco
+       veiculos: Google Trends BR, Metropoles
+       . [Google Trends BR] fluminense vs vasco
+       . [Metropoles] Fluminense x Vasco: onde assistir ao clássico pelo Brasileirão
+
