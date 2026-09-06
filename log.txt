@@ -15139,3 +15139,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Carta Capital] Com gol de Lucho Acosta, Fluminense vence o Vasco e amplia sequência invicta com Marcão
        . [Metropoles] Marcão valoriza banco de reservas após Lucho Acosta decidir contra o Vasco
 
+==============================================================================
+RODADA 06/09 05:12 UTC  |  janela 90 min  |  33 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      56      3  Horóscopo do dia: previsão para os 12 sign
+       ineditas: 2026, horoscopo, previsao
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Horóscopo 2026: confira a previsão de hoje (6/9) para seu signo
+       . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 06/09/2026
+
