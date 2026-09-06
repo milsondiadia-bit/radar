@@ -14980,3 +14980,14 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [gazetadopovo.com.br] Gilmar Mendes quer proibir policiais e militares em gabinetes do STF
        . [Gazeta do Povo Rep] Gilmar propõe barrar policiais e militares em gabinetes de ministros do STF
 
+==============================================================================
+RODADA 06/09 02:32 UTC  |  janela 90 min  |  49 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1       1      0  Gilmar Mendes quer proibir policiais e mil
+       veiculos: Gazeta do Povo Rep, gazetadopovo.com.br
+       . [gazetadopovo.com.br] Gilmar Mendes quer proibir policiais e militares em gabinetes do STF
+       . [Gazeta do Povo Rep] Gilmar propõe barrar policiais e militares em gabinetes de ministros do STF
+
