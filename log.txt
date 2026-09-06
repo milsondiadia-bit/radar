@@ -17333,3 +17333,39 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Rock in Rio promete investigar caso de racismo relatado por Tia Milena
        . [Veja] A falta de respeito de ex-BBB Tia Milena com Sepultura no Rock in Rio
 
+==============================================================================
+RODADA 06/09 21:12 UTC  |  janela 90 min  |  84 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      1      58      5  TRE manda ICL retirar publicações sobre "l
+       ineditas: justica, lindao, manda, reportagem, retirar
+       veiculos: Congresso em Foco, Metropoles, O Antagonista, Poder360
+       . [Poder360] Justiça manda “ICL” retirar conteúdo sobre “lindão” de Nikolas para Vorcaro
+       . [Congresso em Foco] TRE manda ICL retirar publicações sobre "lindão" de Nikolas a Vorcaro
+       . [Metropoles] Justiça manda tirar do ar reportagem sobre "lindão" de Nikolas para Vorcaro
+
+   3      1      75      0  Campanha de Augusto Cury admite omissão de
+       veiculos: JC, Revista Oeste, infomoney.com.br
+       . [infomoney.com.br] Nas redes, Augusto Cury critica polarização: “Brasil está cansado”
+       . [JC] Augusto Cury omitiu empresas nos Estados Unidos e no Brasil em declaração ao TSE
+       . [Revista Oeste] Campanha de Augusto Cury admite omissão de bens nos EUA
+
+   2      0      73      5  Após faixa 'Fora Moraes' em ato de Ruas, P
+       ineditas: eleitoral, faixa, fora, paes, panfleto
+       veiculos: Metropoles, O GLOBO
+       . [O GLOBO] Após faixa 'Fora Moraes' em ato de Ruas, Paes diz ser contra transformar crise institucional em 'panfleto elei
+       . [Metropoles] Paes critica faixa “Fora Moraes” e diz que crise virou “panfleto eleitoral”
+
+   2      1      15      0  Avião cargueiro da Amazon cai perto do Aer
+       veiculos: Poder360, Veja
+       . [Poder360] Avião de carga da Amazon ultrapassa pista de aeroporto em Miami
+       . [Veja] Avião cargueiro da Amazon cai perto do Aeroporto de Miami
+
+   2      1      45      2  Rock in Rio promete investigar caso de rac
+       ineditas: milena, rock
+       veiculos: Metropoles, Veja
+       . [Metropoles] Rock in Rio promete investigar caso de racismo relatado por Tia Milena
+       . [Veja] A falta de respeito de ex-BBB Tia Milena com Sepultura no Rock in Rio
+
