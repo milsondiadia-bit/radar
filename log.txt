@@ -15702,3 +15702,27 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [VEJA] Modelo de gasto público e consumo turbinados do governo Lula já provoca ressaca econômica
        . [Revista Fórum] Governo Lula projeta recorde de 23,7% do PIB na receita em 2026
 
+==============================================================================
+RODADA 06/09 12:22 UTC  |  janela 90 min  |  74 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      0      56      7  Saiba como denunciar irregularidades nas E
+       ineditas: campina, grande, joao, locais, mudancas, pessoa, votacao
+       veiculos: A Redação, G1, Jornal da Paraíba, Seu Dinheiro
+       . [G1] Eleições 2026: locais de votação são alterados em João Pessoa e Campina Grande; veja mudanças
+       . [Jornal da Paraíba] Eleições 2026: veja mudanças nos locais de votação em João Pessoa e Campina Grande
+       . [A Redação] Saiba como denunciar irregularidades nas Eleições 2026
+
+   2      0       3      0  Governo Lula projeta recorde de 23,7% do P
+       veiculos: Revista Fórum, VEJA
+       . [VEJA] Modelo de gasto público e consumo turbinados do governo Lula já provoca ressaca econômica
+       . [Revista Fórum] Governo Lula projeta recorde de 23,7% do PIB na receita em 2026
+
+   2      1       0      7  Marcelo Tostes: 'Maior crise da história d
+       ineditas: correios, crise, escancara, falhas, gestao, historia, maior
+       veiculos: Revista Oeste, revistaoeste.com
+       . [revistaoeste.com] Marcelo Tostes: 'Maior crise da história dos Correios escancara falhas de gestão do governo Lula'
+       . [Revista Oeste] Maior crise da história dos Correios escancara falhas de gestão do governo Lula
+
