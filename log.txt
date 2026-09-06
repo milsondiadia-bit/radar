@@ -14969,3 +14969,14 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] lula e flavio bolsonaro pesquisa
        . [Metropoles] Resultado das eleições preocupa mais eleitores de Flávio do que de Lula
 
+==============================================================================
+RODADA 06/09 02:22 UTC  |  janela 90 min  |  49 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1       1      0  Gilmar Mendes quer proibir policiais e mil
+       veiculos: Gazeta do Povo Rep, gazetadopovo.com.br
+       . [gazetadopovo.com.br] Gilmar Mendes quer proibir policiais e militares em gabinetes do STF
+       . [Gazeta do Povo Rep] Gilmar propõe barrar policiais e militares em gabinetes de ministros do STF
+
