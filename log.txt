@@ -15127,3 +15127,15 @@ RODADA 06/09 04:52 UTC  |  janela 90 min  |  15 manchetes  |  0 sem data  |  1 f
 ==============================================================================
 feeds que falharam: UOL Politica: HTTPError
 (nenhum assunto com 2+ manchetes de 2+ veiculos)
+==============================================================================
+RODADA 06/09 05:02 UTC  |  janela 90 min  |  13 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      43      4  Marcão valoriza banco de reservas após Luc
+       ineditas: acosta, lucho, marcao, vasco
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Com gol de Lucho Acosta, Fluminense vence o Vasco e amplia sequência invicta com Marcão
+       . [Metropoles] Marcão valoriza banco de reservas após Lucho Acosta decidir contra o Vasco
+
