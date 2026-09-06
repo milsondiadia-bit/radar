@@ -14741,3 +14741,27 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Google Trends BR] fluminense vs vasco
        . [Metropoles] Fluminense x Vasco: onde assistir ao clássico pelo Brasileirão
 
+==============================================================================
+RODADA 06/09 00:22 UTC  |  janela 90 min  |  62 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   4      2      47      2  Relatório usado por Moraes contra Mendonça
+       ineditas: mendonca, usado
+       veiculos: CNN Brasil, Claudio Dantas, Gazeta do Povo Rep, Metropoles
+       . [CNN Brasil] Agentes da Abin criticam relatório da PF usado por Moraes contra Mendonça
+       . [Gazeta do Povo Rep] Gonet acusa Mendonça do que sempre tolerou em Moraes
+       . [Metropoles] Relatório usado por Moraes contra Mendonça não segue padrão de inteligência
+
+   3      0      38      0  Sem polícia nos gabinetes: o pedido de Gil
+       veiculos: BBC, BBC Brasil, CartaCapital
+       . [BBC] STF: Gilmar Mendes pede proibição de policiais alocados em gabinetes de ministros
+       . [CartaCapital] Gilmar Mendes propõe barrar policiais e militares em gabinetes de ministros do STF
+       . [BBC Brasil] Sem polícia nos gabinetes: o pedido de Gilmar Mendes que expõe tensão entre ministros do Supremo
+
+   2      1      16      0  Deltan anexa dados de sigilo fiscal de Zan
+       veiculos: Folha Poder, Gazeta do Povo Rep
+       . [Gazeta do Povo Rep] Dallagnol apresenta à Justiça documentos com dados fiscais de Zanin, que aciona TRE
+       . [Folha Poder] Deltan anexa dados de sigilo fiscal de Zanin na Justiça Eleitoral, e ministro pede responsabilização
+
