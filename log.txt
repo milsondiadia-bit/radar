@@ -15101,3 +15101,14 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [PlatôBR] Os caminhos possíveis do Supremo para a guerra entre Mendonça e Moraes
        . [Revista Oeste] Entidade da Abin critica relatório citado por Moraes contra Mendonça
 
+==============================================================================
+RODADA 06/09 04:22 UTC  |  janela 90 min  |  26 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1       5      0  Entidade da Abin critica relatório citado 
+       veiculos: PlatôBR, Revista Oeste
+       . [PlatôBR] Os caminhos possíveis do Supremo para a guerra entre Mendonça e Moraes
+       . [Revista Oeste] Entidade da Abin critica relatório citado por Moraes contra Mendonça
+
