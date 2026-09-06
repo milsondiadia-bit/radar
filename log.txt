@@ -16653,3 +16653,39 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
        . [O Antagonista] Sem citar Fachin, Dino questiona “promessa” de fim de inquérito
 
+==============================================================================
+RODADA 06/09 18:02 UTC  |  janela 90 min  |  78 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      0      36      0  Pesquisas de boca de urna apontam grande v
+       veiculos: BBC Brasil, Carta Capital, Google Trends BR
+       . [BBC Brasil] Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia
+       . [BBC Brasil] Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha
+       . [Carta Capital] Extrema-direita tem ampla vitória em eleição regional na Alemanha, apontam pesquisas de boca de urna
+
+   3      2      13      4  Flávio cobra de Cármen Lúcia apoio à inves
+       ineditas: cobra, investigacao, lucia, voto
+       veiculos: Gazeta do Povo Rep, Revista Oeste, cnnbrasil.com.br
+       . [cnnbrasil.com.br] Flávio cobra voto de Cármen Lúcia a favor de investigação contra Moraes
+       . [Gazeta do Povo Rep] Flávio cobra voto de Cármen Lúcia para abertura de investigação contra Alexandre de Moraes
+       . [Revista Oeste] Flávio cobra de Cármen Lúcia apoio à investigação contra Moraes
+
+   2      1      72      1  Janones publica "direito de resposta" de N
+       ineditas: janones
+       veiculos: Poder360, Revista Oeste
+       . [Poder360] Janones publica "direito de resposta" de Nikolas Ferreira
+       . [Revista Oeste] Janones se retrata por acusação contra Nikolas sobre ligação com Vorcaro
+
+   2      1      30      0  Policia Federal extradita brasileira procu
+       veiculos: Isso É Notícia, Revista Oeste
+       . [Revista Oeste] Como os pedidos de Vorcaro alcançaram o comando da PGR e da Polícia Federal
+       . [Isso É Notícia] Policia Federal extradita brasileira procurada pela Interpol por estelionato
+
+   2      1      18      6  Dino questiona promessa de fim de inquérit
+       ineditas: citar, dino, fachin, inquerito, promessa, questiona
+       veiculos: Folha Poder, O Antagonista
+       . [Folha Poder] Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
+       . [O Antagonista] Sem citar Fachin, Dino questiona “promessa” de fim de inquérito
+
