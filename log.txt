@@ -16027,3 +16027,38 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
        . [Veja] Enviados de Trump chegam à Ucrânia após se reunirem com Putin
 
+==============================================================================
+RODADA 06/09 14:22 UTC  |  janela 90 min  |  76 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      33      0  Incêndio destrói pavilhão do Ceagesp na ma
+       veiculos: Poder360, Veja
+       . [Poder360] Incêndio atinge galpão na Ceagesp, em São Paulo
+       . [Veja] Incêndio destrói pavilhão do Ceagesp na madrugada deste domingo
+
+   2      1      21      2  Deputada aciona polícia após ameaça de est
+       ineditas: deputada, esquartejamento
+       veiculos: Carta Capital, O Antagonista
+       . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
+       . [O Antagonista] Deputada aciona polícia após ameaça de estupro e esquartejamento
+
+   2      0      64      3  Acidente com ônibus de excursão estudantil
+       ineditas: acidente, deixa, onibus
+       veiculos: Carta Capital, Metropoles
+       . [Carta Capital] Acidente com ônibus de excursão estudantil deixa 25 mortos em Cabo Verde
+       . [Metropoles] Acidente com carreta, ônibus e carro em Santa Maria deixa 8 feridos
+
+   2      1      14      2  Internacional x Santos no Brasileirão: ond
+       ineditas: internacional, santos
+       veiculos: Metropoles, Veja
+       . [Metropoles] Palpite Internacional x Santos - Brasileirão - 06/09/26
+       . [Veja] Internacional x Santos no Brasileirão: onde assistir, horário e escalações
+
+   2      1      45      2  Enviados de Trump chegam à Ucrânia para ne
+       ineditas: chegam, ucrania
+       veiculos: Metropoles, Veja
+       . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
+       . [Veja] Enviados de Trump chegam à Ucrânia após se reunirem com Putin
+
