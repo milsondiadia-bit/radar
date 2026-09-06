@@ -17128,3 +17128,34 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Avião cargueiro da Amazon cai durante pouso e Aeroporto de Miami é fechado
        . [O Antagonista] Avião de carga da Amazon sai da pista e fica em chamas em Miami
 
+==============================================================================
+RODADA 06/09 20:12 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   7      1      49      0  Mendonça libera relatório da PF com mensag
+       veiculos: CartaCapital, Folha Poder, G1, Metropoles, O Antagonista, O GLOBO, VEJA
+       . [G1] Mendonça libera para plenário do STF caso de mensagens entre Moraes e Vorcaro; decisão cabe a Fachin
+       . [CartaCapital] Mendonça libera para julgamento relatório da PF sobre Moraes
+       . [O GLOBO] Mendonça libera relatório da PF com mensagens de Vorcaro a Moraes para Fachin pautar no plenário do STF
+
+   3      2      74      0  A indireta de Flávio Dino ao presidente do
+       veiculos: O GLOBO, Revista Oeste, Veja
+       . [O GLOBO] Sem citar Fachin, Dino questiona plano de encerrar inquéritos “muito antigos”, como o das fake news
+       . [Revista Oeste] Dino questiona Fachin sobre fim do inquérito das fake news
+       . [Veja] A indireta de Flávio Dino ao presidente do STF, Edson Fachin, sobre o ‘inquérito das fake news’
+
+   3      2      26      5  Avião de carga da Amazon sai da pista e fi
+       ineditas: aeroporto, amazon, aviao, cargueiro, miami
+       veiculos: Metropoles, O Antagonista, Veja
+       . [Metropoles] Avião cargueiro da Amazon cai durante pouso e Aeroporto de Miami é fechado
+       . [O Antagonista] Avião de carga da Amazon sai da pista e fica em chamas em Miami
+       . [Veja] Avião cargueiro da Amazon cai perto do Aeroporto de Miami
+
+   2      0      58      3  Trump publica mapa do Irã no formato de se
+       ineditas: formato, mapa, rosto
+       veiculos: Metropoles, Poder360
+       . [Poder360] Trump publica mapa do Irã no formato de seu rosto
+       . [Metropoles] Trump divulga ilustração de mapa do Irã com o formato do próprio rosto
+
