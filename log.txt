@@ -15514,3 +15514,27 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
        . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
 
+==============================================================================
+RODADA 06/09 10:52 UTC  |  janela 90 min  |  49 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      85      2  Como direita radical da Alemanha planeja c
+       ineditas: alemanha, direita
+       veiculos: BBC Brasil, Metropoles
+       . [BBC Brasil] Como direita radical da Alemanha planeja chegar ao poder com eleição deste domingo e mudar história do país
+       . [Metropoles] Alemanha tem eleição decisiva para extrema direita neste domingo (6/9)
+
+   2      2      37      2  Justiça rejeita ações de Janones e Erika H
+       ineditas: erika, hilton
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Assessor de Erika Hilton tentou fabricar testemunho contra feminista, diz denúncia
+       . [O Antagonista] Justiça rejeita ações de Janones e Erika Hilton contra Nikolas
+
+   2      2       9      2  Marco Aurélio Mello se arrepende de ter ap
+       ineditas: apoiado, aurelio
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
+       . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
+
