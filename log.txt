@@ -16944,3 +16944,35 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Pleno.News] Marinho diz por que não assinou impeachment contra Moraes
        . [Gazeta do Povo Rep] Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
 
+==============================================================================
+RODADA 06/09 19:02 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   8      1      57      4  Embate no STF entre Mendonça e Moraes é o 
+       ineditas: julgamento, libera, plenario, relatorio
+       veiculos: CNN Brasil, Folha Poder, G1 Politica, Metropoles, O GLOBO, Poder360, Valor Econômico, Veja
+       . [CNN Brasil] Mendonça libera para plenário julgamento de caso Moraes
+       . [Valor Econômico] Mendonça libera para análise do plenário do STF relatório sobre mensagens de Vorcaro a Moraes
+       . [O GLOBO] Mendonça libera relatório da PF com mensagens de Vorcaro a Moraes para Fachin pautar no plenário do STF
+
+   3      0      41      0  Dino defende decisões monocráticas do STF 
+       veiculos: Gazeta do Povo, Metropoles, Poder360
+       . [Gazeta do Povo] Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
+       . [Poder360] Dino defende decisões monocráticas e questiona fim de inquéritos no STF
+       . [Metropoles] Após fala de Fachin, Dino questiona quem "promete" fim de inquéritos
+
+   3      2      65      2  Sem citar Fachin, Dino questiona “promessa
+       ineditas: fake, news
+       veiculos: CartaCapital, O Antagonista, Veja
+       . [CartaCapital] Sem citar Fachin, Dino questiona promessa de fim do Inquérito das Fake News
+       . [O Antagonista] Sem citar Fachin, Dino questiona “promessa” de fim de inquérito
+       . [Veja] A indireta de Flávio Dino ao presidente do STF, Edson Fachin, sobre o ‘inquérito das fake news’
+
+   2      1      37      1  Eleições de 2026 – o Brasil à beira do pre
+       ineditas: 2026
+       veiculos: Jornal do Brasil, Revista Oeste
+       . [Jornal do Brasil] Eleições de 2026 – o Brasil à beira do precipício outra vez
+       . [Revista Oeste] Eleições de 2026 custam mais de R$ 20 bilhões aos cofres públicos
+
