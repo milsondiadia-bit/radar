@@ -15538,3 +15538,33 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
        . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
 
+==============================================================================
+RODADA 06/09 11:02 UTC  |  janela 90 min  |  67 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1       2      1  Governo Lula projeta recorde de 23,7% do P
+       ineditas: governo
+       veiculos: Revista Fórum, Revista Oeste
+       . [Revista Fórum] Governo Lula projeta recorde de 23,7% do PIB na receita em 2026
+       . [Revista Oeste] Maior crise da história dos Correios escancara falhas de gestão do governo Lula
+
+   2      1      14      3  Valencia x Barcelona na La Liga: onde assi
+       ineditas: assistir, escalacoes, horario
+       veiculos: Carta Capital, Veja
+       . [Carta Capital] Remo x Flamengo: onde assistir, horário e prováveis escalações
+       . [Veja] Valencia x Barcelona na La Liga: onde assistir, horário e escalações
+
+   2      2      37      2  Justiça rejeita ações de Janones e Erika H
+       ineditas: erika, hilton
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Assessor de Erika Hilton tentou fabricar testemunho contra feminista, diz denúncia
+       . [O Antagonista] Justiça rejeita ações de Janones e Erika Hilton contra Nikolas
+
+   2      2       9      2  Marco Aurélio Mello se arrepende de ter ap
+       ineditas: apoiado, aurelio
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
+       . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
+
