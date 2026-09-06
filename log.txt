@@ -16804,3 +16804,55 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Folha Poder] Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
        . [O Antagonista] Sem citar Fachin, Dino questiona “promessa” de fim de inquérito
 
+==============================================================================
+RODADA 06/09 18:32 UTC  |  janela 90 min  |  75 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   3      2      13      1  Flávio cobra de Cármen Lúcia apoio à inves
+       ineditas: voto
+       veiculos: CNN Brasil, Gazeta do Povo Rep, Revista Oeste
+       . [CNN Brasil] Flávio cobra voto de Cármen Lúcia a favor de investigação contra Moraes
+       . [Gazeta do Povo Rep] Flávio cobra voto de Cármen Lúcia para abertura de investigação contra Alexandre de Moraes
+       . [Revista Oeste] Flávio cobra de Cármen Lúcia apoio à investigação contra Moraes
+
+   3      0      41      6  Dino defende decisões monocráticas do STF 
+       ineditas: decisoes, defende, dino, inqueritos, monocraticas, questiona
+       veiculos: Gazeta do Povo, Metropoles, Poder360
+       . [Gazeta do Povo] Dino defende decisões monocráticas do STF e questiona pressão por fim de inquéritos
+       . [Poder360] Dino defende decisões monocráticas e questiona fim de inquéritos no STF
+       . [Metropoles] Após fala de Fachin, Dino questiona quem "promete" fim de inquéritos
+
+   3      1      60      8  Dino questiona promessa de fim de inquérit
+       ineditas: citar, dino, fachin, fake, inquerito, news, promessa, questiona
+       veiculos: Carta Capital, Folha Poder, O Antagonista
+       . [Carta Capital] Sem citar Fachin, Dino questiona promessa de fim do Inquérito das Fake News
+       . [Folha Poder] Dino questiona promessa de fim de inquérito das fake news, sem citar Fachin
+       . [O Antagonista] Sem citar Fachin, Dino questiona “promessa” de fim de inquérito
+
+   2      0      62      2  Zema satiriza relação Moraes-Vorcaro em no
+       ineditas: video, zema
+       veiculos: InfoMoney, Poder360
+       . [InfoMoney] Zema satiriza relação Moraes-Vorcaro em novo vídeo e intensifica críticas ao STF
+       . [Poder360] Zema fará ato na av.Paulista contra Moraes no 7 de Setembro
+       . [Poder360] Ex de Vorcaro posta vídeo dançando: “Não dou a mínima”
+
+   2      1      37      1  Eleições de 2026 – o Brasil à beira do pre
+       ineditas: 2026
+       veiculos: Jornal do Brasil, Revista Oeste
+       . [Jornal do Brasil] Eleições de 2026 – o Brasil à beira do precipício outra vez
+       . [Revista Oeste] Eleições de 2026 custam mais de R$ 20 bilhões aos cofres públicos
+
+   2      1      36      1  Marinho diz por que não assinou impeachmen
+       ineditas: impeachment
+       veiculos: Gazeta do Povo Rep, Pleno.News
+       . [Pleno.News] Marinho diz por que não assinou impeachment contra Moraes
+       . [Gazeta do Povo Rep] Líder da oposição não assina pedido de impeachment de Moraes e alega riscos de nulidade
+
+   2      0       0      9  Crise STF: 'problemas reais e graves estão
+       ineditas: dino, eleitorais, estao, graves, misturados, postagem, problemas, reais, sendo
+       veiculos: G1, G1 Politica
+       . [G1] Crise STF: 'problemas reais e graves estão sendo misturados com intereses eleitorais', diz Flávio Dino em post
+       . [G1 Politica] Crise STF: 'problemas reais e graves estão sendo misturados com interesses eleitorais', diz Flávio Dino em pos
+
