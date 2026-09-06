@@ -16255,3 +16255,39 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
        . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
 
+==============================================================================
+RODADA 06/09 15:22 UTC  |  janela 90 min  |  81 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       6      2  Incêndio atinge galpão na Ceagesp, na zona
+       ineditas: atinge, paulo
+       veiculos: CNN Brasil, Poder360
+       . [CNN Brasil] Incêndio atinge galpão na Ceagesp, na zona oeste de São Paulo
+       . [Poder360] Incêndio atinge galpão na Ceagesp, em São Paulo
+
+   2      0       2      2  Saiba quem são os candidatos ao Senado apo
+       ineditas: candidatos, senado
+       veiculos: Poder360, poder360.com.br
+       . [poder360.com.br] Lula apoia 50 candidatos ao Senado; 18 são competitivos
+       . [Poder360] Saiba quem são os candidatos ao Senado apoiados por Lula em 2026
+
+   2      0      37      3  Confira resultado da Mega-Sena 3054, sorte
+       ineditas: confira, mega, sena
+       veiculos: Metropoles, Poder360
+       . [Poder360] Mega-Sena acumula e vai a R$ 70 milhões; confira os números sorteados
+       . [Metropoles] Confira resultado da Mega-Sena 3054, sorteada neste domingo (6/9)
+
+   2      0      13      3  Deputada Natália Bonavides denuncia ameaça
+       ineditas: ameacas, bonavides, natalia
+       veiculos: Carta Capital, Congresso em Foco
+       . [Congresso em Foco] Natália Bonavides e Brisa Bracchi denunciam ameaças de estupro e morte
+       . [Carta Capital] Deputada Natália Bonavides denuncia ameaças de violência sexual e esquartejamento
+
+   2      1      12      3  Deputados do PT pedem inelegibilidade de N
+       ineditas: inelegibilidade, nikolas, pedem
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Petistas pedem inelegibilidade de Nikolas por documento falso da PF
+       . [O Antagonista] Deputados do PT pedem inelegibilidade de Nikolas
+
