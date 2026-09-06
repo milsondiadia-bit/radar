@@ -15886,3 +15886,43 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
        . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
 
+==============================================================================
+RODADA 06/09 13:42 UTC  |  janela 90 min  |  66 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0       2      7  Por que disputa pelas Malvinas voltou ao c
+       ineditas: argentina, centro, disputa, malvinas, pelas, petroleo, voltou
+       veiculos: BBC, BBC Brasil
+       . [BBC] Petróleo nas Malvinas: por que disputa pelas ilhas voltou ao centro da política na Argentina?
+       . [BBC Brasil] Por que disputa pelas Malvinas voltou ao centro da política na Argentina? A resposta tem a ver com petróleo
+
+   2      0       0      0  O Supremo Tribunal Federal, esse outro des
+       veiculos: Conjur, Consultor Jurídico
+       . [Consultor Jurídico] O Supremo Tribunal Federal, esse outro desconhecido , de Aliomar Baleeiro
+       . [Conjur] O Supremo Tribunal Federal, esse outro desconhecido, de Aliomar Baleeiro
+
+   2      0      31      1  Michelle Bolsonaro chama Mendonça de 'ungi
+       ineditas: meio
+       veiculos: Folha Poder, InfoMoney
+       . [InfoMoney] Em meio a crise, STF reforça esquema de segurança para o Sete de Setembro
+       . [Folha Poder] Michelle Bolsonaro chama Mendonça de 'ungido do Senhor' em meio a crise no STF
+
+   2      0       7      0  Eleições 2026: veja a agenda dos candidato
+       veiculos: G1, tmc.com.br
+       . [G1] Eleições 2026: veja a agenda dos candidatos ao Governo do Maranhão neste domingo (6)
+       . [tmc.com.br] Semana no Congresso tem vitórias parciais para Governo Lula, mas PEC da Segurança e fim da escala 6x1 ficam pa
+
+   2      1      10      2  Pesquisas eleitorais mostram a distância e
+       ineditas: flavio, lula
+       veiculos: Poder360, Veja
+       . [Poder360] Saiba quais são as propostas de Lula e Flávio para as contas públicas
+       . [Veja] Pesquisas eleitorais mostram a distância entre Lula e Flávio após números da semana
+
+   2      1      27      3  Enviados de Trump se reúnem com Zelensky a
+       ineditas: enviados, trump, zelensky
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Enviados de Trump chegam à Ucrânia para negociações com Zelensky
+       . [O Antagonista] Enviados de Trump se reúnem com Zelensky após encontro com Putin
+
