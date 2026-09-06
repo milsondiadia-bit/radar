@@ -15633,3 +15633,21 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
        . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
 
+==============================================================================
+RODADA 06/09 11:32 UTC  |  janela 90 min  |  62 manchetes  |  0 sem data  |  8 feeds com erro
+==============================================================================
+feeds que falharam: GNews Brasil: HTTPError; GNews politica: HTTPError; GNews STF: HTTPError; GNews justica: HTTPError; GNews Congresso: HTTPError; GNews eleicoes: HTTPError; GNews governo: HTTPError; UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      55      3  Incêndio de grandes proporções atinge galp
+       ineditas: ceagesp, galpao, incendio
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Incêndio de grandes proporções atinge galpão na Ceagesp
+       . [O Antagonista] Incêndio destrói galpão da Ceagesp
+
+   2      2       9      1  Marco Aurélio Mello se arrepende de ter ap
+       ineditas: moraes
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Marco Aurélio Mello se arrepende de ter apoiado indicação de Moraes ao STF
+       . [O Antagonista] Marco Aurélio diz se arrepender de ter apoiado Moraes para o STF
+
