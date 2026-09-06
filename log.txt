@@ -15163,3 +15163,15 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Horóscopo 2026: confira a previsão de hoje (6/9) para seu signo
        . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 06/09/2026
 
+==============================================================================
+RODADA 06/09 05:32 UTC  |  janela 90 min  |  30 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      1      56      3  Horóscopo do dia: previsão para os 12 sign
+       ineditas: 2026, horoscopo, previsao
+       veiculos: Metropoles, O Antagonista
+       . [Metropoles] Horóscopo 2026: confira a previsão de hoje (6/9) para seu signo
+       . [O Antagonista] Horóscopo do dia: previsão para os 12 signos em 06/09/2026
+
