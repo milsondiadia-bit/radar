@@ -16552,3 +16552,27 @@ veic  campo  espalh  novas  assunto  /  palavras ineditas
        . [Metropoles] Caiado diz que Lula e Flávio "têm muito a explicar" sobre investigações
        . [Veja] Na véspera do 7 de setembro, Lula se contrapõe a Flávio e faz aceno sobre soberania
 
+==============================================================================
+RODADA 06/09 17:22 UTC  |  janela 90 min  |  83 manchetes  |  0 sem data  |  1 feeds com erro
+==============================================================================
+feeds que falharam: UOL Politica: HTTPError
+veic  campo  espalh  novas  assunto  /  palavras ineditas
+------------------------------------------------------------------------------
+   2      0      15      6  Pesquisas de boca de urna apontam grande v
+       ineditas: apontam, boca, pesquisas, radical, urna, vitoria
+       veiculos: BBC Brasil, Carta Capital
+       . [BBC Brasil] Eleição na Alemanha: como direita radical planeja mudar o país após provável vitória na Saxônia
+       . [BBC Brasil] Pesquisas de boca de urna apontam grande vitória da direita radical em Estado da Alemanha
+       . [Carta Capital] Extrema-direita tem ampla vitória em eleição regional na Alemanha, apontam pesquisas de boca de urna
+
+   2      1      11      0  Na véspera do 7 de setembro, Lula se contr
+       veiculos: Metropoles, Veja
+       . [Metropoles] Caiado diz que Lula e Flávio "têm muito a explicar" sobre investigações
+       . [Veja] Na véspera do 7 de setembro, Lula se contrapõe a Flávio e faz aceno sobre soberania
+
+   2      2      75      2  OAB-MG cobra “investigação rigorosa” após 
+       ineditas: cobra, investigacao
+       veiculos: O Antagonista, Revista Oeste
+       . [Revista Oeste] Flávio cobra de Cármen Lúcia apoio à investigação contra Moraes
+       . [O Antagonista] OAB-MG cobra “investigação rigorosa” após mensagens entre Vorcaro e Moraes
+
